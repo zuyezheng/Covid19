@@ -62,7 +62,7 @@ def train(xs, ys, steps, hidden_size, epochs, name):
                 monitor='loss',
                 mode='min',
                 save_best_only=True,
-                filepath=os.path.join(f'models/m-{name}.hdf5'),
+                filepath=os.path.join(f'models/{name}.hdf5'),
                 verbose=1
             )
         ]
