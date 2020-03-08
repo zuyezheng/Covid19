@@ -1,0 +1,3156 @@
+Date,Country,State,City,Status,Value
+01-22-2020,China,Anhui,_,Confirmed,1.0
+01-22-2020,China,Beijing,_,Confirmed,14.0
+01-22-2020,China,Chongqing,_,Confirmed,6.0
+01-22-2020,China,Fujian,_,Confirmed,1.0
+01-22-2020,China,Guangdong,_,Confirmed,26.0
+01-22-2020,China,Guangxi,_,Confirmed,2.0
+01-22-2020,China,Guizhou,_,Confirmed,1.0
+01-22-2020,China,Hainan,_,Confirmed,4.0
+01-22-2020,China,Hebei,_,Confirmed,1.0
+01-22-2020,China,Henan,_,Confirmed,5.0
+01-22-2020,China,Hubei,_,Confirmed,444.0
+01-22-2020,China,Hubei,_,Deaths,17.0
+01-22-2020,China,Hubei,_,Recovered,28.0
+01-22-2020,China,Hunan,_,Confirmed,4.0
+01-22-2020,China,Jiangsu,_,Confirmed,1.0
+01-22-2020,China,Jiangxi,_,Confirmed,2.0
+01-22-2020,China,Liaoning,_,Confirmed,2.0
+01-22-2020,Macau,Macau,_,Confirmed,1.0
+01-22-2020,China,Ningxia,_,Confirmed,1.0
+01-22-2020,China,Shandong,_,Confirmed,2.0
+01-22-2020,China,Shanghai,_,Confirmed,9.0
+01-22-2020,China,Shanxi,_,Confirmed,1.0
+01-22-2020,China,Sichuan,_,Confirmed,5.0
+01-22-2020,Taiwan,Taiwan,_,Confirmed,1.0
+01-22-2020,China,Tianjin,_,Confirmed,4.0
+01-22-2020,United States of America,Washington,_,Confirmed,1.0
+01-22-2020,China,Yunnan,_,Confirmed,1.0
+01-22-2020,China,Zhejiang,_,Confirmed,10.0
+01-22-2020,Japan,_,_,Confirmed,2.0
+01-22-2020,Thailand,_,_,Confirmed,2.0
+01-22-2020,South Korea,_,_,Confirmed,1.0
+01-23-2020,China,Anhui,_,Confirmed,8.0
+01-23-2020,China,Beijing,_,Confirmed,8.0
+01-23-2020,China,Chongqing,_,Confirmed,3.0
+01-23-2020,China,Fujian,_,Confirmed,4.0
+01-23-2020,China,Gansu,_,Confirmed,2.0
+01-23-2020,China,Guangdong,_,Confirmed,6.0
+01-23-2020,China,Guangdong,_,Recovered,2.0
+01-23-2020,China,Guangxi,_,Confirmed,3.0
+01-23-2020,China,Guizhou,_,Confirmed,2.0
+01-23-2020,China,Hainan,_,Confirmed,1.0
+01-23-2020,China,Hebei,_,Deaths,1.0
+01-23-2020,China,Heilongjiang,_,Confirmed,2.0
+01-23-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+01-23-2020,China,Hunan,_,Confirmed,5.0
+01-23-2020,China,Jiangsu,_,Confirmed,4.0
+01-23-2020,China,Jiangxi,_,Confirmed,5.0
+01-23-2020,China,Jilin,_,Confirmed,1.0
+01-23-2020,China,Liaoning,_,Confirmed,1.0
+01-23-2020,Macau,Macau,_,Confirmed,1.0
+01-23-2020,China,Shaanxi,_,Confirmed,3.0
+01-23-2020,China,Shandong,_,Confirmed,4.0
+01-23-2020,China,Shanghai,_,Confirmed,7.0
+01-23-2020,China,Sichuan,_,Confirmed,3.0
+01-23-2020,China,Xinjiang,_,Confirmed,2.0
+01-23-2020,China,Yunnan,_,Confirmed,1.0
+01-23-2020,China,Zhejiang,_,Confirmed,17.0
+01-23-2020,Thailand,_,_,Confirmed,1.0
+01-23-2020,Singapore,_,_,Confirmed,1.0
+01-23-2020,Vietnam,_,_,Confirmed,2.0
+01-24-2020,China,Hubei,_,Confirmed,105.0
+01-24-2020,China,Hubei,_,Deaths,7.0
+01-24-2020,China,Hubei,_,Recovered,3.0
+01-24-2020,China,Guangdong,_,Confirmed,21.0
+01-24-2020,China,Zhejiang,_,Confirmed,16.0
+01-24-2020,China,Zhejiang,_,Recovered,1.0
+01-24-2020,China,Beijing,_,Confirmed,14.0
+01-24-2020,China,Beijing,_,Recovered,1.0
+01-24-2020,China,Chongqing,_,Confirmed,18.0
+01-24-2020,China,Hunan,_,Confirmed,15.0
+01-24-2020,China,Guangxi,_,Confirmed,18.0
+01-24-2020,China,Shanghai,_,Confirmed,4.0
+01-24-2020,China,Shanghai,_,Recovered,1.0
+01-24-2020,China,Jiangxi,_,Confirmed,11.0
+01-24-2020,China,Sichuan,_,Confirmed,7.0
+01-24-2020,China,Shandong,_,Confirmed,9.0
+01-24-2020,China,Anhui,_,Confirmed,6.0
+01-24-2020,China,Fujian,_,Confirmed,5.0
+01-24-2020,China,Henan,_,Confirmed,4.0
+01-24-2020,China,Jiangsu,_,Confirmed,4.0
+01-24-2020,China,Hainan,_,Confirmed,3.0
+01-24-2020,China,Tianjin,_,Confirmed,4.0
+01-24-2020,China,Yunnan,_,Confirmed,3.0
+01-24-2020,China,Shaanxi,_,Confirmed,2.0
+01-24-2020,China,Heilongjiang,_,Confirmed,2.0
+01-24-2020,China,Heilongjiang,_,Deaths,1.0
+01-24-2020,China,Liaoning,_,Confirmed,1.0
+01-24-2020,China,Jilin,_,Confirmed,2.0
+01-24-2020,Taiwan,Taiwan,_,Confirmed,2.0
+01-24-2020,China,Ningxia,_,Confirmed,1.0
+01-24-2020,China,Hebei,_,Confirmed,1.0
+01-24-2020,China,Inner Mongolia,_,Confirmed,1.0
+01-24-2020,United States of America,Chicago,_,Confirmed,1.0
+01-24-2020,Japan,_,_,Confirmed,1.0
+01-24-2020,Thailand,_,_,Confirmed,2.0
+01-24-2020,South Korea,_,_,Confirmed,1.0
+01-24-2020,Singapore,_,_,Confirmed,2.0
+01-24-2020,France,_,_,Confirmed,2.0
+01-25-2020,China,Hubei,_,Confirmed,212.0
+01-25-2020,China,Hubei,_,Deaths,16.0
+01-25-2020,China,Hubei,_,Recovered,1.0
+01-25-2020,China,Guangdong,_,Confirmed,25.0
+01-25-2020,China,Zhejiang,_,Confirmed,19.0
+01-25-2020,China,Chongqing,_,Confirmed,30.0
+01-25-2020,China,Hunan,_,Confirmed,19.0
+01-25-2020,China,Beijing,_,Confirmed,5.0
+01-25-2020,China,Beijing,_,Recovered,1.0
+01-25-2020,China,Anhui,_,Confirmed,24.0
+01-25-2020,China,Shanghai,_,Confirmed,13.0
+01-25-2020,China,Henan,_,Confirmed,23.0
+01-25-2020,China,Sichuan,_,Confirmed,13.0
+01-25-2020,China,Shandong,_,Confirmed,12.0
+01-25-2020,China,Hainan,_,Confirmed,11.0
+01-25-2020,China,Fujian,_,Confirmed,8.0
+01-25-2020,China,Jiangsu,_,Confirmed,9.0
+01-25-2020,China,Jiangsu,_,Recovered,1.0
+01-25-2020,China,Liaoning,_,Confirmed,13.0
+01-25-2020,China,Shaanxi,_,Confirmed,10.0
+01-25-2020,China,Yunnan,_,Confirmed,6.0
+01-25-2020,China,Tianjin,_,Confirmed,2.0
+01-25-2020,China,Heilongjiang,_,Confirmed,5.0
+01-25-2020,China,Hebei,_,Confirmed,6.0
+01-25-2020,China,Inner Mongolia,_,Confirmed,6.0
+01-25-2020,China,Shanxi,_,Confirmed,5.0
+01-25-2020,Hong Kong,Hong Kong,_,Confirmed,3.0
+01-25-2020,China,Guizhou,_,Confirmed,1.0
+01-25-2020,China,Jilin,_,Confirmed,1.0
+01-25-2020,China,Gansu,_,Confirmed,2.0
+01-25-2020,China,Ningxia,_,Confirmed,1.0
+01-25-2020,China,Xinjiang,_,Confirmed,1.0
+01-25-2020,China,Qinghai,_,Confirmed,1.0
+01-25-2020,United States of America,Illinois,_,Confirmed,1.0
+01-25-2020,Thailand,_,_,Confirmed,2.0
+01-25-2020,France,_,_,Confirmed,1.0
+01-25-2020,Australia,_,_,Confirmed,4.0
+01-25-2020,Nepal,_,_,Confirmed,1.0
+01-25-2020,Malaysia,_,_,Confirmed,3.0
+01-26-2020,China,Hubei,_,Confirmed,297.0
+01-26-2020,China,Hubei,_,Deaths,12.0
+01-26-2020,China,Hubei,_,Recovered,10.0
+01-26-2020,China,Guangdong,_,Confirmed,33.0
+01-26-2020,China,Zhejiang,_,Confirmed,42.0
+01-26-2020,China,Henan,_,Confirmed,51.0
+01-26-2020,China,Henan,_,Deaths,1.0
+01-26-2020,China,Chongqing,_,Confirmed,18.0
+01-26-2020,China,Hunan,_,Confirmed,26.0
+01-26-2020,China,Beijing,_,Confirmed,27.0
+01-26-2020,China,Anhui,_,Confirmed,21.0
+01-26-2020,China,Shandong,_,Confirmed,19.0
+01-26-2020,China,Sichuan,_,Confirmed,16.0
+01-26-2020,China,Shanghai,_,Confirmed,7.0
+01-26-2020,China,Shanghai,_,Deaths,1.0
+01-26-2020,China,Guangxi,_,Confirmed,13.0
+01-26-2020,China,Jiangxi,_,Confirmed,18.0
+01-26-2020,China,Fujian,_,Confirmed,17.0
+01-26-2020,China,Jiangsu,_,Confirmed,15.0
+01-26-2020,China,Hainan,_,Confirmed,3.0
+01-26-2020,China,Shaanxi,_,Confirmed,7.0
+01-26-2020,China,Liaoning,_,Confirmed,4.0
+01-26-2020,China,Yunnan,_,Confirmed,5.0
+01-26-2020,China,Heilongjiang,_,Confirmed,6.0
+01-26-2020,China,Tianjin,_,Confirmed,4.0
+01-26-2020,China,Hebei,_,Confirmed,5.0
+01-26-2020,China,Shanxi,_,Confirmed,3.0
+01-26-2020,Hong Kong,Hong Kong,_,Confirmed,3.0
+01-26-2020,China,Gansu,_,Confirmed,3.0
+01-26-2020,China,Guizhou,_,Confirmed,1.0
+01-26-2020,Macau,Macau,_,Confirmed,3.0
+01-26-2020,China,Ningxia,_,Confirmed,1.0
+01-26-2020,Taiwan,Taiwan,_,Confirmed,1.0
+01-26-2020,China,Xinjiang,_,Confirmed,1.0
+01-26-2020,United States of America,California,_,Confirmed,2.0
+01-26-2020,United States of America,Arizona,_,Confirmed,1.0
+01-26-2020,Japan,_,_,Confirmed,2.0
+01-26-2020,Japan,_,_,Recovered,1.0
+01-26-2020,Thailand,_,_,Confirmed,1.0
+01-26-2020,Thailand,_,_,Recovered,2.0
+01-26-2020,South Korea,_,_,Confirmed,1.0
+01-26-2020,Singapore,_,_,Confirmed,1.0
+01-26-2020,Malaysia,_,_,Confirmed,1.0
+01-26-2020,Canada,Ontario,_,Confirmed,1.0
+01-27-2020,China,Hubei,_,Confirmed,365.0
+01-27-2020,China,Hubei,_,Deaths,24.0
+01-27-2020,China,Hubei,_,Recovered,3.0
+01-27-2020,China,Guangdong,_,Confirmed,40.0
+01-27-2020,China,Guangdong,_,Recovered,2.0
+01-27-2020,China,Zhejiang,_,Confirmed,24.0
+01-27-2020,China,Henan,_,Confirmed,45.0
+01-27-2020,China,Chongqing,_,Confirmed,35.0
+01-27-2020,China,Hunan,_,Confirmed,31.0
+01-27-2020,China,Beijing,_,Confirmed,12.0
+01-27-2020,China,Beijing,_,Deaths,1.0
+01-27-2020,China,Shandong,_,Confirmed,29.0
+01-27-2020,China,Jiangxi,_,Confirmed,36.0
+01-27-2020,China,Jiangxi,_,Recovered,2.0
+01-27-2020,China,Anhui,_,Confirmed,10.0
+01-27-2020,China,Sichuan,_,Confirmed,25.0
+01-27-2020,China,Fujian,_,Confirmed,24.0
+01-27-2020,China,Shanghai,_,Confirmed,13.0
+01-27-2020,China,Shanghai,_,Recovered,2.0
+01-27-2020,China,Jiangsu,_,Confirmed,14.0
+01-27-2020,China,Guangxi,_,Confirmed,10.0
+01-27-2020,China,Shaanxi,_,Confirmed,13.0
+01-27-2020,China,Hainan,_,Confirmed,11.0
+01-27-2020,China,Hainan,_,Deaths,1.0
+01-27-2020,China,Liaoning,_,Confirmed,6.0
+01-27-2020,China,Yunnan,_,Confirmed,10.0
+01-27-2020,China,Tianjin,_,Confirmed,9.0
+01-27-2020,China,Heilongjiang,_,Confirmed,6.0
+01-27-2020,China,Hebei,_,Confirmed,5.0
+01-27-2020,China,Gansu,_,Confirmed,7.0
+01-27-2020,China,Shanxi,_,Confirmed,4.0
+01-27-2020,China,Inner Mongolia,_,Confirmed,4.0
+01-27-2020,China,Guizhou,_,Confirmed,2.0
+01-27-2020,China,Ningxia,_,Confirmed,3.0
+01-27-2020,China,Jilin,_,Confirmed,2.0
+01-27-2020,Macau,Macau,_,Confirmed,1.0
+01-27-2020,China,Qinghai,_,Confirmed,5.0
+01-27-2020,Taiwan,Taiwan,_,Confirmed,1.0
+01-27-2020,China,Xinjiang,_,Confirmed,1.0
+01-27-2020,South Korea,_,_,Confirmed,1.0
+01-27-2020,Singapore,_,_,Confirmed,1.0
+01-27-2020,Cambodia,_,_,Confirmed,1.0
+01-27-2020,Sri Lanka,_,_,Confirmed,1.0
+01-27-2020,Ivory Coast,_,_,Confirmed,1.0
+01-27-2020,Australia,New South Wales,_,Confirmed,4.0
+01-27-2020,Australia,Victoria,_,Confirmed,1.0
+01-28-2020,China,Hubei,_,Confirmed,2131.0
+01-28-2020,China,Hubei,_,Deaths,49.0
+01-28-2020,China,Hubei,_,Recovered,35.0
+01-28-2020,China,Guangdong,_,Confirmed,56.0
+01-28-2020,China,Zhejiang,_,Confirmed,45.0
+01-28-2020,China,Zhejiang,_,Recovered,2.0
+01-28-2020,China,Henan,_,Confirmed,40.0
+01-28-2020,China,Hunan,_,Confirmed,43.0
+01-28-2020,China,Chongqing,_,Confirmed,22.0
+01-28-2020,China,Jiangxi,_,Confirmed,37.0
+01-28-2020,China,Jiangxi,_,Recovered,1.0
+01-28-2020,China,Anhui,_,Confirmed,36.0
+01-28-2020,China,Shandong,_,Confirmed,20.0
+01-28-2020,China,Beijing,_,Confirmed,11.0
+01-28-2020,China,Beijing,_,Recovered,2.0
+01-28-2020,China,Sichuan,_,Confirmed,21.0
+01-28-2020,China,Fujian,_,Confirmed,21.0
+01-28-2020,China,Jiangsu,_,Confirmed,23.0
+01-28-2020,China,Shanghai,_,Confirmed,13.0
+01-28-2020,China,Shanghai,_,Recovered,1.0
+01-28-2020,China,Guangxi,_,Confirmed,5.0
+01-28-2020,China,Guangxi,_,Recovered,2.0
+01-28-2020,China,Shaanxi,_,Confirmed,11.0
+01-28-2020,China,Yunnan,_,Confirmed,18.0
+01-28-2020,China,Hainan,_,Confirmed,7.0
+01-28-2020,China,Liaoning,_,Confirmed,7.0
+01-28-2020,China,Hebei,_,Confirmed,15.0
+01-28-2020,China,Heilongjiang,_,Confirmed,12.0
+01-28-2020,China,Shanxi,_,Confirmed,14.0
+01-28-2020,China,Tianjin,_,Confirmed,1.0
+01-28-2020,China,Gansu,_,Confirmed,5.0
+01-28-2020,China,Inner Mongolia,_,Confirmed,4.0
+01-28-2020,China,Ningxia,_,Confirmed,4.0
+01-28-2020,China,Xinjiang,_,Confirmed,5.0
+01-28-2020,China,Guizhou,_,Confirmed,2.0
+01-28-2020,China,Jilin,_,Confirmed,2.0
+01-28-2020,Taiwan,Taiwan,_,Confirmed,3.0
+01-28-2020,Macau,Macau,_,Confirmed,1.0
+01-28-2020,Japan,_,_,Confirmed,3.0
+01-28-2020,Thailand,_,_,Confirmed,6.0
+01-28-2020,Thailand,_,_,Recovered,3.0
+01-28-2020,Singapore,_,_,Confirmed,2.0
+01-28-2020,France,_,_,Confirmed,1.0
+01-28-2020,Canada,British Columbia,_,Confirmed,1.0
+01-28-2020,Germany,Bavaria,_,Confirmed,4.0
+01-29-2020,China,Hubei,_,Recovered,8.0
+01-29-2020,China,Zhejiang,_,Confirmed,123.0
+01-29-2020,China,Guangdong,_,Confirmed,70.0
+01-29-2020,China,Guangdong,_,Recovered,1.0
+01-29-2020,China,Hunan,_,Confirmed,78.0
+01-29-2020,China,Henan,_,Confirmed,38.0
+01-29-2020,China,Henan,_,Deaths,1.0
+01-29-2020,China,Henan,_,Recovered,1.0
+01-29-2020,China,Anhui,_,Confirmed,46.0
+01-29-2020,China,Anhui,_,Recovered,2.0
+01-29-2020,China,Chongqing,_,Confirmed,15.0
+01-29-2020,China,Chongqing,_,Recovered,1.0
+01-29-2020,China,Shandong,_,Confirmed,35.0
+01-29-2020,China,Shandong,_,Recovered,1.0
+01-29-2020,China,Beijing,_,Confirmed,20.0
+01-29-2020,China,Sichuan,_,Confirmed,18.0
+01-29-2020,China,Sichuan,_,Deaths,1.0
+01-29-2020,China,Sichuan,_,Recovered,1.0
+01-29-2020,China,Jiangsu,_,Confirmed,29.0
+01-29-2020,China,Shanghai,_,Confirmed,30.0
+01-29-2020,China,Shanghai,_,Recovered,1.0
+01-29-2020,China,Fujian,_,Confirmed,4.0
+01-29-2020,China,Guangxi,_,Confirmed,7.0
+01-29-2020,China,Shaanxi,_,Confirmed,10.0
+01-29-2020,China,Yunnan,_,Confirmed,11.0
+01-29-2020,China,Hebei,_,Confirmed,15.0
+01-29-2020,China,Hainan,_,Confirmed,3.0
+01-29-2020,China,Liaoning,_,Confirmed,5.0
+01-29-2020,China,Liaoning,_,Recovered,1.0
+01-29-2020,China,Heilongjiang,_,Confirmed,5.0
+01-29-2020,China,Tianjin,_,Confirmed,3.0
+01-29-2020,China,Shanxi,_,Recovered,1.0
+01-29-2020,China,Gansu,_,Confirmed,5.0
+01-29-2020,China,Inner Mongolia,_,Confirmed,1.0
+01-29-2020,China,Xinjiang,_,Confirmed,3.0
+01-29-2020,China,Ningxia,_,Confirmed,1.0
+01-29-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+01-29-2020,China,Guizhou,_,Recovered,1.0
+01-29-2020,China,Jilin,_,Confirmed,1.0
+01-29-2020,France,_,_,Confirmed,1.0
+01-29-2020,Malaysia,_,_,Confirmed,3.0
+01-29-2020,Finland,_,_,Confirmed,1.0
+01-29-2020,United Arab Emirates,_,_,Confirmed,4.0
+01-30-2020,China,Hubei,_,Confirmed,1349.0
+01-30-2020,China,Hubei,_,Deaths,37.0
+01-30-2020,China,Hubei,_,Recovered,2.0
+01-30-2020,China,Zhejiang,_,Confirmed,132.0
+01-30-2020,China,Zhejiang,_,Recovered,1.0
+01-30-2020,China,Guangdong,_,Confirmed,77.0
+01-30-2020,China,Guangdong,_,Recovered,5.0
+01-30-2020,China,Henan,_,Confirmed,72.0
+01-30-2020,China,Henan,_,Recovered,1.0
+01-30-2020,China,Hunan,_,Confirmed,56.0
+01-30-2020,China,Hunan,_,Recovered,2.0
+01-30-2020,China,Anhui,_,Confirmed,48.0
+01-30-2020,China,Chongqing,_,Confirmed,35.0
+01-30-2020,China,Jiangxi,_,Confirmed,53.0
+01-30-2020,China,Jiangxi,_,Recovered,2.0
+01-30-2020,China,Shandong,_,Confirmed,28.0
+01-30-2020,China,Sichuan,_,Confirmed,34.0
+01-30-2020,China,Jiangsu,_,Confirmed,30.0
+01-30-2020,China,Beijing,_,Confirmed,3.0
+01-30-2020,China,Shanghai,_,Confirmed,16.0
+01-30-2020,China,Fujian,_,Confirmed,17.0
+01-30-2020,China,Guangxi,_,Confirmed,20.0
+01-30-2020,China,Yunnan,_,Confirmed,15.0
+01-30-2020,China,Hebei,_,Confirmed,17.0
+01-30-2020,China,Shaanxi,_,Confirmed,7.0
+01-30-2020,China,Hainan,_,Confirmed,3.0
+01-30-2020,China,Hainan,_,Recovered,1.0
+01-30-2020,China,Heilongjiang,_,Confirmed,6.0
+01-30-2020,China,Heilongjiang,_,Deaths,1.0
+01-30-2020,China,Liaoning,_,Confirmed,2.0
+01-30-2020,China,Shanxi,_,Confirmed,8.0
+01-30-2020,China,Tianjin,_,Confirmed,4.0
+01-30-2020,China,Gansu,_,Confirmed,2.0
+01-30-2020,China,Inner Mongolia,_,Confirmed,3.0
+01-30-2020,China,Ningxia,_,Confirmed,5.0
+01-30-2020,China,Jilin,_,Confirmed,5.0
+01-30-2020,China,Jilin,_,Recovered,1.0
+01-30-2020,China,Xinjiang,_,Confirmed,1.0
+01-30-2020,China,Guizhou,_,Confirmed,3.0
+01-30-2020,Taiwan,Taiwan,_,Confirmed,1.0
+01-30-2020,China,Qinghai,_,Confirmed,2.0
+01-30-2020,China,Tibet,_,Confirmed,1.0
+01-30-2020,Japan,_,_,Confirmed,4.0
+01-30-2020,Singapore,_,_,Confirmed,3.0
+01-30-2020,Malaysia,_,_,Confirmed,1.0
+01-30-2020,Canada,Ontario,_,Confirmed,1.0
+01-30-2020,Australia,New South Wales,_,Recovered,2.0
+01-30-2020,Australia,Victoria,_,Confirmed,1.0
+01-30-2020,Australia,Queensland,_,Confirmed,3.0
+01-30-2020,Philippines,_,_,Confirmed,1.0
+01-30-2020,India,_,_,Confirmed,1.0
+01-31-2020,China,Hubei,_,Confirmed,903.0
+01-31-2020,China,Hubei,_,Deaths,42.0
+01-31-2020,China,Hubei,_,Recovered,51.0
+01-31-2020,China,Zhejiang,_,Confirmed,110.0
+01-31-2020,China,Zhejiang,_,Recovered,10.0
+01-31-2020,China,Guangdong,_,Confirmed,82.0
+01-31-2020,China,Guangdong,_,Recovered,1.0
+01-31-2020,China,Henan,_,Confirmed,74.0
+01-31-2020,China,Henan,_,Recovered,1.0
+01-31-2020,China,Hunan,_,Confirmed,55.0
+01-31-2020,China,Jiangxi,_,Confirmed,78.0
+01-31-2020,China,Jiangxi,_,Recovered,2.0
+01-31-2020,China,Anhui,_,Confirmed,37.0
+01-31-2020,China,Anhui,_,Recovered,1.0
+01-31-2020,China,Chongqing,_,Confirmed,29.0
+01-31-2020,China,Shandong,_,Confirmed,26.0
+01-31-2020,China,Shandong,_,Recovered,1.0
+01-31-2020,China,Sichuan,_,Confirmed,35.0
+01-31-2020,China,Jiangsu,_,Confirmed,39.0
+01-31-2020,China,Jiangsu,_,Recovered,4.0
+01-31-2020,China,Beijing,_,Confirmed,25.0
+01-31-2020,China,Beijing,_,Recovered,1.0
+01-31-2020,China,Shanghai,_,Confirmed,23.0
+01-31-2020,China,Shanghai,_,Recovered,4.0
+01-31-2020,China,Fujian,_,Confirmed,19.0
+01-31-2020,China,Guangxi,_,Confirmed,9.0
+01-31-2020,China,Shaanxi,_,Confirmed,24.0
+01-31-2020,China,Yunnan,_,Confirmed,13.0
+01-31-2020,China,Yunnan,_,Recovered,1.0
+01-31-2020,China,Hebei,_,Confirmed,17.0
+01-31-2020,China,Heilongjiang,_,Confirmed,15.0
+01-31-2020,China,Hainan,_,Confirmed,6.0
+01-31-2020,China,Liaoning,_,Confirmed,7.0
+01-31-2020,China,Shanxi,_,Confirmed,4.0
+01-31-2020,China,Tianjin,_,Confirmed,1.0
+01-31-2020,China,Guizhou,_,Confirmed,17.0
+01-31-2020,China,Guizhou,_,Recovered,1.0
+01-31-2020,China,Gansu,_,Confirmed,3.0
+01-31-2020,China,Ningxia,_,Confirmed,4.0
+01-31-2020,China,Inner Mongolia,_,Confirmed,1.0
+01-31-2020,China,Inner Mongolia,_,Recovered,1.0
+01-31-2020,China,Xinjiang,_,Confirmed,3.0
+01-31-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+01-31-2020,Taiwan,Taiwan,_,Confirmed,1.0
+01-31-2020,Thailand,_,_,Confirmed,5.0
+01-31-2020,Japan,_,_,Confirmed,4.0
+01-31-2020,Singapore,_,_,Confirmed,3.0
+01-31-2020,South Korea,_,_,Confirmed,7.0
+01-31-2020,Germany,Bavaria,_,Confirmed,1.0
+01-31-2020,Australia,Victoria,_,Confirmed,1.0
+01-31-2020,United States of America,Illinois,_,Confirmed,1.0
+01-31-2020,Italy,_,_,Confirmed,2.0
+01-31-2020,UK,_,_,Confirmed,2.0
+01-31-2020,Russia,_,_,Confirmed,2.0
+01-31-2020,Sweden,_,_,Confirmed,1.0
+02-01-2020,China,Hubei,_,Confirmed,1347.0
+02-01-2020,China,Hubei,_,Deaths,45.0
+02-01-2020,China,Hubei,_,Recovered,27.0
+02-01-2020,China,Zhejiang,_,Confirmed,61.0
+02-01-2020,China,Zhejiang,_,Recovered,7.0
+02-01-2020,China,Guangdong,_,Confirmed,99.0
+02-01-2020,China,Guangdong,_,Recovered,3.0
+02-01-2020,China,Henan,_,Confirmed,70.0
+02-01-2020,China,Hunan,_,Confirmed,57.0
+02-01-2020,China,Hunan,_,Recovered,6.0
+02-01-2020,China,Anhui,_,Confirmed,60.0
+02-01-2020,China,Anhui,_,Recovered,2.0
+02-01-2020,China,Jiangxi,_,Confirmed,46.0
+02-01-2020,China,Jiangxi,_,Recovered,2.0
+02-01-2020,China,Chongqing,_,Confirmed,36.0
+02-01-2020,China,Chongqing,_,Deaths,1.0
+02-01-2020,China,Chongqing,_,Recovered,2.0
+02-01-2020,China,Sichuan,_,Confirmed,30.0
+02-01-2020,China,Sichuan,_,Recovered,2.0
+02-01-2020,China,Shandong,_,Confirmed,22.0
+02-01-2020,China,Shandong,_,Recovered,1.0
+02-01-2020,China,Jiangsu,_,Confirmed,34.0
+02-01-2020,China,Jiangsu,_,Recovered,1.0
+02-01-2020,China,Shanghai,_,Confirmed,34.0
+02-01-2020,China,Shanghai,_,Recovered,1.0
+02-01-2020,China,Beijing,_,Confirmed,29.0
+02-01-2020,China,Beijing,_,Recovered,4.0
+02-01-2020,China,Fujian,_,Confirmed,24.0
+02-01-2020,China,Shaanxi,_,Confirmed,14.0
+02-01-2020,China,Guangxi,_,Confirmed,13.0
+02-01-2020,China,Hebei,_,Confirmed,14.0
+02-01-2020,China,Yunnan,_,Confirmed,10.0
+02-01-2020,China,Yunnan,_,Recovered,1.0
+02-01-2020,China,Heilongjiang,_,Confirmed,21.0
+02-01-2020,China,Heilongjiang,_,Recovered,2.0
+02-01-2020,China,Liaoning,_,Confirmed,16.0
+02-01-2020,China,Hainan,_,Confirmed,10.0
+02-01-2020,China,Shanxi,_,Confirmed,8.0
+02-01-2020,China,Tianjin,_,Confirmed,9.0
+02-01-2020,China,Gansu,_,Confirmed,11.0
+02-01-2020,China,Ningxia,_,Confirmed,5.0
+02-01-2020,China,Inner Mongolia,_,Confirmed,3.0
+02-01-2020,Japan,_,_,Confirmed,5.0
+02-01-2020,China,Xinjiang,_,Confirmed,1.0
+02-01-2020,China,Jilin,_,Confirmed,3.0
+02-01-2020,Singapore,_,_,Confirmed,3.0
+02-01-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-01-2020,South Korea,_,_,Confirmed,1.0
+02-01-2020,China,Qinghai,_,Confirmed,1.0
+02-01-2020,Germany,_,_,Confirmed,8.0
+02-01-2020,France,_,_,Confirmed,1.0
+02-01-2020,Vietnam,_,_,Confirmed,4.0
+02-01-2020,Vietnam,_,_,Recovered,1.0
+02-01-2020,Australia,Victoria,_,Confirmed,1.0
+02-01-2020,Australia,Queensland,_,Confirmed,1.0
+02-01-2020,Canada,Ontario,_,Confirmed,1.0
+02-01-2020,United States of America,IL,Chicago,Confirmed,2.0
+02-01-2020,Australia,South Australia,_,Confirmed,1.0
+02-01-2020,Spain,_,_,Confirmed,1.0
+02-01-2020,United States of America,MA,Boston,Confirmed,1.0
+02-01-2020,United States of America,CA,Los Angeles,Confirmed,1.0
+02-01-2020,United States of America,CA,Orange,Confirmed,1.0
+02-01-2020,United States of America,CA,Santa Clara,Confirmed,1.0
+02-01-2020,United States of America,WA,Seattle,Confirmed,1.0
+02-01-2020,United States of America,AZ,Tempe,Confirmed,1.0
+02-02-2020,China,Hubei,_,Confirmed,4024.0
+02-02-2020,China,Hubei,_,Deaths,101.0
+02-02-2020,China,Hubei,_,Recovered,127.0
+02-02-2020,China,Zhejiang,_,Confirmed,62.0
+02-02-2020,China,Zhejiang,_,Recovered,11.0
+02-02-2020,China,Guangdong,_,Confirmed,97.0
+02-02-2020,China,Guangdong,_,Recovered,1.0
+02-02-2020,China,Henan,_,Confirmed,71.0
+02-02-2020,China,Henan,_,Recovered,7.0
+02-02-2020,China,Hunan,_,Confirmed,74.0
+02-02-2020,China,Hunan,_,Recovered,8.0
+02-02-2020,China,Anhui,_,Confirmed,43.0
+02-02-2020,China,Anhui,_,Recovered,2.0
+02-02-2020,China,Jiangxi,_,Confirmed,47.0
+02-02-2020,China,Jiangxi,_,Recovered,3.0
+02-02-2020,China,Chongqing,_,Confirmed,53.0
+02-02-2020,China,Chongqing,_,Deaths,1.0
+02-02-2020,China,Chongqing,_,Recovered,4.0
+02-02-2020,China,Jiangsu,_,Confirmed,34.0
+02-02-2020,China,Jiangsu,_,Recovered,1.0
+02-02-2020,China,Sichuan,_,Confirmed,24.0
+02-02-2020,China,Sichuan,_,Recovered,8.0
+02-02-2020,China,Shandong,_,Confirmed,24.0
+02-02-2020,China,Shandong,_,Recovered,3.0
+02-02-2020,China,Beijing,_,Confirmed,23.0
+02-02-2020,China,Shanghai,_,Confirmed,13.0
+02-02-2020,China,Fujian,_,Confirmed,15.0
+02-02-2020,China,Shaanxi,_,Confirmed,15.0
+02-02-2020,China,Guangxi,_,Confirmed,11.0
+02-02-2020,China,Yunnan,_,Confirmed,12.0
+02-02-2020,China,Yunnan,_,Recovered,1.0
+02-02-2020,China,Hebei,_,Confirmed,8.0
+02-02-2020,China,Hebei,_,Recovered,3.0
+02-02-2020,China,Heilongjiang,_,Confirmed,15.0
+02-02-2020,China,Liaoning,_,Confirmed,6.0
+02-02-2020,China,Shanxi,_,Confirmed,19.0
+02-02-2020,China,Shanxi,_,Recovered,2.0
+02-02-2020,China,Hainan,_,Confirmed,2.0
+02-02-2020,China,Hainan,_,Recovered,3.0
+02-02-2020,China,Gansu,_,Confirmed,11.0
+02-02-2020,China,Gansu,_,Recovered,3.0
+02-02-2020,China,Tianjin,_,Confirmed,7.0
+02-02-2020,China,Tianjin,_,Recovered,1.0
+02-02-2020,China,Guizhou,_,Confirmed,9.0
+02-02-2020,China,Ningxia,_,Confirmed,2.0
+02-02-2020,China,Inner Mongolia,_,Confirmed,4.0
+02-02-2020,China,Jilin,_,Confirmed,6.0
+02-02-2020,China,Xinjiang,_,Confirmed,3.0
+02-02-2020,Singapore,_,_,Confirmed,2.0
+02-02-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+02-02-2020,South Korea,_,_,Confirmed,3.0
+02-02-2020,China,Qinghai,_,Confirmed,2.0
+02-02-2020,Germany,_,_,Confirmed,2.0
+02-02-2020,Macau,Macau,_,Confirmed,1.0
+02-02-2020,United Arab Emirates,_,_,Confirmed,1.0
+02-02-2020,Australia,South Australia,_,Confirmed,1.0
+02-02-2020,India,_,_,Confirmed,1.0
+02-02-2020,Philippines,_,_,Confirmed,1.0
+02-02-2020,Philippines,_,_,Deaths,1.0
+02-03-2020,China,Hubei,_,Confirmed,2345.0
+02-03-2020,China,Hubei,_,Deaths,64.0
+02-03-2020,China,Hubei,_,Recovered,91.0
+02-03-2020,China,Guangdong,_,Confirmed,93.0
+02-03-2020,China,Guangdong,_,Recovered,6.0
+02-03-2020,China,Zhejiang,_,Confirmed,63.0
+02-03-2020,China,Zhejiang,_,Recovered,11.0
+02-03-2020,China,Henan,_,Confirmed,73.0
+02-03-2020,China,Henan,_,Recovered,6.0
+02-03-2020,China,Hunan,_,Confirmed,58.0
+02-03-2020,China,Hunan,_,Recovered,6.0
+02-03-2020,China,Anhui,_,Confirmed,68.0
+02-03-2020,China,Anhui,_,Recovered,7.0
+02-03-2020,China,Jiangxi,_,Confirmed,58.0
+02-03-2020,China,Jiangxi,_,Recovered,6.0
+02-03-2020,China,Chongqing,_,Confirmed,37.0
+02-03-2020,China,Chongqing,_,Recovered,2.0
+02-03-2020,China,Jiangsu,_,Confirmed,35.0
+02-03-2020,China,Jiangsu,_,Recovered,1.0
+02-03-2020,China,Shandong,_,Confirmed,29.0
+02-03-2020,China,Shandong,_,Recovered,1.0
+02-03-2020,China,Sichuan,_,Confirmed,23.0
+02-03-2020,China,Sichuan,_,Recovered,3.0
+02-03-2020,China,Beijing,_,Confirmed,21.0
+02-03-2020,China,Beijing,_,Recovered,3.0
+02-03-2020,China,Shanghai,_,Confirmed,21.0
+02-03-2020,China,Fujian,_,Confirmed,20.0
+02-03-2020,China,Fujian,_,Recovered,1.0
+02-03-2020,China,Shaanxi,_,Confirmed,12.0
+02-03-2020,China,Guangxi,_,Confirmed,16.0
+02-03-2020,China,Guangxi,_,Recovered,5.0
+02-03-2020,China,Heilongjiang,_,Confirmed,26.0
+02-03-2020,China,Yunnan,_,Confirmed,12.0
+02-03-2020,China,Yunnan,_,Recovered,2.0
+02-03-2020,China,Hebei,_,Confirmed,9.0
+02-03-2020,China,Liaoning,_,Confirmed,4.0
+02-03-2020,China,Shanxi,_,Confirmed,8.0
+02-03-2020,China,Hainan,_,Confirmed,8.0
+02-03-2020,China,Tianjin,_,Confirmed,12.0
+02-03-2020,China,Gansu,_,Confirmed,4.0
+02-03-2020,China,Guizhou,_,Confirmed,8.0
+02-03-2020,China,Inner Mongolia,_,Confirmed,7.0
+02-03-2020,China,Jilin,_,Confirmed,8.0
+02-03-2020,China,Ningxia,_,Confirmed,3.0
+02-03-2020,China,Ningxia,_,Recovered,1.0
+02-03-2020,China,Xinjiang,_,Confirmed,3.0
+02-03-2020,China,Qinghai,_,Confirmed,2.0
+02-03-2020,Germany,_,_,Confirmed,2.0
+02-03-2020,Vietnam,_,_,Confirmed,2.0
+02-03-2020,India,_,_,Confirmed,1.0
+02-03-2020,United States of America,CA,San Benito,Confirmed,2.0
+02-03-2020,United States of America,CA,Santa Clara,Confirmed,1.0
+02-04-2020,China,Hubei,_,Confirmed,3156.0
+02-04-2020,China,Hubei,_,Deaths,65.0
+02-04-2020,China,Hubei,_,Recovered,136.0
+02-04-2020,China,Zhejiang,_,Confirmed,105.0
+02-04-2020,China,Zhejiang,_,Recovered,19.0
+02-04-2020,China,Guangdong,_,Confirmed,88.0
+02-04-2020,China,Guangdong,_,Recovered,9.0
+02-04-2020,China,Henan,_,Confirmed,109.0
+02-04-2020,China,Henan,_,Recovered,11.0
+02-04-2020,China,Hunan,_,Confirmed,72.0
+02-04-2020,China,Hunan,_,Recovered,9.0
+02-04-2020,China,Anhui,_,Confirmed,72.0
+02-04-2020,China,Anhui,_,Recovered,6.0
+02-04-2020,China,Jiangxi,_,Confirmed,85.0
+02-04-2020,China,Jiangxi,_,Recovered,2.0
+02-04-2020,China,Chongqing,_,Confirmed,29.0
+02-04-2020,China,Jiangsu,_,Confirmed,37.0
+02-04-2020,China,Jiangsu,_,Recovered,4.0
+02-04-2020,China,Sichuan,_,Confirmed,28.0
+02-04-2020,China,Shandong,_,Confirmed,16.0
+02-04-2020,China,Shandong,_,Recovered,4.0
+02-04-2020,China,Beijing,_,Confirmed,16.0
+02-04-2020,China,Beijing,_,Recovered,11.0
+02-04-2020,China,Shanghai,_,Confirmed,16.0
+02-04-2020,China,Shanghai,_,Recovered,2.0
+02-04-2020,China,Fujian,_,Confirmed,15.0
+02-04-2020,China,Fujian,_,Recovered,2.0
+02-04-2020,China,Heilongjiang,_,Confirmed,34.0
+02-04-2020,China,Heilongjiang,_,Recovered,2.0
+02-04-2020,China,Shaanxi,_,Confirmed,14.0
+02-04-2020,China,Shaanxi,_,Recovered,2.0
+02-04-2020,China,Guangxi,_,Confirmed,12.0
+02-04-2020,China,Guangxi,_,Recovered,3.0
+02-04-2020,China,Hebei,_,Confirmed,13.0
+02-04-2020,China,Hebei,_,Recovered,1.0
+02-04-2020,China,Yunnan,_,Confirmed,5.0
+02-04-2020,China,Liaoning,_,Confirmed,7.0
+02-04-2020,China,Liaoning,_,Recovered,1.0
+02-04-2020,China,Shanxi,_,Confirmed,7.0
+02-04-2020,China,Shanxi,_,Recovered,2.0
+02-04-2020,China,Hainan,_,Confirmed,8.0
+02-04-2020,China,Hainan,_,Recovered,1.0
+02-04-2020,China,Tianjin,_,Confirmed,7.0
+02-04-2020,China,Tianjin,_,Recovered,1.0
+02-04-2020,China,Guizhou,_,Confirmed,12.0
+02-04-2020,China,Gansu,_,Confirmed,2.0
+02-04-2020,China,Gansu,_,Recovered,1.0
+02-04-2020,China,Jilin,_,Confirmed,11.0
+02-04-2020,China,Inner Mongolia,_,Confirmed,1.0
+02-04-2020,China,Ningxia,_,Confirmed,3.0
+02-04-2020,China,Xinjiang,_,Confirmed,5.0
+02-04-2020,Thailand,_,_,Confirmed,6.0
+02-04-2020,Singapore,_,_,Confirmed,6.0
+02-04-2020,Japan,_,_,Confirmed,2.0
+02-04-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+02-04-2020,Hong Kong,Hong Kong,_,Deaths,1.0
+02-04-2020,South Korea,_,_,Confirmed,1.0
+02-04-2020,China,Qinghai,_,Confirmed,2.0
+02-04-2020,Taiwan,Taiwan,_,Confirmed,1.0
+02-04-2020,Macau,Macau,_,Confirmed,2.0
+02-04-2020,Malaysia,_,_,Confirmed,2.0
+02-04-2020,Australia,Queensland,_,Confirmed,1.0
+02-04-2020,Canada,ON,Toronto,Confirmed,2.0
+02-04-2020,Belgium,_,_,Confirmed,1.0
+02-04-2020,Canada,ON,London,Confirmed,1.0
+02-05-2020,China,Hubei,_,Confirmed,2987.0
+02-05-2020,China,Hubei,_,Deaths,70.0
+02-05-2020,China,Hubei,_,Recovered,111.0
+02-05-2020,China,Guangdong,_,Confirmed,82.0
+02-05-2020,China,Guangdong,_,Recovered,19.0
+02-05-2020,China,Zhejiang,_,Confirmed,66.0
+02-05-2020,China,Zhejiang,_,Recovered,16.0
+02-05-2020,China,Henan,_,Confirmed,89.0
+02-05-2020,China,Henan,_,Recovered,20.0
+02-05-2020,China,Hunan,_,Confirmed,68.0
+02-05-2020,China,Hunan,_,Recovered,23.0
+02-05-2020,China,Jiangxi,_,Confirmed,72.0
+02-05-2020,China,Jiangxi,_,Recovered,7.0
+02-05-2020,China,Anhui,_,Confirmed,50.0
+02-05-2020,China,Anhui,_,Recovered,3.0
+02-05-2020,China,Chongqing,_,Confirmed,23.0
+02-05-2020,China,Chongqing,_,Recovered,6.0
+02-05-2020,China,Jiangsu,_,Confirmed,33.0
+02-05-2020,China,Jiangsu,_,Recovered,11.0
+02-05-2020,China,Shandong,_,Confirmed,32.0
+02-05-2020,China,Shandong,_,Recovered,4.0
+02-05-2020,China,Sichuan,_,Confirmed,19.0
+02-05-2020,China,Sichuan,_,Recovered,10.0
+02-05-2020,China,Beijing,_,Confirmed,25.0
+02-05-2020,China,Beijing,_,Recovered,1.0
+02-05-2020,China,Shanghai,_,Confirmed,24.0
+02-05-2020,China,Shanghai,_,Recovered,3.0
+02-05-2020,China,Fujian,_,Confirmed,11.0
+02-05-2020,China,Fujian,_,Recovered,8.0
+02-05-2020,China,Heilongjiang,_,Confirmed,35.0
+02-05-2020,China,Heilongjiang,_,Recovered,3.0
+02-05-2020,China,Shaanxi,_,Confirmed,23.0
+02-05-2020,China,Shaanxi,_,Recovered,4.0
+02-05-2020,China,Guangxi,_,Confirmed,11.0
+02-05-2020,China,Guangxi,_,Recovered,3.0
+02-05-2020,China,Hebei,_,Confirmed,9.0
+02-05-2020,China,Hebei,_,Recovered,2.0
+02-05-2020,China,Yunnan,_,Confirmed,6.0
+02-05-2020,China,Hainan,_,Confirmed,19.0
+02-05-2020,China,Liaoning,_,Confirmed,8.0
+02-05-2020,China,Liaoning,_,Recovered,2.0
+02-05-2020,China,Shanxi,_,Recovered,1.0
+02-05-2020,China,Tianjin,_,Confirmed,2.0
+02-05-2020,China,Tianjin,_,Deaths,1.0
+02-05-2020,China,Guizhou,_,Confirmed,6.0
+02-05-2020,China,Guizhou,_,Deaths,1.0
+02-05-2020,China,Guizhou,_,Recovered,7.0
+02-05-2020,China,Gansu,_,Confirmed,5.0
+02-05-2020,China,Gansu,_,Recovered,2.0
+02-05-2020,China,Jilin,_,Confirmed,12.0
+02-05-2020,China,Jilin,_,Recovered,1.0
+02-05-2020,China,Inner Mongolia,_,Confirmed,7.0
+02-05-2020,China,Inner Mongolia,_,Recovered,2.0
+02-05-2020,China,Xinjiang,_,Confirmed,3.0
+02-05-2020,Singapore,_,_,Confirmed,4.0
+02-05-2020,Hong Kong,Hong Kong,_,Confirmed,4.0
+02-05-2020,South Korea,_,_,Confirmed,3.0
+02-05-2020,China,Qinghai,_,Confirmed,2.0
+02-05-2020,China,Qinghai,_,Recovered,3.0
+02-05-2020,Malaysia,_,_,Confirmed,2.0
+02-05-2020,Canada,British Columbia,_,Confirmed,1.0
+02-05-2020,United States of America,WI,Madison,Confirmed,1.0
+02-06-2020,China,Hubei,_,Confirmed,2447.0
+02-06-2020,China,Hubei,_,Deaths,69.0
+02-06-2020,China,Hubei,_,Recovered,184.0
+02-06-2020,China,Guangdong,_,Confirmed,75.0
+02-06-2020,China,Guangdong,_,Recovered,20.0
+02-06-2020,China,Zhejiang,_,Confirmed,59.0
+02-06-2020,China,Zhejiang,_,Recovered,16.0
+02-06-2020,China,Henan,_,Confirmed,87.0
+02-06-2020,China,Henan,_,Recovered,9.0
+02-06-2020,China,Hunan,_,Confirmed,50.0
+02-06-2020,China,Hunan,_,Recovered,27.0
+02-06-2020,China,Jiangxi,_,Confirmed,52.0
+02-06-2020,China,Jiangxi,_,Recovered,10.0
+02-06-2020,China,Anhui,_,Confirmed,61.0
+02-06-2020,China,Anhui,_,Recovered,11.0
+02-06-2020,China,Chongqing,_,Confirmed,22.0
+02-06-2020,China,Chongqing,_,Recovered,9.0
+02-06-2020,China,Jiangsu,_,Confirmed,32.0
+02-06-2020,China,Jiangsu,_,Recovered,11.0
+02-06-2020,China,Shandong,_,Confirmed,40.0
+02-06-2020,China,Shandong,_,Recovered,12.0
+02-06-2020,China,Sichuan,_,Confirmed,20.0
+02-06-2020,China,Sichuan,_,Recovered,7.0
+02-06-2020,China,Beijing,_,Confirmed,21.0
+02-06-2020,China,Beijing,_,Recovered,7.0
+02-06-2020,China,Shanghai,_,Confirmed,14.0
+02-06-2020,China,Shanghai,_,Recovered,10.0
+02-06-2020,China,Heilongjiang,_,Confirmed,37.0
+02-06-2020,China,Heilongjiang,_,Deaths,1.0
+02-06-2020,China,Heilongjiang,_,Recovered,1.0
+02-06-2020,China,Fujian,_,Confirmed,10.0
+02-06-2020,China,Fujian,_,Recovered,3.0
+02-06-2020,China,Shaanxi,_,Confirmed,8.0
+02-06-2020,China,Shaanxi,_,Recovered,3.0
+02-06-2020,China,Guangxi,_,Confirmed,18.0
+02-06-2020,China,Guangxi,_,Recovered,1.0
+02-06-2020,China,Hebei,_,Confirmed,22.0
+02-06-2020,China,Hebei,_,Recovered,7.0
+02-06-2020,China,Yunnan,_,Confirmed,5.0
+02-06-2020,China,Yunnan,_,Recovered,2.0
+02-06-2020,China,Hainan,_,Confirmed,7.0
+02-06-2020,China,Hainan,_,Recovered,3.0
+02-06-2020,China,Shanxi,_,Confirmed,15.0
+02-06-2020,China,Shanxi,_,Recovered,7.0
+02-06-2020,China,Liaoning,_,Confirmed,5.0
+02-06-2020,China,Liaoning,_,Recovered,1.0
+02-06-2020,China,Tianjin,_,Confirmed,10.0
+02-06-2020,China,Guizhou,_,Confirmed,7.0
+02-06-2020,China,Jilin,_,Confirmed,5.0
+02-06-2020,China,Jilin,_,Recovered,2.0
+02-06-2020,China,Inner Mongolia,_,Confirmed,4.0
+02-06-2020,China,Inner Mongolia,_,Recovered,1.0
+02-06-2020,Japan,_,_,Confirmed,23.0
+02-06-2020,China,Ningxia,_,Confirmed,6.0
+02-06-2020,China,Xinjiang,_,Confirmed,4.0
+02-06-2020,Hong Kong,Hong Kong,_,Confirmed,3.0
+02-06-2020,South Korea,_,_,Confirmed,4.0
+02-06-2020,China,Qinghai,_,Confirmed,1.0
+02-06-2020,Taiwan,Taiwan,_,Confirmed,5.0
+02-06-2020,Taiwan,Taiwan,_,Recovered,1.0
+02-06-2020,Macau,Macau,_,Recovered,1.0
+02-06-2020,Vietnam,_,_,Confirmed,2.0
+02-06-2020,Australia,Queensland,_,Confirmed,1.0
+02-07-2020,China,Hubei,_,Confirmed,2841.0
+02-07-2020,China,Hubei,_,Deaths,81.0
+02-07-2020,China,Hubei,_,Recovered,298.0
+02-07-2020,China,Guangdong,_,Confirmed,64.0
+02-07-2020,China,Guangdong,_,Deaths,1.0
+02-07-2020,China,Guangdong,_,Recovered,19.0
+02-07-2020,China,Zhejiang,_,Confirmed,52.0
+02-07-2020,China,Zhejiang,_,Recovered,29.0
+02-07-2020,China,Henan,_,Confirmed,63.0
+02-07-2020,China,Henan,_,Deaths,1.0
+02-07-2020,China,Henan,_,Recovered,30.0
+02-07-2020,China,Hunan,_,Confirmed,61.0
+02-07-2020,China,Hunan,_,Recovered,31.0
+02-07-2020,China,Anhui,_,Confirmed,74.0
+02-07-2020,China,Anhui,_,Recovered,13.0
+02-07-2020,China,Jiangxi,_,Confirmed,61.0
+02-07-2020,China,Jiangxi,_,Recovered,8.0
+02-07-2020,China,Chongqing,_,Confirmed,15.0
+02-07-2020,China,Chongqing,_,Recovered,7.0
+02-07-2020,China,Jiangsu,_,Confirmed,35.0
+02-07-2020,China,Jiangsu,_,Recovered,9.0
+02-07-2020,China,Shandong,_,Confirmed,39.0
+02-07-2020,China,Shandong,_,Recovered,10.0
+02-07-2020,China,Sichuan,_,Confirmed,23.0
+02-07-2020,China,Sichuan,_,Recovered,11.0
+02-07-2020,China,Beijing,_,Confirmed,23.0
+02-07-2020,China,Beijing,_,Recovered,2.0
+02-07-2020,China,Heilongjiang,_,Confirmed,50.0
+02-07-2020,China,Heilongjiang,_,Recovered,4.0
+02-07-2020,China,Shanghai,_,Confirmed,20.0
+02-07-2020,China,Shanghai,_,Recovered,5.0
+02-07-2020,China,Fujian,_,Confirmed,9.0
+02-07-2020,China,Fujian,_,Recovered,6.0
+02-07-2020,China,Shaanxi,_,Confirmed,11.0
+02-07-2020,China,Shaanxi,_,Recovered,8.0
+02-07-2020,China,Guangxi,_,Confirmed,4.0
+02-07-2020,China,Guangxi,_,Recovered,3.0
+02-07-2020,China,Hebei,_,Confirmed,15.0
+02-07-2020,China,Hebei,_,Recovered,9.0
+02-07-2020,China,Yunnan,_,Confirmed,5.0
+02-07-2020,China,Yunnan,_,Recovered,5.0
+02-07-2020,China,Hainan,_,Confirmed,11.0
+02-07-2020,China,Hainan,_,Deaths,1.0
+02-07-2020,China,Hainan,_,Recovered,2.0
+02-07-2020,China,Shanxi,_,Confirmed,8.0
+02-07-2020,China,Shanxi,_,Recovered,3.0
+02-07-2020,China,Liaoning,_,Confirmed,5.0
+02-07-2020,China,Liaoning,_,Recovered,2.0
+02-07-2020,China,Guizhou,_,Confirmed,10.0
+02-07-2020,China,Tianjin,_,Confirmed,2.0
+02-07-2020,China,Gansu,_,Confirmed,5.0
+02-07-2020,China,Gansu,_,Recovered,3.0
+02-07-2020,China,Jilin,_,Confirmed,6.0
+02-07-2020,China,Jilin,_,Deaths,1.0
+02-07-2020,Others,Cruise Ship,_,Confirmed,61.0
+02-07-2020,China,Inner Mongolia,_,Confirmed,4.0
+02-07-2020,China,Inner Mongolia,_,Recovered,1.0
+02-07-2020,China,Ningxia,_,Confirmed,3.0
+02-07-2020,China,Ningxia,_,Recovered,4.0
+02-07-2020,China,Xinjiang,_,Confirmed,3.0
+02-07-2020,Singapore,_,_,Confirmed,2.0
+02-07-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-07-2020,South Korea,_,_,Confirmed,1.0
+02-07-2020,South Korea,_,_,Recovered,1.0
+02-07-2020,Germany,_,_,Confirmed,1.0
+02-07-2020,Malaysia,_,_,Recovered,1.0
+02-07-2020,Australia,Queensland,_,Confirmed,1.0
+02-07-2020,Canada,British Columbia,_,Confirmed,2.0
+02-07-2020,Italy,_,_,Confirmed,1.0
+02-07-2020,Philippines,_,_,Confirmed,1.0
+02-07-2020,UK,_,_,Confirmed,1.0
+02-08-2020,China,Hubei,_,Confirmed,2147.0
+02-08-2020,China,Hubei,_,Deaths,81.0
+02-08-2020,China,Hubei,_,Recovered,324.0
+02-08-2020,China,Guangdong,_,Confirmed,61.0
+02-08-2020,China,Guangdong,_,Recovered,24.0
+02-08-2020,China,Zhejiang,_,Confirmed,42.0
+02-08-2020,China,Zhejiang,_,Recovered,52.0
+02-08-2020,China,Henan,_,Confirmed,67.0
+02-08-2020,China,Henan,_,Deaths,1.0
+02-08-2020,China,Henan,_,Recovered,30.0
+02-08-2020,China,Hunan,_,Confirmed,31.0
+02-08-2020,China,Hunan,_,Deaths,1.0
+02-08-2020,China,Hunan,_,Recovered,44.0
+02-08-2020,China,Anhui,_,Confirmed,68.0
+02-08-2020,China,Anhui,_,Recovered,12.0
+02-08-2020,China,Jiangxi,_,Confirmed,37.0
+02-08-2020,China,Jiangxi,_,Recovered,10.0
+02-08-2020,China,Jiangsu,_,Confirmed,31.0
+02-08-2020,China,Jiangsu,_,Recovered,8.0
+02-08-2020,China,Chongqing,_,Confirmed,2.0
+02-08-2020,China,Chongqing,_,Recovered,8.0
+02-08-2020,China,Shandong,_,Confirmed,30.0
+02-08-2020,China,Shandong,_,Recovered,7.0
+02-08-2020,China,Sichuan,_,Confirmed,20.0
+02-08-2020,China,Sichuan,_,Recovered,18.0
+02-08-2020,China,Beijing,_,Confirmed,18.0
+02-08-2020,China,Beijing,_,Deaths,1.0
+02-08-2020,China,Beijing,_,Recovered,1.0
+02-08-2020,China,Heilongjiang,_,Confirmed,18.0
+02-08-2020,China,Heilongjiang,_,Deaths,2.0
+02-08-2020,China,Heilongjiang,_,Recovered,1.0
+02-08-2020,China,Shanghai,_,Confirmed,9.0
+02-08-2020,China,Shanghai,_,Recovered,11.0
+02-08-2020,China,Fujian,_,Confirmed,15.0
+02-08-2020,China,Fujian,_,Recovered,4.0
+02-08-2020,China,Hebei,_,Confirmed,23.0
+02-08-2020,China,Hebei,_,Recovered,8.0
+02-08-2020,China,Shaanxi,_,Confirmed,11.0
+02-08-2020,China,Shaanxi,_,Recovered,3.0
+02-08-2020,China,Guangxi,_,Confirmed,11.0
+02-08-2020,China,Yunnan,_,Recovered,5.0
+02-08-2020,China,Hainan,_,Confirmed,7.0
+02-08-2020,China,Hainan,_,Recovered,4.0
+02-08-2020,China,Shanxi,_,Confirmed,11.0
+02-08-2020,China,Shanxi,_,Recovered,6.0
+02-08-2020,China,Liaoning,_,Confirmed,6.0
+02-08-2020,China,Liaoning,_,Recovered,1.0
+02-08-2020,China,Guizhou,_,Confirmed,8.0
+02-08-2020,China,Guizhou,_,Recovered,1.0
+02-08-2020,China,Tianjin,_,Confirmed,7.0
+02-08-2020,China,Tianjin,_,Recovered,2.0
+02-08-2020,China,Gansu,_,Confirmed,12.0
+02-08-2020,China,Gansu,_,Deaths,1.0
+02-08-2020,China,Gansu,_,Recovered,3.0
+02-08-2020,China,Jilin,_,Confirmed,4.0
+02-08-2020,China,Inner Mongolia,_,Confirmed,2.0
+02-08-2020,China,Ningxia,_,Confirmed,2.0
+02-08-2020,China,Ningxia,_,Recovered,10.0
+02-08-2020,China,Xinjiang,_,Confirmed,3.0
+02-08-2020,Singapore,_,_,Confirmed,3.0
+02-08-2020,Singapore,_,_,Recovered,2.0
+02-08-2020,Thailand,_,_,Confirmed,7.0
+02-08-2020,Thailand,_,_,Recovered,5.0
+02-08-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-08-2020,Taiwan,Taiwan,_,Confirmed,1.0
+02-08-2020,Malaysia,_,_,Confirmed,4.0
+02-08-2020,Vietnam,_,_,Confirmed,3.0
+02-08-2020,France,_,_,Confirmed,5.0
+02-08-2020,United Arab Emirates,_,_,Confirmed,2.0
+02-08-2020,Sri Lanka,_,_,Recovered,1.0
+02-09-2020,China,Hubei,_,Confirmed,2531.0
+02-09-2020,China,Hubei,_,Deaths,91.0
+02-09-2020,China,Hubei,_,Recovered,356.0
+02-09-2020,China,Guangdong,_,Confirmed,36.0
+02-09-2020,China,Guangdong,_,Recovered,29.0
+02-09-2020,China,Zhejiang,_,Confirmed,27.0
+02-09-2020,China,Zhejiang,_,Recovered,26.0
+02-09-2020,China,Henan,_,Confirmed,52.0
+02-09-2020,China,Henan,_,Deaths,2.0
+02-09-2020,China,Henan,_,Recovered,37.0
+02-09-2020,China,Hunan,_,Confirmed,35.0
+02-09-2020,China,Hunan,_,Recovered,30.0
+02-09-2020,China,Anhui,_,Confirmed,46.0
+02-09-2020,China,Anhui,_,Deaths,1.0
+02-09-2020,China,Anhui,_,Recovered,13.0
+02-09-2020,China,Jiangxi,_,Confirmed,42.0
+02-09-2020,China,Jiangxi,_,Recovered,18.0
+02-09-2020,China,Chongqing,_,Confirmed,40.0
+02-09-2020,China,Chongqing,_,Recovered,12.0
+02-09-2020,China,Jiangsu,_,Confirmed,29.0
+02-09-2020,China,Jiangsu,_,Recovered,20.0
+02-09-2020,China,Shandong,_,Confirmed,28.0
+02-09-2020,China,Shandong,_,Deaths,1.0
+02-09-2020,China,Shandong,_,Recovered,19.0
+02-09-2020,China,Sichuan,_,Confirmed,22.0
+02-09-2020,China,Sichuan,_,Recovered,11.0
+02-09-2020,China,Beijing,_,Confirmed,11.0
+02-09-2020,China,Beijing,_,Recovered,3.0
+02-09-2020,China,Heilongjiang,_,Confirmed,12.0
+02-09-2020,China,Heilongjiang,_,Deaths,1.0
+02-09-2020,China,Heilongjiang,_,Recovered,1.0
+02-09-2020,China,Shanghai,_,Confirmed,7.0
+02-09-2020,China,Shanghai,_,Recovered,3.0
+02-09-2020,China,Fujian,_,Confirmed,11.0
+02-09-2020,China,Fujian,_,Recovered,11.0
+02-09-2020,China,Shaanxi,_,Confirmed,13.0
+02-09-2020,China,Shaanxi,_,Recovered,5.0
+02-09-2020,China,Hebei,_,Confirmed,11.0
+02-09-2020,China,Hebei,_,Deaths,1.0
+02-09-2020,China,Hebei,_,Recovered,4.0
+02-09-2020,China,Guangxi,_,Confirmed,12.0
+02-09-2020,China,Guangxi,_,Deaths,1.0
+02-09-2020,China,Guangxi,_,Recovered,1.0
+02-09-2020,China,Yunnan,_,Confirmed,3.0
+02-09-2020,China,Yunnan,_,Recovered,1.0
+02-09-2020,China,Hainan,_,Confirmed,7.0
+02-09-2020,China,Hainan,_,Deaths,1.0
+02-09-2020,China,Hainan,_,Recovered,5.0
+02-09-2020,China,Shanxi,_,Confirmed,4.0
+02-09-2020,China,Shanxi,_,Recovered,4.0
+02-09-2020,China,Liaoning,_,Confirmed,2.0
+02-09-2020,China,Liaoning,_,Recovered,4.0
+02-09-2020,China,Guizhou,_,Confirmed,10.0
+02-09-2020,China,Tianjin,_,Confirmed,3.0
+02-09-2020,China,Gansu,_,Confirmed,4.0
+02-09-2020,China,Gansu,_,Deaths,1.0
+02-09-2020,China,Gansu,_,Recovered,4.0
+02-09-2020,China,Jilin,_,Confirmed,9.0
+02-09-2020,China,Jilin,_,Recovered,8.0
+02-09-2020,Others,Diamond Princess cruise ship,_,Confirmed,64.0
+02-09-2020,China,Inner Mongolia,_,Confirmed,2.0
+02-09-2020,China,Xinjiang,_,Confirmed,3.0
+02-09-2020,Singapore,_,_,Confirmed,7.0
+02-09-2020,Hong Kong,Hong Kong,_,Confirmed,3.0
+02-09-2020,Japan,_,_,Confirmed,1.0
+02-09-2020,South Korea,_,_,Confirmed,1.0
+02-09-2020,South Korea,_,_,Recovered,2.0
+02-09-2020,Taiwan,Taiwan,_,Confirmed,1.0
+02-09-2020,Germany,_,_,Confirmed,1.0
+02-09-2020,Spain,_,_,Confirmed,1.0
+02-09-2020,United States of America,IL,Chicago,Recovered,2.0
+02-09-2020,United States of America,WA,Seattle,Recovered,1.0
+02-10-2020,China,Hubei,_,Confirmed,2097.0
+02-10-2020,China,Hubei,_,Deaths,103.0
+02-10-2020,China,Hubei,_,Recovered,427.0
+02-10-2020,China,Guangdong,_,Confirmed,28.0
+02-10-2020,China,Guangdong,_,Recovered,26.0
+02-10-2020,China,Zhejiang,_,Confirmed,17.0
+02-10-2020,China,Zhejiang,_,Recovered,41.0
+02-10-2020,China,Henan,_,Confirmed,40.0
+02-10-2020,China,Henan,_,Recovered,38.0
+02-10-2020,China,Hunan,_,Confirmed,41.0
+02-10-2020,China,Hunan,_,Recovered,22.0
+02-10-2020,China,Anhui,_,Confirmed,51.0
+02-10-2020,China,Anhui,_,Deaths,2.0
+02-10-2020,China,Anhui,_,Recovered,16.0
+02-10-2020,China,Jiangxi,_,Confirmed,31.0
+02-10-2020,China,Jiangxi,_,Deaths,1.0
+02-10-2020,China,Jiangxi,_,Recovered,32.0
+02-10-2020,China,Jiangsu,_,Confirmed,24.0
+02-10-2020,China,Jiangsu,_,Recovered,10.0
+02-10-2020,China,Chongqing,_,Confirmed,18.0
+02-10-2020,China,Chongqing,_,Recovered,15.0
+02-10-2020,China,Shandong,_,Confirmed,22.0
+02-10-2020,China,Shandong,_,Recovered,3.0
+02-10-2020,China,Sichuan,_,Confirmed,19.0
+02-10-2020,China,Sichuan,_,Recovered,9.0
+02-10-2020,China,Beijing,_,Confirmed,11.0
+02-10-2020,China,Beijing,_,Recovered,7.0
+02-10-2020,China,Heilongjiang,_,Confirmed,24.0
+02-10-2020,China,Heilongjiang,_,Deaths,1.0
+02-10-2020,China,Heilongjiang,_,Recovered,16.0
+02-10-2020,China,Shanghai,_,Confirmed,6.0
+02-10-2020,China,Shanghai,_,Recovered,4.0
+02-10-2020,China,Fujian,_,Confirmed,11.0
+02-10-2020,China,Fujian,_,Recovered,4.0
+02-10-2020,China,Hebei,_,Confirmed,12.0
+02-10-2020,China,Hebei,_,Recovered,7.0
+02-10-2020,China,Shaanxi,_,Confirmed,5.0
+02-10-2020,China,Shaanxi,_,Recovered,5.0
+02-10-2020,China,Guangxi,_,Confirmed,15.0
+02-10-2020,China,Guangxi,_,Recovered,6.0
+02-10-2020,China,Yunnan,_,Confirmed,8.0
+02-10-2020,China,Yunnan,_,Recovered,1.0
+02-10-2020,China,Hainan,_,Confirmed,7.0
+02-10-2020,Others,Diamond Princess cruise ship,_,Confirmed,71.0
+02-10-2020,China,Guizhou,_,Confirmed,10.0
+02-10-2020,China,Guizhou,_,Recovered,3.0
+02-10-2020,China,Liaoning,_,Confirmed,1.0
+02-10-2020,China,Liaoning,_,Recovered,1.0
+02-10-2020,China,Tianjin,_,Confirmed,4.0
+02-10-2020,China,Tianjin,_,Recovered,4.0
+02-10-2020,China,Gansu,_,Recovered,1.0
+02-10-2020,China,Jilin,_,Confirmed,2.0
+02-10-2020,China,Jilin,_,Recovered,1.0
+02-10-2020,China,Inner Mongolia,_,Confirmed,4.0
+02-10-2020,China,Ningxia,_,Confirmed,4.0
+02-10-2020,China,Xinjiang,_,Confirmed,4.0
+02-10-2020,Singapore,_,_,Confirmed,5.0
+02-10-2020,Hong Kong,Hong Kong,_,Confirmed,9.0
+02-10-2020,South Korea,_,_,Confirmed,2.0
+02-10-2020,Japan,_,_,Recovered,3.0
+02-10-2020,Malaysia,_,_,Confirmed,2.0
+02-10-2020,Vietnam,_,_,Confirmed,1.0
+02-10-2020,UK,_,_,Confirmed,5.0
+02-10-2020,United Arab Emirates,_,_,Confirmed,1.0
+02-11-2020,China,Hubei,_,Confirmed,1638.0
+02-11-2020,China,Hubei,_,Deaths,94.0
+02-11-2020,China,Hubei,_,Recovered,417.0
+02-11-2020,China,Guangdong,_,Confirmed,18.0
+02-11-2020,China,Guangdong,_,Recovered,45.0
+02-11-2020,China,Zhejiang,_,Confirmed,25.0
+02-11-2020,China,Zhejiang,_,Recovered,28.0
+02-11-2020,China,Henan,_,Confirmed,32.0
+02-11-2020,China,Henan,_,Deaths,1.0
+02-11-2020,China,Henan,_,Recovered,27.0
+02-11-2020,China,Hunan,_,Confirmed,33.0
+02-11-2020,China,Hunan,_,Recovered,39.0
+02-11-2020,China,Anhui,_,Confirmed,30.0
+02-11-2020,China,Anhui,_,Deaths,1.0
+02-11-2020,China,Anhui,_,Recovered,17.0
+02-11-2020,China,Jiangxi,_,Confirmed,33.0
+02-11-2020,China,Jiangxi,_,Recovered,23.0
+02-11-2020,China,Jiangsu,_,Confirmed,23.0
+02-11-2020,China,Jiangsu,_,Recovered,12.0
+02-11-2020,China,Chongqing,_,Confirmed,19.0
+02-11-2020,China,Chongqing,_,Deaths,1.0
+02-11-2020,China,Chongqing,_,Recovered,13.0
+02-11-2020,China,Shandong,_,Confirmed,21.0
+02-11-2020,China,Shandong,_,Recovered,14.0
+02-11-2020,China,Sichuan,_,Confirmed,12.0
+02-11-2020,China,Sichuan,_,Recovered,5.0
+02-11-2020,China,Heilongjiang,_,Confirmed,29.0
+02-11-2020,China,Heilongjiang,_,Deaths,1.0
+02-11-2020,China,Beijing,_,Confirmed,5.0
+02-11-2020,China,Beijing,_,Deaths,1.0
+02-11-2020,China,Beijing,_,Recovered,4.0
+02-11-2020,China,Shanghai,_,Confirmed,4.0
+02-11-2020,China,Shanghai,_,Recovered,4.0
+02-11-2020,China,Fujian,_,Confirmed,6.0
+02-11-2020,China,Fujian,_,Recovered,6.0
+02-11-2020,China,Hebei,_,Confirmed,21.0
+02-11-2020,China,Hebei,_,Recovered,7.0
+02-11-2020,China,Shaanxi,_,Confirmed,6.0
+02-11-2020,China,Shaanxi,_,Recovered,2.0
+02-11-2020,China,Guangxi,_,Confirmed,5.0
+02-11-2020,China,Guangxi,_,Recovered,9.0
+02-11-2020,China,Yunnan,_,Confirmed,4.0
+02-11-2020,China,Yunnan,_,Recovered,1.0
+02-11-2020,China,Hainan,_,Confirmed,6.0
+02-11-2020,China,Hainan,_,Recovered,1.0
+02-11-2020,China,Guizhou,_,Confirmed,18.0
+02-11-2020,China,Guizhou,_,Recovered,7.0
+02-11-2020,China,Shanxi,_,Confirmed,5.0
+02-11-2020,China,Shanxi,_,Recovered,5.0
+02-11-2020,China,Liaoning,_,Confirmed,3.0
+02-11-2020,China,Liaoning,_,Recovered,6.0
+02-11-2020,China,Tianjin,_,Confirmed,11.0
+02-11-2020,China,Tianjin,_,Deaths,1.0
+02-11-2020,China,Tianjin,_,Recovered,2.0
+02-11-2020,China,Gansu,_,Confirmed,3.0
+02-11-2020,China,Gansu,_,Recovered,7.0
+02-11-2020,China,Jilin,_,Confirmed,1.0
+02-11-2020,China,Jilin,_,Recovered,5.0
+02-11-2020,China,Xinjiang,_,Confirmed,6.0
+02-11-2020,China,Xinjiang,_,Recovered,3.0
+02-11-2020,China,Ningxia,_,Confirmed,4.0
+02-11-2020,China,Ningxia,_,Recovered,9.0
+02-11-2020,Hong Kong,Hong Kong,_,Confirmed,11.0
+02-11-2020,Singapore,_,_,Confirmed,2.0
+02-11-2020,Singapore,_,_,Recovered,7.0
+02-11-2020,Thailand,_,_,Confirmed,1.0
+02-11-2020,South Korea,_,_,Confirmed,1.0
+02-11-2020,Japan,_,_,Recovered,5.0
+02-11-2020,China,Qinghai,_,Recovered,2.0
+02-11-2020,Malaysia,_,_,Recovered,2.0
+02-11-2020,Germany,_,_,Confirmed,2.0
+02-11-2020,Vietnam,_,_,Confirmed,1.0
+02-11-2020,Vietnam,_,_,Recovered,5.0
+02-11-2020,United States of America,CA,San Diego County,Confirmed,1.0
+02-12-2020,China,Hubei,_,Recovered,47.0
+02-12-2020,China,Guangdong,_,Confirmed,42.0
+02-12-2020,China,Guangdong,_,Recovered,63.0
+02-12-2020,China,Henan,_,Confirmed,30.0
+02-12-2020,China,Henan,_,Deaths,1.0
+02-12-2020,China,Henan,_,Recovered,28.0
+02-12-2020,China,Zhejiang,_,Confirmed,14.0
+02-12-2020,China,Zhejiang,_,Recovered,51.0
+02-12-2020,China,Hunan,_,Confirmed,34.0
+02-12-2020,China,Hunan,_,Deaths,1.0
+02-12-2020,China,Hunan,_,Recovered,57.0
+02-12-2020,China,Anhui,_,Confirmed,29.0
+02-12-2020,China,Anhui,_,Recovered,22.0
+02-12-2020,China,Jiangxi,_,Confirmed,40.0
+02-12-2020,China,Jiangxi,_,Recovered,24.0
+02-12-2020,China,Jiangsu,_,Confirmed,28.0
+02-12-2020,China,Jiangsu,_,Recovered,32.0
+02-12-2020,China,Chongqing,_,Confirmed,13.0
+02-12-2020,China,Chongqing,_,Recovered,23.0
+02-12-2020,China,Shandong,_,Confirmed,10.0
+02-12-2020,China,Shandong,_,Deaths,1.0
+02-12-2020,China,Shandong,_,Recovered,12.0
+02-12-2020,China,Sichuan,_,Confirmed,19.0
+02-12-2020,China,Sichuan,_,Recovered,7.0
+02-12-2020,China,Heilongjiang,_,Confirmed,18.0
+02-12-2020,China,Heilongjiang,_,Recovered,3.0
+02-12-2020,China,Beijing,_,Confirmed,10.0
+02-12-2020,China,Beijing,_,Recovered,8.0
+02-12-2020,China,Shanghai,_,Confirmed,8.0
+02-12-2020,China,Shanghai,_,Recovered,5.0
+02-12-2020,China,Fujian,_,Confirmed,5.0
+02-12-2020,China,Fujian,_,Recovered,8.0
+02-12-2020,China,Hebei,_,Confirmed,12.0
+02-12-2020,China,Hebei,_,Recovered,6.0
+02-12-2020,China,Shaanxi,_,Confirmed,6.0
+02-12-2020,China,Shaanxi,_,Recovered,11.0
+02-12-2020,China,Guangxi,_,Confirmed,7.0
+02-12-2020,Others,Diamond Princess cruise ship,_,Confirmed,40.0
+02-12-2020,China,Hainan,_,Confirmed,13.0
+02-12-2020,China,Hainan,_,Deaths,1.0
+02-12-2020,China,Hainan,_,Recovered,7.0
+02-12-2020,China,Yunnan,_,Confirmed,1.0
+02-12-2020,China,Yunnan,_,Recovered,6.0
+02-12-2020,China,Guizhou,_,Confirmed,6.0
+02-12-2020,China,Guizhou,_,Recovered,1.0
+02-12-2020,China,Shanxi,_,Confirmed,2.0
+02-12-2020,China,Shanxi,_,Recovered,3.0
+02-12-2020,China,Liaoning,_,Confirmed,5.0
+02-12-2020,China,Liaoning,_,Deaths,1.0
+02-12-2020,China,Liaoning,_,Recovered,1.0
+02-12-2020,China,Tianjin,_,Confirmed,6.0
+02-12-2020,China,Tianjin,_,Recovered,1.0
+02-12-2020,China,Gansu,_,Confirmed,1.0
+02-12-2020,China,Gansu,_,Recovered,7.0
+02-12-2020,China,Jilin,_,Confirmed,2.0
+02-12-2020,China,Jilin,_,Recovered,4.0
+02-12-2020,China,Inner Mongolia,_,Confirmed,2.0
+02-12-2020,China,Inner Mongolia,_,Recovered,1.0
+02-12-2020,China,Xinjiang,_,Confirmed,4.0
+02-12-2020,China,Ningxia,_,Confirmed,5.0
+02-12-2020,China,Ningxia,_,Recovered,2.0
+02-12-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-12-2020,Hong Kong,Hong Kong,_,Recovered,1.0
+02-12-2020,Singapore,_,_,Confirmed,3.0
+02-12-2020,Singapore,_,_,Recovered,6.0
+02-12-2020,Japan,_,_,Confirmed,2.0
+02-12-2020,South Korea,_,_,Recovered,4.0
+02-12-2020,China,Qinghai,_,Recovered,4.0
+02-12-2020,France,_,_,Recovered,2.0
+02-12-2020,Macau,Macau,_,Recovered,1.0
+02-12-2020,UK,_,_,Confirmed,1.0
+02-12-2020,UK,_,_,Recovered,1.0
+02-12-2020,United Arab Emirates,_,_,Recovered,1.0
+02-12-2020,Philippines,_,_,Recovered,1.0
+02-12-2020,Russia,_,_,Recovered,2.0
+02-12-2020,Cambodia,_,_,Recovered,1.0
+02-12-2020,Canada,ON,London,Recovered,1.0
+02-12-2020,Finland,_,_,Recovered,1.0
+02-12-2020,China,Tibet,_,Recovered,1.0
+02-12-2020,Nepal,_,_,Recovered,1.0
+02-13-2020,China,Hubei,_,Confirmed,14840.0
+02-13-2020,China,Hubei,_,Deaths,242.0
+02-13-2020,China,Hubei,_,Recovered,773.0
+02-13-2020,China,Guangdong,_,Confirmed,22.0
+02-13-2020,China,Guangdong,_,Deaths,1.0
+02-13-2020,China,Guangdong,_,Recovered,39.0
+02-13-2020,China,Henan,_,Confirmed,34.0
+02-13-2020,China,Henan,_,Deaths,2.0
+02-13-2020,China,Henan,_,Recovered,50.0
+02-13-2020,China,Zhejiang,_,Confirmed,14.0
+02-13-2020,China,Zhejiang,_,Recovered,39.0
+02-13-2020,China,Hunan,_,Confirmed,22.0
+02-13-2020,China,Hunan,_,Recovered,35.0
+02-13-2020,China,Anhui,_,Confirmed,21.0
+02-13-2020,China,Anhui,_,Deaths,1.0
+02-13-2020,China,Anhui,_,Recovered,30.0
+02-13-2020,China,Jiangxi,_,Confirmed,28.0
+02-13-2020,China,Jiangxi,_,Recovered,18.0
+02-13-2020,China,Jiangsu,_,Confirmed,27.0
+02-13-2020,China,Jiangsu,_,Recovered,14.0
+02-13-2020,China,Chongqing,_,Confirmed,11.0
+02-13-2020,China,Chongqing,_,Deaths,1.0
+02-13-2020,China,Chongqing,_,Recovered,26.0
+02-13-2020,China,Shandong,_,Confirmed,12.0
+02-13-2020,China,Shandong,_,Recovered,13.0
+02-13-2020,China,Sichuan,_,Confirmed,15.0
+02-13-2020,China,Sichuan,_,Recovered,12.0
+02-13-2020,China,Heilongjiang,_,Confirmed,17.0
+02-13-2020,China,Heilongjiang,_,Deaths,1.0
+02-13-2020,China,Heilongjiang,_,Recovered,2.0
+02-13-2020,China,Beijing,_,Confirmed,14.0
+02-13-2020,China,Beijing,_,Recovered,13.0
+02-13-2020,China,Shanghai,_,Confirmed,4.0
+02-13-2020,China,Shanghai,_,Recovered,5.0
+02-13-2020,China,Fujian,_,Confirmed,7.0
+02-13-2020,China,Fujian,_,Recovered,4.0
+02-13-2020,China,Hebei,_,Confirmed,14.0
+02-13-2020,China,Hebei,_,Deaths,1.0
+02-13-2020,China,Hebei,_,Recovered,14.0
+02-13-2020,China,Shaanxi,_,Confirmed,4.0
+02-13-2020,China,Shaanxi,_,Recovered,3.0
+02-13-2020,China,Guangxi,_,Deaths,1.0
+02-13-2020,China,Guangxi,_,Recovered,1.0
+02-13-2020,China,Hainan,_,Recovered,3.0
+02-13-2020,China,Yunnan,_,Confirmed,2.0
+02-13-2020,China,Yunnan,_,Recovered,1.0
+02-13-2020,China,Guizhou,_,Confirmed,2.0
+02-13-2020,China,Guizhou,_,Recovered,9.0
+02-13-2020,China,Shanxi,_,Recovered,3.0
+02-13-2020,China,Tianjin,_,Confirmed,7.0
+02-13-2020,China,Tianjin,_,Deaths,1.0
+02-13-2020,China,Tianjin,_,Recovered,10.0
+02-13-2020,China,Liaoning,_,Confirmed,1.0
+02-13-2020,China,Liaoning,_,Recovered,2.0
+02-13-2020,China,Gansu,_,Confirmed,3.0
+02-13-2020,China,Gansu,_,Recovered,8.0
+02-13-2020,China,Jilin,_,Confirmed,1.0
+02-13-2020,China,Jilin,_,Recovered,2.0
+02-13-2020,China,Ningxia,_,Confirmed,6.0
+02-13-2020,China,Xinjiang,_,Confirmed,4.0
+02-13-2020,China,Xinjiang,_,Deaths,1.0
+02-13-2020,China,Xinjiang,_,Recovered,3.0
+02-13-2020,China,Inner Mongolia,_,Confirmed,1.0
+02-13-2020,Singapore,_,_,Confirmed,8.0
+02-13-2020,Hong Kong,Hong Kong,_,Confirmed,3.0
+02-13-2020,Thailand,_,_,Recovered,2.0
+02-13-2020,Japan,_,_,Deaths,1.0
+02-13-2020,Malaysia,_,_,Confirmed,1.0
+02-13-2020,China,Qinghai,_,Recovered,2.0
+02-13-2020,Germany,_,_,Recovered,1.0
+02-13-2020,Vietnam,_,_,Confirmed,1.0
+02-13-2020,Vietnam,_,_,Recovered,1.0
+02-13-2020,Macau,Macau,_,Recovered,1.0
+02-13-2020,Australia,New South Wales,_,Recovered,2.0
+02-13-2020,Australia,Victoria,_,Recovered,4.0
+02-13-2020,United States of America,CA,San Diego County,Confirmed,1.0
+02-13-2020,United States of America,TX,San Antonio,Confirmed,1.0
+02-14-2020,China,Hubei,_,Confirmed,6200.0
+02-14-2020,China,Hubei,_,Deaths,147.0
+02-14-2020,China,Hubei,_,Recovered,1315.0
+02-14-2020,China,Guangdong,_,Confirmed,20.0
+02-14-2020,China,Guangdong,_,Recovered,48.0
+02-14-2020,China,Henan,_,Confirmed,15.0
+02-14-2020,China,Henan,_,Deaths,1.0
+02-14-2020,China,Henan,_,Recovered,61.0
+02-14-2020,China,Zhejiang,_,Confirmed,10.0
+02-14-2020,China,Zhejiang,_,Recovered,43.0
+02-14-2020,China,Hunan,_,Confirmed,20.0
+02-14-2020,China,Hunan,_,Recovered,25.0
+02-14-2020,China,Anhui,_,Confirmed,24.0
+02-14-2020,China,Anhui,_,Deaths,1.0
+02-14-2020,China,Anhui,_,Recovered,36.0
+02-14-2020,China,Jiangxi,_,Confirmed,28.0
+02-14-2020,China,Jiangxi,_,Recovered,17.0
+02-14-2020,China,Jiangsu,_,Confirmed,23.0
+02-14-2020,China,Jiangsu,_,Recovered,18.0
+02-14-2020,China,Chongqing,_,Confirmed,8.0
+02-14-2020,China,Chongqing,_,Deaths,1.0
+02-14-2020,China,Chongqing,_,Recovered,24.0
+02-14-2020,China,Shandong,_,Confirmed,14.0
+02-14-2020,China,Shandong,_,Recovered,31.0
+02-14-2020,China,Sichuan,_,Confirmed,12.0
+02-14-2020,China,Sichuan,_,Recovered,10.0
+02-14-2020,China,Heilongjiang,_,Confirmed,24.0
+02-14-2020,China,Heilongjiang,_,Deaths,2.0
+02-14-2020,China,Heilongjiang,_,Recovered,14.0
+02-14-2020,China,Beijing,_,Confirmed,6.0
+02-14-2020,China,Beijing,_,Recovered,11.0
+02-14-2020,China,Shanghai,_,Confirmed,3.0
+02-14-2020,China,Shanghai,_,Recovered,28.0
+02-14-2020,China,Hebei,_,Confirmed,18.0
+02-14-2020,China,Hebei,_,Recovered,19.0
+02-14-2020,China,Fujian,_,Confirmed,2.0
+02-14-2020,China,Fujian,_,Recovered,6.0
+02-14-2020,China,Shaanxi,_,Confirmed,1.0
+02-14-2020,China,Shaanxi,_,Recovered,8.0
+02-14-2020,China,Guangxi,_,Confirmed,4.0
+02-14-2020,China,Guangxi,_,Recovered,3.0
+02-14-2020,Others,Diamond Princess cruise ship,_,Confirmed,43.0
+02-14-2020,China,Yunnan,_,Confirmed,6.0
+02-14-2020,China,Yunnan,_,Recovered,9.0
+02-14-2020,China,Hainan,_,Confirmed,2.0
+02-14-2020,China,Hainan,_,Recovered,13.0
+02-14-2020,China,Guizhou,_,Confirmed,5.0
+02-14-2020,China,Guizhou,_,Recovered,1.0
+02-14-2020,China,Shanxi,_,Confirmed,1.0
+02-14-2020,China,Shanxi,_,Recovered,2.0
+02-14-2020,China,Tianjin,_,Confirmed,1.0
+02-14-2020,China,Tianjin,_,Recovered,10.0
+02-14-2020,China,Liaoning,_,Confirmed,2.0
+02-14-2020,China,Liaoning,_,Recovered,7.0
+02-14-2020,China,Jilin,_,Confirmed,2.0
+02-14-2020,China,Jilin,_,Recovered,1.0
+02-14-2020,China,Ningxia,_,Confirmed,3.0
+02-14-2020,Singapore,_,_,Confirmed,9.0
+02-14-2020,Singapore,_,_,Recovered,2.0
+02-14-2020,China,Inner Mongolia,_,Confirmed,4.0
+02-14-2020,China,Xinjiang,_,Confirmed,2.0
+02-14-2020,Hong Kong,Hong Kong,_,Confirmed,3.0
+02-14-2020,Japan,_,_,Confirmed,1.0
+02-14-2020,Taiwan,Taiwan,_,Recovered,1.0
+02-14-2020,Egypt,_,_,Confirmed,1.0
+02-15-2020,China,Hubei,_,Confirmed,1843.0
+02-15-2020,China,Hubei,_,Deaths,139.0
+02-15-2020,China,Hubei,_,Recovered,849.0
+02-15-2020,China,Guangdong,_,Confirmed,33.0
+02-15-2020,China,Guangdong,_,Recovered,48.0
+02-15-2020,China,Henan,_,Confirmed,28.0
+02-15-2020,China,Henan,_,Deaths,2.0
+02-15-2020,China,Henan,_,Recovered,34.0
+02-15-2020,China,Zhejiang,_,Confirmed,7.0
+02-15-2020,China,Zhejiang,_,Recovered,25.0
+02-15-2020,China,Hunan,_,Confirmed,13.0
+02-15-2020,China,Hunan,_,Recovered,61.0
+02-15-2020,China,Anhui,_,Confirmed,16.0
+02-15-2020,China,Anhui,_,Recovered,28.0
+02-15-2020,China,Jiangxi,_,Confirmed,13.0
+02-15-2020,China,Jiangxi,_,Recovered,23.0
+02-15-2020,China,Jiangsu,_,Confirmed,11.0
+02-15-2020,China,Jiangsu,_,Recovered,29.0
+02-15-2020,China,Chongqing,_,Confirmed,7.0
+02-15-2020,China,Chongqing,_,Recovered,32.0
+02-15-2020,China,Shandong,_,Confirmed,9.0
+02-15-2020,China,Shandong,_,Recovered,20.0
+02-15-2020,China,Sichuan,_,Confirmed,7.0
+02-15-2020,China,Sichuan,_,Recovered,5.0
+02-15-2020,China,Heilongjiang,_,Confirmed,6.0
+02-15-2020,China,Heilongjiang,_,Recovered,21.0
+02-15-2020,China,Beijing,_,Confirmed,3.0
+02-15-2020,China,Beijing,_,Deaths,1.0
+02-15-2020,China,Beijing,_,Recovered,18.0
+02-15-2020,China,Shanghai,_,Confirmed,8.0
+02-15-2020,China,Shanghai,_,Recovered,34.0
+02-15-2020,China,Hebei,_,Confirmed,8.0
+02-15-2020,China,Hebei,_,Recovered,14.0
+02-15-2020,China,Fujian,_,Confirmed,4.0
+02-15-2020,China,Fujian,_,Recovered,8.0
+02-15-2020,Others,Diamond Princess cruise ship,_,Confirmed,67.0
+02-15-2020,China,Guangxi,_,Confirmed,9.0
+02-15-2020,China,Guangxi,_,Recovered,8.0
+02-15-2020,China,Shaanxi,_,Confirmed,2.0
+02-15-2020,China,Shaanxi,_,Recovered,6.0
+02-15-2020,China,Yunnan,_,Confirmed,6.0
+02-15-2020,China,Yunnan,_,Recovered,6.0
+02-15-2020,China,Hainan,_,Confirmed,3.0
+02-15-2020,China,Guizhou,_,Confirmed,3.0
+02-15-2020,China,Guizhou,_,Recovered,13.0
+02-15-2020,China,Shanxi,_,Confirmed,1.0
+02-15-2020,China,Shanxi,_,Recovered,8.0
+02-15-2020,China,Tianjin,_,Confirmed,2.0
+02-15-2020,China,Tianjin,_,Recovered,6.0
+02-15-2020,China,Liaoning,_,Recovered,2.0
+02-15-2020,China,Gansu,_,Recovered,10.0
+02-15-2020,China,Jilin,_,Confirmed,2.0
+02-15-2020,China,Jilin,_,Recovered,1.0
+02-15-2020,Singapore,_,_,Confirmed,5.0
+02-15-2020,Singapore,_,_,Recovered,1.0
+02-15-2020,China,Ningxia,_,Confirmed,3.0
+02-15-2020,China,Ningxia,_,Recovered,9.0
+02-15-2020,China,Xinjiang,_,Confirmed,5.0
+02-15-2020,China,Xinjiang,_,Recovered,4.0
+02-15-2020,China,Inner Mongolia,_,Confirmed,3.0
+02-15-2020,China,Inner Mongolia,_,Recovered,1.0
+02-15-2020,Japan,_,_,Confirmed,14.0
+02-15-2020,Japan,_,_,Recovered,3.0
+02-15-2020,South Korea,_,_,Recovered,2.0
+02-15-2020,Malaysia,_,_,Confirmed,3.0
+02-15-2020,Malaysia,_,_,Recovered,4.0
+02-15-2020,China,Qinghai,_,Recovered,2.0
+02-15-2020,France,_,_,Confirmed,1.0
+02-15-2020,France,_,_,Deaths,1.0
+02-15-2020,France,_,_,Recovered,2.0
+02-15-2020,United Arab Emirates,_,_,Recovered,2.0
+02-15-2020,Spain,_,_,Recovered,2.0
+02-16-2020,China,Hubei,_,Confirmed,1933.0
+02-16-2020,China,Hubei,_,Deaths,100.0
+02-16-2020,China,Hubei,_,Recovered,1016.0
+02-16-2020,China,Guangdong,_,Confirmed,22.0
+02-16-2020,China,Guangdong,_,Recovered,55.0
+02-16-2020,China,Henan,_,Confirmed,19.0
+02-16-2020,China,Henan,_,Recovered,49.0
+02-16-2020,China,Zhejiang,_,Confirmed,5.0
+02-16-2020,China,Zhejiang,_,Recovered,28.0
+02-16-2020,China,Hunan,_,Confirmed,3.0
+02-16-2020,China,Hunan,_,Deaths,1.0
+02-16-2020,China,Hunan,_,Recovered,39.0
+02-16-2020,China,Anhui,_,Confirmed,12.0
+02-16-2020,China,Anhui,_,Recovered,34.0
+02-16-2020,China,Jiangxi,_,Confirmed,12.0
+02-16-2020,China,Jiangxi,_,Recovered,30.0
+02-16-2020,China,Jiangsu,_,Confirmed,13.0
+02-16-2020,China,Jiangsu,_,Recovered,32.0
+02-16-2020,China,Chongqing,_,Confirmed,7.0
+02-16-2020,China,Chongqing,_,Recovered,23.0
+02-16-2020,China,Shandong,_,Confirmed,5.0
+02-16-2020,China,Shandong,_,Recovered,17.0
+02-16-2020,China,Sichuan,_,Confirmed,11.0
+02-16-2020,China,Sichuan,_,Deaths,2.0
+02-16-2020,China,Sichuan,_,Recovered,12.0
+02-16-2020,China,Heilongjiang,_,Confirmed,20.0
+02-16-2020,China,Heilongjiang,_,Recovered,11.0
+02-16-2020,China,Beijing,_,Confirmed,5.0
+02-16-2020,China,Beijing,_,Recovered,10.0
+02-16-2020,Others,Diamond Princess cruise ship,_,Confirmed,70.0
+02-16-2020,China,Shanghai,_,Confirmed,2.0
+02-16-2020,China,Shanghai,_,Recovered,16.0
+02-16-2020,China,Hebei,_,Confirmed,9.0
+02-16-2020,China,Hebei,_,Recovered,4.0
+02-16-2020,China,Fujian,_,Confirmed,2.0
+02-16-2020,China,Fujian,_,Recovered,11.0
+02-16-2020,China,Guangxi,_,Confirmed,2.0
+02-16-2020,China,Guangxi,_,Recovered,5.0
+02-16-2020,China,Shaanxi,_,Confirmed,4.0
+02-16-2020,China,Shaanxi,_,Recovered,11.0
+02-16-2020,China,Yunnan,_,Confirmed,3.0
+02-16-2020,China,Hainan,_,Recovered,13.0
+02-16-2020,China,Guizhou,_,Confirmed,1.0
+02-16-2020,China,Guizhou,_,Recovered,5.0
+02-16-2020,China,Shanxi,_,Confirmed,1.0
+02-16-2020,China,Shanxi,_,Recovered,4.0
+02-16-2020,China,Tianjin,_,Confirmed,2.0
+02-16-2020,China,Tianjin,_,Recovered,8.0
+02-16-2020,China,Liaoning,_,Confirmed,2.0
+02-16-2020,China,Liaoning,_,Recovered,9.0
+02-16-2020,China,Gansu,_,Recovered,5.0
+02-16-2020,China,Jilin,_,Confirmed,1.0
+02-16-2020,China,Jilin,_,Recovered,4.0
+02-16-2020,Singapore,_,_,Confirmed,3.0
+02-16-2020,China,Xinjiang,_,Confirmed,1.0
+02-16-2020,China,Xinjiang,_,Recovered,2.0
+02-16-2020,China,Inner Mongolia,_,Confirmed,2.0
+02-16-2020,China,Inner Mongolia,_,Recovered,1.0
+02-16-2020,Japan,_,_,Confirmed,16.0
+02-16-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-16-2020,Hong Kong,Hong Kong,_,Recovered,1.0
+02-16-2020,Thailand,_,_,Confirmed,1.0
+02-16-2020,Thailand,_,_,Recovered,2.0
+02-16-2020,South Korea,_,_,Confirmed,1.0
+02-16-2020,Taiwan,Taiwan,_,Confirmed,2.0
+02-16-2020,Taiwan,Taiwan,_,Deaths,1.0
+02-16-2020,Macau,Macau,_,Recovered,2.0
+02-16-2020,UK,_,_,Recovered,7.0
+02-16-2020,United Arab Emirates,_,_,Confirmed,1.0
+02-16-2020,United Arab Emirates,_,_,Recovered,1.0
+02-16-2020,India,_,_,Recovered,3.0
+02-17-2020,China,Hubei,_,Confirmed,1807.0
+02-17-2020,China,Hubei,_,Deaths,93.0
+02-17-2020,China,Hubei,_,Recovered,1223.0
+02-17-2020,China,Guangdong,_,Confirmed,6.0
+02-17-2020,China,Guangdong,_,Deaths,2.0
+02-17-2020,China,Guangdong,_,Recovered,59.0
+02-17-2020,China,Henan,_,Confirmed,15.0
+02-17-2020,China,Henan,_,Deaths,3.0
+02-17-2020,China,Henan,_,Recovered,69.0
+02-17-2020,China,Zhejiang,_,Confirmed,4.0
+02-17-2020,China,Zhejiang,_,Recovered,51.0
+02-17-2020,China,Hunan,_,Confirmed,2.0
+02-17-2020,China,Hunan,_,Recovered,34.0
+02-17-2020,China,Anhui,_,Confirmed,11.0
+02-17-2020,China,Anhui,_,Recovered,25.0
+02-17-2020,China,Jiangxi,_,Confirmed,5.0
+02-17-2020,China,Jiangxi,_,Recovered,35.0
+02-17-2020,China,Jiangsu,_,Confirmed,9.0
+02-17-2020,China,Jiangsu,_,Recovered,40.0
+02-17-2020,China,Chongqing,_,Confirmed,2.0
+02-17-2020,China,Chongqing,_,Recovered,18.0
+02-17-2020,China,Shandong,_,Confirmed,4.0
+02-17-2020,China,Shandong,_,Recovered,18.0
+02-17-2020,China,Sichuan,_,Confirmed,14.0
+02-17-2020,China,Sichuan,_,Recovered,25.0
+02-17-2020,China,Heilongjiang,_,Confirmed,12.0
+02-17-2020,China,Heilongjiang,_,Recovered,6.0
+02-17-2020,Others,Diamond Princess cruise ship,_,Confirmed,99.0
+02-17-2020,China,Beijing,_,Confirmed,1.0
+02-17-2020,China,Beijing,_,Recovered,6.0
+02-17-2020,China,Shanghai,_,Confirmed,5.0
+02-17-2020,China,Shanghai,_,Recovered,21.0
+02-17-2020,China,Hebei,_,Confirmed,1.0
+02-17-2020,China,Hebei,_,Recovered,17.0
+02-17-2020,China,Fujian,_,Confirmed,3.0
+02-17-2020,China,Fujian,_,Recovered,8.0
+02-17-2020,China,Shaanxi,_,Confirmed,4.0
+02-17-2020,China,Shaanxi,_,Recovered,8.0
+02-17-2020,China,Guangxi,_,Confirmed,1.0
+02-17-2020,China,Guangxi,_,Recovered,4.0
+02-17-2020,China,Yunnan,_,Recovered,5.0
+02-17-2020,China,Hainan,_,Confirmed,1.0
+02-17-2020,China,Hainan,_,Recovered,7.0
+02-17-2020,China,Guizhou,_,Confirmed,2.0
+02-17-2020,China,Guizhou,_,Recovered,11.0
+02-17-2020,China,Shanxi,_,Confirmed,1.0
+02-17-2020,China,Shanxi,_,Recovered,3.0
+02-17-2020,China,Tianjin,_,Confirmed,1.0
+02-17-2020,China,Tianjin,_,Recovered,1.0
+02-17-2020,China,Liaoning,_,Recovered,3.0
+02-17-2020,China,Gansu,_,Confirmed,1.0
+02-17-2020,China,Gansu,_,Recovered,4.0
+02-17-2020,China,Jilin,_,Recovered,4.0
+02-17-2020,Singapore,_,_,Confirmed,2.0
+02-17-2020,Singapore,_,_,Recovered,6.0
+02-17-2020,China,Xinjiang,_,Confirmed,4.0
+02-17-2020,China,Inner Mongolia,_,Confirmed,2.0
+02-17-2020,China,Ningxia,_,Recovered,2.0
+02-17-2020,Japan,_,_,Confirmed,7.0
+02-17-2020,Hong Kong,Hong Kong,_,Confirmed,3.0
+02-17-2020,Thailand,_,_,Confirmed,1.0
+02-17-2020,Thailand,_,_,Recovered,1.0
+02-17-2020,South Korea,_,_,Confirmed,1.0
+02-17-2020,South Korea,_,_,Recovered,1.0
+02-17-2020,Taiwan,Taiwan,_,Confirmed,2.0
+02-17-2020,Canada,British Columbia,_,Confirmed,1.0
+02-17-2020,Australia,South Australia,_,Recovered,2.0
+02-17-2020,Belgium,_,_,Recovered,1.0
+02-18-2020,China,Hubei,_,Confirmed,1693.0
+02-18-2020,China,Hubei,_,Deaths,132.0
+02-18-2020,China,Hubei,_,Recovered,1266.0
+02-18-2020,China,Guangdong,_,Confirmed,6.0
+02-18-2020,China,Guangdong,_,Recovered,41.0
+02-18-2020,China,Henan,_,Confirmed,11.0
+02-18-2020,China,Henan,_,Deaths,3.0
+02-18-2020,China,Henan,_,Recovered,13.0
+02-18-2020,China,Zhejiang,_,Confirmed,1.0
+02-18-2020,China,Zhejiang,_,Recovered,28.0
+02-18-2020,China,Hunan,_,Confirmed,1.0
+02-18-2020,China,Hunan,_,Deaths,1.0
+02-18-2020,China,Hunan,_,Recovered,29.0
+02-18-2020,China,Anhui,_,Confirmed,9.0
+02-18-2020,China,Anhui,_,Recovered,81.0
+02-18-2020,China,Jiangxi,_,Confirmed,3.0
+02-18-2020,China,Jiangxi,_,Recovered,35.0
+02-18-2020,China,Jiangsu,_,Confirmed,3.0
+02-18-2020,China,Jiangsu,_,Recovered,22.0
+02-18-2020,China,Chongqing,_,Confirmed,2.0
+02-18-2020,China,Chongqing,_,Recovered,29.0
+02-18-2020,China,Shandong,_,Confirmed,2.0
+02-18-2020,China,Shandong,_,Deaths,1.0
+02-18-2020,China,Shandong,_,Recovered,20.0
+02-18-2020,Others,Diamond Princess cruise ship,_,Confirmed,88.0
+02-18-2020,China,Sichuan,_,Confirmed,13.0
+02-18-2020,China,Sichuan,_,Recovered,13.0
+02-18-2020,China,Heilongjiang,_,Confirmed,7.0
+02-18-2020,China,Heilongjiang,_,Recovered,26.0
+02-18-2020,China,Beijing,_,Confirmed,6.0
+02-18-2020,China,Beijing,_,Recovered,8.0
+02-18-2020,China,Shanghai,_,Recovered,16.0
+02-18-2020,China,Hebei,_,Confirmed,5.0
+02-18-2020,China,Hebei,_,Deaths,1.0
+02-18-2020,China,Hebei,_,Recovered,14.0
+02-18-2020,China,Fujian,_,Confirmed,2.0
+02-18-2020,China,Fujian,_,Recovered,3.0
+02-18-2020,China,Guangxi,_,Confirmed,4.0
+02-18-2020,China,Guangxi,_,Recovered,16.0
+02-18-2020,China,Shaanxi,_,Recovered,10.0
+02-18-2020,China,Yunnan,_,Confirmed,1.0
+02-18-2020,China,Yunnan,_,Recovered,10.0
+02-18-2020,China,Hainan,_,Recovered,20.0
+02-18-2020,China,Guizhou,_,Deaths,1.0
+02-18-2020,China,Guizhou,_,Recovered,9.0
+02-18-2020,China,Shanxi,_,Confirmed,1.0
+02-18-2020,China,Shanxi,_,Recovered,8.0
+02-18-2020,China,Tianjin,_,Confirmed,3.0
+02-18-2020,China,Tianjin,_,Recovered,2.0
+02-18-2020,China,Liaoning,_,Recovered,10.0
+02-18-2020,China,Gansu,_,Recovered,4.0
+02-18-2020,China,Jilin,_,Recovered,2.0
+02-18-2020,Singapore,_,_,Confirmed,4.0
+02-18-2020,Singapore,_,_,Recovered,5.0
+02-18-2020,China,Xinjiang,_,Confirmed,1.0
+02-18-2020,Japan,_,_,Confirmed,8.0
+02-18-2020,Japan,_,_,Recovered,1.0
+02-18-2020,China,Inner Mongolia,_,Confirmed,1.0
+02-18-2020,China,Ningxia,_,Recovered,7.0
+02-18-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+02-18-2020,South Korea,_,_,Confirmed,1.0
+02-18-2020,South Korea,_,_,Recovered,2.0
+02-18-2020,Malaysia,_,_,Recovered,6.0
+02-18-2020,China,Qinghai,_,Recovered,2.0
+02-18-2020,Germany,_,_,Recovered,11.0
+02-19-2020,China,Hubei,_,Confirmed,349.0
+02-19-2020,China,Hubei,_,Deaths,108.0
+02-19-2020,China,Hubei,_,Recovered,1209.0
+02-19-2020,China,Guangdong,_,Confirmed,3.0
+02-19-2020,China,Guangdong,_,Deaths,1.0
+02-19-2020,China,Guangdong,_,Recovered,41.0
+02-19-2020,China,Henan,_,Confirmed,5.0
+02-19-2020,China,Henan,_,Recovered,51.0
+02-19-2020,China,Zhejiang,_,Confirmed,2.0
+02-19-2020,China,Zhejiang,_,Recovered,69.0
+02-19-2020,China,Hunan,_,Confirmed,1.0
+02-19-2020,China,Hunan,_,Recovered,34.0
+02-19-2020,China,Anhui,_,Confirmed,4.0
+02-19-2020,China,Anhui,_,Recovered,52.0
+02-19-2020,China,Jiangxi,_,Confirmed,1.0
+02-19-2020,China,Jiangxi,_,Recovered,52.0
+02-19-2020,China,Jiangsu,_,Confirmed,2.0
+02-19-2020,China,Jiangsu,_,Recovered,38.0
+02-19-2020,Others,Diamond Princess cruise ship,_,Confirmed,79.0
+02-19-2020,Others,Diamond Princess cruise ship,_,Recovered,1.0
+02-19-2020,China,Chongqing,_,Confirmed,5.0
+02-19-2020,China,Chongqing,_,Recovered,20.0
+02-19-2020,China,Shandong,_,Confirmed,1.0
+02-19-2020,China,Shandong,_,Recovered,20.0
+02-19-2020,China,Sichuan,_,Confirmed,6.0
+02-19-2020,China,Sichuan,_,Recovered,19.0
+02-19-2020,China,Heilongjiang,_,Confirmed,6.0
+02-19-2020,China,Heilongjiang,_,Deaths,1.0
+02-19-2020,China,Heilongjiang,_,Recovered,9.0
+02-19-2020,China,Beijing,_,Confirmed,6.0
+02-19-2020,China,Beijing,_,Recovered,23.0
+02-19-2020,China,Shanghai,_,Deaths,1.0
+02-19-2020,China,Shanghai,_,Recovered,9.0
+02-19-2020,China,Hebei,_,Recovered,16.0
+02-19-2020,China,Fujian,_,Confirmed,1.0
+02-19-2020,China,Fujian,_,Recovered,19.0
+02-19-2020,China,Guangxi,_,Confirmed,2.0
+02-19-2020,China,Guangxi,_,Recovered,17.0
+02-19-2020,China,Shaanxi,_,Confirmed,2.0
+02-19-2020,China,Shaanxi,_,Recovered,13.0
+02-19-2020,China,Yunnan,_,Deaths,1.0
+02-19-2020,China,Yunnan,_,Recovered,3.0
+02-19-2020,China,Hainan,_,Confirmed,5.0
+02-19-2020,China,Hainan,_,Recovered,5.0
+02-19-2020,China,Guizhou,_,Recovered,4.0
+02-19-2020,China,Shanxi,_,Recovered,7.0
+02-19-2020,China,Tianjin,_,Confirmed,2.0
+02-19-2020,China,Tianjin,_,Recovered,6.0
+02-19-2020,China,Liaoning,_,Recovered,2.0
+02-19-2020,China,Gansu,_,Recovered,3.0
+02-19-2020,China,Jilin,_,Confirmed,1.0
+02-19-2020,China,Jilin,_,Recovered,1.0
+02-19-2020,Japan,_,_,Confirmed,10.0
+02-19-2020,Japan,_,_,Recovered,5.0
+02-19-2020,Singapore,_,_,Confirmed,3.0
+02-19-2020,Singapore,_,_,Recovered,5.0
+02-19-2020,China,Xinjiang,_,Recovered,8.0
+02-19-2020,China,Inner Mongolia,_,Confirmed,2.0
+02-19-2020,China,Inner Mongolia,_,Recovered,2.0
+02-19-2020,China,Ningxia,_,Confirmed,1.0
+02-19-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-19-2020,Hong Kong,Hong Kong,_,Deaths,1.0
+02-19-2020,Hong Kong,Hong Kong,_,Recovered,3.0
+02-19-2020,Taiwan,Taiwan,_,Confirmed,1.0
+02-19-2020,Malaysia,_,_,Recovered,2.0
+02-19-2020,China,Qinghai,_,Recovered,1.0
+02-19-2020,Iran,_,_,Confirmed,2.0
+02-19-2020,Iran,_,_,Deaths,2.0
+02-20-2020,China,Hubei,_,Confirmed,411.0
+02-20-2020,China,Hubei,_,Deaths,115.0
+02-20-2020,China,Hubei,_,Recovered,1451.0
+02-20-2020,China,Guangdong,_,Confirmed,1.0
+02-20-2020,China,Guangdong,_,Recovered,36.0
+02-20-2020,China,Henan,_,Confirmed,3.0
+02-20-2020,China,Henan,_,Recovered,64.0
+02-20-2020,China,Zhejiang,_,Confirmed,1.0
+02-20-2020,China,Zhejiang,_,Deaths,1.0
+02-20-2020,China,Zhejiang,_,Recovered,29.0
+02-20-2020,China,Hunan,_,Confirmed,2.0
+02-20-2020,China,Hunan,_,Recovered,73.0
+02-20-2020,China,Anhui,_,Confirmed,1.0
+02-20-2020,China,Anhui,_,Recovered,61.0
+02-20-2020,China,Jiangxi,_,Recovered,71.0
+02-20-2020,Others,Diamond Princess cruise ship,_,Confirmed,13.0
+02-20-2020,Others,Diamond Princess cruise ship,_,Deaths,2.0
+02-20-2020,China,Jiangsu,_,Recovered,38.0
+02-20-2020,China,Chongqing,_,Confirmed,7.0
+02-20-2020,China,Chongqing,_,Deaths,1.0
+02-20-2020,China,Chongqing,_,Recovered,25.0
+02-20-2020,China,Shandong,_,Confirmed,2.0
+02-20-2020,China,Shandong,_,Deaths,1.0
+02-20-2020,China,Shandong,_,Recovered,23.0
+02-20-2020,China,Sichuan,_,Confirmed,6.0
+02-20-2020,China,Sichuan,_,Recovered,29.0
+02-20-2020,China,Heilongjiang,_,Confirmed,6.0
+02-20-2020,China,Heilongjiang,_,Recovered,16.0
+02-20-2020,China,Beijing,_,Confirmed,2.0
+02-20-2020,China,Beijing,_,Recovered,8.0
+02-20-2020,China,Shanghai,_,Confirmed,1.0
+02-20-2020,China,Shanghai,_,Recovered,13.0
+02-20-2020,China,Hebei,_,Confirmed,1.0
+02-20-2020,China,Hebei,_,Deaths,1.0
+02-20-2020,China,Hebei,_,Recovered,17.0
+02-20-2020,China,Fujian,_,Deaths,1.0
+02-20-2020,China,Fujian,_,Recovered,14.0
+02-20-2020,China,Guangxi,_,Confirmed,1.0
+02-20-2020,China,Guangxi,_,Recovered,4.0
+02-20-2020,China,Shaanxi,_,Confirmed,3.0
+02-20-2020,China,Shaanxi,_,Deaths,1.0
+02-20-2020,China,Shaanxi,_,Recovered,16.0
+02-20-2020,China,Yunnan,_,Confirmed,2.0
+02-20-2020,China,Yunnan,_,Deaths,1.0
+02-20-2020,China,Yunnan,_,Recovered,19.0
+02-20-2020,China,Hainan,_,Recovered,2.0
+02-20-2020,China,Guizhou,_,Recovered,2.0
+02-20-2020,China,Shanxi,_,Confirmed,1.0
+02-20-2020,China,Shanxi,_,Recovered,8.0
+02-20-2020,China,Tianjin,_,Confirmed,1.0
+02-20-2020,China,Tianjin,_,Recovered,5.0
+02-20-2020,China,Liaoning,_,Recovered,4.0
+02-20-2020,South Korea,_,_,Confirmed,73.0
+02-20-2020,South Korea,_,_,Deaths,1.0
+02-20-2020,South Korea,_,_,Recovered,4.0
+02-20-2020,Japan,_,_,Confirmed,10.0
+02-20-2020,China,Gansu,_,Recovered,6.0
+02-20-2020,China,Jilin,_,Confirmed,1.0
+02-20-2020,China,Jilin,_,Recovered,6.0
+02-20-2020,China,Xinjiang,_,Recovered,2.0
+02-20-2020,China,Inner Mongolia,_,Recovered,6.0
+02-20-2020,China,Ningxia,_,Recovered,2.0
+02-20-2020,Hong Kong,Hong Kong,_,Confirmed,5.0
+02-20-2020,Hong Kong,Hong Kong,_,Recovered,1.0
+02-20-2020,Taiwan,Taiwan,_,Confirmed,1.0
+02-20-2020,Macau,Macau,_,Recovered,1.0
+02-20-2020,Iran,_,_,Confirmed,3.0
+02-21-2020,China,Hubei,_,Confirmed,220.0
+02-21-2020,China,Hubei,_,Recovered,93.0
+02-21-2020,China,Guangdong,_,Confirmed,1.0
+02-21-2020,China,Guangdong,_,Recovered,48.0
+02-21-2020,China,Henan,_,Confirmed,2.0
+02-21-2020,China,Henan,_,Recovered,99.0
+02-21-2020,China,Zhejiang,_,Confirmed,28.0
+02-21-2020,China,Zhejiang,_,Recovered,46.0
+02-21-2020,China,Hunan,_,Confirmed,1.0
+02-21-2020,China,Hunan,_,Recovered,27.0
+02-21-2020,China,Anhui,_,Confirmed,1.0
+02-21-2020,China,Anhui,_,Recovered,65.0
+02-21-2020,China,Jiangxi,_,Recovered,56.0
+02-21-2020,China,Shandong,_,Confirmed,203.0
+02-21-2020,China,Shandong,_,Recovered,27.0
+02-21-2020,China,Jiangsu,_,Recovered,17.0
+02-21-2020,China,Chongqing,_,Confirmed,5.0
+02-21-2020,China,Chongqing,_,Recovered,17.0
+02-21-2020,China,Sichuan,_,Confirmed,5.0
+02-21-2020,China,Sichuan,_,Recovered,14.0
+02-21-2020,China,Heilongjiang,_,Confirmed,3.0
+02-21-2020,China,Heilongjiang,_,Recovered,39.0
+02-21-2020,China,Beijing,_,Confirmed,1.0
+02-21-2020,China,Beijing,_,Recovered,16.0
+02-21-2020,China,Shanghai,_,Recovered,12.0
+02-21-2020,China,Hebei,_,Confirmed,1.0
+02-21-2020,China,Hebei,_,Recovered,15.0
+02-21-2020,China,Fujian,_,Recovered,23.0
+02-21-2020,China,Guangxi,_,Confirmed,1.0
+02-21-2020,China,Guangxi,_,Recovered,7.0
+02-21-2020,China,Shaanxi,_,Recovered,16.0
+02-21-2020,South Korea,_,_,Confirmed,100.0
+02-21-2020,South Korea,_,_,Deaths,1.0
+02-21-2020,China,Yunnan,_,Recovered,17.0
+02-21-2020,China,Hainan,_,Recovered,9.0
+02-21-2020,China,Guizhou,_,Recovered,5.0
+02-21-2020,China,Shanxi,_,Recovered,2.0
+02-21-2020,China,Tianjin,_,Confirmed,1.0
+02-21-2020,China,Tianjin,_,Recovered,3.0
+02-21-2020,China,Liaoning,_,Recovered,2.0
+02-21-2020,Japan,_,_,Confirmed,11.0
+02-21-2020,Japan,_,_,Recovered,4.0
+02-21-2020,China,Gansu,_,Recovered,5.0
+02-21-2020,China,Jilin,_,Recovered,2.0
+02-21-2020,Singapore,_,_,Confirmed,1.0
+02-21-2020,Singapore,_,_,Recovered,3.0
+02-21-2020,China,Xinjiang,_,Recovered,2.0
+02-21-2020,China,Inner Mongolia,_,Recovered,1.0
+02-21-2020,China,Ningxia,_,Recovered,4.0
+02-21-2020,Thailand,_,_,Recovered,2.0
+02-21-2020,Taiwan,Taiwan,_,Confirmed,2.0
+02-21-2020,Italy,_,_,Confirmed,17.0
+02-21-2020,Italy,_,_,Deaths,1.0
+02-21-2020,Iran,_,_,Confirmed,13.0
+02-21-2020,Iran,_,_,Deaths,2.0
+02-21-2020,China,Qinghai,_,Recovered,2.0
+02-21-2020,Germany,_,_,Recovered,2.0
+02-21-2020,Vietnam,_,_,Recovered,7.0
+02-21-2020,United States of America,NE,Ashland,Confirmed,11.0
+02-21-2020,Canada,British Columbia,_,Confirmed,1.0
+02-21-2020,Australia,Queensland,_,Recovered,1.0
+02-21-2020,United States of America,CA,Travis,Confirmed,5.0
+02-21-2020,Australia,From Diamond Princess,_,Confirmed,4.0
+02-21-2020,Canada,ON,Toronto,Recovered,2.0
+02-21-2020,United States of America,TX,Lackland,Confirmed,2.0
+02-21-2020,United States of America,CA,San Diego County,Recovered,1.0
+02-21-2020,United States of America,CA,Santa Clara,Recovered,1.0
+02-21-2020,Israel,From Diamond Princess,_,Confirmed,1.0
+02-21-2020,Lebanon,None,_,Confirmed,1.0
+02-21-2020,United States of America,CA,Humboldt County,Confirmed,1.0
+02-21-2020,United States of America,CA,Sacramento County,Confirmed,1.0
+02-22-2020,China,Hubei,_,Confirmed,1422.0
+02-22-2020,China,Hubei,_,Deaths,202.0
+02-22-2020,China,Hubei,_,Recovered,3418.0
+02-22-2020,China,Guangdong,_,Confirmed,6.0
+02-22-2020,China,Guangdong,_,Recovered,38.0
+02-22-2020,China,Henan,_,Confirmed,3.0
+02-22-2020,China,Henan,_,Recovered,94.0
+02-22-2020,China,Zhejiang,_,Confirmed,2.0
+02-22-2020,China,Zhejiang,_,Recovered,40.0
+02-22-2020,China,Hunan,_,Confirmed,2.0
+02-22-2020,China,Hunan,_,Recovered,31.0
+02-22-2020,China,Anhui,_,Confirmed,1.0
+02-22-2020,China,Anhui,_,Recovered,58.0
+02-22-2020,China,Jiangxi,_,Recovered,66.0
+02-22-2020,China,Shandong,_,Confirmed,1.0
+02-22-2020,China,Shandong,_,Recovered,21.0
+02-22-2020,China,Jiangsu,_,Recovered,28.0
+02-22-2020,China,Chongqing,_,Confirmed,1.0
+02-22-2020,China,Chongqing,_,Recovered,12.0
+02-22-2020,China,Sichuan,_,Confirmed,1.0
+02-22-2020,China,Sichuan,_,Recovered,19.0
+02-22-2020,China,Heilongjiang,_,Recovered,29.0
+02-22-2020,South Korea,_,_,Confirmed,229.0
+02-22-2020,China,Beijing,_,Confirmed,3.0
+02-22-2020,China,Beijing,_,Recovered,9.0
+02-22-2020,China,Shanghai,_,Confirmed,1.0
+02-22-2020,China,Shanghai,_,Deaths,1.0
+02-22-2020,China,Shanghai,_,Recovered,16.0
+02-22-2020,China,Hebei,_,Confirmed,1.0
+02-22-2020,China,Hebei,_,Deaths,1.0
+02-22-2020,China,Hebei,_,Recovered,19.0
+02-22-2020,China,Fujian,_,Recovered,13.0
+02-22-2020,China,Guangxi,_,Confirmed,3.0
+02-22-2020,China,Guangxi,_,Recovered,7.0
+02-22-2020,China,Shaanxi,_,Recovered,15.0
+02-22-2020,China,Yunnan,_,Recovered,11.0
+02-22-2020,China,Hainan,_,Recovered,9.0
+02-22-2020,China,Guizhou,_,Recovered,13.0
+02-22-2020,China,Tianjin,_,Confirmed,3.0
+02-22-2020,China,Tianjin,_,Recovered,3.0
+02-22-2020,China,Shanxi,_,Recovered,3.0
+02-22-2020,Japan,_,_,Confirmed,17.0
+02-22-2020,China,Liaoning,_,Recovered,5.0
+02-22-2020,China,Jilin,_,Recovered,7.0
+02-22-2020,China,Xinjiang,_,Deaths,1.0
+02-22-2020,China,Xinjiang,_,Recovered,1.0
+02-22-2020,China,Inner Mongolia,_,Recovered,9.0
+02-22-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-22-2020,Hong Kong,Hong Kong,_,Recovered,1.0
+02-22-2020,Italy,_,_,Confirmed,42.0
+02-22-2020,Italy,_,_,Deaths,1.0
+02-22-2020,Italy,_,_,Recovered,1.0
+02-22-2020,Iran,_,_,Confirmed,10.0
+02-22-2020,Iran,_,_,Deaths,1.0
+02-22-2020,United Arab Emirates,_,_,Confirmed,4.0
+02-22-2020,United States of America,NE (From Diamond Princess),Omaha,Confirmed,11.0
+02-22-2020,Australia,From Diamond Princess,_,Confirmed,3.0
+02-22-2020,United States of America,CA (From Diamond Princess),Travis,Confirmed,5.0
+02-22-2020,United States of America,TX (From Diamond Princess),Lackland,Confirmed,2.0
+02-22-2020,Lebanon,_,_,Confirmed,1.0
+02-23-2020,China,Hubei,_,Recovered,44.0
+02-23-2020,China,Guangdong,_,Confirmed,3.0
+02-23-2020,China,Guangdong,_,Deaths,1.0
+02-23-2020,China,Guangdong,_,Recovered,27.0
+02-23-2020,China,Henan,_,Confirmed,1.0
+02-23-2020,China,Henan,_,Recovered,38.0
+02-23-2020,China,Zhejiang,_,Recovered,41.0
+02-23-2020,China,Hunan,_,Confirmed,3.0
+02-23-2020,China,Hunan,_,Recovered,22.0
+02-23-2020,China,Anhui,_,Recovered,40.0
+02-23-2020,China,Jiangxi,_,Recovered,58.0
+02-23-2020,China,Shandong,_,Confirmed,4.0
+02-23-2020,China,Shandong,_,Recovered,19.0
+02-23-2020,Others,Diamond Princess cruise ship,_,Confirmed,57.0
+02-23-2020,Others,Diamond Princess cruise ship,_,Deaths,1.0
+02-23-2020,China,Jiangsu,_,Recovered,17.0
+02-23-2020,South Korea,_,_,Confirmed,169.0
+02-23-2020,South Korea,_,_,Deaths,4.0
+02-23-2020,South Korea,_,_,Recovered,2.0
+02-23-2020,China,Chongqing,_,Confirmed,2.0
+02-23-2020,China,Chongqing,_,Recovered,7.0
+02-23-2020,China,Sichuan,_,Recovered,11.0
+02-23-2020,China,Heilongjiang,_,Confirmed,1.0
+02-23-2020,China,Heilongjiang,_,Recovered,18.0
+02-23-2020,China,Beijing,_,Recovered,11.0
+02-23-2020,China,Shanghai,_,Recovered,22.0
+02-23-2020,China,Hebei,_,Confirmed,2.0
+02-23-2020,China,Hebei,_,Recovered,16.0
+02-23-2020,China,Fujian,_,Recovered,8.0
+02-23-2020,China,Guangxi,_,Recovered,2.0
+02-23-2020,China,Shaanxi,_,Recovered,14.0
+02-23-2020,China,Yunnan,_,Recovered,8.0
+02-23-2020,China,Hainan,_,Deaths,1.0
+02-23-2020,China,Hainan,_,Recovered,2.0
+02-23-2020,Italy,_,_,Confirmed,93.0
+02-23-2020,Italy,_,_,Deaths,1.0
+02-23-2020,Italy,_,_,Recovered,1.0
+02-23-2020,Japan,_,_,Confirmed,25.0
+02-23-2020,China,Guizhou,_,Recovered,12.0
+02-23-2020,China,Tianjin,_,Recovered,16.0
+02-23-2020,China,Shanxi,_,Recovered,7.0
+02-23-2020,China,Liaoning,_,Recovered,7.0
+02-23-2020,China,Gansu,_,Recovered,2.0
+02-23-2020,China,Jilin,_,Recovered,2.0
+02-23-2020,Singapore,_,_,Confirmed,4.0
+02-23-2020,Singapore,_,_,Recovered,14.0
+02-23-2020,China,Xinjiang,_,Recovered,3.0
+02-23-2020,China,Inner Mongolia,_,Recovered,1.0
+02-23-2020,Hong Kong,Hong Kong,_,Confirmed,5.0
+02-23-2020,Hong Kong,Hong Kong,_,Recovered,5.0
+02-23-2020,China,Ningxia,_,Recovered,8.0
+02-23-2020,Iran,_,_,Confirmed,15.0
+02-23-2020,Iran,_,_,Deaths,3.0
+02-23-2020,Thailand,_,_,Recovered,4.0
+02-23-2020,Taiwan,Taiwan,_,Confirmed,2.0
+02-24-2020,China,Hubei,_,Confirmed,203.0
+02-24-2020,China,Hubei,_,Deaths,149.0
+02-24-2020,China,Hubei,_,Recovered,1405.0
+02-24-2020,China,Guangdong,_,Confirmed,3.0
+02-24-2020,China,Guangdong,_,Recovered,31.0
+02-24-2020,China,Henan,_,Recovered,75.0
+02-24-2020,China,Zhejiang,_,Recovered,22.0
+02-24-2020,China,Hunan,_,Recovered,17.0
+02-24-2020,China,Anhui,_,Recovered,26.0
+02-24-2020,China,Jiangxi,_,Recovered,32.0
+02-24-2020,South Korea,_,_,Confirmed,231.0
+02-24-2020,South Korea,_,_,Deaths,2.0
+02-24-2020,China,Shandong,_,Confirmed,1.0
+02-24-2020,China,Shandong,_,Deaths,1.0
+02-24-2020,China,Shandong,_,Recovered,22.0
+02-24-2020,China,Jiangsu,_,Recovered,34.0
+02-24-2020,China,Chongqing,_,Confirmed,1.0
+02-24-2020,China,Chongqing,_,Recovered,14.0
+02-24-2020,China,Sichuan,_,Confirmed,1.0
+02-24-2020,China,Sichuan,_,Recovered,15.0
+02-24-2020,China,Heilongjiang,_,Recovered,5.0
+02-24-2020,China,Beijing,_,Recovered,9.0
+02-24-2020,China,Shanghai,_,Recovered,12.0
+02-24-2020,China,Hebei,_,Recovered,15.0
+02-24-2020,China,Fujian,_,Recovered,13.0
+02-24-2020,China,Guangxi,_,Confirmed,2.0
+02-24-2020,China,Guangxi,_,Recovered,6.0
+02-24-2020,China,Shaanxi,_,Recovered,10.0
+02-24-2020,Italy,_,_,Confirmed,74.0
+02-24-2020,Italy,_,_,Deaths,4.0
+02-24-2020,China,Yunnan,_,Recovered,9.0
+02-24-2020,China,Hainan,_,Recovered,10.0
+02-24-2020,Japan,_,_,Confirmed,12.0
+02-24-2020,China,Tianjin,_,Recovered,6.0
+02-24-2020,China,Shanxi,_,Confirmed,1.0
+02-24-2020,China,Shanxi,_,Recovered,6.0
+02-24-2020,China,Liaoning,_,Recovered,7.0
+02-24-2020,China,Jilin,_,Confirmed,2.0
+02-24-2020,China,Jilin,_,Recovered,6.0
+02-24-2020,China,Gansu,_,Recovered,2.0
+02-24-2020,Hong Kong,Hong Kong,_,Confirmed,5.0
+02-24-2020,Hong Kong,Hong Kong,_,Recovered,8.0
+02-24-2020,China,Xinjiang,_,Recovered,2.0
+02-24-2020,China,Inner Mongolia,_,Recovered,7.0
+02-24-2020,China,Ningxia,_,Recovered,2.0
+02-24-2020,Iran,_,_,Confirmed,18.0
+02-24-2020,Iran,_,_,Deaths,4.0
+02-24-2020,United States of America,Unassigned Location (From Diamond Princess),_,Confirmed,36.0
+02-24-2020,Taiwan,Taiwan,_,Confirmed,2.0
+02-24-2020,Taiwan,Taiwan,_,Recovered,3.0
+02-24-2020,Malaysia,_,_,Recovered,3.0
+02-24-2020,UK,_,_,Confirmed,4.0
+02-24-2020,Canada,ON,Toronto,Confirmed,1.0
+02-24-2020,Oman,_,_,Confirmed,2.0
+02-24-2020,Afghanistan,_,_,Confirmed,1.0
+02-24-2020,Bahrain,_,_,Confirmed,1.0
+02-24-2020,Iraq,_,_,Confirmed,1.0
+02-24-2020,Kuwait,_,_,Confirmed,1.0
+02-25-2020,China,Hubei,_,Confirmed,499.0
+02-25-2020,China,Hubei,_,Deaths,68.0
+02-25-2020,China,Hubei,_,Recovered,2223.0
+02-25-2020,China,Guangdong,_,Confirmed,2.0
+02-25-2020,China,Guangdong,_,Deaths,1.0
+02-25-2020,China,Guangdong,_,Recovered,36.0
+02-25-2020,China,Henan,_,Recovered,59.0
+02-25-2020,China,Zhejiang,_,Recovered,26.0
+02-25-2020,China,Hunan,_,Recovered,37.0
+02-25-2020,China,Anhui,_,Recovered,49.0
+02-25-2020,South Korea,_,_,Confirmed,144.0
+02-25-2020,South Korea,_,_,Deaths,2.0
+02-25-2020,South Korea,_,_,Recovered,4.0
+02-25-2020,China,Jiangxi,_,Recovered,38.0
+02-25-2020,China,Shandong,_,Confirmed,1.0
+02-25-2020,China,Shandong,_,Deaths,1.0
+02-25-2020,China,Shandong,_,Recovered,12.0
+02-25-2020,China,Jiangsu,_,Recovered,6.0
+02-25-2020,China,Chongqing,_,Recovered,23.0
+02-25-2020,China,Sichuan,_,Confirmed,2.0
+02-25-2020,China,Sichuan,_,Recovered,13.0
+02-25-2020,China,Heilongjiang,_,Recovered,16.0
+02-25-2020,China,Beijing,_,Confirmed,1.0
+02-25-2020,China,Beijing,_,Recovered,17.0
+02-25-2020,China,Shanghai,_,Confirmed,1.0
+02-25-2020,China,Shanghai,_,Recovered,7.0
+02-25-2020,Italy,_,_,Confirmed,93.0
+02-25-2020,Italy,_,_,Deaths,3.0
+02-25-2020,China,Hebei,_,Recovered,14.0
+02-25-2020,China,Fujian,_,Confirmed,1.0
+02-25-2020,China,Fujian,_,Recovered,16.0
+02-25-2020,China,Guangxi,_,Confirmed,1.0
+02-25-2020,China,Guangxi,_,Recovered,22.0
+02-25-2020,China,Shaanxi,_,Recovered,13.0
+02-25-2020,China,Yunnan,_,Recovered,5.0
+02-25-2020,Japan,_,_,Confirmed,11.0
+02-25-2020,China,Hainan,_,Recovered,8.0
+02-25-2020,China,Guizhou,_,Recovered,2.0
+02-25-2020,China,Tianjin,_,Recovered,4.0
+02-25-2020,China,Shanxi,_,Recovered,4.0
+02-25-2020,China,Liaoning,_,Recovered,3.0
+02-25-2020,Iran,_,_,Confirmed,34.0
+02-25-2020,Iran,_,_,Deaths,4.0
+02-25-2020,China,Jilin,_,Recovered,3.0
+02-25-2020,Singapore,_,_,Confirmed,2.0
+02-25-2020,Singapore,_,_,Recovered,2.0
+02-25-2020,Hong Kong,Hong Kong,_,Confirmed,5.0
+02-25-2020,China,Inner Mongolia,_,Recovered,1.0
+02-25-2020,China,Ningxia,_,Recovered,3.0
+02-25-2020,Thailand,_,_,Confirmed,2.0
+02-25-2020,Thailand,_,_,Recovered,1.0
+02-25-2020,Taiwan,Taiwan,_,Confirmed,1.0
+02-25-2020,Bahrain,_,_,Confirmed,22.0
+02-25-2020,Germany,_,_,Confirmed,1.0
+02-25-2020,Vietnam,_,_,Recovered,2.0
+02-25-2020,France,_,_,Confirmed,2.0
+02-25-2020,France,_,_,Recovered,7.0
+02-25-2020,Kuwait,_,_,Confirmed,10.0
+02-25-2020,Macau,Macau,_,Recovered,1.0
+02-25-2020,Canada,British Columbia,_,Confirmed,1.0
+02-25-2020,Spain,_,_,Confirmed,4.0
+02-25-2020,Austria,None,_,Confirmed,2.0
+02-25-2020,Algeria,_,_,Confirmed,1.0
+02-25-2020,Croatia,_,_,Confirmed,1.0
+02-25-2020,Switzerland,_,_,Confirmed,1.0
+02-25-2020,United States of America,AZ,Tempe,Recovered,1.0
+02-26-2020,China,Hubei,_,Confirmed,401.0
+02-26-2020,China,Hubei,_,Deaths,52.0
+02-26-2020,China,Hubei,_,Recovered,1998.0
+02-26-2020,China,Guangdong,_,Recovered,29.0
+02-26-2020,China,Henan,_,Recovered,31.0
+02-26-2020,South Korea,_,_,Confirmed,284.0
+02-26-2020,South Korea,_,_,Deaths,2.0
+02-26-2020,China,Zhejiang,_,Recovered,59.0
+02-26-2020,China,Hunan,_,Recovered,15.0
+02-26-2020,China,Anhui,_,Recovered,32.0
+02-26-2020,China,Jiangxi,_,Recovered,36.0
+02-26-2020,China,Shandong,_,Recovered,22.0
+02-26-2020,Others,Diamond Princess cruise ship,_,Confirmed,14.0
+02-26-2020,Others,Diamond Princess cruise ship,_,Deaths,1.0
+02-26-2020,Others,Diamond Princess cruise ship,_,Recovered,10.0
+02-26-2020,China,Jiangsu,_,Recovered,20.0
+02-26-2020,China,Chongqing,_,Recovered,12.0
+02-26-2020,China,Sichuan,_,Confirmed,2.0
+02-26-2020,China,Sichuan,_,Recovered,18.0
+02-26-2020,China,Heilongjiang,_,Recovered,6.0
+02-26-2020,Italy,_,_,Confirmed,131.0
+02-26-2020,Italy,_,_,Deaths,2.0
+02-26-2020,Italy,_,_,Recovered,2.0
+02-26-2020,China,Beijing,_,Recovered,20.0
+02-26-2020,China,Shanghai,_,Confirmed,1.0
+02-26-2020,China,Shanghai,_,Recovered,4.0
+02-26-2020,China,Hebei,_,Confirmed,1.0
+02-26-2020,China,Hebei,_,Recovered,13.0
+02-26-2020,China,Fujian,_,Recovered,19.0
+02-26-2020,China,Guangxi,_,Recovered,13.0
+02-26-2020,China,Shaanxi,_,Recovered,6.0
+02-26-2020,Japan,_,_,Confirmed,19.0
+02-26-2020,Japan,_,_,Deaths,1.0
+02-26-2020,China,Yunnan,_,Recovered,15.0
+02-26-2020,China,Hainan,_,Recovered,5.0
+02-26-2020,Iran,_,_,Confirmed,44.0
+02-26-2020,Iran,_,_,Deaths,3.0
+02-26-2020,Iran,_,_,Recovered,49.0
+02-26-2020,China,Tianjin,_,Recovered,5.0
+02-26-2020,China,Shanxi,_,Recovered,6.0
+02-26-2020,China,Liaoning,_,Recovered,5.0
+02-26-2020,China,Jilin,_,Recovered,2.0
+02-26-2020,Singapore,_,_,Confirmed,2.0
+02-26-2020,Singapore,_,_,Recovered,9.0
+02-26-2020,Hong Kong,Hong Kong,_,Confirmed,7.0
+02-26-2020,Hong Kong,Hong Kong,_,Recovered,5.0
+02-26-2020,China,Gansu,_,Recovered,1.0
+02-26-2020,China,Xinjiang,_,Recovered,4.0
+02-26-2020,China,Inner Mongolia,_,Recovered,3.0
+02-26-2020,China,Ningxia,_,Recovered,4.0
+02-26-2020,United States of America,Unassigned Location (From Diamond Princess),_,Confirmed,6.0
+02-26-2020,Thailand,_,_,Confirmed,3.0
+02-26-2020,Bahrain,_,_,Confirmed,10.0
+02-26-2020,Taiwan,Taiwan,_,Confirmed,1.0
+02-26-2020,Germany,_,_,Confirmed,10.0
+02-26-2020,Germany,_,_,Recovered,1.0
+02-26-2020,Kuwait,_,_,Confirmed,15.0
+02-26-2020,France,_,_,Confirmed,4.0
+02-26-2020,France,_,_,Deaths,1.0
+02-26-2020,Spain,_,_,Confirmed,7.0
+02-26-2020,Iraq,_,_,Confirmed,4.0
+02-26-2020,Oman,_,_,Confirmed,2.0
+02-26-2020,Croatia,_,_,Confirmed,2.0
+02-26-2020,Austria,_,_,Confirmed,2.0
+02-26-2020,Finland,_,_,Confirmed,1.0
+02-26-2020,Israel,_,_,Confirmed,2.0
+02-26-2020,Lebanon,_,_,Confirmed,1.0
+02-26-2020,Pakistan,_,_,Confirmed,2.0
+02-26-2020,Sweden,_,_,Confirmed,1.0
+02-26-2020,Brazil,_,_,Confirmed,1.0
+02-26-2020,Georgia,_,_,Confirmed,1.0
+02-26-2020,Greece,_,_,Confirmed,1.0
+02-26-2020,North Macedonia,_,_,Confirmed,1.0
+02-26-2020,Norway,_,_,Confirmed,1.0
+02-26-2020,Romania,_,_,Confirmed,1.0
+02-27-2020,China,Hubei,_,Confirmed,409.0
+02-27-2020,China,Hubei,_,Deaths,26.0
+02-27-2020,China,Hubei,_,Recovered,2414.0
+02-27-2020,South Korea,_,_,Confirmed,505.0
+02-27-2020,South Korea,_,_,Deaths,1.0
+02-27-2020,China,Guangdong,_,Recovered,39.0
+02-27-2020,China,Henan,_,Confirmed,1.0
+02-27-2020,China,Henan,_,Deaths,1.0
+02-27-2020,China,Henan,_,Recovered,35.0
+02-27-2020,China,Zhejiang,_,Recovered,65.0
+02-27-2020,China,Hunan,_,Confirmed,1.0
+02-27-2020,China,Hunan,_,Recovered,21.0
+02-27-2020,China,Anhui,_,Recovered,48.0
+02-27-2020,China,Jiangxi,_,Recovered,35.0
+02-27-2020,China,Shandong,_,Recovered,10.0
+02-27-2020,Italy,_,_,Confirmed,202.0
+02-27-2020,Italy,_,_,Deaths,5.0
+02-27-2020,Italy,_,_,Recovered,42.0
+02-27-2020,China,Jiangsu,_,Recovered,20.0
+02-27-2020,China,Chongqing,_,Recovered,17.0
+02-27-2020,China,Sichuan,_,Confirmed,3.0
+02-27-2020,China,Sichuan,_,Recovered,14.0
+02-27-2020,China,Heilongjiang,_,Deaths,1.0
+02-27-2020,China,Heilongjiang,_,Recovered,21.0
+02-27-2020,China,Beijing,_,Confirmed,10.0
+02-27-2020,China,Beijing,_,Deaths,1.0
+02-27-2020,China,Beijing,_,Recovered,13.0
+02-27-2020,China,Shanghai,_,Recovered,4.0
+02-27-2020,China,Hebei,_,Confirmed,5.0
+02-27-2020,China,Hebei,_,Recovered,13.0
+02-27-2020,China,Fujian,_,Confirmed,2.0
+02-27-2020,China,Fujian,_,Recovered,10.0
+02-27-2020,China,Guangxi,_,Recovered,14.0
+02-27-2020,Iran,_,_,Confirmed,106.0
+02-27-2020,Iran,_,_,Deaths,7.0
+02-27-2020,China,Shaanxi,_,Recovered,3.0
+02-27-2020,Japan,_,_,Confirmed,25.0
+02-27-2020,Japan,_,_,Deaths,2.0
+02-27-2020,China,Yunnan,_,Recovered,6.0
+02-27-2020,China,Hainan,_,Recovered,2.0
+02-27-2020,China,Guizhou,_,Recovered,8.0
+02-27-2020,China,Tianjin,_,Confirmed,1.0
+02-27-2020,China,Tianjin,_,Recovered,6.0
+02-27-2020,China,Shanxi,_,Recovered,3.0
+02-27-2020,China,Liaoning,_,Recovered,5.0
+02-27-2020,China,Jilin,_,Recovered,2.0
+02-27-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-27-2020,China,Xinjiang,_,Recovered,9.0
+02-27-2020,China,Inner Mongolia,_,Recovered,5.0
+02-27-2020,China,Ningxia,_,Confirmed,1.0
+02-27-2020,China,Ningxia,_,Recovered,3.0
+02-27-2020,Germany,_,_,Confirmed,19.0
+02-27-2020,Germany,_,_,Recovered,1.0
+02-27-2020,Kuwait,_,_,Confirmed,17.0
+02-27-2020,France,_,_,Confirmed,20.0
+02-27-2020,Malaysia,_,_,Confirmed,1.0
+02-27-2020,Spain,_,_,Confirmed,2.0
+02-27-2020,UK,_,_,Confirmed,2.0
+02-27-2020,Macau,Macau,_,Recovered,1.0
+02-27-2020,Australia,From Diamond Princess,_,Confirmed,1.0
+02-27-2020,Switzerland,_,_,Confirmed,7.0
+02-27-2020,Canada,British Columbia,_,Recovered,3.0
+02-27-2020,Iraq,_,_,Confirmed,2.0
+02-27-2020,Sweden,_,_,Confirmed,5.0
+02-27-2020,Canada,ON,Toronto,Confirmed,2.0
+02-27-2020,Austria,_,_,Confirmed,1.0
+02-27-2020,Greece,_,_,Confirmed,2.0
+02-27-2020,Israel,_,_,Confirmed,1.0
+02-27-2020,Israel,_,_,Recovered,1.0
+02-27-2020,United States of America,CA,Sacramento County,Confirmed,1.0
+02-27-2020,Denmark,_,_,Confirmed,1.0
+02-27-2020,Estonia,_,_,Confirmed,1.0
+02-27-2020,Netherlands,_,_,Confirmed,1.0
+02-27-2020,San Marino,_,_,Confirmed,1.0
+02-28-2020,China,Hubei,_,Confirmed,318.0
+02-28-2020,China,Hubei,_,Deaths,41.0
+02-28-2020,China,Hubei,_,Recovered,3020.0
+02-28-2020,South Korea,_,_,Confirmed,571.0
+02-28-2020,China,Guangdong,_,Confirmed,1.0
+02-28-2020,China,Guangdong,_,Recovered,45.0
+02-28-2020,China,Henan,_,Recovered,44.0
+02-28-2020,China,Zhejiang,_,Recovered,43.0
+02-28-2020,China,Hunan,_,Recovered,26.0
+02-28-2020,China,Anhui,_,Confirmed,1.0
+02-28-2020,China,Anhui,_,Recovered,29.0
+02-28-2020,China,Jiangxi,_,Confirmed,1.0
+02-28-2020,China,Jiangxi,_,Recovered,36.0
+02-28-2020,Italy,_,_,Confirmed,233.0
+02-28-2020,Italy,_,_,Deaths,4.0
+02-28-2020,Italy,_,_,Recovered,1.0
+02-28-2020,China,Shandong,_,Recovered,18.0
+02-28-2020,Others,Diamond Princess cruise ship,_,Deaths,2.0
+02-28-2020,China,Jiangsu,_,Recovered,17.0
+02-28-2020,China,Chongqing,_,Recovered,21.0
+02-28-2020,China,Sichuan,_,Confirmed,4.0
+02-28-2020,China,Sichuan,_,Recovered,17.0
+02-28-2020,China,Heilongjiang,_,Recovered,13.0
+02-28-2020,China,Beijing,_,Deaths,2.0
+02-28-2020,China,Beijing,_,Recovered,9.0
+02-28-2020,Iran,_,_,Confirmed,143.0
+02-28-2020,Iran,_,_,Deaths,8.0
+02-28-2020,Iran,_,_,Recovered,24.0
+02-28-2020,China,Shanghai,_,Recovered,3.0
+02-28-2020,China,Hebei,_,Confirmed,1.0
+02-28-2020,China,Hebei,_,Recovered,3.0
+02-28-2020,China,Fujian,_,Recovered,7.0
+02-28-2020,China,Guangxi,_,Recovered,7.0
+02-28-2020,China,Shaanxi,_,Recovered,4.0
+02-28-2020,Japan,_,_,Confirmed,14.0
+02-28-2020,China,Yunnan,_,Recovered,6.0
+02-28-2020,China,Hainan,_,Recovered,2.0
+02-28-2020,China,Shanxi,_,Recovered,5.0
+02-28-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+02-28-2020,Hong Kong,Hong Kong,_,Recovered,6.0
+02-28-2020,China,Jilin,_,Recovered,6.0
+02-28-2020,China,Gansu,_,Recovered,1.0
+02-28-2020,China,Xinjiang,_,Deaths,1.0
+02-28-2020,China,Xinjiang,_,Recovered,9.0
+02-28-2020,China,Inner Mongolia,_,Recovered,2.0
+02-28-2020,France,_,_,Confirmed,19.0
+02-28-2020,Germany,_,_,Confirmed,2.0
+02-28-2020,Kuwait,_,_,Confirmed,2.0
+02-28-2020,United States of America,Unassigned Location (From Diamond Princess),_,Confirmed,2.0
+02-28-2020,Thailand,_,_,Confirmed,1.0
+02-28-2020,Thailand,_,_,Recovered,6.0
+02-28-2020,Bahrain,_,_,Confirmed,3.0
+02-28-2020,Taiwan,Taiwan,_,Confirmed,2.0
+02-28-2020,Taiwan,Taiwan,_,Recovered,1.0
+02-28-2020,Spain,_,_,Confirmed,17.0
+02-28-2020,UK,_,_,Confirmed,5.0
+02-28-2020,United Arab Emirates,_,_,Confirmed,6.0
+02-28-2020,United Arab Emirates,_,_,Recovered,1.0
+02-28-2020,Norway,_,_,Confirmed,5.0
+02-28-2020,Croatia,_,_,Confirmed,2.0
+02-28-2020,Greece,_,_,Confirmed,1.0
+02-28-2020,Israel,_,_,Confirmed,1.0
+02-28-2020,Romania,_,_,Confirmed,2.0
+02-28-2020, Azerbaijan,_,_,Confirmed,1.0
+02-28-2020,Belarus,_,_,Confirmed,1.0
+02-28-2020,Canada,QC,Montreal,Confirmed,1.0
+02-28-2020,Egypt,_,_,Recovered,1.0
+02-28-2020,Iceland,_,_,Confirmed,1.0
+02-28-2020,Lithuania,_,_,Confirmed,1.0
+02-28-2020,Mexico,_,_,Confirmed,1.0
+02-28-2020,New Zealand,_,_,Confirmed,1.0
+02-28-2020,Nigeria,_,_,Confirmed,1.0
+02-28-2020,North Ireland,_,_,Confirmed,1.0
+02-28-2020,United States of America,MA,Boston,Recovered,1.0
+02-29-2020,China,Hubei,_,Confirmed,423.0
+02-29-2020,China,Hubei,_,Deaths,45.0
+02-29-2020,China,Hubei,_,Recovered,2590.0
+02-29-2020,South Korea,_,_,Confirmed,813.0
+02-29-2020,South Korea,_,_,Deaths,3.0
+02-29-2020,South Korea,_,_,Recovered,5.0
+02-29-2020,China,Guangdong,_,Confirmed,1.0
+02-29-2020,China,Guangdong,_,Recovered,48.0
+02-29-2020,China,Henan,_,Deaths,1.0
+02-29-2020,China,Henan,_,Recovered,58.0
+02-29-2020,China,Zhejiang,_,Recovered,41.0
+02-29-2020,Italy,_,_,Confirmed,240.0
+02-29-2020,Italy,_,_,Deaths,8.0
+02-29-2020,China,Hunan,_,Confirmed,1.0
+02-29-2020,China,Hunan,_,Recovered,16.0
+02-29-2020,China,Anhui,_,Recovered,47.0
+02-29-2020,China,Jiangxi,_,Recovered,21.0
+02-29-2020,China,Shandong,_,Recovered,16.0
+02-29-2020,China,Jiangsu,_,Recovered,8.0
+02-29-2020,Iran,_,_,Confirmed,205.0
+02-29-2020,Iran,_,_,Deaths,9.0
+02-29-2020,Iran,_,_,Recovered,50.0
+02-29-2020,China,Chongqing,_,Recovered,16.0
+02-29-2020,China,Sichuan,_,Recovered,13.0
+02-29-2020,China,Heilongjiang,_,Recovered,18.0
+02-29-2020,China,Beijing,_,Confirmed,1.0
+02-29-2020,China,Beijing,_,Deaths,1.0
+02-29-2020,China,Beijing,_,Recovered,14.0
+02-29-2020,China,Shanghai,_,Recovered,8.0
+02-29-2020,China,Hebei,_,Recovered,5.0
+02-29-2020,China,Fujian,_,Recovered,8.0
+02-29-2020,China,Guangxi,_,Recovered,8.0
+02-29-2020,China,Shaanxi,_,Recovered,8.0
+02-29-2020,Japan,_,_,Confirmed,13.0
+02-29-2020,Japan,_,_,Deaths,1.0
+02-29-2020,Japan,_,_,Recovered,10.0
+02-29-2020,China,Yunnan,_,Recovered,1.0
+02-29-2020,China,Hainan,_,Recovered,15.0
+02-29-2020,China,Tianjin,_,Recovered,7.0
+02-29-2020,China,Shanxi,_,Recovered,2.0
+02-29-2020,China,Liaoning,_,Recovered,3.0
+02-29-2020,Singapore,_,_,Confirmed,9.0
+02-29-2020,Singapore,_,_,Recovered,10.0
+02-29-2020,France,_,_,Confirmed,43.0
+02-29-2020,France,_,_,Recovered,1.0
+02-29-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+02-29-2020,Hong Kong,Hong Kong,_,Recovered,3.0
+02-29-2020,China,Jilin,_,Recovered,2.0
+02-29-2020,Germany,_,_,Confirmed,31.0
+02-29-2020,China,Xinjiang,_,Recovered,10.0
+02-29-2020,China,Inner Mongolia,_,Recovered,4.0
+02-29-2020,China,Ningxia,_,Confirmed,1.0
+02-29-2020,China,Ningxia,_,Recovered,1.0
+02-29-2020,Spain,_,_,Confirmed,13.0
+02-29-2020,Thailand,_,_,Confirmed,1.0
+02-29-2020,Bahrain,_,_,Confirmed,5.0
+02-29-2020,Taiwan,Taiwan,_,Confirmed,5.0
+02-29-2020,Taiwan,Taiwan,_,Recovered,3.0
+02-29-2020,Malaysia,_,_,Confirmed,2.0
+02-29-2020,UK,_,_,Confirmed,3.0
+02-29-2020,United Arab Emirates,_,_,Confirmed,2.0
+02-29-2020,Switzerland,_,_,Confirmed,10.0
+02-29-2020,Norway,_,_,Confirmed,9.0
+02-29-2020,Iraq,_,_,Confirmed,6.0
+02-29-2020,Sweden,_,_,Confirmed,5.0
+02-29-2020,Canada,ON,Toronto,Confirmed,5.0
+02-29-2020,Australia,Queensland,_,Confirmed,4.0
+02-29-2020,Austria,_,_,Confirmed,6.0
+02-29-2020,Canada,British Columbia,_,Confirmed,1.0
+02-29-2020,Australia,Victoria,_,Confirmed,3.0
+02-29-2020,Israel,_,_,Confirmed,3.0
+02-29-2020,Croatia,_,_,Confirmed,1.0
+02-29-2020,Netherlands,_,_,Confirmed,5.0
+02-29-2020,Oman,_,_,Confirmed,2.0
+02-29-2020,Oman,_,_,Recovered,1.0
+02-29-2020,United States of America,WA,Seattle,Confirmed,5.0
+02-29-2020,United States of America,WA,Seattle,Deaths,1.0
+02-29-2020,Lebanon,_,_,Confirmed,2.0
+02-29-2020,Mexico,_,_,Confirmed,3.0
+02-29-2020,Pakistan,_,_,Confirmed,2.0
+02-29-2020,Australia,South Australia,_,Confirmed,1.0
+02-29-2020,Denmark,_,_,Confirmed,2.0
+02-29-2020,Finland,_,_,Confirmed,1.0
+02-29-2020,United States of America,CA,Santa Clara,Confirmed,1.0
+02-29-2020,Australia,Western Australia,_,Confirmed,2.0
+02-29-2020,Brazil,_,_,Confirmed,1.0
+02-29-2020,Ireland,_,_,Confirmed,1.0
+02-29-2020,Luxembourg,_,_,Confirmed,1.0
+02-29-2020,Monaco,_,_,Confirmed,1.0
+02-29-2020,Qatar,_,_,Confirmed,1.0
+02-29-2020,United States of America,OR,Portland,Confirmed,1.0
+02-29-2020,United States of America,WA,Snohomish County,Confirmed,1.0
+03-01-2020,China,Hubei,_,Confirmed,570.0
+03-01-2020,China,Hubei,_,Deaths,34.0
+03-01-2020,China,Hubei,_,Recovered,2543.0
+03-01-2020,South Korea,_,_,Confirmed,586.0
+03-01-2020,South Korea,_,_,Deaths,1.0
+03-01-2020,South Korea,_,_,Recovered,3.0
+03-01-2020,Italy,_,_,Confirmed,566.0
+03-01-2020,Italy,_,_,Deaths,5.0
+03-01-2020,Italy,_,_,Recovered,37.0
+03-01-2020,China,Guangdong,_,Recovered,33.0
+03-01-2020,China,Henan,_,Deaths,1.0
+03-01-2020,China,Henan,_,Recovered,28.0
+03-01-2020,China,Zhejiang,_,Recovered,30.0
+03-01-2020,China,Hunan,_,Recovered,20.0
+03-01-2020,China,Anhui,_,Recovered,5.0
+03-01-2020,Iran,_,_,Confirmed,385.0
+03-01-2020,Iran,_,_,Deaths,11.0
+03-01-2020,Iran,_,_,Recovered,52.0
+03-01-2020,China,Jiangxi,_,Recovered,20.0
+03-01-2020,China,Shandong,_,Confirmed,2.0
+03-01-2020,China,Shandong,_,Recovered,22.0
+03-01-2020,China,Jiangsu,_,Recovered,13.0
+03-01-2020,China,Chongqing,_,Recovered,12.0
+03-01-2020,China,Sichuan,_,Recovered,14.0
+03-01-2020,China,Heilongjiang,_,Recovered,41.0
+03-01-2020,China,Beijing,_,Confirmed,2.0
+03-01-2020,China,Beijing,_,Recovered,5.0
+03-01-2020,China,Shanghai,_,Recovered,3.0
+03-01-2020,China,Hebei,_,Recovered,12.0
+03-01-2020,China,Fujian,_,Recovered,4.0
+03-01-2020,Japan,_,_,Confirmed,15.0
+03-01-2020,Japan,_,_,Deaths,1.0
+03-01-2020,China,Guangxi,_,Recovered,5.0
+03-01-2020,China,Shaanxi,_,Recovered,1.0
+03-01-2020,China,Yunnan,_,Recovered,6.0
+03-01-2020,China,Hainan,_,Recovered,1.0
+03-01-2020,China,Tianjin,_,Recovered,2.0
+03-01-2020,China,Shanxi,_,Recovered,2.0
+03-01-2020,France,_,_,Confirmed,30.0
+03-01-2020,Germany,_,_,Confirmed,51.0
+03-01-2020,China,Liaoning,_,Confirmed,1.0
+03-01-2020,China,Liaoning,_,Recovered,7.0
+03-01-2020,Singapore,_,_,Confirmed,4.0
+03-01-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+03-01-2020,Hong Kong,Hong Kong,_,Recovered,3.0
+03-01-2020,China,Jilin,_,Recovered,3.0
+03-01-2020,China,Gansu,_,Recovered,2.0
+03-01-2020,Spain,_,_,Confirmed,39.0
+03-01-2020,China,Xinjiang,_,Recovered,2.0
+03-01-2020,China,Inner Mongolia,_,Recovered,3.0
+03-01-2020,Bahrain,_,_,Confirmed,6.0
+03-01-2020,Thailand,_,_,Deaths,1.0
+03-01-2020,Taiwan,Taiwan,_,Confirmed,1.0
+03-01-2020,UK,_,_,Confirmed,13.0
+03-01-2020,Malaysia,_,_,Confirmed,4.0
+03-01-2020,Switzerland,_,_,Confirmed,9.0
+03-01-2020,Iraq,_,_,Confirmed,6.0
+03-01-2020,Norway,_,_,Confirmed,4.0
+03-01-2020,Austria,_,_,Confirmed,5.0
+03-01-2020,Canada,ON,Toronto,Confirmed,4.0
+03-01-2020,Sweden,_,_,Confirmed,2.0
+03-01-2020,Israel,_,_,Confirmed,3.0
+03-01-2020,Lebanon,_,_,Confirmed,6.0
+03-01-2020,Netherlands,_,_,Confirmed,4.0
+03-01-2020,United States of America,WA,Seattle,Confirmed,3.0
+03-01-2020,Croatia,_,_,Confirmed,1.0
+03-01-2020,Greece,_,_,Confirmed,3.0
+03-01-2020,Australia,New South Wales,_,Confirmed,2.0
+03-01-2020,Ecuador,_,_,Confirmed,6.0
+03-01-2020,Finland,_,_,Confirmed,3.0
+03-01-2020,Mexico,_,_,Confirmed,1.0
+03-01-2020,Denmark,_,_,Confirmed,1.0
+03-01-2020,Azerbaijan,_,_,Confirmed,3.0
+03-01-2020,Czech Republic,_,_,Confirmed,3.0
+03-01-2020,Georgia,_,_,Confirmed,2.0
+03-01-2020,Iceland,_,_,Confirmed,2.0
+03-01-2020,Qatar,_,_,Confirmed,2.0
+03-01-2020,United States of America,IL,Chicago,Confirmed,1.0
+03-01-2020,Australia,Western Australia,_,Deaths,1.0
+03-01-2020,Belgium,_,_,Confirmed,1.0
+03-01-2020,Egypt,_,_,Confirmed,1.0
+03-01-2020,United States of America,WA,Snohomish County,Confirmed,1.0
+03-01-2020,Armenia,_,_,Confirmed,1.0
+03-01-2020,Dominican Republic,_,_,Confirmed,1.0
+03-01-2020,United States of America,RI,Providence,Confirmed,1.0
+03-02-2020,China,Hubei,_,Confirmed,196.0
+03-02-2020,China,Hubei,_,Deaths,42.0
+03-02-2020,China,Hubei,_,Recovered,2398.0
+03-02-2020,South Korea,_,_,Confirmed,599.0
+03-02-2020,South Korea,_,_,Deaths,11.0
+03-02-2020,Italy,_,_,Confirmed,342.0
+03-02-2020,Italy,_,_,Deaths,18.0
+03-02-2020,Italy,_,_,Recovered,66.0
+03-02-2020,Iran,_,_,Confirmed,523.0
+03-02-2020,Iran,_,_,Deaths,12.0
+03-02-2020,Iran,_,_,Recovered,116.0
+03-02-2020,China,Guangdong,_,Confirmed,1.0
+03-02-2020,China,Guangdong,_,Recovered,43.0
+03-02-2020,China,Henan,_,Recovered,7.0
+03-02-2020,China,Zhejiang,_,Confirmed,1.0
+03-02-2020,China,Zhejiang,_,Recovered,23.0
+03-02-2020,China,Hunan,_,Recovered,21.0
+03-02-2020,China,Anhui,_,Recovered,44.0
+03-02-2020,China,Jiangxi,_,Recovered,19.0
+03-02-2020,China,Shandong,_,Recovered,17.0
+03-02-2020,China,Jiangsu,_,Recovered,7.0
+03-02-2020,China,Chongqing,_,Recovered,19.0
+03-02-2020,China,Sichuan,_,Recovered,21.0
+03-02-2020,China,Heilongjiang,_,Recovered,14.0
+03-02-2020,China,Beijing,_,Confirmed,1.0
+03-02-2020,China,Beijing,_,Recovered,6.0
+03-02-2020,China,Shanghai,_,Recovered,2.0
+03-02-2020,China,Hebei,_,Recovered,2.0
+03-02-2020,China,Fujian,_,Recovered,8.0
+03-02-2020,Japan,_,_,Confirmed,18.0
+03-02-2020,China,Guangxi,_,Recovered,11.0
+03-02-2020,China,Shaanxi,_,Recovered,8.0
+03-02-2020,France,_,_,Confirmed,61.0
+03-02-2020,France,_,_,Deaths,1.0
+03-02-2020,China,Yunnan,_,Recovered,5.0
+03-02-2020,China,Hainan,_,Recovered,2.0
+03-02-2020,Germany,_,_,Confirmed,29.0
+03-02-2020,China,Guizhou,_,Recovered,2.0
+03-02-2020,China,Shanxi,_,Recovered,3.0
+03-02-2020,Spain,_,_,Confirmed,36.0
+03-02-2020,Singapore,_,_,Confirmed,2.0
+03-02-2020,Singapore,_,_,Recovered,6.0
+03-02-2020,Hong Kong,Hong Kong,_,Confirmed,4.0
+03-02-2020,China,Jilin,_,Recovered,5.0
+03-02-2020,China,Gansu,_,Recovered,1.0
+03-02-2020,China,Xinjiang,_,Recovered,2.0
+03-02-2020,China,Inner Mongolia,_,Recovered,2.0
+03-02-2020,China,Ningxia,_,Confirmed,1.0
+03-02-2020,Kuwait,_,_,Confirmed,11.0
+03-02-2020,Bahrain,_,_,Confirmed,2.0
+03-02-2020,United States of America,Unassigned Location (From Diamond Princess),_,Confirmed,1.0
+03-02-2020,Thailand,_,_,Confirmed,1.0
+03-02-2020,Thailand,_,_,Recovered,3.0
+03-02-2020,Switzerland,_,_,Confirmed,15.0
+03-02-2020,Taiwan,Taiwan,_,Confirmed,1.0
+03-02-2020,Taiwan,Taiwan,_,Recovered,3.0
+03-02-2020,UK,_,_,Confirmed,4.0
+03-02-2020,Iraq,_,_,Confirmed,7.0
+03-02-2020,Norway,_,_,Confirmed,6.0
+03-02-2020,Austria,_,_,Confirmed,4.0
+03-02-2020,Netherlands,_,_,Confirmed,8.0
+03-02-2020,Canada,ON,Toronto,Confirmed,3.0
+03-02-2020,Sweden,_,_,Confirmed,1.0
+03-02-2020,United States of America,WA,King County,Confirmed,14.0
+03-02-2020,United States of America,WA,King County,Deaths,5.0
+03-02-2020,United States of America,WA,King County,Recovered,1.0
+03-02-2020,Lebanon,_,_,Confirmed,3.0
+03-02-2020,Australia,Victoria,_,Confirmed,2.0
+03-02-2020,United States of America,CA,Santa Clara,Confirmed,6.0
+03-02-2020,Belgium,_,_,Confirmed,6.0
+03-02-2020,San Marino,_,_,Confirmed,7.0
+03-02-2020,Iceland,_,_,Confirmed,3.0
+03-02-2020,India,_,_,Confirmed,2.0
+03-02-2020,United States of America,IL,Cook County,Confirmed,4.0
+03-02-2020,United States of America,IL,Cook County,Recovered,2.0
+03-02-2020,United States of America,WA,Snohomish County,Confirmed,2.0
+03-02-2020,United States of America,WA,Snohomish County,Deaths,1.0
+03-02-2020,Algeria,_,_,Confirmed,2.0
+03-02-2020,Russia,_,_,Confirmed,1.0
+03-02-2020,Indonesia,_,_,Confirmed,2.0
+03-02-2020,Portugal,_,_,Confirmed,2.0
+03-02-2020,United States of America,OR,Portland,Confirmed,1.0
+03-02-2020,United States of America,RI,Providence,Confirmed,1.0
+03-02-2020,Andorra,_,_,Confirmed,1.0
+03-02-2020,Australia,Tasmania,_,Confirmed,1.0
+03-02-2020,Latvia,_,_,Confirmed,1.0
+03-02-2020,Morocco,_,_,Confirmed,1.0
+03-02-2020,Saudi Arabia,_,_,Confirmed,1.0
+03-02-2020,Senegal,_,_,Confirmed,1.0
+03-02-2020,United States of America,NH,Grafton County,Confirmed,1.0
+03-02-2020,United States of America,FL,Hillsborough,Confirmed,1.0
+03-02-2020,United States of America,NY,New York City,Confirmed,1.0
+03-02-2020,United States of America,CA,Placer County,Confirmed,1.0
+03-02-2020,United States of America,CA,San Mateo,Confirmed,1.0
+03-02-2020,United States of America,FL,Sarasota,Confirmed,1.0
+03-02-2020,United States of America,CA,Sonoma County,Confirmed,1.0
+03-02-2020,United States of America,OR,Umatilla,Confirmed,1.0
+03-03-2020,China,Hubei,_,Confirmed,114.0
+03-03-2020,China,Hubei,_,Deaths,32.0
+03-03-2020,China,Hubei,_,Recovered,2274.0
+03-03-2020,South Korea,_,_,Confirmed,851.0
+03-03-2020,Italy,_,_,Confirmed,466.0
+03-03-2020,Italy,_,_,Deaths,27.0
+03-03-2020,Italy,_,_,Recovered,11.0
+03-03-2020,Iran,_,_,Confirmed,835.0
+03-03-2020,Iran,_,_,Deaths,11.0
+03-03-2020,China,Guangdong,_,Recovered,42.0
+03-03-2020,China,Henan,_,Recovered,26.0
+03-03-2020,China,Zhejiang,_,Confirmed,7.0
+03-03-2020,China,Zhejiang,_,Recovered,24.0
+03-03-2020,China,Hunan,_,Recovered,19.0
+03-03-2020,China,Anhui,_,Recovered,19.0
+03-03-2020,China,Jiangxi,_,Recovered,20.0
+03-03-2020,China,Shandong,_,Recovered,51.0
+03-03-2020,Others,Diamond Princess cruise ship,_,Confirmed,1.0
+03-03-2020,China,Jiangsu,_,Recovered,19.0
+03-03-2020,China,Chongqing,_,Recovered,21.0
+03-03-2020,China,Sichuan,_,Recovered,8.0
+03-03-2020,China,Heilongjiang,_,Recovered,10.0
+03-03-2020,China,Beijing,_,Recovered,6.0
+03-03-2020,China,Shanghai,_,Confirmed,1.0
+03-03-2020,China,Shanghai,_,Recovered,2.0
+03-03-2020,China,Hebei,_,Recovered,4.0
+03-03-2020,China,Fujian,_,Recovered,5.0
+03-03-2020,Japan,_,_,Confirmed,19.0
+03-03-2020,Japan,_,_,Recovered,11.0
+03-03-2020,China,Guangxi,_,Recovered,10.0
+03-03-2020,France,_,_,Confirmed,13.0
+03-03-2020,France,_,_,Deaths,1.0
+03-03-2020,Germany,_,_,Confirmed,37.0
+03-03-2020,China,Yunnan,_,Recovered,1.0
+03-03-2020,China,Hainan,_,Recovered,4.0
+03-03-2020,Spain,_,_,Confirmed,45.0
+03-03-2020,Spain,_,_,Deaths,1.0
+03-03-2020,China,Tianjin,_,Recovered,13.0
+03-03-2020,China,Shanxi,_,Recovered,5.0
+03-03-2020,China,Liaoning,_,Confirmed,3.0
+03-03-2020,China,Liaoning,_,Recovered,3.0
+03-03-2020,Singapore,_,_,Confirmed,2.0
+03-03-2020,Hong Kong,Hong Kong,_,Recovered,1.0
+03-03-2020,China,Gansu,_,Recovered,1.0
+03-03-2020,China,Xinjiang,_,Recovered,2.0
+03-03-2020,China,Inner Mongolia,_,Deaths,1.0
+03-03-2020,China,Inner Mongolia,_,Recovered,5.0
+03-03-2020,Switzerland,_,_,Confirmed,14.0
+03-03-2020,Switzerland,_,_,Recovered,2.0
+03-03-2020,UK,_,_,Confirmed,11.0
+03-03-2020,Taiwan,Taiwan,_,Confirmed,1.0
+03-03-2020,Malaysia,_,_,Confirmed,7.0
+03-03-2020,Malaysia,_,_,Recovered,4.0
+03-03-2020,Iraq,_,_,Confirmed,6.0
+03-03-2020,Norway,_,_,Confirmed,7.0
+03-03-2020,United Arab Emirates,_,_,Confirmed,6.0
+03-03-2020,Netherlands,_,_,Confirmed,6.0
+03-03-2020,Austria,_,_,Confirmed,3.0
+03-03-2020,Sweden,_,_,Confirmed,6.0
+03-03-2020,United States of America,WA,King County,Confirmed,7.0
+03-03-2020,United States of America,WA,King County,Deaths,1.0
+03-03-2020,Canada,ON,Toronto,Confirmed,2.0
+03-03-2020,Australia,New South Wales,_,Confirmed,7.0
+03-03-2020,Belgium,_,_,Confirmed,5.0
+03-03-2020,Israel,_,_,Confirmed,2.0
+03-03-2020,Oman,_,_,Confirmed,6.0
+03-03-2020,Oman,_,_,Recovered,1.0
+03-03-2020,Australia,Queensland,_,Confirmed,2.0
+03-03-2020,Iceland,_,_,Confirmed,5.0
+03-03-2020,United States of America,CA,Santa Clara,Confirmed,2.0
+03-03-2020,Macau,Macau,_,Recovered,1.0
+03-03-2020,San Marino,_,_,Confirmed,2.0
+03-03-2020,San Marino,_,_,Deaths,1.0
+03-03-2020,Canada,British Columbia,_,Confirmed,1.0
+03-03-2020,Croatia,_,_,Confirmed,2.0
+03-03-2020,Ecuador,_,_,Confirmed,1.0
+03-03-2020,Qatar,_,_,Confirmed,4.0
+03-03-2020,Denmark,_,_,Confirmed,2.0
+03-03-2020,United States of America,WA,Snohomish County,Confirmed,2.0
+03-03-2020,Algeria,_,_,Confirmed,2.0
+03-03-2020,Czech Republic,_,_,Confirmed,2.0
+03-03-2020,Mexico,_,_,Recovered,1.0
+03-03-2020,Pakistan,_,_,Confirmed,1.0
+03-03-2020,Estonia,_,_,Confirmed,1.0
+03-03-2020,Ireland,_,_,Confirmed,1.0
+03-03-2020,Senegal,_,_,Confirmed,1.0
+03-03-2020,United States of America,GA,Fulton County,Confirmed,2.0
+03-03-2020,United States of America,NH,Grafton County,Confirmed,1.0
+03-03-2020,United States of America,FL,Hillsborough,Confirmed,1.0
+03-03-2020,United States of America,CA,San Mateo,Confirmed,1.0
+03-03-2020,United States of America,OR,Washington County,Confirmed,2.0
+03-03-2020,Argentina,_,_,Confirmed,1.0
+03-03-2020,Chile,_,_,Confirmed,1.0
+03-03-2020,Jordan,_,_,Confirmed,1.0
+03-03-2020,United States of America,MA,Norfolk County,Confirmed,1.0
+03-03-2020,United States of America,CA,Berkeley,Confirmed,1.0
+03-03-2020,United States of America,WI,Madison,Recovered,1.0
+03-03-2020,United States of America,AZ,Maricopa County,Confirmed,1.0
+03-03-2020,United States of America,NC,Wake County,Confirmed,1.0
+03-03-2020,United States of America,NY,Westchester County,Confirmed,1.0
+03-03-2020,Ukraine,_,_,Confirmed,1.0
+03-04-2020,China,Hubei,_,Confirmed,115.0
+03-04-2020,China,Hubei,_,Deaths,36.0
+03-04-2020,China,Hubei,_,Recovered,2349.0
+03-04-2020,South Korea,_,_,Confirmed,435.0
+03-04-2020,South Korea,_,_,Deaths,7.0
+03-04-2020,South Korea,_,_,Recovered,11.0
+03-04-2020,Italy,_,_,Confirmed,587.0
+03-04-2020,Italy,_,_,Deaths,28.0
+03-04-2020,Italy,_,_,Recovered,116.0
+03-04-2020,Iran,_,_,Confirmed,586.0
+03-04-2020,Iran,_,_,Deaths,15.0
+03-04-2020,Iran,_,_,Recovered,261.0
+03-04-2020,China,Guangdong,_,Recovered,32.0
+03-04-2020,China,Henan,_,Recovered,3.0
+03-04-2020,China,Zhejiang,_,Recovered,21.0
+03-04-2020,China,Hunan,_,Recovered,10.0
+03-04-2020,China,Anhui,_,Recovered,20.0
+03-04-2020,China,Jiangxi,_,Recovered,14.0
+03-04-2020,China,Shandong,_,Recovered,5.0
+03-04-2020,China,Jiangsu,_,Recovered,15.0
+03-04-2020,China,Chongqing,_,Recovered,12.0
+03-04-2020,China,Sichuan,_,Recovered,12.0
+03-04-2020,China,Heilongjiang,_,Recovered,7.0
+03-04-2020,China,Beijing,_,Confirmed,4.0
+03-04-2020,China,Beijing,_,Recovered,9.0
+03-04-2020,China,Shanghai,_,Recovered,4.0
+03-04-2020,Japan,_,_,Confirmed,38.0
+03-04-2020,China,Hebei,_,Recovered,1.0
+03-04-2020,China,Fujian,_,Recovered,10.0
+03-04-2020,France,_,_,Confirmed,81.0
+03-04-2020,Germany,_,_,Confirmed,66.0
+03-04-2020,China,Guangxi,_,Recovered,8.0
+03-04-2020,China,Shaanxi,_,Recovered,7.0
+03-04-2020,Spain,_,_,Confirmed,57.0
+03-04-2020,Spain,_,_,Deaths,1.0
+03-04-2020,China,Hainan,_,Recovered,3.0
+03-04-2020,Hong Kong,Hong Kong,_,Confirmed,5.0
+03-04-2020,China,Jilin,_,Recovered,3.0
+03-04-2020,China,Gansu,_,Recovered,1.0
+03-04-2020,Switzerland,_,_,Confirmed,34.0
+03-04-2020,Switzerland,_,_,Recovered,1.0
+03-04-2020,UK,_,_,Confirmed,34.0
+03-04-2020,China,Xinjiang,_,Recovered,1.0
+03-04-2020,China,Inner Mongolia,_,Recovered,4.0
+03-04-2020,China,Ningxia,_,Confirmed,1.0
+03-04-2020,Norway,_,_,Confirmed,24.0
+03-04-2020,Bahrain,_,_,Confirmed,3.0
+03-04-2020,Malaysia,_,_,Confirmed,14.0
+03-04-2020,Netherlands,_,_,Confirmed,14.0
+03-04-2020,Iraq,_,_,Confirmed,3.0
+03-04-2020,Iraq,_,_,Deaths,2.0
+03-04-2020,Sweden,_,_,Confirmed,14.0
+03-04-2020,United States of America,WA,King County,Confirmed,10.0
+03-04-2020,United States of America,WA,King County,Deaths,3.0
+03-04-2020,Austria,_,_,Confirmed,8.0
+03-04-2020,India,_,_,Confirmed,23.0
+03-04-2020,Iceland,_,_,Confirmed,15.0
+03-04-2020,Belgium,_,_,Confirmed,10.0
+03-04-2020,Australia,New South Wales,_,Confirmed,9.0
+03-04-2020,Australia,New South Wales,_,Deaths,1.0
+03-04-2020,San Marino,_,_,Confirmed,6.0
+03-04-2020,Israel,_,_,Confirmed,3.0
+03-04-2020,Oman,_,_,Confirmed,3.0
+03-04-2020,Lebanon,_,_,Recovered,1.0
+03-04-2020,Algeria,_,_,Confirmed,7.0
+03-04-2020,Canada,British Columbia,_,Confirmed,3.0
+03-04-2020,Australia,Victoria,_,Confirmed,1.0
+03-04-2020,Croatia,_,_,Confirmed,1.0
+03-04-2020,Denmark,_,_,Confirmed,4.0
+03-04-2020,Ecuador,_,_,Confirmed,3.0
+03-04-2020,United States of America,NY,Westchester County,Confirmed,9.0
+03-04-2020,Greece,_,_,Confirmed,2.0
+03-04-2020,Czech Republic,_,_,Confirmed,3.0
+03-04-2020,Qatar,_,_,Confirmed,1.0
+03-04-2020,United States of America,WA,Snohomish County,Confirmed,2.0
+03-04-2020,United States of America,CA,Los Angeles,Confirmed,6.0
+03-04-2020,Belarus,_,_,Confirmed,5.0
+03-04-2020,Ireland,_,_,Confirmed,4.0
+03-04-2020,Australia,South Australia,_,Confirmed,2.0
+03-04-2020,Portugal,_,_,Confirmed,3.0
+03-04-2020,Brazil,_,_,Confirmed,2.0
+03-04-2020,Romania,_,_,Confirmed,1.0
+03-04-2020,Romania,_,_,Recovered,1.0
+03-04-2020,Senegal,_,_,Confirmed,2.0
+03-04-2020,New Zealand,_,_,Confirmed,2.0
+03-04-2020,Saint Barthelemy,_,_,Confirmed,3.0
+03-04-2020,United States of America,CA,Orange County,Confirmed,3.0
+03-04-2020,Hungary,_,_,Confirmed,2.0
+03-04-2020,United States of America,CA,Placer County,Confirmed,1.0
+03-04-2020,United States of America,CA,Placer County,Deaths,1.0
+03-04-2020,Australia,Northern Territory,_,Confirmed,1.0
+03-04-2020,Faroe Islands,_,_,Confirmed,1.0
+03-04-2020,Gibraltar,_,_,Confirmed,1.0
+03-04-2020,Liechtenstein,_,_,Confirmed,1.0
+03-04-2020,Poland,_,_,Confirmed,1.0
+03-04-2020,Tunisia,_,_,Confirmed,1.0
+03-04-2020,United States of America,CA,Contra Costa County,Confirmed,1.0
+03-05-2020,China,Hubei,_,Confirmed,134.0
+03-05-2020,China,Hubei,_,Deaths,31.0
+03-05-2020,China,Hubei,_,Recovered,2035.0
+03-05-2020,South Korea,_,_,Confirmed,467.0
+03-05-2020,Italy,_,_,Confirmed,769.0
+03-05-2020,Italy,_,_,Deaths,41.0
+03-05-2020,Italy,_,_,Recovered,138.0
+03-05-2020,Iran,_,_,Confirmed,591.0
+03-05-2020,Iran,_,_,Deaths,15.0
+03-05-2020,Iran,_,_,Recovered,187.0
+03-05-2020,China,Guangdong,_,Confirmed,1.0
+03-05-2020,China,Guangdong,_,Recovered,48.0
+03-05-2020,China,Henan,_,Recovered,5.0
+03-05-2020,China,Zhejiang,_,Confirmed,2.0
+03-05-2020,China,Zhejiang,_,Recovered,10.0
+03-05-2020,China,Hunan,_,Recovered,22.0
+03-05-2020,China,Anhui,_,Recovered,14.0
+03-05-2020,China,Jiangxi,_,Recovered,17.0
+03-05-2020,China,Shandong,_,Recovered,62.0
+03-05-2020,China,Jiangsu,_,Recovered,6.0
+03-05-2020,China,Chongqing,_,Recovered,10.0
+03-05-2020,China,Sichuan,_,Confirmed,1.0
+03-05-2020,China,Sichuan,_,Recovered,19.0
+03-05-2020,Germany,_,_,Confirmed,220.0
+03-05-2020,China,Heilongjiang,_,Confirmed,1.0
+03-05-2020,China,Heilongjiang,_,Recovered,6.0
+03-05-2020,France,_,_,Confirmed,92.0
+03-05-2020,France,_,_,Deaths,2.0
+03-05-2020,Japan,_,_,Confirmed,29.0
+03-05-2020,China,Shanghai,_,Confirmed,1.0
+03-05-2020,China,Shanghai,_,Recovered,5.0
+03-05-2020,China,Hebei,_,Recovered,3.0
+03-05-2020,China,Fujian,_,Recovered,7.0
+03-05-2020,Spain,_,_,Confirmed,37.0
+03-05-2020,Spain,_,_,Deaths,1.0
+03-05-2020,China,Guangxi,_,Recovered,4.0
+03-05-2020,China,Shaanxi,_,Recovered,1.0
+03-05-2020,China,Hainan,_,Deaths,1.0
+03-05-2020,China,Tianjin,_,Recovered,4.0
+03-05-2020,China,Shanxi,_,Recovered,2.0
+03-05-2020,Singapore,_,_,Confirmed,7.0
+03-05-2020,UK,_,_,Confirmed,30.0
+03-05-2020,UK,_,_,Deaths,1.0
+03-05-2020,Switzerland,_,_,Confirmed,24.0
+03-05-2020,Switzerland,_,_,Deaths,1.0
+03-05-2020,Hong Kong,Hong Kong,_,Recovered,6.0
+03-05-2020,China,Gansu,_,Confirmed,11.0
+03-05-2020,Sweden,_,_,Confirmed,59.0
+03-05-2020,China,Jilin,_,Recovered,2.0
+03-05-2020,Norway,_,_,Confirmed,31.0
+03-05-2020,Netherlands,_,_,Confirmed,44.0
+03-05-2020,China,Xinjiang,_,Recovered,1.0
+03-05-2020,China,Inner Mongolia,_,Recovered,2.0
+03-05-2020,Kuwait,_,_,Confirmed,2.0
+03-05-2020,Bahrain,_,_,Confirmed,3.0
+03-05-2020,United States of America,WA,King County,Confirmed,20.0
+03-05-2020,United States of America,WA,King County,Deaths,1.0
+03-05-2020,Belgium,_,_,Confirmed,27.0
+03-05-2020,Thailand,_,_,Confirmed,4.0
+03-05-2020,Taiwan,Taiwan,_,Confirmed,2.0
+03-05-2020,Austria,_,_,Confirmed,12.0
+03-05-2020,Iceland,_,_,Confirmed,8.0
+03-05-2020,Greece,_,_,Confirmed,22.0
+03-05-2020,India,_,_,Confirmed,2.0
+03-05-2020,United Arab Emirates,_,_,Confirmed,2.0
+03-05-2020,Canada,ON,Toronto,Confirmed,2.0
+03-05-2020,San Marino,_,_,Confirmed,5.0
+03-05-2020,United States of America,CA,Santa Clara,Confirmed,9.0
+03-05-2020,United States of America,WA,Snohomish County,Confirmed,10.0
+03-05-2020,United States of America,NY,Westchester County,Confirmed,8.0
+03-05-2020,Israel,_,_,Confirmed,1.0
+03-05-2020,Lebanon,_,_,Confirmed,3.0
+03-05-2020,Oman,_,_,Confirmed,1.0
+03-05-2020,Australia,Queensland,_,Confirmed,2.0
+03-05-2020,Australia,Queensland,_,Recovered,7.0
+03-05-2020,Canada,British Columbia,_,Confirmed,1.0
+03-05-2020,Ecuador,_,_,Confirmed,3.0
+03-05-2020,Czech Republic,_,_,Confirmed,4.0
+03-05-2020,Finland,_,_,Confirmed,6.0
+03-05-2020,United States of America,CA,Los Angeles,Confirmed,4.0
+03-05-2020,Australia,Victoria,_,Recovered,3.0
+03-05-2020,Portugal,_,_,Confirmed,3.0
+03-05-2020,Azerbaijan,_,_,Confirmed,3.0
+03-05-2020,Romania,_,_,Confirmed,2.0
+03-05-2020,Saudi Arabia,_,_,Confirmed,4.0
+03-05-2020,United States of America,IL,Cook County,Confirmed,1.0
+03-05-2020,Chile,_,_,Confirmed,3.0
+03-05-2020,Georgia,_,_,Confirmed,1.0
+03-05-2020,Palestine,_,_,Confirmed,4.0
+03-05-2020,Russia,_,_,Confirmed,1.0
+03-05-2020,United States of America,NY,New York City,Confirmed,3.0
+03-05-2020,Australia,Western Australia,_,Confirmed,1.0
+03-05-2020,Egypt,_,_,Confirmed,1.0
+03-05-2020,Estonia,_,_,Confirmed,1.0
+03-05-2020,United States of America,CA,San Diego County,Confirmed,1.0
+03-05-2020,Bosnia and Herzegovina,_,_,Confirmed,2.0
+03-05-2020,Canada,QC,Montreal,Confirmed,1.0
+03-05-2020,Morocco,_,_,Confirmed,1.0
+03-05-2020,Slovenia,_,_,Confirmed,2.0
+03-05-2020,United States of America,NJ,Bergen County,Confirmed,2.0
+03-05-2020,United States of America,TX,Harris County,Confirmed,2.0
+03-05-2020,United States of America,CA,San Francisco County,Confirmed,2.0
+03-05-2020,South Africa,_,_,Confirmed,1.0
+03-05-2020,United States of America,NV,Clark County,Confirmed,1.0
+03-05-2020,United States of America,TX,Fort Bend County,Confirmed,1.0
+03-05-2020,United States of America,WA,Grant County,Confirmed,1.0
+03-05-2020,United States of America,NY,Queens County,Confirmed,1.0
+03-05-2020,United States of America,FL,Santa Rosa County,Confirmed,1.0
+03-05-2020,United States of America,TN,Williamson County,Confirmed,1.0
+03-06-2020,China,Hubei,_,Confirmed,126.0
+03-06-2020,China,Hubei,_,Deaths,29.0
+03-06-2020,China,Hubei,_,Recovered,1441.0
+03-06-2020,South Korea,_,_,Confirmed,505.0
+03-06-2020,South Korea,_,_,Deaths,7.0
+03-06-2020,South Korea,_,_,Recovered,94.0
+03-06-2020,Iran,_,_,Confirmed,1234.0
+03-06-2020,Iran,_,_,Deaths,17.0
+03-06-2020,Iran,_,_,Recovered,174.0
+03-06-2020,Italy,_,_,Confirmed,778.0
+03-06-2020,Italy,_,_,Deaths,49.0
+03-06-2020,Italy,_,_,Recovered,109.0
+03-06-2020,China,Guangdong,_,Confirmed,1.0
+03-06-2020,China,Guangdong,_,Recovered,35.0
+03-06-2020,China,Henan,_,Recovered,5.0
+03-06-2020,China,Zhejiang,_,Recovered,23.0
+03-06-2020,China,Hunan,_,Recovered,17.0
+03-06-2020,China,Anhui,_,Recovered,9.0
+03-06-2020,China,Jiangxi,_,Recovered,8.0
+03-06-2020,China,Shandong,_,Recovered,40.0
+03-06-2020,Others,Diamond Princess cruise ship,_,Recovered,30.0
+03-06-2020,Germany,_,_,Confirmed,188.0
+03-06-2020,Germany,_,_,Recovered,1.0
+03-06-2020,France,_,_,Confirmed,276.0
+03-06-2020,France,_,_,Deaths,3.0
+03-06-2020,China,Jiangsu,_,Recovered,11.0
+03-06-2020,China,Chongqing,_,Recovered,1.0
+03-06-2020,China,Sichuan,_,Recovered,17.0
+03-06-2020,China,Heilongjiang,_,Recovered,17.0
+03-06-2020,China,Beijing,_,Confirmed,4.0
+03-06-2020,China,Beijing,_,Recovered,2.0
+03-06-2020,Japan,_,_,Confirmed,60.0
+03-06-2020,Japan,_,_,Recovered,3.0
+03-06-2020,Spain,_,_,Confirmed,141.0
+03-06-2020,Spain,_,_,Deaths,2.0
+03-06-2020,China,Shanghai,_,Confirmed,3.0
+03-06-2020,China,Shanghai,_,Recovered,3.0
+03-06-2020,China,Hebei,_,Recovered,1.0
+03-06-2020,China,Fujian,_,Recovered,7.0
+03-06-2020,China,Guangxi,_,Recovered,3.0
+03-06-2020,China,Shaanxi,_,Recovered,2.0
+03-06-2020,Switzerland,_,_,Confirmed,100.0
+03-06-2020,China,Yunnan,_,Recovered,1.0
+03-06-2020,UK,_,_,Confirmed,48.0
+03-06-2020,UK,_,_,Deaths,1.0
+03-06-2020,Singapore,_,_,Confirmed,13.0
+03-06-2020,Netherlands,_,_,Confirmed,46.0
+03-06-2020,Netherlands,_,_,Deaths,1.0
+03-06-2020,China,Gansu,_,Confirmed,17.0
+03-06-2020,Belgium,_,_,Confirmed,59.0
+03-06-2020,Norway,_,_,Confirmed,21.0
+03-06-2020,Hong Kong,Hong Kong,_,Confirmed,2.0
+03-06-2020,Hong Kong,Hong Kong,_,Recovered,3.0
+03-06-2020,Sweden,_,_,Confirmed,7.0
+03-06-2020,China,Jilin,_,Recovered,2.0
+03-06-2020,Malaysia,_,_,Confirmed,33.0
+03-06-2020,China,Xinjiang,_,Recovered,1.0
+03-06-2020,China,Ningxia,_,Recovered,2.0
+03-06-2020,Bahrain,_,_,Confirmed,5.0
+03-06-2020,Bahrain,_,_,Recovered,4.0
+03-06-2020,United States of America,WA,King County,Confirmed,7.0
+03-06-2020,United States of America,WA,King County,Deaths,2.0
+03-06-2020,Austria,_,_,Confirmed,14.0
+03-06-2020,Thailand,_,_,Confirmed,1.0
+03-06-2020,Greece,_,_,Confirmed,14.0
+03-06-2020,Taiwan,Taiwan,_,Confirmed,1.0
+03-06-2020,Iceland,_,_,Confirmed,9.0
+03-06-2020,Iraq,_,_,Confirmed,5.0
+03-06-2020,Iraq,_,_,Deaths,1.0
+03-06-2020,India,_,_,Confirmed,1.0
+03-06-2020,Australia,New South Wales,_,Confirmed,4.0
+03-06-2020,Canada,ON,Toronto,Confirmed,3.0
+03-06-2020,Denmark,_,_,Confirmed,13.0
+03-06-2020,Denmark,_,_,Recovered,1.0
+03-06-2020,Lebanon,_,_,Confirmed,6.0
+03-06-2020,Canada,British Columbia,_,Confirmed,8.0
+03-06-2020,Israel,_,_,Confirmed,5.0
+03-06-2020,Israel,_,_,Recovered,1.0
+03-06-2020,United States of America,WA,Snohomish County,Confirmed,1.0
+03-06-2020,United States of America,NY,Westchester County,Confirmed,1.0
+03-06-2020,Czech Republic,_,_,Confirmed,6.0
+03-06-2020,Ireland,_,_,Confirmed,12.0
+03-06-2020,Algeria,_,_,Confirmed,5.0
+03-06-2020,Palestine,_,_,Confirmed,12.0
+03-06-2020,United States of America,NY,New York County,Confirmed,16.0
+03-06-2020,Egypt,_,_,Confirmed,12.0
+03-06-2020,Finland,_,_,Confirmed,3.0
+03-06-2020,Brazil,_,_,Confirmed,9.0
+03-06-2020,Portugal,_,_,Confirmed,5.0
+03-06-2020,Russia,_,_,Confirmed,9.0
+03-06-2020,United States of America,CA,Los Angeles,Confirmed,2.0
+03-06-2020,Croatia,_,_,Confirmed,1.0
+03-06-2020,Estonia,_,_,Confirmed,7.0
+03-06-2020,Macau,Macau,_,Recovered,1.0
+03-06-2020,Romania,_,_,Confirmed,3.0
+03-06-2020,Australia,South Australia,_,Confirmed,2.0
+03-06-2020,Slovenia,_,_,Confirmed,5.0
+03-06-2020,Mexico,_,_,Confirmed,1.0
+03-06-2020,Pakistan,_,_,Confirmed,1.0
+03-06-2020,Philippines,_,_,Confirmed,2.0
+03-06-2020,Poland,_,_,Confirmed,4.0
+03-06-2020,United States of America,CA,Placer County,Confirmed,3.0
+03-06-2020,United States of America,WA,Unassigned Location,Confirmed,5.0
+03-06-2020,Indonesia,_,_,Confirmed,2.0
+03-06-2020,New Zealand,_,_,Confirmed,1.0
+03-06-2020,North Macedonia,_,_,Confirmed,2.0
+03-06-2020,United States of America,CA,Contra Costa County,Confirmed,2.0
+03-06-2020,United States of America,TX,Harris County,Confirmed,1.0
+03-06-2020,United States of America,MD,Montgomery County,Confirmed,3.0
+03-06-2020,United States of America,MA,Suffolk County,Confirmed,3.0
+03-06-2020,United States of America,MA,Suffolk County,Recovered,1.0
+03-06-2020,Argentina,_,_,Confirmed,1.0
+03-06-2020,Dominican Republic,_,_,Confirmed,1.0
+03-06-2020,Luxembourg,_,_,Confirmed,1.0
+03-06-2020,United States of America,MA,Norfolk County,Confirmed,1.0
+03-06-2020,United States of America,CO,Denver County,Confirmed,2.0
+03-06-2020,United States of America,AZ,Maricopa County,Confirmed,1.0
+03-06-2020,United States of America,CO,Summit County,Confirmed,2.0
+03-06-2020,Bhutan,_,_,Confirmed,1.0
+03-06-2020,Cameroon,_,_,Confirmed,1.0
+03-06-2020,Canada,Alberta,Calgary,Confirmed,1.0
+03-06-2020,Colombia,_,_,Confirmed,1.0
+03-06-2020,Costa Rica,_,_,Confirmed,1.0
+03-06-2020,Peru,_,_,Confirmed,1.0
+03-06-2020,Serbia,_,_,Confirmed,1.0
+03-06-2020,Slovakia,_,_,Confirmed,1.0
+03-06-2020,Togo,_,_,Confirmed,1.0
+03-06-2020,United States of America,NC,Chatham County,Confirmed,1.0
+03-06-2020,United States of America,PA,Delaware County,Confirmed,1.0
+03-06-2020,United States of America,NE,Douglas County,Confirmed,1.0
+03-06-2020,United States of America,KY,Fayette County,Confirmed,1.0
+03-06-2020,United States of America,GA,Floyd County,Confirmed,1.0
+03-06-2020,United States of America,IN,Marion County,Confirmed,1.0
+03-06-2020,United States of America,MA,Middlesex County,Confirmed,1.0
+03-06-2020,United States of America,NY,Nassau County,Confirmed,1.0
+03-06-2020,United States of America,MA,Norwell County,Confirmed,1.0
+03-06-2020,United States of America,MN,Ramsey County,Confirmed,1.0
+03-06-2020,United States of America,NV,Washoe County,Confirmed,1.0
+03-06-2020,United States of America,PA,Wayne County,Confirmed,1.0
+03-06-2020,United States of America,CA,Yolo County,Confirmed,1.0
+03-06-2020,Vatican City,_,_,Confirmed,1.0
+03-07-2020,China,Hubei,_,Confirmed,74.0
+03-07-2020,China,Hubei,_,Deaths,28.0
+03-07-2020,China,Hubei,_,Recovered,1467.0
+03-07-2020,South Korea,_,_,Confirmed,448.0
+03-07-2020,South Korea,_,_,Deaths,2.0
+03-07-2020,Italy,_,_,Confirmed,1247.0
+03-07-2020,Italy,_,_,Deaths,36.0
+03-07-2020,Italy,_,_,Recovered,66.0
+03-07-2020,Iran,_,_,Confirmed,1076.0
+03-07-2020,Iran,_,_,Deaths,21.0
+03-07-2020,Iran,_,_,Recovered,756.0
+03-07-2020,China,Guangdong,_,Recovered,21.0
+03-07-2020,China,Zhejiang,_,Recovered,7.0
+03-07-2020,China,Hunan,_,Recovered,5.0
+03-07-2020,France,_,_,Confirmed,296.0
+03-07-2020,France,_,_,Deaths,2.0
+03-07-2020,China,Jiangxi,_,Recovered,7.0
+03-07-2020,Germany,_,_,Confirmed,129.0
+03-07-2020,Germany,_,_,Recovered,1.0
+03-07-2020,China,Shandong,_,Recovered,9.0
+03-07-2020,China,Jiangsu,_,Recovered,12.0
+03-07-2020,China,Chongqing,_,Recovered,13.0
+03-07-2020,China,Sichuan,_,Recovered,12.0
+03-07-2020,Spain,_,_,Confirmed,100.0
+03-07-2020,Spain,_,_,Deaths,5.0
+03-07-2020,Spain,_,_,Recovered,28.0
+03-07-2020,China,Heilongjiang,_,Recovered,7.0
+03-07-2020,Japan,_,_,Confirmed,41.0
+03-07-2020,Japan,_,_,Recovered,30.0
+03-07-2020,China,Beijing,_,Confirmed,4.0
+03-07-2020,China,Beijing,_,Recovered,4.0
+03-07-2020,China,Shanghai,_,Recovered,7.0
+03-07-2020,China,Hebei,_,Recovered,2.0
+03-07-2020,China,Fujian,_,Recovered,11.0
+03-07-2020,Switzerland,_,_,Confirmed,54.0
+03-07-2020,China,Guangxi,_,Recovered,1.0
+03-07-2020,UK,_,_,Confirmed,43.0
+03-07-2020,UK,_,_,Recovered,10.0
+03-07-2020,Netherlands,_,_,Confirmed,60.0
+03-07-2020,Belgium,_,_,Confirmed,60.0
+03-07-2020,Sweden,_,_,Confirmed,60.0
+03-07-2020,Norway,_,_,Confirmed,39.0
+03-07-2020,China,Guizhou,_,Recovered,1.0
+03-07-2020,Singapore,_,_,Confirmed,8.0
+03-07-2020,China,Liaoning,_,Recovered,1.0
+03-07-2020,China,Gansu,_,Confirmed,1.0
+03-07-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+03-07-2020,Hong Kong,Hong Kong,_,Recovered,5.0
+03-07-2020,Malaysia,_,_,Confirmed,10.0
+03-07-2020,Malaysia,_,_,Recovered,1.0
+03-07-2020,Bahrain,_,_,Confirmed,25.0
+03-07-2020,Austria,_,_,Confirmed,24.0
+03-07-2020,China,Xinjiang,_,Recovered,1.0
+03-07-2020,China,Inner Mongolia,_,Recovered,2.0
+03-07-2020,United States of America,WA,King County,Confirmed,13.0
+03-07-2020,United States of America,WA,King County,Deaths,3.0
+03-07-2020,Kuwait,_,_,Confirmed,3.0
+03-07-2020,United States of America,NY,Westchester County,Confirmed,38.0
+03-07-2020,Iraq,_,_,Confirmed,14.0
+03-07-2020,Iraq,_,_,Deaths,1.0
+03-07-2020,Iceland,_,_,Confirmed,7.0
+03-07-2020,Thailand,_,_,Confirmed,2.0
+03-07-2020,Greece,_,_,Confirmed,1.0
+03-07-2020,United Arab Emirates,_,_,Confirmed,16.0
+03-07-2020,United Arab Emirates,_,_,Recovered,2.0
+03-07-2020,India,_,_,Confirmed,3.0
+03-07-2020,United States of America,CA,Santa Clara County,Confirmed,32.0
+03-07-2020,United States of America,CA,Santa Clara County,Recovered,1.0
+03-07-2020,Australia,New South Wales,_,Confirmed,2.0
+03-07-2020,Canada,ON,Toronto,Confirmed,3.0
+03-07-2020,Canada,ON,Toronto,Recovered,1.0
+03-07-2020,United States of America,WA,Snohomish County,Confirmed,8.0
+03-07-2020,San Marino,_,_,Confirmed,2.0
+03-07-2020,Palestine,_,_,Confirmed,6.0
+03-07-2020,Canada,British Columbia,_,Recovered,1.0
+03-07-2020,United States of America,Grand Princess Cruise Ship,_,Confirmed,21.0
+03-07-2020,Portugal,_,_,Confirmed,7.0
+03-07-2020,Czech Republic,_,_,Confirmed,1.0
+03-07-2020,Vietnam,_,_,Confirmed,2.0
+03-07-2020,United States of America,CA,Los Angeles,Confirmed,1.0
+03-07-2020,Croatia,_,_,Confirmed,1.0
+03-07-2020,Australia,Victoria,_,Confirmed,1.0
+03-07-2020,Azerbaijan,_,_,Confirmed,3.0
+03-07-2020,Romania,_,_,Recovered,2.0
+03-07-2020,United States of America,CA,San Francisco County,Confirmed,7.0
+03-07-2020,Argentina,_,_,Confirmed,6.0
+03-07-2020,Philippines,_,_,Confirmed,1.0
+03-07-2020,United States of America,IL,Cook County,Confirmed,1.0
+03-07-2020,French Guiana,_,_,Confirmed,5.0
+03-07-2020,New Zealand,_,_,Confirmed,1.0
+03-07-2020,United States of America,TX,Harris County,Confirmed,2.0
+03-07-2020,Hungary,_,_,Confirmed,2.0
+03-07-2020,United States of America,NJ,Bergen County,Confirmed,2.0
+03-07-2020,United States of America,NY,Nassau County,Confirmed,3.0
+03-07-2020,Bosnia and Herzegovina,_,_,Confirmed,1.0
+03-07-2020,Canada,QC,Montreal,Confirmed,1.0
+03-07-2020,Malta,_,_,Confirmed,3.0
+03-07-2020,United States of America,CO,Douglas County,Confirmed,3.0
+03-07-2020,United States of America,TX,Fort Bend County,Confirmed,2.0
+03-07-2020,United States of America,GA,Fulton County,Confirmed,1.0
+03-07-2020,United States of America,AZ,Maricopa County,Confirmed,1.0
+03-07-2020,United States of America,AZ,Maricopa County,Recovered,1.0
+03-07-2020,United States of America,RI,Providence County,Confirmed,3.0
+03-07-2020,United States of America,OR,Washington County,Confirmed,1.0
+03-07-2020,Martinique,_,_,Confirmed,2.0
+03-07-2020,United States of America,CA,Alameda County,Confirmed,2.0
+03-07-2020,United States of America,FL,Broward County,Confirmed,2.0
+03-07-2020,United States of America,CT,Fairfield County,Confirmed,2.0
+03-07-2020,United States of America,GA,Floyd County,Confirmed,1.0
+03-07-2020,United States of America,FL,Lee County,Confirmed,2.0
+03-07-2020,United States of America,AZ,Pinal County,Confirmed,2.0
+03-07-2020,United States of America,NY,Rockland County,Confirmed,2.0
+03-07-2020,United States of America,NY,Saratoga County,Confirmed,2.0
+03-07-2020,Canada,Alberta,Edmonton,Confirmed,1.0
+03-07-2020,United States of America,SC,Charleston County,Confirmed,1.0
+03-07-2020,United States of America,WA,Clark County,Confirmed,1.0
+03-07-2020,United States of America,GA,Cobb County,Confirmed,1.0
+03-07-2020,United States of America,UT,Davis County,Confirmed,1.0
+03-07-2020,United States of America,CO,El Paso County,Confirmed,1.0
+03-07-2020,United States of America,HI,Honolulu County,Confirmed,1.0
+03-07-2020,United States of America,OR,Jackson County,Confirmed,1.0
+03-07-2020,United States of America,WA,Jefferson County,Confirmed,1.0
+03-07-2020,United States of America,SC,Kershaw County,Confirmed,1.0
+03-07-2020,United States of America,OR,Klamath County,Confirmed,1.0
+03-07-2020,United States of America,CA,Madera County,Confirmed,1.0
+03-07-2020,United States of America,WA,Pierce County,Confirmed,1.0
+03-07-2020,United States of America,MA,Plymouth County,Confirmed,1.0
+03-07-2020,United States of America,CA,Santa Cruz County,Confirmed,1.0
+03-07-2020,United States of America,OK,Tulsa County,Confirmed,1.0

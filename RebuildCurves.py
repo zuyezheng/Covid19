@@ -31,21 +31,31 @@ def build_curve(rows, date_format, name, compute_delta=True):
             distribution = math.floor(delta / (index - last_index))
 
             for i in range(last_index, index - 1):
-                curve.append([name, i, distribution])
+                curve.append(distribution)
 
                 if distribution == 0:
                     zeros += 1
 
-            curve.append([name, index, delta - (distribution * (index - last_index - 1))])
+            curve.append(delta - (distribution * (index - last_index - 1)))
         else:
-            curve.append([name, index, delta])
+            curve.append(delta)
 
         last_index = index
 
-    if zeros/(len(curve) - 1) > .90:
-        return []
+    # strip any leading or trailing zeros
+    start = 0
+    for i in range(len(curve)):
+        if curve[i] > 0:
+            start = i
+            break
+    end = 0
+    for i in range(len(curve) - 1, 0, -1):
+        if curve[i] > 0:
+            end = i
+            break
 
-    return curve
+    curve = curve[start:end + 1]
+    return list(map(lambda v: [name, v[0], v[1]], enumerate(curve)))
 
 
 def build_aggregate_curve(dataset, date_format, name):
@@ -98,5 +108,5 @@ pandas.DataFrame(
     build_curve(pandas.read_csv('curves/dengue_fais_2011.csv'), '%Y-%m-%d', 'dengue_fais_2011', False) +
     build_curve(pandas.read_csv('curves/dengue_yap_2011.csv'), '%Y-%m-%d', 'dengue_yap_2011', False) +
     build_aggregate_curve(pandas.read_csv('curves/ebola_sierraleone_2014.csv'), '%Y-%m-%d', 'ebola_sierraleone_2014'),
-    columns=['name', 'index', 'cases']
-).to_csv('curves/curves.csv', index=False)
+    columns=['Name', 'Index', 'Cases']
+).to_csv('datasets/epidemic_curves.csv', index=False)

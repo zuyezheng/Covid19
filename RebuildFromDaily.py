@@ -1,12 +1,13 @@
 import datetime
 import pandas
 import math
+import os
 
 start_date = datetime.date(2020, 1, 22)
-end_date = datetime.date(2020, 3, 6)
 last_metrics = dict()
 rows = []
 cumulative_rows = []
+
 
 def value_or_default(row, column, default):
     value = row[column]
@@ -15,6 +16,7 @@ def value_or_default(row, column, default):
         return default
     else:
         return value
+
 
 def delta(key, status, new_value):
     if key not in last_metrics:
@@ -25,12 +27,18 @@ def delta(key, status, new_value):
 
     return new_value - last_metrics[key][status]
 
+
 cur_date = start_date
-while cur_date < end_date:
+while True:
+    daily_path = 'COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/' + cur_date.strftime('%m-%d-%Y.csv')
+    if not os.path.exists(daily_path):
+        break
+
     csv = pandas.read_csv('COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/' + cur_date.strftime('%m-%d-%Y.csv'))
 
     aggregate_by_country = dict()
     for _, row in csv.iterrows():
+
         state_maybe_with_city = value_or_default(row, 'Province/State', '_').split(',')
 
         state = ''
@@ -84,8 +92,8 @@ while cur_date < end_date:
 
 pandas.DataFrame(
     rows,
-    columns=['date', 'country', 'state', 'city', 'status', 'value']
-).to_csv('details.csv', index=False)
+    columns=['Date', 'Country', 'State', 'City', 'Status', 'Value']
+).to_csv('datasets/covid19_details.csv', index=False)
 
 pandas.DataFrame(
     cumulative_rows,
