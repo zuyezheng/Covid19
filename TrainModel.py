@@ -13,9 +13,10 @@ config.gpu_options.allow_growth = True
 session = InteractiveSession(config=config)
 
 
-def generate_observations(file, steps, min_curve_length, min_cases):
+def generate_observations(file, steps, min_curve_length, min_cases, curve_names=None):
     curves = pandas.read_csv(file)
-    curve_names = curves['Name'].unique()
+    if curve_names is None:
+        curve_names = curves['Name'].unique()
 
     xs = []
     ys = []
@@ -48,7 +49,7 @@ def generate_observations(file, steps, min_curve_length, min_cases):
 def train(xs, ys, steps, hidden_size, epochs, name):
     input = Input(shape=(steps, 1))
     lstm = LSTM(hidden_size, return_sequences=True)(input)
-    lstm = LSTM(hidden_size, dropout=.25)(lstm)
+    lstm = LSTM(hidden_size)(lstm)
     output = Dense(1)(lstm)
     model = Model(inputs=input, outputs=output)
 
@@ -56,7 +57,7 @@ def train(xs, ys, steps, hidden_size, epochs, name):
     model.compile(optimizer='adam', loss='mae', metrics=["accuracy"])
 
     model.fit(
-        xs, ys, batch_size=16, epochs=epochs,
+        xs, ys, batch_size=4, epochs=epochs,
         callbacks=[
             ModelCheckpoint(
                 monitor='loss',
@@ -70,5 +71,10 @@ def train(xs, ys, steps, hidden_size, epochs, name):
 
 
 STEPS = 14
-xs, ys = generate_observations('datasets/epidemic_curves.csv', STEPS, 21, 50)
-train(xs, ys, STEPS, 32, 500, '21days_50cases_14steps_32hidden')
+xs, ys = generate_observations(
+    'datasets/epidemic_curves.csv',
+    STEPS,
+    21,
+    200
+)
+train(xs, ys, STEPS, 32, 500, '21days_200cases_14steps_32hidden')

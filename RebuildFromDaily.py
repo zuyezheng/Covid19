@@ -34,7 +34,7 @@ while True:
     if not os.path.exists(daily_path):
         break
 
-    csv = pandas.read_csv('COVID-19/csse_covid_19_data/csse_covid_19_daily_reports/' + cur_date.strftime('%m-%d-%Y.csv'))
+    csv = pandas.read_csv(daily_path)
 
     aggregate_by_country = dict()
     for _, row in csv.iterrows():
