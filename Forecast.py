@@ -37,7 +37,8 @@ def build_observations():
 
 
 input = Input(shape=(STEPS, 1))
-lstm = LSTM(8)(input)
+lstm = LSTM(16, return_sequences=True)(input)
+lstm = LSTM(16)(lstm)
 output = Dense(1)(lstm)
 model = Model(inputs=input, outputs=output)
 
