@@ -3933,6 +3933,7 @@ covid_2019,41,2280.0
 covid_2019,42,2762.0
 covid_2019,43,3914.0
 covid_2019,44,4036.0
+covid_2019,45,3999.0
 covid_2019_China,0,92.0
 covid_2019_China,1,277.0
 covid_2019_China,2,483.0
@@ -3978,6 +3979,7 @@ covid_2019_China,41,120.0
 covid_2019_China,42,151.0
 covid_2019_China,43,151.0
 covid_2019_China,44,79.0
+covid_2019_China,45,47.0
 covid_2019_Hong Kong,0,2.0
 covid_2019_Hong Kong,1,0.0
 covid_2019_Hong Kong,2,3.0
@@ -4023,6 +4025,7 @@ covid_2019_Hong Kong,41,5.0
 covid_2019_Hong Kong,42,0.0
 covid_2019_Hong Kong,43,2.0
 covid_2019_Hong Kong,44,1.0
+covid_2019_Hong Kong,45,6.0
 covid_2019_Macau,0,1.0
 covid_2019_Macau,1,0.0
 covid_2019_Macau,2,0.0
@@ -4123,6 +4126,7 @@ covid_2019_United States of America,40,31.0
 covid_2019_United States of America,41,68.0
 covid_2019_United States of America,42,57.0
 covid_2019_United States of America,43,139.0
+covid_2019_United States of America,44,120.0
 covid_2019_Japan,0,1.0
 covid_2019_Japan,1,0.0
 covid_2019_Japan,2,2.0
@@ -4167,6 +4171,7 @@ covid_2019_Japan,40,38.0
 covid_2019_Japan,41,29.0
 covid_2019_Japan,42,60.0
 covid_2019_Japan,43,41.0
+covid_2019_Japan,44,41.0
 covid_2019_Thailand,0,1.0
 covid_2019_Thailand,1,2.0
 covid_2019_Thailand,2,2.0
@@ -4256,6 +4261,7 @@ covid_2019_South Korea,40,435.0
 covid_2019_South Korea,41,467.0
 covid_2019_South Korea,42,505.0
 covid_2019_South Korea,43,448.0
+covid_2019_South Korea,44,273.0
 covid_2019_Singapore,0,2.0
 covid_2019_Singapore,1,0.0
 covid_2019_Singapore,2,1.0
@@ -4300,6 +4306,7 @@ covid_2019_Singapore,40,0.0
 covid_2019_Singapore,41,7.0
 covid_2019_Singapore,42,13.0
 covid_2019_Singapore,43,8.0
+covid_2019_Singapore,44,12.0
 covid_2019_Philippines,0,1.0
 covid_2019_Philippines,1,0.0
 covid_2019_Philippines,2,0.0
@@ -4338,6 +4345,7 @@ covid_2019_Philippines,34,0.0
 covid_2019_Philippines,35,0.0
 covid_2019_Philippines,36,2.0
 covid_2019_Philippines,37,1.0
+covid_2019_Philippines,38,4.0
 covid_2019_Malaysia,0,1.0
 covid_2019_Malaysia,1,2.0
 covid_2019_Malaysia,2,1.0
@@ -4382,6 +4390,7 @@ covid_2019_Malaysia,40,14.0
 covid_2019_Malaysia,41,0.0
 covid_2019_Malaysia,42,33.0
 covid_2019_Malaysia,43,10.0
+covid_2019_Malaysia,44,6.0
 covid_2019_Vietnam,0,4.0
 covid_2019_Vietnam,1,0.0
 covid_2019_Vietnam,2,2.0
@@ -4418,6 +4427,7 @@ covid_2019_Vietnam,32,0.0
 covid_2019_Vietnam,33,0.0
 covid_2019_Vietnam,34,0.0
 covid_2019_Vietnam,35,2.0
+covid_2019_Vietnam,36,12.0
 covid_2019_Australia,0,2.0
 covid_2019_Australia,1,2.0
 covid_2019_Australia,2,0.0
@@ -4462,6 +4472,7 @@ covid_2019_Australia,40,13.0
 covid_2019_Australia,41,3.0
 covid_2019_Australia,42,5.0
 covid_2019_Australia,43,3.0
+covid_2019_Australia,44,13.0
 covid_2019_Mexico,0,1.0
 covid_2019_Mexico,1,3.0
 covid_2019_Mexico,2,1.0
@@ -4470,6 +4481,8 @@ covid_2019_Mexico,4,0.0
 covid_2019_Mexico,5,0.0
 covid_2019_Mexico,6,0.0
 covid_2019_Mexico,7,1.0
+covid_2019_Mexico,8,0.0
+covid_2019_Mexico,9,1.0
 covid_2019_Brazil,0,1.0
 covid_2019_Brazil,1,0.0
 covid_2019_Brazil,2,0.0
@@ -4480,6 +4493,9 @@ covid_2019_Brazil,6,0.0
 covid_2019_Brazil,7,2.0
 covid_2019_Brazil,8,0.0
 covid_2019_Brazil,9,9.0
+covid_2019_Brazil,10,0.0
+covid_2019_Brazil,11,7.0
+covid_2019_Colombia,0,1.0
 covid_2019_France,0,1.0
 covid_2019_France,1,0.0
 covid_2019_France,2,0.0
@@ -4523,6 +4539,7 @@ covid_2019_France,39,81.0
 covid_2019_France,40,92.0
 covid_2019_France,41,276.0
 covid_2019_France,42,296.0
+covid_2019_France,43,177.0
 covid_2019_Nepal,0,0.0
 covid_2019_Canada,0,1.0
 covid_2019_Canada,1,0.0
@@ -4564,7 +4581,8 @@ covid_2019_Canada,36,3.0
 covid_2019_Canada,37,4.0
 covid_2019_Canada,38,12.0
 covid_2019_Canada,39,5.0
-covid_2019_Cambodia,0,0.0
+covid_2019_Canada,40,10.0
+covid_2019_Cambodia,0,1.0
 covid_2019_Sri Lanka,0,0.0
 covid_2019_Germany,0,1.0
 covid_2019_Germany,1,3.0
@@ -4603,6 +4621,7 @@ covid_2019_Germany,33,66.0
 covid_2019_Germany,34,220.0
 covid_2019_Germany,35,188.0
 covid_2019_Germany,36,129.0
+covid_2019_Germany,37,241.0
 covid_2019_Finland,0,1.0
 covid_2019_Finland,1,0.0
 covid_2019_Finland,2,0.0
@@ -4613,6 +4632,8 @@ covid_2019_Finland,6,0.0
 covid_2019_Finland,7,0.0
 covid_2019_Finland,8,6.0
 covid_2019_Finland,9,3.0
+covid_2019_Finland,10,0.0
+covid_2019_Finland,11,8.0
 covid_2019_United Arab Emirates,0,1.0
 covid_2019_United Arab Emirates,1,0.0
 covid_2019_United Arab Emirates,2,0.0
@@ -4683,6 +4704,7 @@ covid_2019_India,31,23.0
 covid_2019_India,32,2.0
 covid_2019_India,33,1.0
 covid_2019_India,34,3.0
+covid_2019_India,35,5.0
 covid_2019_Italy,0,1.0
 covid_2019_Italy,1,0.0
 covid_2019_Italy,2,0.0
@@ -4713,6 +4735,7 @@ covid_2019_Italy,26,587.0
 covid_2019_Italy,27,769.0
 covid_2019_Italy,28,778.0
 covid_2019_Italy,29,1247.0
+covid_2019_Italy,30,1492.0
 covid_2019_UK,0,1.0
 covid_2019_UK,1,0.0
 covid_2019_UK,2,0.0
@@ -4743,11 +4766,14 @@ covid_2019_UK,26,34.0
 covid_2019_UK,27,30.0
 covid_2019_UK,28,48.0
 covid_2019_UK,29,43.0
+covid_2019_UK,30,67.0
 covid_2019_Russia,0,1.0
 covid_2019_Russia,1,0.0
 covid_2019_Russia,2,0.0
 covid_2019_Russia,3,1.0
 covid_2019_Russia,4,9.0
+covid_2019_Russia,5,0.0
+covid_2019_Russia,6,4.0
 covid_2019_Sweden,0,1.0
 covid_2019_Sweden,1,5.0
 covid_2019_Sweden,2,0.0
@@ -4759,6 +4785,7 @@ covid_2019_Sweden,7,14.0
 covid_2019_Sweden,8,59.0
 covid_2019_Sweden,9,7.0
 covid_2019_Sweden,10,60.0
+covid_2019_Sweden,11,42.0
 covid_2019_Spain,0,1.0
 covid_2019_Spain,1,0.0
 covid_2019_Spain,2,0.0
@@ -4787,6 +4814,7 @@ covid_2019_Spain,24,57.0
 covid_2019_Spain,25,37.0
 covid_2019_Spain,26,141.0
 covid_2019_Spain,27,100.0
+covid_2019_Spain,28,173.0
 covid_2019_Belgium,0,1.0
 covid_2019_Belgium,1,6.0
 covid_2019_Belgium,2,5.0
@@ -4794,6 +4822,7 @@ covid_2019_Belgium,3,10.0
 covid_2019_Belgium,4,27.0
 covid_2019_Belgium,5,59.0
 covid_2019_Belgium,6,60.0
+covid_2019_Belgium,7,31.0
 covid_2019_Others,0,3.0
 covid_2019_Others,1,71.0
 covid_2019_Others,2,0.0
@@ -4824,6 +4853,8 @@ covid_2019_Egypt,2,0.0
 covid_2019_Egypt,3,0.0
 covid_2019_Egypt,4,1.0
 covid_2019_Egypt,5,12.0
+covid_2019_Egypt,6,0.0
+covid_2019_Egypt,7,34.0
 covid_2019_Iran,0,3.0
 covid_2019_Iran,1,13.0
 covid_2019_Iran,2,10.0
@@ -4841,6 +4872,7 @@ covid_2019_Iran,13,586.0
 covid_2019_Iran,14,591.0
 covid_2019_Iran,15,1234.0
 covid_2019_Iran,16,1076.0
+covid_2019_Iran,17,743.0
 covid_2019_Israel,0,1.0
 covid_2019_Israel,1,1.0
 covid_2019_Israel,2,1.0
@@ -4851,6 +4883,8 @@ covid_2019_Israel,6,2.0
 covid_2019_Israel,7,3.0
 covid_2019_Israel,8,1.0
 covid_2019_Israel,9,5.0
+covid_2019_Israel,10,0.0
+covid_2019_Israel,11,18.0
 covid_2019_Lebanon,0,1.0
 covid_2019_Lebanon,1,0.0
 covid_2019_Lebanon,2,0.0
@@ -4861,6 +4895,8 @@ covid_2019_Lebanon,6,0.0
 covid_2019_Lebanon,7,0.0
 covid_2019_Lebanon,8,3.0
 covid_2019_Lebanon,9,6.0
+covid_2019_Lebanon,10,0.0
+covid_2019_Lebanon,11,10.0
 covid_2019_Iraq,0,1.0
 covid_2019_Iraq,1,0.0
 covid_2019_Iraq,2,4.0
@@ -4874,6 +4910,7 @@ covid_2019_Iraq,9,3.0
 covid_2019_Iraq,10,0.0
 covid_2019_Iraq,11,5.0
 covid_2019_Iraq,12,14.0
+covid_2019_Iraq,13,6.0
 covid_2019_Oman,0,2.0
 covid_2019_Oman,1,0.0
 covid_2019_Oman,2,0.0
@@ -4883,7 +4920,7 @@ covid_2019_Oman,5,0.0
 covid_2019_Oman,6,6.0
 covid_2019_Oman,7,3.0
 covid_2019_Oman,8,1.0
-covid_2019_Afghanistan,0,0.0
+covid_2019_Afghanistan,0,3.0
 covid_2019_Bahrain,0,22.0
 covid_2019_Bahrain,1,10.0
 covid_2019_Bahrain,2,0.0
@@ -4908,6 +4945,7 @@ covid_2019_Kuwait,8,0.0
 covid_2019_Kuwait,9,2.0
 covid_2019_Kuwait,10,0.0
 covid_2019_Kuwait,11,3.0
+covid_2019_Kuwait,12,3.0
 covid_2019_Austria,0,1.0
 covid_2019_Austria,1,0.0
 covid_2019_Austria,2,6.0
@@ -4918,11 +4956,14 @@ covid_2019_Austria,6,8.0
 covid_2019_Austria,7,12.0
 covid_2019_Austria,8,14.0
 covid_2019_Austria,9,24.0
+covid_2019_Austria,10,25.0
 covid_2019_Algeria,0,2.0
 covid_2019_Algeria,1,2.0
 covid_2019_Algeria,2,7.0
 covid_2019_Algeria,3,0.0
 covid_2019_Algeria,4,5.0
+covid_2019_Algeria,5,0.0
+covid_2019_Algeria,6,2.0
 covid_2019_Croatia,0,2.0
 covid_2019_Croatia,1,0.0
 covid_2019_Croatia,2,2.0
@@ -4944,6 +4985,7 @@ covid_2019_Switzerland,6,34.0
 covid_2019_Switzerland,7,24.0
 covid_2019_Switzerland,8,100.0
 covid_2019_Switzerland,9,54.0
+covid_2019_Switzerland,10,69.0
 covid_2019_Pakistan,0,2.0
 covid_2019_Pakistan,1,0.0
 covid_2019_Pakistan,2,0.0
@@ -4956,6 +4998,9 @@ covid_2019_Georgia,1,0.0
 covid_2019_Georgia,2,0.0
 covid_2019_Georgia,3,0.0
 covid_2019_Georgia,4,1.0
+covid_2019_Georgia,5,0.0
+covid_2019_Georgia,6,0.0
+covid_2019_Georgia,7,9.0
 covid_2019_Greece,0,2.0
 covid_2019_Greece,1,1.0
 covid_2019_Greece,2,0.0
@@ -4966,6 +5011,7 @@ covid_2019_Greece,6,2.0
 covid_2019_Greece,7,22.0
 covid_2019_Greece,8,14.0
 covid_2019_Greece,9,1.0
+covid_2019_Greece,10,27.0
 covid_2019_North Macedonia,0,2.0
 covid_2019_Norway,0,5.0
 covid_2019_Norway,1,9.0
@@ -4976,6 +5022,7 @@ covid_2019_Norway,5,24.0
 covid_2019_Norway,6,31.0
 covid_2019_Norway,7,21.0
 covid_2019_Norway,8,39.0
+covid_2019_Norway,9,29.0
 covid_2019_Romania,0,2.0
 covid_2019_Romania,1,0.0
 covid_2019_Romania,2,0.0
@@ -4984,6 +5031,8 @@ covid_2019_Romania,4,0.0
 covid_2019_Romania,5,1.0
 covid_2019_Romania,6,2.0
 covid_2019_Romania,7,3.0
+covid_2019_Romania,8,0.0
+covid_2019_Romania,9,6.0
 covid_2019_Denmark,0,2.0
 covid_2019_Denmark,1,1.0
 covid_2019_Denmark,2,0.0
@@ -4991,6 +5040,8 @@ covid_2019_Denmark,3,2.0
 covid_2019_Denmark,4,4.0
 covid_2019_Denmark,5,0.0
 covid_2019_Denmark,6,13.0
+covid_2019_Denmark,7,0.0
+covid_2019_Denmark,8,12.0
 covid_2019_Estonia,0,1.0
 covid_2019_Estonia,1,0.0
 covid_2019_Estonia,2,1.0
@@ -5003,12 +5054,14 @@ covid_2019_Netherlands,4,14.0
 covid_2019_Netherlands,5,44.0
 covid_2019_Netherlands,6,46.0
 covid_2019_Netherlands,7,60.0
+covid_2019_Netherlands,8,77.0
 covid_2019_San Marino,0,7.0
 covid_2019_San Marino,1,2.0
 covid_2019_San Marino,2,6.0
 covid_2019_San Marino,3,5.0
 covid_2019_San Marino,4,0.0
 covid_2019_San Marino,5,2.0
+covid_2019_San Marino,6,13.0
 covid_2019_Belarus,0,5.0
 covid_2019_Iceland,0,2.0
 covid_2019_Iceland,1,3.0
@@ -5027,15 +5080,26 @@ covid_2019_Ireland,0,1.0
 covid_2019_Ireland,1,4.0
 covid_2019_Ireland,2,0.0
 covid_2019_Ireland,3,12.0
+covid_2019_Ireland,4,0.0
+covid_2019_Ireland,5,1.0
 covid_2019_Luxembourg,0,1.0
+covid_2019_Luxembourg,1,0.0
+covid_2019_Luxembourg,2,1.0
 covid_2019_Monaco,0,0.0
 covid_2019_Qatar,0,2.0
 covid_2019_Qatar,1,0.0
 covid_2019_Qatar,2,4.0
 covid_2019_Qatar,3,1.0
+covid_2019_Qatar,4,0.0
+covid_2019_Qatar,5,0.0
+covid_2019_Qatar,6,0.0
+covid_2019_Qatar,7,7.0
 covid_2019_Ecuador,0,1.0
 covid_2019_Ecuador,1,3.0
 covid_2019_Ecuador,2,3.0
+covid_2019_Ecuador,3,0.0
+covid_2019_Ecuador,4,0.0
+covid_2019_Ecuador,5,1.0
 covid_2019_Azerbaijan,0,3.0
 covid_2019_Azerbaijan,1,0.0
 covid_2019_Azerbaijan,2,3.0
@@ -5044,31 +5108,54 @@ covid_2019_Czech Republic,1,3.0
 covid_2019_Czech Republic,2,4.0
 covid_2019_Czech Republic,3,6.0
 covid_2019_Czech Republic,4,1.0
+covid_2019_Czech Republic,5,12.0
 covid_2019_Armenia,0,0.0
 covid_2019_Dominican Republic,0,1.0
+covid_2019_Dominican Republic,1,0.0
+covid_2019_Dominican Republic,2,3.0
 covid_2019_Indonesia,0,2.0
+covid_2019_Indonesia,1,0.0
+covid_2019_Indonesia,2,2.0
 covid_2019_Portugal,0,3.0
 covid_2019_Portugal,1,3.0
 covid_2019_Portugal,2,5.0
 covid_2019_Portugal,3,7.0
+covid_2019_Portugal,4,10.0
 covid_2019_Andorra,0,0.0
-covid_2019_Latvia,0,0.0
+covid_2019_Latvia,0,1.0
 covid_2019_Morocco,0,1.0
 covid_2019_Saudi Arabia,0,4.0
+covid_2019_Saudi Arabia,1,0.0
+covid_2019_Saudi Arabia,2,0.0
+covid_2019_Saudi Arabia,3,6.0
 covid_2019_Senegal,0,1.0
 covid_2019_Senegal,1,2.0
 covid_2019_Argentina,0,1.0
 covid_2019_Argentina,1,6.0
+covid_2019_Argentina,2,4.0
 covid_2019_Chile,0,3.0
+covid_2019_Chile,1,0.0
+covid_2019_Chile,2,0.0
+covid_2019_Chile,3,4.0
 covid_2019_Jordan,0,0.0
 covid_2019_Ukraine,0,0.0
 covid_2019_Saint Barthelemy,0,0.0
 covid_2019_Hungary,0,2.0
-covid_2019_Faroe Islands,0,0.0
+covid_2019_Hungary,1,3.0
+covid_2019_Faroe Islands,0,1.0
 covid_2019_Gibraltar,0,0.0
 covid_2019_Liechtenstein,0,0.0
 covid_2019_Poland,0,4.0
-covid_2019_Tunisia,0,0.0
+covid_2019_Poland,1,0.0
+covid_2019_Poland,2,6.0
+covid_2019_Tunisia,0,1.0
+covid_2019_Palestine,0,12.0
+covid_2019_Palestine,1,6.0
+covid_2019_Bosnia and Herzegovina,0,1.0
+covid_2019_Slovenia,0,5.0
+covid_2019_Slovenia,1,0.0
+covid_2019_Slovenia,2,9.0
+covid_2019_South Africa,0,2.0
 english_flu_1978,0,5.0
 english_flu_1978,1,18.0
 english_flu_1978,2,50.0

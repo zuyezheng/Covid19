@@ -3154,3 +3154,170 @@ Date,Country,State,City,Status,Value
 03-07-2020,United States of America,MA,Plymouth County,Confirmed,1.0
 03-07-2020,United States of America,CA,Santa Cruz County,Confirmed,1.0
 03-07-2020,United States of America,OK,Tulsa County,Confirmed,1.0
+03-08-2020,China,Hubei,_,Confirmed,41.0
+03-08-2020,China,Hubei,_,Deaths,27.0
+03-08-2020,China,Hubei,_,Recovered,1735.0
+03-08-2020,Italy,_,_,Confirmed,1492.0
+03-08-2020,Italy,_,_,Deaths,133.0
+03-08-2020,Italy,_,_,Recovered,33.0
+03-08-2020,South Korea,_,_,Confirmed,273.0
+03-08-2020,South Korea,_,_,Deaths,6.0
+03-08-2020,Iran,_,_,Confirmed,743.0
+03-08-2020,Iran,_,_,Deaths,49.0
+03-08-2020,Iran,_,_,Recovered,465.0
+03-08-2020,China,Guangdong,_,Recovered,19.0
+03-08-2020,China,Henan,_,Recovered,3.0
+03-08-2020,China,Zhejiang,_,Recovered,7.0
+03-08-2020,France,_,_,Confirmed,177.0
+03-08-2020,France,_,_,Deaths,8.0
+03-08-2020,Germany,_,_,Confirmed,241.0
+03-08-2020,China,Hunan,_,Recovered,8.0
+03-08-2020,China,Anhui,_,Recovered,5.0
+03-08-2020,China,Jiangxi,_,Recovered,3.0
+03-08-2020,China,Shandong,_,Recovered,15.0
+03-08-2020,Spain,_,_,Confirmed,173.0
+03-08-2020,Spain,_,_,Deaths,7.0
+03-08-2020,China,Jiangsu,_,Recovered,6.0
+03-08-2020,China,Chongqing,_,Recovered,1.0
+03-08-2020,China,Sichuan,_,Recovered,10.0
+03-08-2020,Japan,_,_,Confirmed,41.0
+03-08-2020,China,Heilongjiang,_,Recovered,9.0
+03-08-2020,China,Beijing,_,Confirmed,2.0
+03-08-2020,China,Beijing,_,Recovered,5.0
+03-08-2020,China,Shanghai,_,Recovered,1.0
+03-08-2020,Switzerland,_,_,Confirmed,69.0
+03-08-2020,Switzerland,_,_,Deaths,1.0
+03-08-2020,UK,_,_,Confirmed,67.0
+03-08-2020,UK,_,_,Deaths,1.0
+03-08-2020,Netherlands,_,_,Confirmed,77.0
+03-08-2020,Netherlands,_,_,Deaths,2.0
+03-08-2020,China,Guangxi,_,Recovered,5.0
+03-08-2020,China,Shaanxi,_,Recovered,1.0
+03-08-2020,Sweden,_,_,Confirmed,42.0
+03-08-2020,Belgium,_,_,Confirmed,31.0
+03-08-2020,Norway,_,_,Confirmed,29.0
+03-08-2020,China,Hainan,_,Recovered,1.0
+03-08-2020,Singapore,_,_,Confirmed,12.0
+03-08-2020,China,Guizhou,_,Recovered,2.0
+03-08-2020,China,Liaoning,_,Recovered,2.0
+03-08-2020,China,Gansu,_,Confirmed,4.0
+03-08-2020,Hong Kong,Hong Kong,_,Confirmed,6.0
+03-08-2020,Hong Kong,Hong Kong,_,Deaths,1.0
+03-08-2020,Hong Kong,Hong Kong,_,Recovered,7.0
+03-08-2020,Austria,_,_,Confirmed,25.0
+03-08-2020,Malaysia,_,_,Confirmed,6.0
+03-08-2020,Malaysia,_,_,Recovered,1.0
+03-08-2020,United States of America,WA,King County,Confirmed,12.0
+03-08-2020,United States of America,WA,King County,Deaths,2.0
+03-08-2020,United States of America,NY,Westchester County,Confirmed,26.0
+03-08-2020,China,Xinjiang,_,Recovered,1.0
+03-08-2020,China,Inner Mongolia,_,Recovered,3.0
+03-08-2020,Greece,_,_,Confirmed,27.0
+03-08-2020,Kuwait,_,_,Confirmed,3.0
+03-08-2020,Kuwait,_,_,Recovered,1.0
+03-08-2020,Iraq,_,_,Confirmed,6.0
+03-08-2020,Iraq,_,_,Deaths,2.0
+03-08-2020,Egypt,_,_,Confirmed,34.0
+03-08-2020,Egypt,_,_,Deaths,1.0
+03-08-2020,Taiwan,Taiwan,_,Recovered,1.0
+03-08-2020,India,_,_,Confirmed,5.0
+03-08-2020,Israel,_,_,Confirmed,18.0
+03-08-2020,Australia,New South Wales,_,Confirmed,10.0
+03-08-2020,Australia,New South Wales,_,Deaths,2.0
+03-08-2020,United States of America,CA,Santa Clara County,Confirmed,6.0
+03-08-2020,San Marino,_,_,Confirmed,13.0
+03-08-2020,Denmark,_,_,Confirmed,12.0
+03-08-2020,Lebanon,_,_,Confirmed,10.0
+03-08-2020,Czech Republic,_,_,Confirmed,12.0
+03-08-2020,United States of America,WA,Snohomish County,Confirmed,4.0
+03-08-2020,Portugal,_,_,Confirmed,10.0
+03-08-2020,Vietnam,_,_,Confirmed,12.0
+03-08-2020,Canada,ON,Toronto,Confirmed,1.0
+03-08-2020,Canada,British Columbia,_,Confirmed,6.0
+03-08-2020,Finland,_,_,Confirmed,8.0
+03-08-2020,Republic of Ireland,_,_,Confirmed,21.0
+03-08-2020,Brazil,_,_,Confirmed,7.0
+03-08-2020,Algeria,_,_,Confirmed,2.0
+03-08-2020,Ireland,_,_,Confirmed,1.0
+03-08-2020,Russia,_,_,Confirmed,4.0
+03-08-2020,Russia,_,_,Recovered,1.0
+03-08-2020,Slovenia,_,_,Confirmed,9.0
+03-08-2020,Australia,Queensland,_,Confirmed,2.0
+03-08-2020,Qatar,_,_,Confirmed,7.0
+03-08-2020,Romania,_,_,Confirmed,6.0
+03-08-2020,Ecuador,_,_,Confirmed,1.0
+03-08-2020,Georgia,_,_,Confirmed,9.0
+03-08-2020,Argentina,_,_,Confirmed,4.0
+03-08-2020,Argentina,_,_,Deaths,1.0
+03-08-2020,United States of America,CA,Contra Costa County,Confirmed,9.0
+03-08-2020,United States of America,NY,New York County,Confirmed,1.0
+03-08-2020,Poland,_,_,Confirmed,6.0
+03-08-2020,Saudi Arabia,_,_,Confirmed,6.0
+03-08-2020,Philippines,_,_,Confirmed,4.0
+03-08-2020,Chile,_,_,Confirmed,4.0
+03-08-2020,United States of America,MA,Suffolk County,Confirmed,5.0
+03-08-2020,United States of America,OR,Washington County,Confirmed,5.0
+03-08-2020,Hungary,_,_,Confirmed,3.0
+03-08-2020,Mexico,_,_,Confirmed,1.0
+03-08-2020,United States of America,IL,Cook County,Confirmed,1.0
+03-08-2020,United States of America,MA,Middlesex County,Confirmed,6.0
+03-08-2020,Indonesia,_,_,Confirmed,2.0
+03-08-2020,Pakistan,_,_,Recovered,1.0
+03-08-2020,Peru,_,_,Confirmed,5.0
+03-08-2020,United States of America,TX,Fort Bend County,Confirmed,3.0
+03-08-2020,United States of America,MA,Norfolk County,Confirmed,6.0
+03-08-2020,Costa Rica,_,_,Confirmed,4.0
+03-08-2020,Dominican Republic,_,_,Confirmed,3.0
+03-08-2020,United States of America,NY,Nassau County,Confirmed,1.0
+03-08-2020,Afghanistan,_,_,Confirmed,3.0
+03-08-2020,Bulgaria,_,_,Confirmed,4.0
+03-08-2020,Canada,QC,Montreal,Confirmed,1.0
+03-08-2020,Maldives,_,_,Confirmed,4.0
+03-08-2020,Senegal,_,_,Recovered,1.0
+03-08-2020,United States of America,NH,Grafton County,Confirmed,2.0
+03-08-2020,United States of America,MD,Montgomery County,Confirmed,1.0
+03-08-2020,United States of America,PA,Montgomery County,Confirmed,4.0
+03-08-2020,United States of America,WA,Pierce County,Confirmed,3.0
+03-08-2020,Bangladesh,_,_,Confirmed,3.0
+03-08-2020,Canada,Alberta,Edmonton,Confirmed,2.0
+03-08-2020,Luxembourg,_,_,Confirmed,1.0
+03-08-2020,Slovakia,_,_,Confirmed,2.0
+03-08-2020,South Africa,_,_,Confirmed,2.0
+03-08-2020,Australia,Tasmania,_,Confirmed,1.0
+03-08-2020,Cambodia,_,_,Confirmed,1.0
+03-08-2020,Cameroon,_,_,Confirmed,1.0
+03-08-2020,Faroe Islands,_,_,Confirmed,1.0
+03-08-2020,Latvia,_,_,Confirmed,1.0
+03-08-2020,Tunisia,_,_,Confirmed,1.0
+03-08-2020,United States of America,NV,Clark County,Confirmed,1.0
+03-08-2020,United States of America,VA,Fairfax County,Confirmed,2.0
+03-08-2020,United States of America,OR,Jackson County,Confirmed,1.0
+03-08-2020,United States of America,FL,Lee County,Deaths,1.0
+03-08-2020,United States of America,NH,Rockingham County,Confirmed,2.0
+03-08-2020,United States of America,D.C.,Washington,Confirmed,2.0
+03-08-2020,United States of America,NV,Washoe County,Confirmed,1.0
+03-08-2020,Moldova,_,_,Confirmed,1.0
+03-08-2020,Paraguay,_,_,Confirmed,1.0
+03-08-2020,United States of America,MA,Berkshire County,Confirmed,1.0
+03-08-2020,United States of America,TN,Davidson County,Confirmed,1.0
+03-08-2020,United States of America,OR,Douglas County,Confirmed,1.0
+03-08-2020,United States of America,CA,Fresno County,Confirmed,1.0
+03-08-2020,United States of America,MD,Harford County,Confirmed,1.0
+03-08-2020,United States of America,IN,Hendricks County,Confirmed,1.0
+03-08-2020,United States of America,NJ,Hudson County,Confirmed,1.0
+03-08-2020,United States of America,KS,Johnson County,Confirmed,1.0
+03-08-2020,United States of America,WA,Kittitas County,Confirmed,1.0
+03-08-2020,United States of America,FL,Manatee County,Confirmed,1.0
+03-08-2020,United States of America,OR,Marion County,Confirmed,1.0
+03-08-2020,United States of America,FL,Okaloosa County,Confirmed,1.0
+03-08-2020,United States of America,GA,Polk County,Confirmed,1.0
+03-08-2020,United States of America,CA,Riverside County,Confirmed,1.0
+03-08-2020,United States of America,FL,Santa Rosa County,Deaths,1.0
+03-08-2020,United States of America,TN,Shelby County,Confirmed,1.0
+03-08-2020,United States of America,WA,Spokane County,Confirmed,1.0
+03-08-2020,United States of America,MO,St. Louis County,Confirmed,1.0
+03-08-2020,United States of America,NY,Suffolk County,Confirmed,1.0
+03-08-2020,United States of America,NY,Ulster County,Confirmed,1.0
+03-08-2020,United States of America,VT,Unassigned Location,Confirmed,1.0
+03-08-2020,United States of America,MA,Unknown Location,Confirmed,1.0
+03-08-2020,United States of America,FL,Volusia County,Confirmed,1.0
