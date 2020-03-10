@@ -3321,3 +3321,122 @@ Date,Country,State,City,Status,Value
 03-08-2020,United States of America,VT,Unassigned Location,Confirmed,1.0
 03-08-2020,United States of America,MA,Unknown Location,Confirmed,1.0
 03-08-2020,United States of America,FL,Volusia County,Confirmed,1.0
+03-09-2020,China,Hubei,_,Confirmed,36.0
+03-09-2020,China,Hubei,_,Deaths,22.0
+03-09-2020,China,Hubei,_,Recovered,1253.0
+03-09-2020,Italy,_,_,Confirmed,1797.0
+03-09-2020,Italy,_,_,Deaths,97.0
+03-09-2020,Italy,_,_,Recovered,102.0
+03-09-2020,South Korea,_,_,Confirmed,164.0
+03-09-2020,South Korea,_,_,Deaths,3.0
+03-09-2020,Iran,_,_,Confirmed,595.0
+03-09-2020,Iran,_,_,Deaths,43.0
+03-09-2020,Iran,_,_,Recovered,260.0
+03-09-2020,China,Guangdong,_,Deaths,1.0
+03-09-2020,China,Guangdong,_,Recovered,4.0
+03-09-2020,China,Zhejiang,_,Recovered,15.0
+03-09-2020,France,_,_,Confirmed,83.0
+03-09-2020,Germany,_,_,Confirmed,136.0
+03-09-2020,Germany,_,_,Deaths,2.0
+03-09-2020,Spain,_,_,Confirmed,400.0
+03-09-2020,Spain,_,_,Deaths,11.0
+03-09-2020,Spain,_,_,Recovered,2.0
+03-09-2020,China,Hunan,_,Recovered,11.0
+03-09-2020,China,Jiangxi,_,Recovered,4.0
+03-09-2020,China,Shandong,_,Recovered,58.0
+03-09-2020,China,Jiangsu,_,Recovered,9.0
+03-09-2020,China,Chongqing,_,Recovered,15.0
+03-09-2020,China,Sichuan,_,Recovered,2.0
+03-09-2020,Japan,_,_,Confirmed,9.0
+03-09-2020,Japan,_,_,Deaths,11.0
+03-09-2020,China,Heilongjiang,_,Recovered,18.0
+03-09-2020,China,Beijing,_,Recovered,7.0
+03-09-2020,Switzerland,_,_,Confirmed,37.0
+03-09-2020,China,Shanghai,_,Recovered,1.0
+03-09-2020,Netherlands,_,_,Confirmed,56.0
+03-09-2020,UK,_,_,Confirmed,48.0
+03-09-2020,UK,_,_,Deaths,1.0
+03-09-2020,China,Guangxi,_,Recovered,7.0
+03-09-2020,Sweden,_,_,Confirmed,45.0
+03-09-2020,Sweden,_,_,Recovered,1.0
+03-09-2020,Belgium,_,_,Confirmed,39.0
+03-09-2020,Norway,_,_,Confirmed,29.0
+03-09-2020,Norway,_,_,Recovered,1.0
+03-09-2020,China,Guizhou,_,Recovered,6.0
+03-09-2020,China,Tianjin,_,Recovered,2.0
+03-09-2020,China,Shanxi,_,Recovered,1.0
+03-09-2020,Austria,_,_,Confirmed,27.0
+03-09-2020,Austria,_,_,Recovered,2.0
+03-09-2020,China,Gansu,_,Recovered,1.0
+03-09-2020,Malaysia,_,_,Confirmed,18.0
+03-09-2020,Hong Kong,Hong Kong,_,Confirmed,1.0
+03-09-2020,Hong Kong,Hong Kong,_,Recovered,1.0
+03-09-2020,United States of America,NY,Westchester County,Confirmed,15.0
+03-09-2020,Bahrain,_,_,Confirmed,10.0
+03-09-2020,Bahrain,_,_,Recovered,10.0
+03-09-2020,China,Jilin,_,Recovered,1.0
+03-09-2020,Denmark,_,_,Confirmed,55.0
+03-09-2020,Iraq,_,_,Recovered,9.0
+03-09-2020,Iceland,_,_,Confirmed,8.0
+03-09-2020,Egypt,_,_,Confirmed,6.0
+03-09-2020,Egypt,_,_,Recovered,11.0
+03-09-2020,Australia,New South Wales,_,Confirmed,10.0
+03-09-2020,Taiwan,Taiwan,_,Recovered,2.0
+03-09-2020,India,_,_,Confirmed,4.0
+03-09-2020,Canada,Ontario,_,Confirmed,31.0
+03-09-2020,Canada,Ontario,_,Recovered,4.0
+03-09-2020,Canada,British Columbia,_,Confirmed,5.0
+03-09-2020,Canada,British Columbia,_,Deaths,1.0
+03-09-2020,Finland,_,_,Confirmed,7.0
+03-09-2020,Brazil,_,_,Confirmed,5.0
+03-09-2020,Ireland,_,_,Confirmed,2.0
+03-09-2020,Algeria,_,_,Confirmed,1.0
+03-09-2020,Philippines,_,_,Confirmed,10.0
+03-09-2020,Indonesia,_,_,Confirmed,13.0
+03-09-2020,United States of America,NY,New York County,Confirmed,7.0
+03-09-2020,Qatar,_,_,Confirmed,3.0
+03-09-2020,United States of America,NY,Nassau County,Confirmed,12.0
+03-09-2020,Poland,_,_,Confirmed,5.0
+03-09-2020,Australia,Victoria,_,Confirmed,4.0
+03-09-2020,Ecuador,_,_,Confirmed,1.0
+03-09-2020,Georgia,_,_,Confirmed,2.0
+03-09-2020,Saudi Arabia,_,_,Confirmed,4.0
+03-09-2020,Costa Rica,_,_,Confirmed,4.0
+03-09-2020,Hungary,_,_,Confirmed,2.0
+03-09-2020,Canada,Alberta,_,Confirmed,7.0
+03-09-2020,Peru,_,_,Confirmed,1.0
+03-09-2020,United States of America,CA,Placer County,Confirmed,2.0
+03-09-2020,Belarus,_,_,Recovered,1.0
+03-09-2020,Latvia,_,_,Confirmed,4.0
+03-09-2020,United States of America,TX,Harris County,Confirmed,1.0
+03-09-2020,United States of America,GA,Fulton County,Confirmed,2.0
+03-09-2020,United States of America,PA,Montgomery County,Confirmed,1.0
+03-09-2020,Australia,Western Australia,_,Confirmed,1.0
+03-09-2020,United States of America,SC,Kershaw County,Confirmed,3.0
+03-09-2020,United States of America,CA,Orange County,Confirmed,1.0
+03-09-2020,United States of America,NY,Rockland County,Confirmed,2.0
+03-09-2020,Canada,Quebec,_,Confirmed,3.0
+03-09-2020,United States of America,FL,Broward County,Confirmed,1.0
+03-09-2020,United States of America,GA,Cobb County,Confirmed,2.0
+03-09-2020,United States of America,NE,Douglas County,Confirmed,2.0
+03-09-2020,United States of America,IA,Johnson County,Confirmed,3.0
+03-09-2020,United States of America,CA,Sonoma County,Confirmed,2.0
+03-09-2020,Albania,_,_,Confirmed,2.0
+03-09-2020,Cyprus,_,_,Confirmed,2.0
+03-09-2020,Nigeria,_,_,Confirmed,1.0
+03-09-2020,St. Martin,_,_,Confirmed,2.0
+03-09-2020,United States of America,KY,Harrison County,Confirmed,2.0
+03-09-2020,United States of America,IN,Hendricks County,Confirmed,1.0
+03-09-2020,United States of America,HI,Honolulu County,Confirmed,1.0
+03-09-2020,United States of America,FL,Manatee County,Confirmed,1.0
+03-09-2020,Brunei,_,_,Confirmed,1.0
+03-09-2020,United States of America,VT,Bennington County,Confirmed,1.0
+03-09-2020,United States of America,MN,Carver County,Confirmed,1.0
+03-09-2020,United States of America,FL,Charlotte County,Confirmed,1.0
+03-09-2020,United States of America,GA,Cherokee County,Confirmed,1.0
+03-09-2020,United States of America,TX,Collin County,Confirmed,1.0
+03-09-2020,United States of America,WA,Grant County,Deaths,1.0
+03-09-2020,United States of America,KY,Jefferson County,Confirmed,1.0
+03-09-2020,United States of America,LA,Jefferson Parish,Confirmed,1.0
+03-09-2020,United States of America,CA,Shasta County,Confirmed,1.0
+03-09-2020,United States of America,SC,Spartanburg County,Confirmed,1.0

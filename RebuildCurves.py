@@ -55,7 +55,7 @@ def build_curve(rows, date_format, name, compute_delta=True):
             break
 
     curve = curve[start:end + 1]
-    return list(map(lambda v: [name, v[0], v[1]], enumerate(curve)))
+    return list(map(lambda v: [name, v[0], f'{v[0]:03}', v[1]], enumerate(curve)))
 
 
 def build_aggregate_curve(dataset, date_format, name):
@@ -108,5 +108,5 @@ pandas.DataFrame(
     build_curve(pandas.read_csv('curves/dengue_fais_2011.csv'), '%Y-%m-%d', 'dengue_fais_2011', False) +
     build_curve(pandas.read_csv('curves/dengue_yap_2011.csv'), '%Y-%m-%d', 'dengue_yap_2011', False) +
     build_aggregate_curve(pandas.read_csv('curves/ebola_sierraleone_2014.csv'), '%Y-%m-%d', 'ebola_sierraleone_2014'),
-    columns=['Name', 'Index', 'Cases']
+    columns=['Name', 'Index', 'Index_Str', 'Cases']
 ).to_csv('datasets/epidemic_curves.csv', index=False)
