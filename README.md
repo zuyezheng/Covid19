@@ -1,4 +1,4 @@
-#Covid19
+# Covid 19
 
 Preps and processes the WHO daily reports from the Johns Hopkins CSSE repo. It builds a dataset that I think is better suited for analytics by computing daily deltas and pivoting the statuses from seperate columns to facts in a single column.
 
