@@ -5003,3 +5003,4575 @@ Date,Country,State,Status,Value
 03-17-2020,United States of America,Virgin Islands,Confirmed,1.0
 03-17-2020,The Gambia,_,Confirmed,1.0
 03-17-2020,United States of America,West Virginia,Confirmed,1.0
+03-18-2020,China,Hubei,Confirmed,1.0
+03-18-2020,China,Hubei,Deaths,11.0
+03-18-2020,China,Hubei,Recovered,924.0
+03-18-2020,Italy,_,Confirmed,4207.0
+03-18-2020,Italy,_,Deaths,475.0
+03-18-2020,Italy,_,Recovered,1084.0
+03-18-2020,Iran,_,Confirmed,1192.0
+03-18-2020,Iran,_,Deaths,147.0
+03-18-2020,Spain,_,Confirmed,2162.0
+03-18-2020,Spain,_,Deaths,90.0
+03-18-2020,Spain,_,Recovered,53.0
+03-18-2020,Germany,_,Confirmed,3070.0
+03-18-2020,Germany,_,Deaths,4.0
+03-18-2020,Germany,_,Recovered,38.0
+03-18-2020,France,France,Confirmed,1391.0
+03-18-2020,"Korea, South",_,Confirmed,93.0
+03-18-2020,"Korea, South",_,Deaths,3.0
+03-18-2020,"Korea, South",_,Recovered,133.0
+03-18-2020,Switzerland,_,Confirmed,328.0
+03-18-2020,Switzerland,_,Deaths,1.0
+03-18-2020,Switzerland,_,Recovered,11.0
+03-18-2020,United Kingdom,United Kingdom,Confirmed,676.0
+03-18-2020,United Kingdom,United Kingdom,Deaths,16.0
+03-18-2020,United Kingdom,United Kingdom,Recovered,13.0
+03-18-2020,United States of America,New York,Confirmed,789.0
+03-18-2020,United States of America,New York,Deaths,3.0
+03-18-2020,Netherlands,Netherlands,Confirmed,346.0
+03-18-2020,Netherlands,Netherlands,Deaths,15.0
+03-18-2020,Austria,_,Confirmed,314.0
+03-18-2020,Austria,_,Deaths,1.0
+03-18-2020,Austria,_,Recovered,8.0
+03-18-2020,Norway,_,Confirmed,87.0
+03-18-2020,Norway,_,Deaths,3.0
+03-18-2020,Belgium,_,Confirmed,243.0
+03-18-2020,Belgium,_,Deaths,4.0
+03-18-2020,Belgium,_,Recovered,30.0
+03-18-2020,China,Guangdong,Confirmed,6.0
+03-18-2020,China,Guangdong,Recovered,6.0
+03-18-2020,Sweden,_,Confirmed,89.0
+03-18-2020,Sweden,_,Deaths,3.0
+03-18-2020,Denmark,Denmark,Confirmed,80.0
+03-18-2020,Japan,_,Confirmed,11.0
+03-18-2020,Malaysia,_,Confirmed,117.0
+03-18-2020,Malaysia,_,Recovered,11.0
+03-18-2020,United States of America,California,Confirmed,53.0
+03-18-2020,United States of America,California,Deaths,1.0
+03-18-2020,Cruise Ship,Diamond Princess,Confirmed,16.0
+03-18-2020,China,Sichuan,Recovered,5.0
+03-18-2020,China,Heilongjiang,Recovered,3.0
+03-18-2020,China,Beijing,Confirmed,13.0
+03-18-2020,China,Beijing,Recovered,9.0
+03-18-2020,Czechia,_,Confirmed,68.0
+03-18-2020,Qatar,_,Confirmed,13.0
+03-18-2020,Portugal,_,Deaths,1.0
+03-18-2020,Israel,_,Confirmed,96.0
+03-18-2020,Greece,_,Confirmed,31.0
+03-18-2020,Brazil,_,Confirmed,51.0
+03-18-2020,Brazil,_,Deaths,2.0
+03-18-2020,China,Shanghai,Confirmed,3.0
+03-18-2020,China,Shanghai,Recovered,1.0
+03-18-2020,Finland,_,Confirmed,15.0
+03-18-2020,United States of America,Florida,Confirmed,98.0
+03-18-2020,United States of America,Florida,Deaths,1.0
+03-18-2020,Singapore,_,Confirmed,47.0
+03-18-2020,Pakistan,_,Confirmed,63.0
+03-18-2020,Ireland,_,Confirmed,69.0
+03-18-2020,Australia,New South Wales,Confirmed,57.0
+03-18-2020,Australia,New South Wales,Deaths,1.0
+03-18-2020,Romania,_,Confirmed,76.0
+03-18-2020,Romania,_,Recovered,3.0
+03-18-2020,Estonia,_,Confirmed,33.0
+03-18-2020,United States of America,Louisiana,Confirmed,61.0
+03-18-2020,Bahrain,_,Confirmed,28.0
+03-18-2020,Bahrain,_,Recovered,7.0
+03-18-2020,China,Guangxi,Recovered,2.0
+03-18-2020,Poland,_,Confirmed,13.0
+03-18-2020,Iceland,_,Confirmed,30.0
+03-18-2020,Iceland,_,Recovered,5.0
+03-18-2020,China,Shaanxi,Recovered,1.0
+03-18-2020,Chile,_,Confirmed,37.0
+03-18-2020,Indonesia,_,Confirmed,55.0
+03-18-2020,Indonesia,_,Deaths,14.0
+03-18-2020,Indonesia,_,Recovered,3.0
+03-18-2020,Canada,Ontario,Confirmed,36.0
+03-18-2020,Thailand,_,Confirmed,35.0
+03-18-2020,Thailand,_,Recovered,1.0
+03-18-2020,Luxembourg,_,Confirmed,63.0
+03-18-2020,Luxembourg,_,Deaths,1.0
+03-18-2020,Philippines,_,Confirmed,15.0
+03-18-2020,Philippines,_,Deaths,7.0
+03-18-2020,United States of America,Georgia,Confirmed,53.0
+03-18-2020,United States of America,Georgia,Deaths,2.0
+03-18-2020,Egypt,_,Deaths,2.0
+03-18-2020,Canada,British Columbia,Confirmed,83.0
+03-18-2020,Canada,British Columbia,Deaths,3.0
+03-18-2020,United States of America,Colorado,Confirmed,24.0
+03-18-2020,China,Hong Kong,Confirmed,19.0
+03-18-2020,China,Hong Kong,Recovered,4.0
+03-18-2020,United States of America,Texas,Confirmed,63.0
+03-18-2020,United States of America,Texas,Deaths,2.0
+03-18-2020,Iraq,_,Confirmed,10.0
+03-18-2020,Iraq,_,Deaths,1.0
+03-18-2020,Iraq,_,Recovered,11.0
+03-18-2020,United States of America,Illinois,Confirmed,1.0
+03-18-2020,India,_,Confirmed,14.0
+03-18-2020,United States of America,Pennsylvania,Confirmed,40.0
+03-18-2020,Russia,_,Confirmed,33.0
+03-18-2020,Peru,_,Confirmed,28.0
+03-18-2020,Kuwait,_,Confirmed,12.0
+03-18-2020,Kuwait,_,Recovered,6.0
+03-18-2020,Lebanon,_,Confirmed,13.0
+03-18-2020,China,Liaoning,Recovered,2.0
+03-18-2020,Australia,Victoria,Confirmed,27.0
+03-18-2020,San Marino,_,Confirmed,10.0
+03-18-2020,San Marino,_,Deaths,4.0
+03-18-2020,South Africa,_,Confirmed,54.0
+03-18-2020,United Arab Emirates,_,Confirmed,15.0
+03-18-2020,United Arab Emirates,_,Recovered,3.0
+03-18-2020,Ecuador,_,Confirmed,53.0
+03-18-2020,Slovakia,_,Confirmed,33.0
+03-18-2020,Slovakia,_,Deaths,1.0
+03-18-2020,Taiwan*,_,Confirmed,23.0
+03-18-2020,Turkey,_,Confirmed,51.0
+03-18-2020,Canada,Alberta,Confirmed,23.0
+03-18-2020,Australia,Queensland,Confirmed,16.0
+03-18-2020,Canada,Quebec,Confirmed,20.0
+03-18-2020,Colombia,_,Confirmed,28.0
+03-18-2020,Mexico,_,Confirmed,11.0
+03-18-2020,Bulgaria,_,Confirmed,25.0
+03-18-2020,United States of America,Wisconsin,Confirmed,20.0
+03-18-2020,Panama,_,Confirmed,17.0
+03-18-2020,United States of America,Ohio,Confirmed,19.0
+03-18-2020,United States of America,Maryland,Confirmed,25.0
+03-18-2020,Armenia,_,Confirmed,6.0
+03-18-2020,Serbia,_,Confirmed,18.0
+03-18-2020,United States of America,Michigan,Confirmed,18.0
+03-18-2020,Croatia,_,Confirmed,16.0
+03-18-2020,Argentina,_,Confirmed,11.0
+03-18-2020,United States of America,Tennessee,Confirmed,5.0
+03-18-2020,United States of America,Minnesota,Confirmed,17.0
+03-18-2020,United States of America,Virginia,Confirmed,10.0
+03-18-2020,Vietnam,_,Confirmed,9.0
+03-18-2020,Algeria,_,Confirmed,14.0
+03-18-2020,Algeria,_,Deaths,3.0
+03-18-2020,Latvia,_,Confirmed,22.0
+03-18-2020,United States of America,North Carolina,Confirmed,6.0
+03-18-2020,Brunei,_,Confirmed,12.0
+03-18-2020,United States of America,Oregon,Confirmed,2.0
+03-18-2020,United States of America,Oregon,Deaths,1.0
+03-18-2020,Albania,_,Confirmed,4.0
+03-18-2020,Albania,_,Deaths,1.0
+03-18-2020,Denmark,Faroe Islands,Confirmed,11.0
+03-18-2020,Hungary,_,Confirmed,8.0
+03-18-2020,Jordan,_,Confirmed,18.0
+03-18-2020,Belarus,_,Confirmed,15.0
+03-18-2020,Belarus,_,Recovered,2.0
+03-18-2020,Sri Lanka,_,Confirmed,7.0
+03-18-2020,Costa Rica,_,Confirmed,9.0
+03-18-2020,Uruguay,_,Confirmed,21.0
+03-18-2020,Cyprus,_,Confirmed,3.0
+03-18-2020,Morocco,_,Confirmed,11.0
+03-18-2020,United States of America,Alabama,Confirmed,7.0
+03-18-2020,United States of America,Maine,Confirmed,10.0
+03-18-2020,Oman,_,Confirmed,15.0
+03-18-2020,Oman,_,Recovered,3.0
+03-18-2020,United States of America,Indiana,Confirmed,9.0
+03-18-2020,Bosnia and Herzegovina,_,Confirmed,12.0
+03-18-2020,Georgia,_,Confirmed,4.0
+03-18-2020,Australia,South Australia,Confirmed,8.0
+03-18-2020,Venezuela,_,Confirmed,3.0
+03-18-2020,Australia,Western Australia,Confirmed,4.0
+03-18-2020,Cambodia,_,Confirmed,2.0
+03-18-2020,Kazakhstan,_,Confirmed,2.0
+03-18-2020,North Macedonia,_,Confirmed,9.0
+03-18-2020,United States of America,Mississippi,Confirmed,13.0
+03-18-2020,United States of America,Arkansas,Confirmed,11.0
+03-18-2020,United States of America,Rhode Island,Confirmed,10.0
+03-18-2020,Senegal,_,Confirmed,5.0
+03-18-2020,United States of America,District of Columbia,Confirmed,9.0
+03-18-2020,Moldova,_,Deaths,1.0
+03-18-2020,Tunisia,_,Confirmed,5.0
+03-18-2020,United States of America,Iowa,Confirmed,6.0
+03-18-2020,Liechtenstein,_,Confirmed,21.0
+03-18-2020,Guadeloupe,_,Confirmed,9.0
+03-18-2020,Lithuania,_,Confirmed,2.0
+03-18-2020,United States of America,Arizona,Confirmed,7.0
+03-18-2020,United States of America,Kentucky,Confirmed,1.0
+03-18-2020,United States of America,Nebraska,Confirmed,3.0
+03-18-2020,Burkina Faso,_,Confirmed,5.0
+03-18-2020,Burkina Faso,_,Deaths,1.0
+03-18-2020,New Zealand,_,Confirmed,8.0
+03-18-2020,Martinique,_,Confirmed,3.0
+03-18-2020,United States of America,Delaware,Confirmed,3.0
+03-18-2020,United States of America,Missouri,Confirmed,7.0
+03-18-2020,United States of America,Vermont,Confirmed,6.0
+03-18-2020,Canada,Manitoba,Confirmed,7.0
+03-18-2020,China,Macau,Confirmed,3.0
+03-18-2020,United States of America,Wyoming,Confirmed,4.0
+03-18-2020,Uzbekistan,_,Confirmed,5.0
+03-18-2020,Bangladesh,_,Confirmed,4.0
+03-18-2020,Bangladesh,_,Deaths,1.0
+03-18-2020,United States of America,Hawaii,Confirmed,4.0
+03-18-2020,Jamaica,_,Confirmed,1.0
+03-18-2020,Bolivia,_,Confirmed,1.0
+03-18-2020,Canada,Nova Scotia,Confirmed,5.0
+03-18-2020,Reunion,_,Confirmed,3.0
+03-18-2020,Canada,New Brunswick,Confirmed,3.0
+03-18-2020,Paraguay,_,Confirmed,2.0
+03-18-2020,United States of America,Montana,Confirmed,2.0
+03-18-2020,Australia,Tasmania,Confirmed,3.0
+03-18-2020,Canada,Grand Princess,Confirmed,1.0
+03-18-2020,Honduras,_,Confirmed,1.0
+03-18-2020,United States of America,Idaho,Confirmed,1.0
+03-18-2020,Canada,Saskatchewan,Confirmed,1.0
+03-18-2020,Nigeria,_,Confirmed,5.0
+03-18-2020,Nigeria,_,Recovered,1.0
+03-18-2020,Rwanda,_,Confirmed,1.0
+03-18-2020,United Kingdom,Gibraltar,Confirmed,5.0
+03-18-2020,United Kingdom,Gibraltar,Recovered,1.0
+03-18-2020,Cuba,_,Confirmed,2.0
+03-18-2020,Cuba,_,Deaths,1.0
+03-18-2020,Trinidad and Tobago,_,Confirmed,2.0
+03-18-2020,Cote d'Ivoire,_,Confirmed,1.0
+03-18-2020,Ethiopia,_,Confirmed,1.0
+03-18-2020,Mongolia,_,Confirmed,1.0
+03-18-2020,United States of America,Alaska,Confirmed,3.0
+03-18-2020,United States of America,North Dakota,Confirmed,3.0
+03-18-2020,United States of America,Guam,Confirmed,2.0
+03-18-2020,Aruba,_,Confirmed,1.0
+03-18-2020,Congo (Kinshasa),_,Confirmed,1.0
+03-18-2020,Equatorial Guinea,_,Confirmed,3.0
+03-18-2020,Australia,Australian Capital Territory,Confirmed,1.0
+03-18-2020,France,St Martin,Confirmed,1.0
+03-18-2020,Kyrgyzstan,_,Confirmed,3.0
+03-18-2020,Mauritius,_,Confirmed,3.0
+03-18-2020,Mayotte,_,Confirmed,2.0
+03-18-2020,Tanzania,_,Confirmed,2.0
+03-18-2020,Benin,_,Confirmed,1.0
+03-18-2020,Liberia,_,Confirmed,1.0
+03-18-2020,Netherlands,Aruba,Confirmed,2.0
+03-18-2020,Sudan,_,Confirmed,1.0
+03-18-2020,United States of America,United States Virgin Islands,Confirmed,2.0
+03-18-2020,Zambia,_,Confirmed,2.0
+03-18-2020,Djibouti,_,Confirmed,1.0
+03-18-2020,"Gambia, The",_,Confirmed,1.0
+03-18-2020,United States of America,US,Confirmed,1.0
+03-18-2020,United States of America,US,Recovered,106.0
+03-18-2020,United Kingdom,Montserrat,Confirmed,1.0
+03-19-2020,China,Hubei,Deaths,8.0
+03-19-2020,China,Hubei,Recovered,755.0
+03-19-2020,Italy,_,Confirmed,5322.0
+03-19-2020,Italy,_,Deaths,427.0
+03-19-2020,Italy,_,Recovered,415.0
+03-19-2020,Iran,_,Confirmed,1046.0
+03-19-2020,Iran,_,Deaths,149.0
+03-19-2020,Iran,_,Recovered,321.0
+03-19-2020,Spain,_,Confirmed,4053.0
+03-19-2020,Spain,_,Deaths,207.0
+03-19-2020,Spain,_,Recovered,26.0
+03-19-2020,Germany,_,Confirmed,2993.0
+03-19-2020,Germany,_,Deaths,16.0
+03-19-2020,Germany,_,Recovered,8.0
+03-19-2020,France,France,Confirmed,1828.0
+03-19-2020,France,France,Deaths,95.0
+03-19-2020,"Korea, South",_,Confirmed,152.0
+03-19-2020,"Korea, South",_,Deaths,7.0
+03-19-2020,United States of America,New York,Confirmed,2870.0
+03-19-2020,United States of America,New York,Deaths,18.0
+03-19-2020,Switzerland,_,Confirmed,1047.0
+03-19-2020,Switzerland,_,Deaths,13.0
+03-19-2020,United Kingdom,United Kingdom,Confirmed,63.0
+03-19-2020,United Kingdom,United Kingdom,Deaths,66.0
+03-19-2020,Netherlands,Netherlands,Confirmed,409.0
+03-19-2020,Netherlands,Netherlands,Deaths,18.0
+03-19-2020,Austria,_,Confirmed,367.0
+03-19-2020,Austria,_,Deaths,2.0
+03-19-2020,Belgium,_,Confirmed,309.0
+03-19-2020,Belgium,_,Deaths,7.0
+03-19-2020,Norway,_,Confirmed,196.0
+03-19-2020,Norway,_,Deaths,1.0
+03-19-2020,Sweden,_,Confirmed,160.0
+03-19-2020,Sweden,_,Deaths,1.0
+03-19-2020,Sweden,_,Recovered,15.0
+03-19-2020,China,Guangdong,Confirmed,8.0
+03-19-2020,China,Guangdong,Recovered,5.0
+03-19-2020,United States of America,Washington,Confirmed,362.0
+03-19-2020,United States of America,Washington,Deaths,19.0
+03-19-2020,China,Zhejiang,Confirmed,1.0
+03-19-2020,China,Zhejiang,Recovered,1.0
+03-19-2020,Denmark,Denmark,Confirmed,94.0
+03-19-2020,Denmark,Denmark,Deaths,2.0
+03-19-2020,United States of America,California,Confirmed,201.0
+03-19-2020,United States of America,California,Deaths,5.0
+03-19-2020,Japan,_,Confirmed,35.0
+03-19-2020,Japan,_,Recovered,6.0
+03-19-2020,Malaysia,_,Confirmed,110.0
+03-19-2020,Malaysia,_,Recovered,15.0
+03-19-2020,Portugal,_,Confirmed,337.0
+03-19-2020,Portugal,_,Deaths,1.0
+03-19-2020,China,Shandong,Recovered,1.0
+03-19-2020,United States of America,New Jersey,Confirmed,475.0
+03-19-2020,United States of America,New Jersey,Deaths,6.0
+03-19-2020,Czechia,_,Confirmed,230.0
+03-19-2020,Israel,_,Confirmed,244.0
+03-19-2020,Brazil,_,Confirmed,249.0
+03-19-2020,Brazil,_,Deaths,3.0
+03-19-2020,Ireland,_,Confirmed,265.0
+03-19-2020,Ireland,_,Deaths,1.0
+03-19-2020,China,Sichuan,Recovered,11.0
+03-19-2020,China,Heilongjiang,Confirmed,1.0
+03-19-2020,China,Heilongjiang,Recovered,1.0
+03-19-2020,China,Beijing,Confirmed,11.0
+03-19-2020,China,Beijing,Recovered,2.0
+03-19-2020,Qatar,_,Confirmed,8.0
+03-19-2020,Pakistan,_,Confirmed,155.0
+03-19-2020,Pakistan,_,Deaths,2.0
+03-19-2020,Pakistan,_,Recovered,11.0
+03-19-2020,United States of America,Illinois,Confirmed,260.0
+03-19-2020,United States of America,Illinois,Deaths,3.0
+03-19-2020,Greece,_,Deaths,1.0
+03-19-2020,United States of America,Florida,Confirmed,103.0
+03-19-2020,United States of America,Florida,Deaths,2.0
+03-19-2020,Finland,_,Confirmed,64.0
+03-19-2020,United States of America,Louisiana,Confirmed,135.0
+03-19-2020,United States of America,Louisiana,Deaths,6.0
+03-19-2020,China,Shanghai,Confirmed,2.0
+03-19-2020,Poland,_,Confirmed,104.0
+03-19-2020,Singapore,_,Confirmed,32.0
+03-19-2020,Luxembourg,_,Confirmed,132.0
+03-19-2020,Luxembourg,_,Deaths,2.0
+03-19-2020,United States of America,Michigan,Confirmed,251.0
+03-19-2020,United States of America,Michigan,Deaths,3.0
+03-19-2020,Iceland,_,Confirmed,80.0
+03-19-2020,United States of America,Massachusetts,Confirmed,110.0
+03-19-2020,Indonesia,_,Confirmed,84.0
+03-19-2020,Indonesia,_,Deaths,6.0
+03-19-2020,Australia,New South Wales,Confirmed,40.0
+03-19-2020,United States of America,Georgia,Confirmed,88.0
+03-19-2020,United States of America,Georgia,Deaths,7.0
+03-19-2020,Slovenia,_,Confirmed,11.0
+03-19-2020,Bahrain,_,Confirmed,22.0
+03-19-2020,Bahrain,_,Recovered,12.0
+03-19-2020,Romania,_,Confirmed,17.0
+03-19-2020,Romania,_,Recovered,6.0
+03-19-2020,United States of America,Colorado,Confirmed,93.0
+03-19-2020,United States of America,Colorado,Deaths,2.0
+03-19-2020,Saudi Arabia,_,Confirmed,103.0
+03-19-2020,Thailand,_,Confirmed,60.0
+03-19-2020,Estonia,_,Confirmed,9.0
+03-19-2020,United States of America,Texas,Confirmed,87.0
+03-19-2020,United States of America,Texas,Deaths,2.0
+03-19-2020,Canada,Ontario,Confirmed,36.0
+03-19-2020,Egypt,_,Confirmed,60.0
+03-19-2020,Peru,_,Confirmed,89.0
+03-19-2020,Canada,British Columbia,Confirmed,45.0
+03-19-2020,Philippines,_,Confirmed,15.0
+03-19-2020,Philippines,_,Recovered,3.0
+03-19-2020,China,Hong Kong,Confirmed,27.0
+03-19-2020,China,Hong Kong,Recovered,3.0
+03-19-2020,United States of America,Pennsylvania,Confirmed,54.0
+03-19-2020,United States of America,Pennsylvania,Deaths,1.0
+03-19-2020,Ecuador,_,Confirmed,88.0
+03-19-2020,Ecuador,_,Deaths,1.0
+03-19-2020,Russia,_,Confirmed,52.0
+03-19-2020,Russia,_,Deaths,1.0
+03-19-2020,Russia,_,Recovered,1.0
+03-19-2020,India,_,Confirmed,38.0
+03-19-2020,India,_,Deaths,1.0
+03-19-2020,India,_,Recovered,1.0
+03-19-2020,Iraq,_,Confirmed,28.0
+03-19-2020,Iraq,_,Deaths,1.0
+03-19-2020,Turkey,_,Confirmed,94.0
+03-19-2020,Turkey,_,Deaths,2.0
+03-19-2020,United States of America,Connecticut,Confirmed,91.0
+03-19-2020,United States of America,Connecticut,Deaths,2.0
+03-19-2020,United States of America,Wisconsin,Confirmed,67.0
+03-19-2020,Lebanon,_,Confirmed,24.0
+03-19-2020,Lebanon,_,Deaths,1.0
+03-19-2020,Lebanon,_,Recovered,1.0
+03-19-2020,United States of America,Tennessee,Confirmed,75.0
+03-19-2020,South Africa,_,Confirmed,34.0
+03-19-2020,Kuwait,_,Confirmed,6.0
+03-19-2020,Kuwait,_,Recovered,3.0
+03-19-2020,Australia,Queensland,Confirmed,50.0
+03-19-2020,United Arab Emirates,_,Confirmed,27.0
+03-19-2020,United Arab Emirates,_,Recovered,5.0
+03-19-2020,China,Tianjin,Confirmed,1.0
+03-19-2020,China,Gansu,Confirmed,1.0
+03-19-2020,Slovakia,_,Confirmed,18.0
+03-19-2020,United States of America,North Carolina,Confirmed,53.0
+03-19-2020,Canada,Quebec,Confirmed,27.0
+03-19-2020,Canada,Quebec,Deaths,1.0
+03-19-2020,Canada,Alberta,Confirmed,22.0
+03-19-2020,United States of America,Ohio,Confirmed,33.0
+03-19-2020,Mexico,_,Confirmed,25.0
+03-19-2020,Mexico,_,Deaths,1.0
+03-19-2020,Armenia,_,Confirmed,31.0
+03-19-2020,Panama,_,Confirmed,23.0
+03-19-2020,Taiwan*,_,Confirmed,8.0
+03-19-2020,Taiwan*,_,Recovered,4.0
+03-19-2020,United States of America,Maryland,Confirmed,22.0
+03-19-2020,United States of America,Maryland,Deaths,1.0
+03-19-2020,Croatia,_,Confirmed,24.0
+03-19-2020,Croatia,_,Deaths,1.0
+03-19-2020,Croatia,_,Recovered,1.0
+03-19-2020,Serbia,_,Confirmed,20.0
+03-19-2020,Colombia,_,Confirmed,9.0
+03-19-2020,United States of America,Virginia,Confirmed,22.0
+03-19-2020,Argentina,_,Confirmed,18.0
+03-19-2020,Argentina,_,Deaths,1.0
+03-19-2020,United States of America,Nevada,Confirmed,40.0
+03-19-2020,Bulgaria,_,Confirmed,2.0
+03-19-2020,Bulgaria,_,Deaths,1.0
+03-19-2020,United States of America,Minnesota,Confirmed,12.0
+03-19-2020,United States of America,Oregon,Confirmed,20.0
+03-19-2020,United States of America,Oregon,Deaths,1.0
+03-19-2020,Algeria,_,Confirmed,13.0
+03-19-2020,Algeria,_,Deaths,2.0
+03-19-2020,Algeria,_,Recovered,20.0
+03-19-2020,Latvia,_,Confirmed,15.0
+03-19-2020,Vietnam,_,Confirmed,10.0
+03-19-2020,United States of America,South Carolina,Confirmed,34.0
+03-19-2020,United States of America,Utah,Confirmed,29.0
+03-19-2020,Uruguay,_,Confirmed,29.0
+03-19-2020,United States of America,Alabama,Confirmed,32.0
+03-19-2020,Brunei,_,Confirmed,7.0
+03-19-2020,China,Inner Mongolia,Recovered,1.0
+03-19-2020,Hungary,_,Confirmed,15.0
+03-19-2020,Denmark,Faroe Islands,Confirmed,14.0
+03-19-2020,Costa Rica,_,Confirmed,19.0
+03-19-2020,Costa Rica,_,Deaths,1.0
+03-19-2020,Jordan,_,Confirmed,17.0
+03-19-2020,Cyprus,_,Confirmed,18.0
+03-19-2020,Albania,_,Confirmed,5.0
+03-19-2020,Bosnia and Herzegovina,_,Confirmed,25.0
+03-19-2020,Morocco,_,Confirmed,14.0
+03-19-2020,United States of America,Arkansas,Confirmed,29.0
+03-19-2020,Sri Lanka,_,Confirmed,9.0
+03-19-2020,Sri Lanka,_,Recovered,2.0
+03-19-2020,United States of America,Indiana,Confirmed,21.0
+03-19-2020,Andorra,_,Confirmed,14.0
+03-19-2020,Malta,_,Confirmed,15.0
+03-19-2020,Australia,Western Australia,Confirmed,17.0
+03-19-2020,United States of America,Maine,Confirmed,10.0
+03-19-2020,United States of America,Mississippi,Confirmed,16.0
+03-19-2020,United States of America,Mississippi,Deaths,1.0
+03-19-2020,Moldova,_,Confirmed,19.0
+03-19-2020,North Macedonia,_,Confirmed,13.0
+03-19-2020,Oman,_,Confirmed,9.0
+03-19-2020,United States of America,Arizona,Confirmed,18.0
+03-19-2020,Azerbaijan,_,Confirmed,16.0
+03-19-2020,Kazakhstan,_,Confirmed,9.0
+03-19-2020,United States of America,Iowa,Confirmed,15.0
+03-19-2020,United States of America,New Hampshire,Confirmed,18.0
+03-19-2020,United States of America,Oklahoma,Confirmed,25.0
+03-19-2020,United States of America,Oklahoma,Deaths,1.0
+03-19-2020,United States of America,Rhode Island,Confirmed,11.0
+03-19-2020,Australia,South Australia,Confirmed,5.0
+03-19-2020,Venezuela,_,Confirmed,6.0
+03-19-2020,Georgia,_,Confirmed,2.0
+03-19-2020,United States of America,District of Columbia,Confirmed,9.0
+03-19-2020,Tunisia,_,Confirmed,10.0
+03-19-2020,Tunisia,_,Deaths,1.0
+03-19-2020,Cambodia,_,Confirmed,2.0
+03-19-2020,United States of America,Kentucky,Confirmed,10.0
+03-19-2020,United States of America,Kentucky,Deaths,1.0
+03-19-2020,Lithuania,_,Confirmed,9.0
+03-19-2020,United States of America,New Mexico,Confirmed,12.0
+03-19-2020,Dominican Republic,_,Confirmed,13.0
+03-19-2020,Dominican Republic,_,Deaths,1.0
+03-19-2020,United States of America,Kansas,Confirmed,16.0
+03-19-2020,Burkina Faso,_,Confirmed,13.0
+03-19-2020,Guadeloupe,_,Confirmed,6.0
+03-19-2020,United States of America,Missouri,Confirmed,13.0
+03-19-2020,United States of America,Missouri,Deaths,1.0
+03-19-2020,United States of America,Delaware,Confirmed,11.0
+03-19-2020,United States of America,Nebraska,Confirmed,5.0
+03-19-2020,New Zealand,_,Confirmed,8.0
+03-19-2020,Martinique,_,Confirmed,4.0
+03-19-2020,Uzbekistan,_,Confirmed,8.0
+03-19-2020,United States of America,Grand Princess,Confirmed,1.0
+03-19-2020,United States of America,Vermont,Confirmed,4.0
+03-19-2020,United States of America,North Dakota,Confirmed,12.0
+03-19-2020,United States of America,Wyoming,Confirmed,3.0
+03-19-2020,Bangladesh,_,Confirmed,3.0
+03-19-2020,Canada,Manitoba,Confirmed,2.0
+03-19-2020,China,Macau,Confirmed,2.0
+03-19-2020,Canada,Saskatchewan,Confirmed,8.0
+03-19-2020,United States of America,Hawaii,Confirmed,2.0
+03-19-2020,Ukraine,_,Confirmed,2.0
+03-19-2020,Jamaica,_,Confirmed,2.0
+03-19-2020,Jamaica,_,Deaths,1.0
+03-19-2020,Canada,Nova Scotia,Confirmed,2.0
+03-19-2020,Congo (Kinshasa),_,Confirmed,10.0
+03-19-2020,Reunion,_,Confirmed,2.0
+03-19-2020,Cameroon,_,Confirmed,3.0
+03-19-2020,Honduras,_,Confirmed,3.0
+03-19-2020,United States of America,Guam,Confirmed,7.0
+03-19-2020,Cuba,_,Confirmed,4.0
+03-19-2020,Ghana,_,Confirmed,4.0
+03-19-2020,United States of America,Idaho,Confirmed,2.0
+03-19-2020,United Kingdom,Channel Islands,Confirmed,5.0
+03-19-2020,Australia,Tasmania,Recovered,3.0
+03-19-2020,United Kingdom,Gibraltar,Confirmed,2.0
+03-19-2020,Cote d'Ivoire,_,Confirmed,3.0
+03-19-2020,Guatemala,_,Confirmed,3.0
+03-19-2020,Trinidad and Tobago,_,Confirmed,2.0
+03-19-2020,United States of America,Alaska,Confirmed,3.0
+03-19-2020,Kenya,_,Confirmed,4.0
+03-19-2020,Equatorial Guinea,_,Confirmed,2.0
+03-19-2020,France,French Polynesia,Confirmed,3.0
+03-19-2020,Seychelles,_,Confirmed,2.0
+03-19-2020,Tanzania,_,Confirmed,3.0
+03-19-2020,Barbados,_,Confirmed,3.0
+03-19-2020,Australia,Australian Capital Territory,Confirmed,1.0
+03-19-2020,France,St Martin,Confirmed,1.0
+03-19-2020,"Bahamas, The",_,Confirmed,3.0
+03-19-2020,Congo (Brazzaville),_,Confirmed,2.0
+03-19-2020,Montenegro,_,Confirmed,2.0
+03-19-2020,Namibia,_,Confirmed,1.0
+03-19-2020,Netherlands,Curacao,Deaths,1.0
+03-19-2020,United States of America,Virgin Islands,Confirmed,1.0
+03-19-2020,United Kingdom,Cayman Islands,Confirmed,2.0
+03-19-2020,Canada,Prince Edward Island,Confirmed,1.0
+03-19-2020,Denmark,Greenland,Confirmed,2.0
+03-19-2020,France,New Caledonia,Confirmed,2.0
+03-19-2020,Mauritania,_,Confirmed,1.0
+03-19-2020,United States of America,West Virginia,Confirmed,1.0
+03-19-2020,United Kingdom,Bermuda,Confirmed,2.0
+03-19-2020,Chad,_,Confirmed,1.0
+03-19-2020,El Salvador,_,Confirmed,1.0
+03-19-2020,Fiji,_,Confirmed,1.0
+03-19-2020,Nicaragua,_,Confirmed,1.0
+03-19-2020,United States of America,US,Recovered,2.0
+03-20-2020,China,Hubei,Deaths,3.0
+03-20-2020,China,Hubei,Recovered,700.0
+03-20-2020,Italy,_,Confirmed,5986.0
+03-20-2020,Italy,_,Deaths,627.0
+03-20-2020,Spain,_,Confirmed,2447.0
+03-20-2020,Spain,_,Deaths,213.0
+03-20-2020,Spain,_,Recovered,481.0
+03-20-2020,Germany,_,Confirmed,4528.0
+03-20-2020,Germany,_,Deaths,23.0
+03-20-2020,Germany,_,Recovered,67.0
+03-20-2020,Iran,_,Confirmed,1237.0
+03-20-2020,Iran,_,Deaths,149.0
+03-20-2020,Iran,_,Recovered,1035.0
+03-20-2020,France,France,Confirmed,1741.0
+03-20-2020,France,France,Deaths,207.0
+03-20-2020,"Korea, South",_,Confirmed,87.0
+03-20-2020,"Korea, South",_,Deaths,3.0
+03-20-2020,United States of America,New York,Confirmed,2945.0
+03-20-2020,United States of America,New York,Deaths,8.0
+03-20-2020,Switzerland,_,Confirmed,1219.0
+03-20-2020,Switzerland,_,Deaths,13.0
+03-20-2020,United Kingdom,United Kingdom,Confirmed,1294.0
+03-20-2020,United Kingdom,United Kingdom,Deaths,40.0
+03-20-2020,Netherlands,Netherlands,Confirmed,534.0
+03-20-2020,Netherlands,Netherlands,Deaths,30.0
+03-20-2020,Austria,_,Confirmed,375.0
+03-20-2020,Belgium,_,Confirmed,462.0
+03-20-2020,Belgium,_,Deaths,16.0
+03-20-2020,Norway,_,Confirmed,168.0
+03-20-2020,Sweden,_,Confirmed,200.0
+03-20-2020,Sweden,_,Deaths,5.0
+03-20-2020,United States of America,Washington,Confirmed,148.0
+03-20-2020,United States of America,Washington,Deaths,9.0
+03-20-2020,China,Guangdong,Confirmed,17.0
+03-20-2020,China,Guangdong,Recovered,5.0
+03-20-2020,Denmark,Denmark,Confirmed,104.0
+03-20-2020,Denmark,Denmark,Deaths,3.0
+03-20-2020,China,Zhejiang,Confirmed,1.0
+03-20-2020,China,Zhejiang,Recovered,2.0
+03-20-2020,United States of America,California,Confirmed,225.0
+03-20-2020,United States of America,California,Deaths,5.0
+03-20-2020,Malaysia,_,Confirmed,130.0
+03-20-2020,Malaysia,_,Deaths,1.0
+03-20-2020,Malaysia,_,Recovered,12.0
+03-20-2020,Portugal,_,Confirmed,235.0
+03-20-2020,Portugal,_,Deaths,3.0
+03-20-2020,Portugal,_,Recovered,2.0
+03-20-2020,Japan,_,Confirmed,39.0
+03-20-2020,Japan,_,Deaths,4.0
+03-20-2020,Japan,_,Recovered,41.0
+03-20-2020,United States of America,New Jersey,Confirmed,148.0
+03-20-2020,United States of America,New Jersey,Deaths,2.0
+03-20-2020,Czechia,_,Confirmed,139.0
+03-20-2020,Czechia,_,Recovered,1.0
+03-20-2020,Brazil,_,Confirmed,172.0
+03-20-2020,Brazil,_,Deaths,5.0
+03-20-2020,China,Shandong,Confirmed,1.0
+03-20-2020,China,Shandong,Recovered,1.0
+03-20-2020,Israel,_,Confirmed,28.0
+03-20-2020,Israel,_,Recovered,3.0
+03-20-2020,Ireland,_,Confirmed,126.0
+03-20-2020,United States of America,Illinois,Confirmed,163.0
+03-20-2020,United States of America,Illinois,Deaths,1.0
+03-20-2020,United States of America,Florida,Confirmed,146.0
+03-20-2020,United States of America,Florida,Deaths,1.0
+03-20-2020,United States of America,Michigan,Confirmed,218.0
+03-20-2020,China,Sichuan,Confirmed,1.0
+03-20-2020,United States of America,Louisiana,Confirmed,146.0
+03-20-2020,United States of America,Louisiana,Deaths,4.0
+03-20-2020,Pakistan,_,Confirmed,47.0
+03-20-2020,Pakistan,_,Deaths,1.0
+03-20-2020,Greece,_,Confirmed,77.0
+03-20-2020,Greece,_,Recovered,11.0
+03-20-2020,China,Beijing,Confirmed,11.0
+03-20-2020,China,Beijing,Recovered,10.0
+03-20-2020,China,Heilongjiang,Confirmed,1.0
+03-20-2020,China,Heilongjiang,Recovered,3.0
+03-20-2020,Luxembourg,_,Confirmed,149.0
+03-20-2020,Qatar,_,Confirmed,10.0
+03-20-2020,Qatar,_,Recovered,6.0
+03-20-2020,Finland,_,Confirmed,50.0
+03-20-2020,Chile,_,Confirmed,196.0
+03-20-2020,Chile,_,Recovered,6.0
+03-20-2020,Poland,_,Confirmed,70.0
+03-20-2020,United States of America,Georgia,Confirmed,133.0
+03-20-2020,United States of America,Georgia,Deaths,3.0
+03-20-2020,United States of America,Massachusetts,Confirmed,85.0
+03-20-2020,United States of America,Massachusetts,Deaths,1.0
+03-20-2020,Iceland,_,Confirmed,79.0
+03-20-2020,United States of America,Texas,Confirmed,134.0
+03-20-2020,Singapore,_,Confirmed,40.0
+03-20-2020,Singapore,_,Recovered,10.0
+03-20-2020,China,Shanghai,Confirmed,8.0
+03-20-2020,Indonesia,_,Confirmed,58.0
+03-20-2020,Indonesia,_,Deaths,7.0
+03-20-2020,Indonesia,_,Recovered,4.0
+03-20-2020,Ecuador,_,Confirmed,168.0
+03-20-2020,Ecuador,_,Deaths,2.0
+03-20-2020,United States of America,Colorado,Confirmed,86.0
+03-20-2020,Turkey,_,Confirmed,167.0
+03-20-2020,Turkey,_,Deaths,1.0
+03-20-2020,Australia,New South Wales,Confirmed,46.0
+03-20-2020,Australia,New South Wales,Deaths,1.0
+03-20-2020,Saudi Arabia,_,Confirmed,70.0
+03-20-2020,Saudi Arabia,_,Recovered,2.0
+03-20-2020,Slovenia,_,Confirmed,55.0
+03-20-2020,Thailand,_,Confirmed,50.0
+03-20-2020,Canada,Ontario,Confirmed,51.0
+03-20-2020,Canada,Ontario,Deaths,1.0
+03-20-2020,Romania,_,Confirmed,31.0
+03-20-2020,United States of America,Pennsylvania,Confirmed,97.0
+03-20-2020,China,Fujian,Confirmed,3.0
+03-20-2020,Bahrain,_,Confirmed,7.0
+03-20-2020,Egypt,_,Confirmed,29.0
+03-20-2020,Egypt,_,Deaths,2.0
+03-20-2020,Egypt,_,Recovered,7.0
+03-20-2020,Estonia,_,Confirmed,16.0
+03-20-2020,Canada,British Columbia,Confirmed,40.0
+03-20-2020,Canada,British Columbia,Deaths,1.0
+03-20-2020,China,Hong Kong,Confirmed,48.0
+03-20-2020,China,Hong Kong,Recovered,3.0
+03-20-2020,China,Guangxi,Confirmed,1.0
+03-20-2020,Russia,_,Confirmed,54.0
+03-20-2020,China,Shaanxi,Confirmed,1.0
+03-20-2020,India,_,Confirmed,50.0
+03-20-2020,India,_,Deaths,1.0
+03-20-2020,India,_,Recovered,5.0
+03-20-2020,Peru,_,Deaths,3.0
+03-20-2020,United States of America,Tennessee,Confirmed,79.0
+03-20-2020,Philippines,_,Confirmed,13.0
+03-20-2020,Philippines,_,Deaths,1.0
+03-20-2020,Iraq,_,Confirmed,16.0
+03-20-2020,Iraq,_,Deaths,4.0
+03-20-2020,Iraq,_,Recovered,6.0
+03-20-2020,United States of America,Wisconsin,Confirmed,48.0
+03-20-2020,United States of America,Wisconsin,Deaths,3.0
+03-20-2020,South Africa,_,Confirmed,52.0
+03-20-2020,United States of America,Connecticut,Confirmed,35.0
+03-20-2020,United States of America,Connecticut,Deaths,1.0
+03-20-2020,Australia,Queensland,Confirmed,40.0
+03-20-2020,United States of America,Ohio,Confirmed,54.0
+03-20-2020,United States of America,Ohio,Deaths,2.0
+03-20-2020,United States of America,North Carolina,Confirmed,49.0
+03-20-2020,Mexico,_,Confirmed,46.0
+03-20-2020,Lebanon,_,Confirmed,6.0
+03-20-2020,Kuwait,_,Confirmed,11.0
+03-20-2020,United States of America,Maryland,Confirmed,42.0
+03-20-2020,Canada,Alberta,Confirmed,27.0
+03-20-2020,Canada,Alberta,Deaths,1.0
+03-20-2020,San Marino,_,Confirmed,25.0
+03-20-2020,San Marino,_,Deaths,3.0
+03-20-2020,United Arab Emirates,_,Deaths,2.0
+03-20-2020,Canada,Quebec,Confirmed,18.0
+03-20-2020,Panama,_,Confirmed,28.0
+03-20-2020,Slovakia,_,Confirmed,14.0
+03-20-2020,Armenia,_,Confirmed,21.0
+03-20-2020,Serbia,_,Confirmed,32.0
+03-20-2020,Serbia,_,Deaths,1.0
+03-20-2020,Taiwan*,_,Confirmed,27.0
+03-20-2020,Taiwan*,_,Deaths,1.0
+03-20-2020,China,Gansu,Recovered,7.0
+03-20-2020,Argentina,_,Confirmed,31.0
+03-20-2020,Colombia,_,Confirmed,26.0
+03-20-2020,Croatia,_,Confirmed,23.0
+03-20-2020,Bulgaria,_,Confirmed,33.0
+03-20-2020,China,Liaoning,Confirmed,1.0
+03-20-2020,China,Liaoning,Deaths,1.0
+03-20-2020,United States of America,South Carolina,Confirmed,45.0
+03-20-2020,United States of America,Virginia,Confirmed,23.0
+03-20-2020,United States of America,Minnesota,Confirmed,26.0
+03-20-2020,United States of America,Nevada,Confirmed,19.0
+03-20-2020,United States of America,Oregon,Confirmed,26.0
+03-20-2020,Latvia,_,Confirmed,25.0
+03-20-2020,United States of America,Arkansas,Confirmed,34.0
+03-20-2020,Uruguay,_,Confirmed,15.0
+03-20-2020,Vietnam,_,Confirmed,6.0
+03-20-2020,Algeria,_,Confirmed,3.0
+03-20-2020,Algeria,_,Deaths,2.0
+03-20-2020,Bosnia and Herzegovina,_,Confirmed,26.0
+03-20-2020,Costa Rica,_,Confirmed,20.0
+03-20-2020,United States of America,Indiana,Confirmed,26.0
+03-20-2020,Hungary,_,Confirmed,12.0
+03-20-2020,Hungary,_,Deaths,2.0
+03-20-2020,Jordan,_,Confirmed,16.0
+03-20-2020,United States of America,Alabama,Confirmed,5.0
+03-20-2020,Denmark,Faroe Islands,Confirmed,8.0
+03-20-2020,United States of America,Mississippi,Confirmed,30.0
+03-20-2020,Brunei,_,Confirmed,3.0
+03-20-2020,Brunei,_,Recovered,1.0
+03-20-2020,United States of America,Arizona,Confirmed,33.0
+03-20-2020,Morocco,_,Confirmed,14.0
+03-20-2020,Morocco,_,Deaths,1.0
+03-20-2020,Andorra,_,Confirmed,22.0
+03-20-2020,Sri Lanka,_,Confirmed,13.0
+03-20-2020,Dominican Republic,_,Confirmed,38.0
+03-20-2020,United States of America,District of Columbia,Confirmed,31.0
+03-20-2020,United States of America,District of Columbia,Deaths,1.0
+03-20-2020,Albania,_,Confirmed,6.0
+03-20-2020,Belarus,_,Confirmed,18.0
+03-20-2020,North Macedonia,_,Confirmed,19.0
+03-20-2020,Moldova,_,Confirmed,17.0
+03-20-2020,Australia,Western Australia,Confirmed,12.0
+03-20-2020,Malta,_,Confirmed,11.0
+03-20-2020,United States of America,Maine,Confirmed,4.0
+03-20-2020,Tunisia,_,Confirmed,15.0
+03-20-2020,United States of America,Rhode Island,Confirmed,10.0
+03-20-2020,United States of America,Missouri,Confirmed,22.0
+03-20-2020,United States of America,Missouri,Deaths,1.0
+03-20-2020,Cambodia,_,Confirmed,14.0
+03-20-2020,Australia,South Australia,Confirmed,8.0
+03-20-2020,Kazakhstan,_,Confirmed,5.0
+03-20-2020,Kazakhstan,_,Deaths,3.0
+03-20-2020,Lithuania,_,Confirmed,13.0
+03-20-2020,United States of America,Diamond Princess,Confirmed,2.0
+03-20-2020,United States of America,Oklahoma,Confirmed,5.0
+03-20-2020,United States of America,Kentucky,Confirmed,10.0
+03-20-2020,Guadeloupe,_,Confirmed,12.0
+03-20-2020,United States of America,Iowa,Confirmed,1.0
+03-20-2020,United States of America,Kansas,Confirmed,10.0
+03-20-2020,Georgia,_,Confirmed,3.0
+03-20-2020,United States of America,New Mexico,Confirmed,8.0
+03-20-2020,Burkina Faso,_,Confirmed,7.0
+03-20-2020,New Zealand,_,Confirmed,11.0
+03-20-2020,Senegal,_,Confirmed,7.0
+03-20-2020,United States of America,Delaware,Confirmed,8.0
+03-20-2020,United States of America,Nebraska,Confirmed,8.0
+03-20-2020,Uzbekistan,_,Confirmed,10.0
+03-20-2020,Martinique,_,Confirmed,9.0
+03-20-2020,United States of America,Vermont,Confirmed,7.0
+03-20-2020,United States of America,Vermont,Deaths,2.0
+03-20-2020,Ukraine,_,Confirmed,13.0
+03-20-2020,Ukraine,_,Deaths,1.0
+03-20-2020,Reunion,_,Confirmed,14.0
+03-20-2020,United States of America,Hawaii,Confirmed,10.0
+03-20-2020,Afghanistan,_,Confirmed,2.0
+03-20-2020,Honduras,_,Confirmed,12.0
+03-20-2020,United States of America,Grand Princess,Confirmed,1.0
+03-20-2020,United States of America,Idaho,Confirmed,12.0
+03-20-2020,Bangladesh,_,Confirmed,3.0
+03-20-2020,Cameroon,_,Confirmed,7.0
+03-20-2020,Canada,Saskatchewan,Confirmed,4.0
+03-20-2020,United States of America,North Dakota,Confirmed,1.0
+03-20-2020,United States of America,Wyoming,Confirmed,1.0
+03-20-2020,Congo (Kinshasa),_,Confirmed,4.0
+03-20-2020,Rwanda,_,Confirmed,9.0
+03-20-2020,Cuba,_,Confirmed,5.0
+03-20-2020,Ghana,_,Confirmed,5.0
+03-20-2020,Jamaica,_,Confirmed,1.0
+03-20-2020,Bolivia,_,Confirmed,3.0
+03-20-2020,Canada,Nova Scotia,Confirmed,1.0
+03-20-2020,French Guiana,_,Confirmed,4.0
+03-20-2020,United States of America,Montana,Confirmed,4.0
+03-20-2020,Montenegro,_,Confirmed,11.0
+03-20-2020,United States of America,Guam,Confirmed,2.0
+03-20-2020,United States of America,Puerto Rico,Confirmed,9.0
+03-20-2020,United States of America,South Dakota,Confirmed,3.0
+03-20-2020,United Kingdom,Channel Islands,Confirmed,3.0
+03-20-2020,Paraguay,_,Confirmed,2.0
+03-20-2020,Guatemala,_,Confirmed,3.0
+03-20-2020,Mauritius,_,Confirmed,9.0
+03-20-2020,Nigeria,_,Confirmed,4.0
+03-20-2020,United States of America,Alaska,Confirmed,3.0
+03-20-2020,France,French Polynesia,Confirmed,5.0
+03-20-2020,Monaco,_,Confirmed,4.0
+03-20-2020,Canada,Grand Princess,Confirmed,1.0
+03-20-2020,Ethiopia,_,Confirmed,3.0
+03-20-2020,Togo,_,Confirmed,8.0
+03-20-2020,Togo,_,Recovered,1.0
+03-20-2020,Seychelles,_,Confirmed,1.0
+03-20-2020,United States of America,West Virginia,Confirmed,5.0
+03-20-2020,Australia,Australian Capital Territory,Confirmed,2.0
+03-20-2020,Kyrgyzstan,_,Confirmed,3.0
+03-20-2020,Mayotte,_,Confirmed,3.0
+03-20-2020,Netherlands,Aruba,Confirmed,3.0
+03-20-2020,Canada,Newfoundland and Labrador,Confirmed,1.0
+03-20-2020,Suriname,_,Confirmed,3.0
+03-20-2020,Australia,Northern Territory,Confirmed,2.0
+03-20-2020,Central African Republic,_,Confirmed,2.0
+03-20-2020,Gabon,_,Confirmed,2.0
+03-20-2020,Gabon,_,Deaths,1.0
+03-20-2020,Madagascar,_,Confirmed,3.0
+03-20-2020,United States of America,United States Virgin Islands,Confirmed,1.0
+03-20-2020,Bhutan,_,Confirmed,1.0
+03-20-2020,Haiti,_,Confirmed,2.0
+03-20-2020,Angola,_,Confirmed,1.0
+03-20-2020,Cabo Verde,_,Confirmed,1.0
+03-20-2020,Netherlands,Sint Maarten,Confirmed,1.0
+03-20-2020,Niger,_,Confirmed,1.0
+03-20-2020,Papua New Guinea,_,Confirmed,1.0
+03-20-2020,United States of America,US,Recovered,39.0
+03-20-2020,United Kingdom,Isle of Man,Confirmed,1.0
+03-20-2020,Zimbabwe,_,Confirmed,1.0
+03-21-2020,China,Hubei,Deaths,6.0
+03-21-2020,China,Hubei,Recovered,564.0
+03-21-2020,Italy,_,Confirmed,6557.0
+03-21-2020,Italy,_,Deaths,793.0
+03-21-2020,Italy,_,Recovered,1632.0
+03-21-2020,Spain,_,Confirmed,4964.0
+03-21-2020,Spain,_,Deaths,332.0
+03-21-2020,Spain,_,Recovered,537.0
+03-21-2020,Germany,_,Confirmed,2365.0
+03-21-2020,Germany,_,Deaths,17.0
+03-21-2020,Germany,_,Recovered,53.0
+03-21-2020,Iran,_,Confirmed,966.0
+03-21-2020,Iran,_,Deaths,123.0
+03-21-2020,Iran,_,Recovered,890.0
+03-21-2020,France,France,Confirmed,1670.0
+03-21-2020,France,France,Deaths,112.0
+03-21-2020,United States of America,New York,Confirmed,3400.0
+03-21-2020,United States of America,New York,Deaths,18.0
+03-21-2020,"Korea, South",_,Confirmed,147.0
+03-21-2020,"Korea, South",_,Deaths,8.0
+03-21-2020,Switzerland,_,Confirmed,1281.0
+03-21-2020,Switzerland,_,Deaths,21.0
+03-21-2020,United Kingdom,United Kingdom,Confirmed,1035.0
+03-21-2020,United Kingdom,United Kingdom,Deaths,56.0
+03-21-2020,Netherlands,Netherlands,Confirmed,637.0
+03-21-2020,Netherlands,Netherlands,Deaths,30.0
+03-21-2020,Belgium,_,Confirmed,558.0
+03-21-2020,Belgium,_,Deaths,30.0
+03-21-2020,Belgium,_,Recovered,262.0
+03-21-2020,Austria,_,Confirmed,426.0
+03-21-2020,Austria,_,Deaths,2.0
+03-21-2020,Norway,_,Confirmed,204.0
+03-21-2020,United States of America,Washington,Confirmed,269.0
+03-21-2020,United States of America,Washington,Deaths,11.0
+03-21-2020,Sweden,_,Confirmed,124.0
+03-21-2020,Sweden,_,Deaths,4.0
+03-21-2020,China,Guangdong,Confirmed,5.0
+03-21-2020,China,Guangdong,Recovered,2.0
+03-21-2020,United States of America,California,Confirmed,187.0
+03-21-2020,United States of America,California,Deaths,1.0
+03-21-2020,United States of America,New Jersey,Confirmed,437.0
+03-21-2020,United States of America,New Jersey,Deaths,5.0
+03-21-2020,Denmark,Denmark,Confirmed,71.0
+03-21-2020,Denmark,Denmark,Deaths,4.0
+03-21-2020,Portugal,_,Confirmed,260.0
+03-21-2020,Portugal,_,Deaths,6.0
+03-21-2020,China,Zhejiang,Confirmed,2.0
+03-21-2020,Malaysia,_,Confirmed,153.0
+03-21-2020,Malaysia,_,Deaths,1.0
+03-21-2020,Malaysia,_,Recovered,27.0
+03-21-2020,Brazil,_,Confirmed,228.0
+03-21-2020,Brazil,_,Deaths,4.0
+03-21-2020,Japan,_,Confirmed,44.0
+03-21-2020,Japan,_,Deaths,2.0
+03-21-2020,Japan,_,Recovered,41.0
+03-21-2020,Czechia,_,Confirmed,162.0
+03-21-2020,Czechia,_,Recovered,2.0
+03-21-2020,Israel,_,Confirmed,178.0
+03-21-2020,Israel,_,Deaths,1.0
+03-21-2020,Israel,_,Recovered,22.0
+03-21-2020,United States of America,Michigan,Confirmed,236.0
+03-21-2020,United States of America,Michigan,Deaths,2.0
+03-21-2020,Ireland,_,Confirmed,102.0
+03-21-2020,China,Shandong,Confirmed,2.0
+03-21-2020,China,Shandong,Recovered,1.0
+03-21-2020,United States of America,Illinois,Confirmed,168.0
+03-21-2020,United States of America,Illinois,Deaths,1.0
+03-21-2020,Pakistan,_,Confirmed,229.0
+03-21-2020,Cruise Ship,Diamond Princess,Deaths,1.0
+03-21-2020,Luxembourg,_,Confirmed,186.0
+03-21-2020,Luxembourg,_,Deaths,4.0
+03-21-2020,Turkey,_,Confirmed,311.0
+03-21-2020,Turkey,_,Deaths,5.0
+03-21-2020,United States of America,Florida,Confirmed,96.0
+03-21-2020,United States of America,Florida,Deaths,3.0
+03-21-2020,United States of America,Louisiana,Confirmed,47.0
+03-21-2020,United States of America,Louisiana,Deaths,2.0
+03-21-2020,United States of America,Texas,Confirmed,187.0
+03-21-2020,China,Sichuan,Confirmed,1.0
+03-21-2020,Chile,_,Confirmed,103.0
+03-21-2020,Poland,_,Confirmed,111.0
+03-21-2020,Greece,_,Confirmed,35.0
+03-21-2020,Greece,_,Deaths,7.0
+03-21-2020,United States of America,Massachusetts,Confirmed,112.0
+03-21-2020,Finland,_,Confirmed,73.0
+03-21-2020,Finland,_,Deaths,1.0
+03-21-2020,United States of America,Georgia,Confirmed,87.0
+03-21-2020,United States of America,Georgia,Deaths,1.0
+03-21-2020,Ecuador,_,Confirmed,139.0
+03-21-2020,Ecuador,_,Deaths,2.0
+03-21-2020,Ecuador,_,Recovered,3.0
+03-21-2020,China,Beijing,Confirmed,13.0
+03-21-2020,China,Beijing,Recovered,6.0
+03-21-2020,Qatar,_,Confirmed,11.0
+03-21-2020,Qatar,_,Recovered,17.0
+03-21-2020,Iceland,_,Confirmed,64.0
+03-21-2020,Iceland,_,Deaths,1.0
+03-21-2020,Iceland,_,Recovered,17.0
+03-21-2020,Indonesia,_,Confirmed,81.0
+03-21-2020,Indonesia,_,Deaths,6.0
+03-21-2020,Australia,New South Wales,Confirmed,83.0
+03-21-2020,Singapore,_,Confirmed,47.0
+03-21-2020,Singapore,_,Deaths,2.0
+03-21-2020,Singapore,_,Recovered,16.0
+03-21-2020,Canada,British Columbia,Confirmed,153.0
+03-21-2020,Canada,British Columbia,Deaths,2.0
+03-21-2020,Thailand,_,Confirmed,89.0
+03-21-2020,United States of America,Pennsylvania,Confirmed,93.0
+03-21-2020,United States of America,Pennsylvania,Deaths,1.0
+03-21-2020,Saudi Arabia,_,Confirmed,48.0
+03-21-2020,Saudi Arabia,_,Recovered,8.0
+03-21-2020,United States of America,Colorado,Confirmed,27.0
+03-21-2020,Slovenia,_,Confirmed,42.0
+03-21-2020,China,Shanghai,Confirmed,9.0
+03-21-2020,China,Shanghai,Recovered,1.0
+03-21-2020,Canada,Ontario,Confirmed,69.0
+03-21-2020,Canada,Ontario,Deaths,1.0
+03-21-2020,Canada,Ontario,Recovered,1.0
+03-21-2020,United States of America,Tennessee,Confirmed,138.0
+03-21-2020,United States of America,Tennessee,Deaths,1.0
+03-21-2020,Romania,_,Confirmed,59.0
+03-21-2020,Romania,_,Recovered,27.0
+03-21-2020,India,_,Confirmed,86.0
+03-21-2020,India,_,Recovered,3.0
+03-21-2020,Peru,_,Confirmed,84.0
+03-21-2020,Peru,_,Deaths,2.0
+03-21-2020,Philippines,_,Confirmed,77.0
+03-21-2020,Philippines,_,Deaths,1.0
+03-21-2020,Philippines,_,Recovered,5.0
+03-21-2020,Estonia,_,Confirmed,23.0
+03-21-2020,Russia,_,Confirmed,53.0
+03-21-2020,Russia,_,Recovered,3.0
+03-21-2020,Bahrain,_,Confirmed,20.0
+03-21-2020,Bahrain,_,Recovered,25.0
+03-21-2020,China,Fujian,Confirmed,4.0
+03-21-2020,Egypt,_,Confirmed,9.0
+03-21-2020,Egypt,_,Deaths,2.0
+03-21-2020,Egypt,_,Recovered,2.0
+03-21-2020,United States of America,Wisconsin,Confirmed,75.0
+03-21-2020,United States of America,Wisconsin,Deaths,1.0
+03-21-2020,China,Hong Kong,Confirmed,17.0
+03-21-2020,United States of America,North Carolina,Confirmed,81.0
+03-21-2020,China,Shaanxi,Confirmed,1.0
+03-21-2020,China,Shaanxi,Recovered,2.0
+03-21-2020,United States of America,Ohio,Confirmed,75.0
+03-21-2020,United States of America,Ohio,Deaths,1.0
+03-21-2020,South Africa,_,Confirmed,38.0
+03-21-2020,Australia,Victoria,Confirmed,108.0
+03-21-2020,Australia,Queensland,Confirmed,37.0
+03-21-2020,Iraq,_,Confirmed,6.0
+03-21-2020,Iraq,_,Recovered,2.0
+03-21-2020,Croatia,_,Confirmed,78.0
+03-21-2020,Mexico,_,Confirmed,39.0
+03-21-2020,Mexico,_,Deaths,1.0
+03-21-2020,Panama,_,Confirmed,63.0
+03-21-2020,Colombia,_,Confirmed,68.0
+03-21-2020,Canada,Alberta,Confirmed,49.0
+03-21-2020,United States of America,Connecticut,Deaths,1.0
+03-21-2020,United States of America,Maryland,Confirmed,44.0
+03-21-2020,United States of America,Maryland,Deaths,1.0
+03-21-2020,Lebanon,_,Confirmed,24.0
+03-21-2020,Canada,Quebec,Confirmed,42.0
+03-21-2020,Canada,Quebec,Deaths,4.0
+03-21-2020,Slovakia,_,Confirmed,41.0
+03-21-2020,Kuwait,_,Confirmed,17.0
+03-21-2020,Kuwait,_,Recovered,9.0
+03-21-2020,Serbia,_,Confirmed,36.0
+03-21-2020,United States of America,South Carolina,Confirmed,45.0
+03-21-2020,United States of America,South Carolina,Deaths,2.0
+03-21-2020,Bulgaria,_,Confirmed,36.0
+03-21-2020,Bulgaria,_,Recovered,3.0
+03-21-2020,United States of America,Nevada,Confirmed,47.0
+03-21-2020,United States of America,Nevada,Deaths,1.0
+03-21-2020,Armenia,_,Confirmed,24.0
+03-21-2020,Argentina,_,Confirmed,30.0
+03-21-2020,Argentina,_,Deaths,1.0
+03-21-2020,United States of America,Virginia,Confirmed,34.0
+03-21-2020,Taiwan*,_,Confirmed,18.0
+03-21-2020,Taiwan*,_,Recovered,2.0
+03-21-2020,United Arab Emirates,_,Confirmed,13.0
+03-21-2020,United Arab Emirates,_,Recovered,7.0
+03-21-2020,San Marino,_,Deaths,6.0
+03-21-2020,United States of America,Mississippi,Confirmed,60.0
+03-21-2020,Algeria,_,Confirmed,49.0
+03-21-2020,Algeria,_,Deaths,4.0
+03-21-2020,United States of America,Minnesota,Confirmed,23.0
+03-21-2020,United States of America,Minnesota,Deaths,1.0
+03-21-2020,United States of America,Utah,Confirmed,58.0
+03-21-2020,China,Gansu,Recovered,15.0
+03-21-2020,United States of America,Alabama,Confirmed,48.0
+03-21-2020,United States of America,Indiana,Confirmed,42.0
+03-21-2020,United States of America,Indiana,Deaths,2.0
+03-21-2020,Latvia,_,Confirmed,13.0
+03-21-2020,United States of America,Arkansas,Confirmed,26.0
+03-21-2020,United States of America,Arizona,Confirmed,40.0
+03-21-2020,United States of America,Arizona,Deaths,1.0
+03-21-2020,Costa Rica,_,Confirmed,28.0
+03-21-2020,Costa Rica,_,Deaths,1.0
+03-21-2020,Costa Rica,_,Recovered,2.0
+03-21-2020,United States of America,Oregon,Deaths,2.0
+03-21-2020,Dominican Republic,_,Confirmed,40.0
+03-21-2020,Uruguay,_,Confirmed,16.0
+03-21-2020,Hungary,_,Confirmed,18.0
+03-21-2020,Hungary,_,Deaths,1.0
+03-21-2020,Hungary,_,Recovered,5.0
+03-21-2020,Morocco,_,Confirmed,19.0
+03-21-2020,Morocco,_,Recovered,2.0
+03-21-2020,Vietnam,_,Confirmed,3.0
+03-21-2020,Vietnam,_,Recovered,1.0
+03-21-2020,Bosnia and Herzegovina,_,Confirmed,4.0
+03-21-2020,Bosnia and Herzegovina,_,Deaths,1.0
+03-21-2020,Denmark,Faroe Islands,Confirmed,12.0
+03-21-2020,Australia,Western Australia,Confirmed,26.0
+03-21-2020,Andorra,_,Confirmed,13.0
+03-21-2020,United States of America,Kentucky,Confirmed,40.0
+03-21-2020,United States of America,Kentucky,Deaths,1.0
+03-21-2020,North Macedonia,_,Confirmed,18.0
+03-21-2020,Cyprus,_,Confirmed,17.0
+03-21-2020,Brunei,_,Confirmed,5.0
+03-21-2020,Brunei,_,Recovered,1.0
+03-21-2020,Lithuania,_,Confirmed,34.0
+03-21-2020,Lithuania,_,Deaths,1.0
+03-21-2020,Moldova,_,Confirmed,14.0
+03-21-2020,Sri Lanka,_,Confirmed,4.0
+03-21-2020,United States of America,District of Columbia,Confirmed,6.0
+03-21-2020,Albania,_,Confirmed,6.0
+03-21-2020,Albania,_,Recovered,2.0
+03-21-2020,Belarus,_,Confirmed,7.0
+03-21-2020,Belarus,_,Recovered,10.0
+03-21-2020,United States of America,Missouri,Confirmed,21.0
+03-21-2020,United States of America,Missouri,Deaths,1.0
+03-21-2020,Malta,_,Confirmed,9.0
+03-21-2020,United States of America,Maine,Confirmed,14.0
+03-21-2020,Venezuela,_,Confirmed,28.0
+03-21-2020,United States of America,Iowa,Confirmed,23.0
+03-21-2020,Australia,South Australia,Confirmed,17.0
+03-21-2020,United States of America,Rhode Island,Confirmed,12.0
+03-21-2020,Burkina Faso,_,Confirmed,24.0
+03-21-2020,Burkina Faso,_,Deaths,1.0
+03-21-2020,Burkina Faso,_,Recovered,5.0
+03-21-2020,Tunisia,_,Confirmed,6.0
+03-21-2020,United States of America,Kansas,Confirmed,13.0
+03-21-2020,United States of America,Kansas,Deaths,1.0
+03-21-2020,United States of America,New Hampshire,Confirmed,11.0
+03-21-2020,Azerbaijan,_,Confirmed,9.0
+03-21-2020,Azerbaijan,_,Recovered,5.0
+03-21-2020,Cambodia,_,Confirmed,2.0
+03-21-2020,Guadeloupe,_,Confirmed,8.0
+03-21-2020,Kazakhstan,_,Confirmed,4.0
+03-21-2020,United States of America,Oklahoma,Confirmed,4.0
+03-21-2020,New Zealand,_,Confirmed,13.0
+03-21-2020,Oman,_,Confirmed,4.0
+03-21-2020,Georgia,_,Confirmed,6.0
+03-21-2020,Trinidad and Tobago,_,Confirmed,40.0
+03-21-2020,Trinidad and Tobago,_,Recovered,1.0
+03-21-2020,Senegal,_,Confirmed,9.0
+03-21-2020,Senegal,_,Recovered,3.0
+03-21-2020,Ukraine,_,Confirmed,18.0
+03-21-2020,Ukraine,_,Recovered,1.0
+03-21-2020,Reunion,_,Confirmed,17.0
+03-21-2020,United States of America,Delaware,Confirmed,7.0
+03-21-2020,Uzbekistan,_,Confirmed,10.0
+03-21-2020,United States of America,Nebraska,Confirmed,1.0
+03-21-2020,Liechtenstein,_,Confirmed,9.0
+03-21-2020,United States of America,Hawaii,Confirmed,11.0
+03-21-2020,United States of America,Idaho,Confirmed,13.0
+03-21-2020,United Kingdom,Channel Islands,Confirmed,18.0
+03-21-2020,United States of America,North Dakota,Confirmed,9.0
+03-21-2020,Cameroon,_,Confirmed,7.0
+03-21-2020,Canada,Saskatchewan,Confirmed,6.0
+03-21-2020,Bangladesh,_,Confirmed,5.0
+03-21-2020,Bangladesh,_,Deaths,1.0
+03-21-2020,Congo (Kinshasa),_,Confirmed,5.0
+03-21-2020,Congo (Kinshasa),_,Deaths,1.0
+03-21-2020,United States of America,Wyoming,Confirmed,4.0
+03-21-2020,Nigeria,_,Confirmed,10.0
+03-21-2020,Canada,Nova Scotia,Confirmed,6.0
+03-21-2020,Cuba,_,Confirmed,5.0
+03-21-2020,United States of America,Montana,Confirmed,6.0
+03-21-2020,United States of America,Puerto Rico,Confirmed,7.0
+03-21-2020,United States of America,Puerto Rico,Deaths,1.0
+03-21-2020,Bolivia,_,Confirmed,4.0
+03-21-2020,Ghana,_,Confirmed,3.0
+03-21-2020,Ghana,_,Deaths,1.0
+03-21-2020,Canada,Manitoba,Confirmed,1.0
+03-21-2020,China,Macau,Confirmed,1.0
+03-21-2020,French Guiana,_,Confirmed,3.0
+03-21-2020,French Guiana,_,Recovered,6.0
+03-21-2020,Paraguay,_,Confirmed,5.0
+03-21-2020,Paraguay,_,Deaths,1.0
+03-21-2020,Canada,New Brunswick,Confirmed,6.0
+03-21-2020,Guatemala,_,Confirmed,5.0
+03-21-2020,Australia,Tasmania,Confirmed,6.0
+03-21-2020,Togo,_,Confirmed,7.0
+03-21-2020,France,French Polynesia,Confirmed,4.0
+03-21-2020,United States of America,Alaska,Confirmed,3.0
+03-21-2020,United States of America,Guam,Confirmed,1.0
+03-21-2020,Cote d'Ivoire,_,Confirmed,5.0
+03-21-2020,Kyrgyzstan,_,Confirmed,8.0
+03-21-2020,Mauritius,_,Confirmed,2.0
+03-21-2020,Mauritius,_,Deaths,1.0
+03-21-2020,Mongolia,_,Confirmed,4.0
+03-21-2020,Australia,Australian Capital Territory,Confirmed,3.0
+03-21-2020,United States of America,West Virginia,Confirmed,1.0
+03-21-2020,Mayotte,_,Confirmed,1.0
+03-21-2020,Barbados,_,Confirmed,1.0
+03-21-2020,Canada,Newfoundland and Labrador,Confirmed,2.0
+03-21-2020,United States of America,United States Virgin Islands,Confirmed,3.0
+03-21-2020,"Bahamas, The",_,Confirmed,1.0
+03-21-2020,France,New Caledonia,Confirmed,2.0
+03-21-2020,Gabon,_,Confirmed,1.0
+03-21-2020,Cabo Verde,_,Confirmed,2.0
+03-21-2020,El Salvador,_,Confirmed,2.0
+03-21-2020,Liberia,_,Confirmed,1.0
+03-21-2020,Zimbabwe,_,Confirmed,2.0
+03-21-2020,Angola,_,Confirmed,1.0
+03-21-2020,Guinea,_,Confirmed,1.0
+03-21-2020,Nicaragua,_,Confirmed,1.0
+03-21-2020,Canada,Northwest Territories,Confirmed,1.0
+03-21-2020,Cape Verde,_,Confirmed,1.0
+03-21-2020,East Timor,_,Confirmed,1.0
+03-21-2020,Eritrea,_,Confirmed,1.0
+03-21-2020,United States of America,US,Recovered,24.0
+03-21-2020,Uganda,_,Confirmed,1.0
+03-22-2020,United States of America,New York,Confirmed,4090.0
+03-22-2020,United States of America,New York,Deaths,57.0
+03-22-2020,United States of America,Washington,Confirmed,204.0
+03-22-2020,United States of America,Washington,Deaths,3.0
+03-22-2020,United States of America,New Jersey,Confirmed,587.0
+03-22-2020,United States of America,New Jersey,Deaths,4.0
+03-22-2020,United States of America,California,Confirmed,282.0
+03-22-2020,United States of America,California,Deaths,6.0
+03-22-2020,United States of America,Illinois,Confirmed,296.0
+03-22-2020,United States of America,Illinois,Deaths,3.0
+03-22-2020,United States of America,Michigan,Confirmed,247.0
+03-22-2020,United States of America,Michigan,Deaths,4.0
+03-22-2020,United States of America,Florida,Confirmed,345.0
+03-22-2020,United States of America,Louisiana,Confirmed,252.0
+03-22-2020,United States of America,Louisiana,Deaths,4.0
+03-22-2020,United States of America,Massachusetts,Confirmed,121.0
+03-22-2020,United States of America,Massachusetts,Deaths,4.0
+03-22-2020,United States of America,Texas,Confirmed,62.0
+03-22-2020,United States of America,Texas,Deaths,2.0
+03-22-2020,United States of America,Georgia,Confirmed,114.0
+03-22-2020,United States of America,Georgia,Deaths,11.0
+03-22-2020,United States of America,Colorado,Confirmed,201.0
+03-22-2020,United States of America,Colorado,Deaths,2.0
+03-22-2020,United States of America,Pennsylvania,Confirmed,113.0
+03-22-2020,United States of America,Pennsylvania,Deaths,2.0
+03-22-2020,United States of America,Tennessee,Confirmed,134.0
+03-22-2020,United States of America,Tennessee,Deaths,1.0
+03-22-2020,United States of America,Wisconsin,Confirmed,99.0
+03-22-2020,United States of America,Ohio,Confirmed,108.0
+03-22-2020,United States of America,Connecticut,Confirmed,133.0
+03-22-2020,United States of America,Connecticut,Deaths,4.0
+03-22-2020,United States of America,North Carolina,Confirmed,52.0
+03-22-2020,United States of America,Maryland,Confirmed,51.0
+03-22-2020,United States of America,Maryland,Deaths,1.0
+03-22-2020,United States of America,Virginia,Confirmed,64.0
+03-22-2020,United States of America,Virginia,Deaths,4.0
+03-22-2020,United States of America,Mississippi,Confirmed,67.0
+03-22-2020,United States of America,Indiana,Confirmed,76.0
+03-22-2020,United States of America,Indiana,Deaths,2.0
+03-22-2020,United States of America,South Carolina,Confirmed,25.0
+03-22-2020,United States of America,Nevada,Confirmed,29.0
+03-22-2020,United States of America,Utah,Confirmed,26.0
+03-22-2020,United States of America,Utah,Deaths,1.0
+03-22-2020,United States of America,Minnesota,Confirmed,29.0
+03-22-2020,United States of America,Arkansas,Confirmed,43.0
+03-22-2020,United States of America,Oregon,Confirmed,47.0
+03-22-2020,United States of America,Alabama,Confirmed,26.0
+03-22-2020,United States of America,Arizona,Confirmed,34.0
+03-22-2020,United States of America,Arizona,Deaths,1.0
+03-22-2020,United States of America,Kentucky,Confirmed,16.0
+03-22-2020,United States of America,Missouri,Confirmed,13.0
+03-22-2020,United States of America,Iowa,Confirmed,22.0
+03-22-2020,United States of America,Maine,Confirmed,19.0
+03-22-2020,United States of America,Rhode Island,Confirmed,17.0
+03-22-2020,United States of America,New Hampshire,Confirmed,19.0
+03-22-2020,United States of America,Oklahoma,Confirmed,14.0
+03-22-2020,United States of America,Oklahoma,Deaths,1.0
+03-22-2020,United States of America,Kansas,Confirmed,8.0
+03-22-2020,United States of America,New Mexico,Confirmed,14.0
+03-22-2020,United States of America,Hawaii,Confirmed,16.0
+03-22-2020,United States of America,Delaware,Confirmed,11.0
+03-22-2020,United States of America,Vermont,Confirmed,23.0
+03-22-2020,United States of America,Nebraska,Confirmed,13.0
+03-22-2020,United States of America,Idaho,Confirmed,6.0
+03-22-2020,United States of America,Montana,Confirmed,13.0
+03-22-2020,United States of America,Grand Princess,Confirmed,7.0
+03-22-2020,United States of America,Grand Princess,Deaths,1.0
+03-22-2020,United States of America,Guam,Confirmed,12.0
+03-22-2020,United States of America,Guam,Deaths,1.0
+03-22-2020,United States of America,Wyoming,Confirmed,3.0
+03-22-2020,United States of America,Puerto Rico,Confirmed,2.0
+03-22-2020,United States of America,South Dakota,Confirmed,7.0
+03-22-2020,United States of America,Alaska,Confirmed,5.0
+03-22-2020,United States of America,West Virginia,Confirmed,8.0
+03-22-2020,United States of America,Virgin Islands,Confirmed,3.0
+03-22-2020,United States of America,Wuhan Evacuee,Confirmed,4.0
+03-22-2020,United States of America,District of Columbia,Confirmed,25.0
+03-22-2020,United States of America,District of Columbia,Deaths,1.0
+03-22-2020,Canada,Ontario,Confirmed,48.0
+03-22-2020,Canada,Ontario,Deaths,2.0
+03-22-2020,Canada,Alberta,Confirmed,64.0
+03-22-2020,Canada,Quebec,Confirmed,38.0
+03-22-2020,Canada,Saskatchewan,Confirmed,26.0
+03-22-2020,Canada,Nova Scotia,Confirmed,7.0
+03-22-2020,Canada,Manitoba,Confirmed,2.0
+03-22-2020,Canada,Grand Princess,Confirmed,3.0
+03-22-2020,Canada,Newfoundland and Labrador,Confirmed,3.0
+03-22-2020,Canada,Prince Edward Island,Confirmed,1.0
+03-22-2020,Canada,Diamond Princess,Deaths,1.0
+03-22-2020,Australia,New South Wales,Confirmed,233.0
+03-22-2020,Australia,Victoria,Confirmed,67.0
+03-22-2020,Australia,Victoria,Recovered,62.0
+03-22-2020,Australia,Queensland,Confirmed,38.0
+03-22-2020,Australia,Western Australia,Confirmed,30.0
+03-22-2020,Australia,Western Australia,Recovered,1.0
+03-22-2020,Australia,South Australia,Confirmed,33.0
+03-22-2020,Australia,South Australia,Recovered,3.0
+03-22-2020,Australia,Tasmania,Confirmed,6.0
+03-22-2020,Australia,Australian Capital Territory,Confirmed,10.0
+03-22-2020,Australia,Northern Territory,Confirmed,2.0
+03-22-2020,China,Macau,Confirmed,2.0
+03-22-2020,China,Gansu,Confirmed,2.0
+03-22-2020,China,Gansu,Recovered,1.0
+03-22-2020,China,Chongqing,Confirmed,1.0
+03-22-2020,China,Hubei,Deaths,5.0
+03-22-2020,China,Hubei,Recovered,487.0
+03-22-2020,China,Hong Kong,Confirmed,44.0
+03-22-2020,China,Hong Kong,Recovered,2.0
+03-22-2020,Taiwan*,_,Confirmed,16.0
+03-22-2020,China,Shandong,Confirmed,2.0
+03-22-2020,China,Shandong,Recovered,1.0
+03-22-2020,China,Beijing,Confirmed,10.0
+03-22-2020,China,Beijing,Recovered,4.0
+03-22-2020,China,Shanghai,Confirmed,14.0
+03-22-2020,China,Shanghai,Deaths,1.0
+03-22-2020,China,Shanghai,Recovered,1.0
+03-22-2020,China,Jiangxi,Confirmed,1.0
+03-22-2020,China,Guangdong,Confirmed,7.0
+03-22-2020,China,Guangdong,Recovered,4.0
+03-22-2020,China,Sichuan,Confirmed,1.0
+03-22-2020,China,Fujian,Confirmed,4.0
+03-22-2020,China,Hebei,Confirmed,1.0
+03-22-2020,China,Heilongjiang,Recovered,3.0
+03-22-2020,China,Liaoning,Recovered,2.0
+03-22-2020,China,Jiangsu,Confirmed,2.0
+03-22-2020,China,Zhejiang,Confirmed,1.0
+03-22-2020,Italy,_,Confirmed,5560.0
+03-22-2020,Italy,_,Deaths,651.0
+03-22-2020,Italy,_,Recovered,952.0
+03-22-2020,Spain,_,Confirmed,3229.0
+03-22-2020,Spain,_,Deaths,381.0
+03-22-2020,Germany,_,Confirmed,2660.0
+03-22-2020,Germany,_,Deaths,10.0
+03-22-2020,Germany,_,Recovered,33.0
+03-22-2020,Iran,_,Confirmed,1028.0
+03-22-2020,Iran,_,Deaths,129.0
+03-22-2020,France,_,Confirmed,14234.0
+03-22-2020,France,_,Deaths,641.0
+03-22-2020,France,_,Recovered,2188.0
+03-22-2020,"Korea, South",_,Confirmed,98.0
+03-22-2020,"Korea, South",_,Deaths,2.0
+03-22-2020,"Korea, South",_,Recovered,1369.0
+03-22-2020,Switzerland,_,Confirmed,899.0
+03-22-2020,Switzerland,_,Deaths,23.0
+03-22-2020,Switzerland,_,Recovered,116.0
+03-22-2020,United Kingdom,_,Confirmed,5683.0
+03-22-2020,United Kingdom,_,Deaths,281.0
+03-22-2020,United Kingdom,_,Recovered,93.0
+03-22-2020,Netherlands,_,Confirmed,3069.0
+03-22-2020,Netherlands,_,Deaths,159.0
+03-22-2020,Austria,_,Confirmed,766.0
+03-22-2020,Austria,_,Deaths,8.0
+03-22-2020,Belgium,_,Confirmed,586.0
+03-22-2020,Belgium,_,Deaths,8.0
+03-22-2020,Norway,_,Confirmed,145.0
+03-22-2020,Norway,_,Recovered,5.0
+03-22-2020,Sweden,_,Confirmed,168.0
+03-22-2020,Sweden,_,Deaths,1.0
+03-22-2020,Portugal,_,Confirmed,320.0
+03-22-2020,Portugal,_,Deaths,2.0
+03-22-2020,Brazil,_,Confirmed,525.0
+03-22-2020,Brazil,_,Deaths,10.0
+03-22-2020,Denmark,_,Confirmed,1133.0
+03-22-2020,Denmark,_,Deaths,13.0
+03-22-2020,Malaysia,_,Confirmed,123.0
+03-22-2020,Malaysia,_,Deaths,6.0
+03-22-2020,Malaysia,_,Recovered,25.0
+03-22-2020,Turkey,_,Confirmed,566.0
+03-22-2020,Turkey,_,Deaths,21.0
+03-22-2020,Czechia,_,Confirmed,125.0
+03-22-2020,Czechia,_,Deaths,1.0
+03-22-2020,Japan,_,Confirmed,79.0
+03-22-2020,Japan,_,Deaths,1.0
+03-22-2020,Japan,_,Recovered,3.0
+03-22-2020,Israel,_,Confirmed,188.0
+03-22-2020,Israel,_,Recovered,1.0
+03-22-2020,Ireland,_,Confirmed,121.0
+03-22-2020,Ireland,_,Deaths,1.0
+03-22-2020,Luxembourg,_,Confirmed,128.0
+03-22-2020,Luxembourg,_,Recovered,6.0
+03-22-2020,Ecuador,_,Confirmed,283.0
+03-22-2020,Ecuador,_,Deaths,7.0
+03-22-2020,Pakistan,_,Confirmed,46.0
+03-22-2020,Pakistan,_,Deaths,1.0
+03-22-2020,Cruise Ship,Diamond Princess,Recovered,242.0
+03-22-2020,Poland,_,Confirmed,98.0
+03-22-2020,Poland,_,Deaths,2.0
+03-22-2020,Poland,_,Recovered,12.0
+03-22-2020,Chile,_,Confirmed,95.0
+03-22-2020,Chile,_,Deaths,1.0
+03-22-2020,Chile,_,Recovered,2.0
+03-22-2020,Finland,_,Confirmed,103.0
+03-22-2020,Greece,_,Confirmed,94.0
+03-22-2020,Greece,_,Deaths,2.0
+03-22-2020,Thailand,_,Confirmed,188.0
+03-22-2020,Thailand,_,Recovered,2.0
+03-22-2020,Iceland,_,Confirmed,95.0
+03-22-2020,Indonesia,_,Confirmed,64.0
+03-22-2020,Indonesia,_,Deaths,10.0
+03-22-2020,Indonesia,_,Recovered,14.0
+03-22-2020,Saudi Arabia,_,Confirmed,119.0
+03-22-2020,Saudi Arabia,_,Recovered,1.0
+03-22-2020,Qatar,_,Confirmed,13.0
+03-22-2020,Qatar,_,Recovered,6.0
+03-22-2020,Singapore,_,Confirmed,23.0
+03-22-2020,Singapore,_,Recovered,4.0
+03-22-2020,Romania,_,Confirmed,66.0
+03-22-2020,Romania,_,Deaths,3.0
+03-22-2020,Romania,_,Recovered,12.0
+03-22-2020,Slovenia,_,Confirmed,31.0
+03-22-2020,Slovenia,_,Deaths,1.0
+03-22-2020,India,_,Confirmed,66.0
+03-22-2020,India,_,Deaths,3.0
+03-22-2020,India,_,Recovered,1.0
+03-22-2020,Philippines,_,Confirmed,73.0
+03-22-2020,Philippines,_,Deaths,6.0
+03-22-2020,Philippines,_,Recovered,2.0
+03-22-2020,Russia,_,Confirmed,61.0
+03-22-2020,Russia,_,Recovered,4.0
+03-22-2020,Peru,_,Confirmed,45.0
+03-22-2020,Bahrain,_,Confirmed,29.0
+03-22-2020,Bahrain,_,Deaths,1.0
+03-22-2020,Bahrain,_,Recovered,24.0
+03-22-2020,Egypt,_,Confirmed,33.0
+03-22-2020,Egypt,_,Deaths,4.0
+03-22-2020,Egypt,_,Recovered,15.0
+03-22-2020,Estonia,_,Confirmed,20.0
+03-22-2020,Estonia,_,Recovered,3.0
+03-22-2020,Panama,_,Confirmed,113.0
+03-22-2020,Panama,_,Deaths,2.0
+03-22-2020,Panama,_,Recovered,1.0
+03-22-2020,South Africa,_,Confirmed,34.0
+03-22-2020,South Africa,_,Recovered,2.0
+03-22-2020,Argentina,_,Confirmed,108.0
+03-22-2020,Argentina,_,Recovered,24.0
+03-22-2020,Croatia,_,Confirmed,48.0
+03-22-2020,Mexico,_,Confirmed,48.0
+03-22-2020,Lebanon,_,Confirmed,61.0
+03-22-2020,Lebanon,_,Recovered,4.0
+03-22-2020,Iraq,_,Confirmed,19.0
+03-22-2020,Iraq,_,Deaths,3.0
+03-22-2020,Iraq,_,Recovered,6.0
+03-22-2020,Colombia,_,Confirmed,35.0
+03-22-2020,Colombia,_,Deaths,2.0
+03-22-2020,Colombia,_,Recovered,2.0
+03-22-2020,Serbia,_,Confirmed,51.0
+03-22-2020,Serbia,_,Deaths,1.0
+03-22-2020,Serbia,_,Recovered,1.0
+03-22-2020,Dominican Republic,_,Confirmed,90.0
+03-22-2020,Dominican Republic,_,Deaths,1.0
+03-22-2020,Algeria,_,Confirmed,62.0
+03-22-2020,Algeria,_,Deaths,2.0
+03-22-2020,Algeria,_,Recovered,33.0
+03-22-2020,Armenia,_,Confirmed,34.0
+03-22-2020,Armenia,_,Recovered,1.0
+03-22-2020,Kuwait,_,Confirmed,12.0
+03-22-2020,Kuwait,_,Recovered,3.0
+03-22-2020,Bulgaria,_,Confirmed,24.0
+03-22-2020,Slovakia,_,Confirmed,7.0
+03-22-2020,Slovakia,_,Recovered,7.0
+03-22-2020,San Marino,_,Confirmed,31.0
+03-22-2020,Latvia,_,Confirmed,15.0
+03-22-2020,Uruguay,_,Confirmed,25.0
+03-22-2020,Costa Rica,_,Confirmed,17.0
+03-22-2020,Hungary,_,Confirmed,28.0
+03-22-2020,Hungary,_,Deaths,2.0
+03-22-2020,Hungary,_,Recovered,9.0
+03-22-2020,Lithuania,_,Confirmed,46.0
+03-22-2020,Bosnia and Herzegovina,_,Confirmed,33.0
+03-22-2020,Morocco,_,Confirmed,19.0
+03-22-2020,Morocco,_,Deaths,1.0
+03-22-2020,North Macedonia,_,Confirmed,30.0
+03-22-2020,North Macedonia,_,Deaths,1.0
+03-22-2020,Denmark,Faroe Islands,Confirmed,23.0
+03-22-2020,Denmark,Faroe Islands,Recovered,3.0
+03-22-2020,Andorra,_,Confirmed,25.0
+03-22-2020,Andorra,_,Deaths,1.0
+03-22-2020,Vietnam,_,Confirmed,19.0
+03-22-2020,Jordan,_,Confirmed,27.0
+03-22-2020,New Zealand,_,Confirmed,50.0
+03-22-2020,Cyprus,_,Confirmed,11.0
+03-22-2020,Cyprus,_,Deaths,1.0
+03-22-2020,Cyprus,_,Recovered,3.0
+03-22-2020,Moldova,_,Confirmed,14.0
+03-22-2020,Malta,_,Confirmed,17.0
+03-22-2020,Albania,_,Confirmed,13.0
+03-22-2020,Brunei,_,Confirmed,5.0
+03-22-2020,Cambodia,_,Confirmed,31.0
+03-22-2020,Cambodia,_,Recovered,1.0
+03-22-2020,Sri Lanka,_,Confirmed,5.0
+03-22-2020,Sri Lanka,_,Recovered,2.0
+03-22-2020,Burkina Faso,_,Confirmed,11.0
+03-22-2020,Burkina Faso,_,Deaths,2.0
+03-22-2020,Tunisia,_,Confirmed,15.0
+03-22-2020,Tunisia,_,Deaths,2.0
+03-22-2020,Tunisia,_,Recovered,1.0
+03-22-2020,Ukraine,_,Confirmed,26.0
+03-22-2020,Venezuela,_,Recovered,15.0
+03-22-2020,Senegal,_,Confirmed,20.0
+03-22-2020,Azerbaijan,_,Confirmed,12.0
+03-22-2020,Kazakhstan,_,Confirmed,6.0
+03-22-2020,France,Guadeloupe,Confirmed,56.0
+03-22-2020,France,Guadeloupe,Deaths,1.0
+03-22-2020,Oman,_,Confirmed,3.0
+03-22-2020,Oman,_,Recovered,5.0
+03-22-2020,Georgia,_,Confirmed,5.0
+03-22-2020,Trinidad and Tobago,_,Confirmed,1.0
+03-22-2020,France,Reunion,Confirmed,47.0
+03-22-2020,France,Reunion,Recovered,1.0
+03-22-2020,Afghanistan,_,Confirmed,16.0
+03-22-2020,Afghanistan,_,Deaths,1.0
+03-22-2020,Cameroon,_,Confirmed,13.0
+03-22-2020,Cameroon,_,Recovered,2.0
+03-22-2020,France,Martinique,Confirmed,37.0
+03-22-2020,France,Martinique,Deaths,1.0
+03-22-2020,Cuba,_,Confirmed,14.0
+03-22-2020,Congo (Kinshasa),_,Confirmed,7.0
+03-22-2020,Nigeria,_,Confirmed,8.0
+03-22-2020,Nigeria,_,Recovered,1.0
+03-22-2020,Mauritius,_,Confirmed,14.0
+03-22-2020,Mauritius,_,Deaths,1.0
+03-22-2020,Bangladesh,_,Confirmed,2.0
+03-22-2020,Honduras,_,Confirmed,2.0
+03-22-2020,Bolivia,_,Confirmed,5.0
+03-22-2020,Ghana,_,Confirmed,4.0
+03-22-2020,Monaco,_,Confirmed,12.0
+03-22-2020,Monaco,_,Recovered,1.0
+03-22-2020,Paraguay,_,Confirmed,4.0
+03-22-2020,Montenegro,_,Confirmed,7.0
+03-22-2020,Guatemala,_,Confirmed,2.0
+03-22-2020,Jamaica,_,Confirmed,3.0
+03-22-2020,Rwanda,_,Confirmed,2.0
+03-22-2020,Guyana,_,Confirmed,11.0
+03-22-2020,France,French Guiana,Confirmed,18.0
+03-22-2020,United Kingdom,Gibraltar,Confirmed,5.0
+03-22-2020,Kenya,_,Confirmed,8.0
+03-22-2020,Barbados,_,Confirmed,8.0
+03-22-2020,Maldives,_,Recovered,3.0
+03-22-2020,Tanzania,_,Confirmed,6.0
+03-22-2020,Ethiopia,_,Confirmed,2.0
+03-22-2020,France,Mayotte,Confirmed,11.0
+03-22-2020,Netherlands,Aruba,Confirmed,4.0
+03-22-2020,Netherlands,Aruba,Recovered,1.0
+03-22-2020,Gabon,_,Confirmed,1.0
+03-22-2020,United Kingdom,Isle of Man,Confirmed,4.0
+03-22-2020,France,St Martin,Confirmed,1.0
+03-22-2020,Suriname,_,Confirmed,1.0
+03-22-2020,Bahamas,_,Confirmed,4.0
+03-22-2020,Denmark,Greenland,Confirmed,2.0
+03-22-2020,Eswatini,_,Confirmed,3.0
+03-22-2020,Zambia,_,Confirmed,1.0
+03-22-2020,Fiji,_,Confirmed,1.0
+03-22-2020,Niger,_,Confirmed,1.0
+03-22-2020,Dominica,_,Confirmed,1.0
+03-22-2020,Gambia,_,Confirmed,1.0
+03-22-2020,Grenada,_,Confirmed,1.0
+03-22-2020,Mozambique,_,Confirmed,1.0
+03-22-2020,Syria,_,Confirmed,1.0
+03-22-2020,Timor-Leste,_,Confirmed,1.0
+03-23-2020,United States of America,South Carolina,Confirmed,102.0
+03-23-2020,United States of America,South Carolina,Deaths,2.0
+03-23-2020,United States of America,Louisiana,Confirmed,335.0
+03-23-2020,United States of America,Louisiana,Deaths,15.0
+03-23-2020,United States of America,Virginia,Confirmed,34.0
+03-23-2020,United States of America,Idaho,Confirmed,26.0
+03-23-2020,United States of America,Iowa,Confirmed,15.0
+03-23-2020,United States of America,Kentucky,Confirmed,20.0
+03-23-2020,United States of America,Kentucky,Deaths,1.0
+03-23-2020,United States of America,Missouri,Confirmed,100.0
+03-23-2020,United States of America,Missouri,Deaths,1.0
+03-23-2020,United States of America,Oklahoma,Confirmed,14.0
+03-23-2020,United States of America,Colorado,Confirmed,113.0
+03-23-2020,United States of America,Colorado,Deaths,1.0
+03-23-2020,United States of America,Illinois,Confirmed,236.0
+03-23-2020,United States of America,Illinois,Deaths,3.0
+03-23-2020,United States of America,Indiana,Confirmed,66.0
+03-23-2020,United States of America,Indiana,Deaths,1.0
+03-23-2020,United States of America,Mississippi,Confirmed,42.0
+03-23-2020,United States of America,North Dakota,Confirmed,2.0
+03-23-2020,United States of America,Ohio,Confirmed,87.0
+03-23-2020,United States of America,Ohio,Deaths,3.0
+03-23-2020,United States of America,Pennsylvania,Confirmed,189.0
+03-23-2020,United States of America,Pennsylvania,Deaths,2.0
+03-23-2020,United States of America,Washington,Confirmed,224.0
+03-23-2020,United States of America,Washington,Deaths,12.0
+03-23-2020,United States of America,Wisconsin,Confirmed,44.0
+03-23-2020,United States of America,Wisconsin,Deaths,1.0
+03-23-2020,United States of America,Vermont,Confirmed,23.0
+03-23-2020,United States of America,Vermont,Deaths,3.0
+03-23-2020,United States of America,Minnesota,Confirmed,67.0
+03-23-2020,United States of America,Florida,Confirmed,223.0
+03-23-2020,United States of America,Florida,Deaths,5.0
+03-23-2020,United States of America,North Carolina,Confirmed,48.0
+03-23-2020,United States of America,California,Confirmed,462.0
+03-23-2020,United States of America,California,Deaths,9.0
+03-23-2020,United States of America,New York,Confirmed,5084.0
+03-23-2020,United States of America,New York,Deaths,41.0
+03-23-2020,United States of America,Michigan,Confirmed,294.0
+03-23-2020,United States of America,Michigan,Deaths,6.0
+03-23-2020,United States of America,Alaska,Confirmed,10.0
+03-23-2020,United States of America,Maryland,Confirmed,46.0
+03-23-2020,United States of America,Kansas,Confirmed,19.0
+03-23-2020,United States of America,Tennessee,Confirmed,109.0
+03-23-2020,United States of America,Texas,Confirmed,115.0
+03-23-2020,United States of America,Texas,Deaths,2.0
+03-23-2020,United States of America,Maine,Confirmed,18.0
+03-23-2020,United States of America,Arizona,Confirmed,83.0
+03-23-2020,United States of America,Georgia,Confirmed,151.0
+03-23-2020,United States of America,Arkansas,Confirmed,27.0
+03-23-2020,United States of America,New Jersey,Confirmed,930.0
+03-23-2020,United States of America,New Jersey,Deaths,7.0
+03-23-2020,United States of America,South Dakota,Confirmed,7.0
+03-23-2020,United States of America,Alabama,Confirmed,39.0
+03-23-2020,United States of America,Oregon,Confirmed,30.0
+03-23-2020,United States of America,Massachusetts,Confirmed,131.0
+03-23-2020,United States of America,Massachusetts,Deaths,4.0
+03-23-2020,United States of America,Utah,Confirmed,95.0
+03-23-2020,United States of America,New Hampshire,Confirmed,27.0
+03-23-2020,United States of America,New Hampshire,Deaths,1.0
+03-23-2020,United States of America,New Mexico,Confirmed,26.0
+03-23-2020,United States of America,Rhode Island,Confirmed,23.0
+03-23-2020,United States of America,Nevada,Confirmed,55.0
+03-23-2020,United States of America,Nevada,Deaths,2.0
+03-23-2020,United States of America,District of Columbia,Confirmed,18.0
+03-23-2020,United States of America,Connecticut,Confirmed,88.0
+03-23-2020,United States of America,Connecticut,Deaths,2.0
+03-23-2020,United States of America,Hawaii,Confirmed,3.0
+03-23-2020,United States of America,Delaware,Confirmed,12.0
+03-23-2020,Canada,Alberta,Confirmed,42.0
+03-23-2020,Australia,Australian Capital Territory,Confirmed,13.0
+03-23-2020,China,Beijing,Confirmed,23.0
+03-23-2020,China,Beijing,Recovered,1.0
+03-23-2020,United Kingdom,Bermuda,Confirmed,4.0
+03-23-2020,Canada,British Columbia,Confirmed,48.0
+03-23-2020,Canada,British Columbia,Deaths,3.0
+03-23-2020,United Kingdom,Cayman Islands,Confirmed,2.0
+03-23-2020,United Kingdom,Channel Islands,Confirmed,4.0
+03-23-2020,Netherlands,Curacao,Confirmed,1.0
+03-23-2020,Denmark,Faroe Islands,Confirmed,3.0
+03-23-2020,Denmark,Faroe Islands,Recovered,20.0
+03-23-2020,France,French Guiana,Confirmed,2.0
+03-23-2020,France,French Guiana,Recovered,6.0
+03-23-2020,France,French Polynesia,Confirmed,19859.0
+03-23-2020,France,French Polynesia,Deaths,860.0
+03-23-2020,France,French Polynesia,Recovered,2200.0
+03-23-2020,China,Fujian,Confirmed,6.0
+03-23-2020,United Kingdom,Gibraltar,Recovered,3.0
+03-23-2020,France,Guadeloupe,Confirmed,6.0
+03-23-2020,United States of America,Guam,Confirmed,2.0
+03-23-2020,China,Guangdong,Confirmed,8.0
+03-23-2020,China,Guangdong,Recovered,3.0
+03-23-2020,China,Henan,Confirmed,1.0
+03-23-2020,China,Hong Kong,Confirmed,39.0
+03-23-2020,China,Hubei,Deaths,9.0
+03-23-2020,China,Hubei,Recovered,449.0
+03-23-2020,United Kingdom,Isle of Man,Confirmed,8.0
+03-23-2020,China,Liaoning,Confirmed,1.0
+03-23-2020,China,Macau,Confirmed,4.0
+03-23-2020,France,Martinique,Confirmed,16.0
+03-23-2020,France,Mayotte,Confirmed,13.0
+03-23-2020,France,New Caledonia,Confirmed,4.0
+03-23-2020,Canada,Newfoundland and Labrador,Confirmed,15.0
+03-23-2020,Canada,Nova Scotia,Confirmed,13.0
+03-23-2020,Canada,Ontario,Confirmed,78.0
+03-23-2020,Canada,Ontario,Deaths,1.0
+03-23-2020,United States of America,Puerto Rico,Confirmed,8.0
+03-23-2020,United States of America,Puerto Rico,Deaths,1.0
+03-23-2020,Canada,Quebec,Confirmed,409.0
+03-23-2020,Australia,Queensland,Confirmed,60.0
+03-23-2020,France,Reunion,Confirmed,24.0
+03-23-2020,Canada,Saskatchewan,Confirmed,14.0
+03-23-2020,China,Shandong,Confirmed,2.0
+03-23-2020,China,Shandong,Recovered,2.0
+03-23-2020,China,Shanghai,Confirmed,10.0
+03-23-2020,China,Shanghai,Recovered,1.0
+03-23-2020,Netherlands,Sint Maarten,Confirmed,1.0
+03-23-2020,Australia,South Australia,Confirmed,34.0
+03-23-2020,France,St Martin,Confirmed,3.0
+03-23-2020,Australia,Tasmania,Confirmed,6.0
+03-23-2020,China,Tianjin,Confirmed,4.0
+03-23-2020,Australia,Victoria,Confirmed,59.0
+03-23-2020,Australia,Victoria,Recovered,27.0
+03-23-2020,United States of America,Virgin Islands,Confirmed,1.0
+03-23-2020,Australia,Western Australia,Confirmed,20.0
+03-23-2020,China,Zhejiang,Confirmed,1.0
+03-23-2020,China,Zhejiang,Recovered,2.0
+03-23-2020,Albania,_,Confirmed,15.0
+03-23-2020,Albania,_,Deaths,2.0
+03-23-2020,Algeria,_,Confirmed,29.0
+03-23-2020,Andorra,_,Confirmed,20.0
+03-23-2020,Angola,_,Confirmed,1.0
+03-23-2020,Antigua and Barbuda,_,Confirmed,2.0
+03-23-2020,Armenia,_,Confirmed,41.0
+03-23-2020,Austria,_,Confirmed,894.0
+03-23-2020,Austria,_,Deaths,5.0
+03-23-2020,Azerbaijan,_,Confirmed,7.0
+03-23-2020,Bahrain,_,Confirmed,43.0
+03-23-2020,Bahrain,_,Recovered,15.0
+03-23-2020,Bangladesh,_,Confirmed,6.0
+03-23-2020,Bangladesh,_,Deaths,1.0
+03-23-2020,Bangladesh,_,Recovered,2.0
+03-23-2020,Barbados,_,Confirmed,3.0
+03-23-2020,Belarus,_,Confirmed,5.0
+03-23-2020,Belarus,_,Recovered,7.0
+03-23-2020,Belgium,_,Confirmed,342.0
+03-23-2020,Belgium,_,Deaths,13.0
+03-23-2020,Belgium,_,Recovered,138.0
+03-23-2020,Belize,_,Confirmed,1.0
+03-23-2020,Benin,_,Confirmed,3.0
+03-23-2020,Bolivia,_,Confirmed,3.0
+03-23-2020,Bosnia and Herzegovina,_,Confirmed,6.0
+03-23-2020,Brazil,_,Confirmed,378.0
+03-23-2020,Brazil,_,Deaths,9.0
+03-23-2020,Brunei,_,Confirmed,3.0
+03-23-2020,Bulgaria,_,Confirmed,14.0
+03-23-2020,Burkina Faso,_,Confirmed,24.0
+03-23-2020,Cambodia,_,Confirmed,3.0
+03-23-2020,Cameroon,_,Confirmed,16.0
+03-23-2020,Chile,_,Confirmed,114.0
+03-23-2020,Chile,_,Deaths,1.0
+03-23-2020,Chile,_,Recovered,3.0
+03-23-2020,Colombia,_,Confirmed,46.0
+03-23-2020,Colombia,_,Deaths,1.0
+03-23-2020,Congo (Brazzaville),_,Confirmed,1.0
+03-23-2020,Congo (Kinshasa),_,Confirmed,6.0
+03-23-2020,Costa Rica,_,Confirmed,24.0
+03-23-2020,Cote d'Ivoire,_,Confirmed,11.0
+03-23-2020,Cote d'Ivoire,_,Recovered,1.0
+03-23-2020,Croatia,_,Confirmed,61.0
+03-23-2020,Cuba,_,Confirmed,5.0
+03-23-2020,Cyprus,_,Confirmed,21.0
+03-23-2020,Czechia,_,Confirmed,116.0
+03-23-2020,Czechia,_,Recovered,1.0
+03-23-2020,Denmark,_,Confirmed,55.0
+03-23-2020,Denmark,_,Deaths,11.0
+03-23-2020,Djibouti,_,Confirmed,2.0
+03-23-2020,Dominica,_,Confirmed,1.0
+03-23-2020,Dominican Republic,_,Confirmed,43.0
+03-23-2020,Dominican Republic,_,Recovered,3.0
+03-23-2020,Ecuador,_,Confirmed,192.0
+03-23-2020,Ecuador,_,Deaths,4.0
+03-23-2020,Egypt,_,Confirmed,39.0
+03-23-2020,Egypt,_,Deaths,5.0
+03-23-2020,Egypt,_,Recovered,12.0
+03-23-2020,Equatorial Guinea,_,Confirmed,3.0
+03-23-2020,Estonia,_,Confirmed,26.0
+03-23-2020,Fiji,_,Confirmed,1.0
+03-23-2020,Finland,_,Confirmed,74.0
+03-23-2020,Gambia,_,Confirmed,1.0
+03-23-2020,Gambia,_,Deaths,1.0
+03-23-2020,Georgia,_,Confirmed,7.0
+03-23-2020,Georgia,_,Recovered,7.0
+03-23-2020,Germany,_,Confirmed,4183.0
+03-23-2020,Germany,_,Deaths,29.0
+03-23-2020,Germany,_,Recovered,187.0
+03-23-2020,Ghana,_,Confirmed,4.0
+03-23-2020,Ghana,_,Deaths,1.0
+03-23-2020,Greece,_,Confirmed,71.0
+03-23-2020,Greece,_,Deaths,2.0
+03-23-2020,Greece,_,Recovered,10.0
+03-23-2020,Guatemala,_,Confirmed,1.0
+03-23-2020,Guinea,_,Confirmed,2.0
+03-23-2020,Guyana,_,Confirmed,2.0
+03-23-2020,Haiti,_,Confirmed,4.0
+03-23-2020,Honduras,_,Confirmed,1.0
+03-23-2020,Hungary,_,Confirmed,36.0
+03-23-2020,Hungary,_,Deaths,1.0
+03-23-2020,Iceland,_,Confirmed,20.0
+03-23-2020,Iceland,_,Recovered,46.0
+03-23-2020,India,_,Confirmed,103.0
+03-23-2020,India,_,Deaths,3.0
+03-23-2020,India,_,Recovered,10.0
+03-23-2020,Indonesia,_,Confirmed,65.0
+03-23-2020,Indonesia,_,Deaths,1.0
+03-23-2020,Indonesia,_,Recovered,1.0
+03-23-2020,Iran,_,Confirmed,1411.0
+03-23-2020,Iran,_,Deaths,127.0
+03-23-2020,Iran,_,Recovered,741.0
+03-23-2020,Iraq,_,Confirmed,33.0
+03-23-2020,Iraq,_,Deaths,3.0
+03-23-2020,Iraq,_,Recovered,5.0
+03-23-2020,Ireland,_,Confirmed,219.0
+03-23-2020,Ireland,_,Deaths,2.0
+03-23-2020,Israel,_,Confirmed,371.0
+03-23-2020,Israel,_,Recovered,4.0
+03-23-2020,Italy,_,Confirmed,4789.0
+03-23-2020,Italy,_,Deaths,601.0
+03-23-2020,Italy,_,Recovered,408.0
+03-23-2020,Japan,_,Confirmed,42.0
+03-23-2020,Japan,_,Deaths,6.0
+03-23-2020,Jordan,_,Confirmed,15.0
+03-23-2020,Kazakhstan,_,Confirmed,3.0
+03-23-2020,Kenya,_,Confirmed,1.0
+03-23-2020,"Korea, South",_,Confirmed,64.0
+03-23-2020,"Korea, South",_,Deaths,7.0
+03-23-2020,"Korea, South",_,Recovered,257.0
+03-23-2020,Kuwait,_,Confirmed,1.0
+03-23-2020,Kyrgyzstan,_,Confirmed,2.0
+03-23-2020,Latvia,_,Confirmed,41.0
+03-23-2020,Lebanon,_,Confirmed,19.0
+03-23-2020,Liechtenstein,_,Confirmed,14.0
+03-23-2020,Lithuania,_,Confirmed,50.0
+03-23-2020,Luxembourg,_,Confirmed,77.0
+03-23-2020,Madagascar,_,Confirmed,9.0
+03-23-2020,Malaysia,_,Confirmed,212.0
+03-23-2020,Malaysia,_,Deaths,4.0
+03-23-2020,Malaysia,_,Recovered,20.0
+03-23-2020,Maldives,_,Recovered,2.0
+03-23-2020,Malta,_,Confirmed,17.0
+03-23-2020,Mauritius,_,Confirmed,8.0
+03-23-2020,Mexico,_,Confirmed,65.0
+03-23-2020,Mexico,_,Deaths,1.0
+03-23-2020,Moldova,_,Confirmed,15.0
+03-23-2020,Moldova,_,Recovered,1.0
+03-23-2020,Montenegro,_,Confirmed,6.0
+03-23-2020,Montenegro,_,Deaths,1.0
+03-23-2020,Morocco,_,Confirmed,28.0
+03-23-2020,Morocco,_,Recovered,2.0
+03-23-2020,Namibia,_,Confirmed,1.0
+03-23-2020,Nepal,_,Confirmed,1.0
+03-23-2020,Netherlands,_,Confirmed,545.0
+03-23-2020,Netherlands,_,Deaths,34.0
+03-23-2020,Niger,_,Confirmed,1.0
+03-23-2020,Nigeria,_,Confirmed,10.0
+03-23-2020,Nigeria,_,Deaths,1.0
+03-23-2020,North Macedonia,_,Confirmed,21.0
+03-23-2020,North Macedonia,_,Deaths,1.0
+03-23-2020,Norway,_,Confirmed,358.0
+03-23-2020,Norway,_,Deaths,3.0
+03-23-2020,Oman,_,Confirmed,11.0
+03-23-2020,Pakistan,_,Confirmed,99.0
+03-23-2020,Pakistan,_,Deaths,2.0
+03-23-2020,Peru,_,Confirmed,32.0
+03-23-2020,Philippines,_,Confirmed,82.0
+03-23-2020,Philippines,_,Deaths,8.0
+03-23-2020,Philippines,_,Recovered,3.0
+03-23-2020,Poland,_,Confirmed,115.0
+03-23-2020,Poland,_,Deaths,1.0
+03-23-2020,Portugal,_,Confirmed,460.0
+03-23-2020,Portugal,_,Deaths,9.0
+03-23-2020,Portugal,_,Recovered,9.0
+03-23-2020,Qatar,_,Confirmed,7.0
+03-23-2020,Romania,_,Confirmed,143.0
+03-23-2020,Romania,_,Deaths,4.0
+03-23-2020,Romania,_,Recovered,9.0
+03-23-2020,Russia,_,Confirmed,71.0
+03-23-2020,Russia,_,Recovered,1.0
+03-23-2020,Rwanda,_,Confirmed,17.0
+03-23-2020,Saint Lucia,_,Confirmed,1.0
+03-23-2020,San Marino,_,Confirmed,12.0
+03-23-2020,Saudi Arabia,_,Confirmed,51.0
+03-23-2020,Saudi Arabia,_,Recovered,2.0
+03-23-2020,Senegal,_,Confirmed,12.0
+03-23-2020,Senegal,_,Recovered,3.0
+03-23-2020,Serbia,_,Confirmed,27.0
+03-23-2020,Serbia,_,Deaths,1.0
+03-23-2020,Serbia,_,Recovered,1.0
+03-23-2020,Singapore,_,Confirmed,54.0
+03-23-2020,Singapore,_,Recovered,8.0
+03-23-2020,Slovakia,_,Confirmed,1.0
+03-23-2020,Slovenia,_,Confirmed,28.0
+03-23-2020,Slovenia,_,Deaths,1.0
+03-23-2020,South Africa,_,Confirmed,128.0
+03-23-2020,South Africa,_,Recovered,2.0
+03-23-2020,Spain,_,Confirmed,6533.0
+03-23-2020,Spain,_,Deaths,555.0
+03-23-2020,Spain,_,Recovered,1230.0
+03-23-2020,Sri Lanka,_,Confirmed,15.0
+03-23-2020,Sweden,_,Confirmed,115.0
+03-23-2020,Sweden,_,Deaths,4.0
+03-23-2020,Switzerland,_,Confirmed,1321.0
+03-23-2020,Switzerland,_,Deaths,22.0
+03-23-2020,Taiwan*,_,Confirmed,26.0
+03-23-2020,Thailand,_,Confirmed,122.0
+03-23-2020,Thailand,_,Recovered,8.0
+03-23-2020,Togo,_,Confirmed,2.0
+03-23-2020,Trinidad and Tobago,_,Confirmed,1.0
+03-23-2020,Tunisia,_,Confirmed,14.0
+03-23-2020,Turkey,_,Confirmed,293.0
+03-23-2020,Turkey,_,Deaths,7.0
+03-23-2020,Uganda,_,Confirmed,8.0
+03-23-2020,United Arab Emirates,_,Confirmed,45.0
+03-23-2020,United Arab Emirates,_,Recovered,3.0
+03-23-2020,United Kingdom,_,Confirmed,967.0
+03-23-2020,United Kingdom,_,Deaths,54.0
+03-23-2020,United Kingdom,_,Recovered,42.0
+03-23-2020,Uruguay,_,Confirmed,23.0
+03-23-2020,Uzbekistan,_,Confirmed,3.0
+03-23-2020,Venezuela,_,Confirmed,7.0
+03-23-2020,Vietnam,_,Confirmed,10.0
+03-23-2020,Zimbabwe,_,Deaths,1.0
+03-24-2020,United States of America,South Carolina,Confirmed,44.0
+03-24-2020,United States of America,Louisiana,Confirmed,216.0
+03-24-2020,United States of America,Louisiana,Deaths,11.0
+03-24-2020,United States of America,Virginia,Confirmed,39.0
+03-24-2020,United States of America,Virginia,Deaths,3.0
+03-24-2020,United States of America,Idaho,Confirmed,13.0
+03-24-2020,United States of America,Iowa,Confirmed,19.0
+03-24-2020,United States of America,Kentucky,Confirmed,39.0
+03-24-2020,United States of America,Missouri,Confirmed,70.0
+03-24-2020,United States of America,Missouri,Deaths,3.0
+03-24-2020,United States of America,Oklahoma,Confirmed,25.0
+03-24-2020,United States of America,Oklahoma,Deaths,1.0
+03-24-2020,United States of America,Colorado,Confirmed,19.0
+03-24-2020,United States of America,Colorado,Deaths,1.0
+03-24-2020,United States of America,Illinois,Confirmed,252.0
+03-24-2020,United States of America,Illinois,Deaths,4.0
+03-24-2020,United States of America,Indiana,Confirmed,98.0
+03-24-2020,United States of America,Indiana,Deaths,5.0
+03-24-2020,United States of America,Mississippi,Confirmed,71.0
+03-24-2020,United States of America,Nebraska,Confirmed,15.0
+03-24-2020,United States of America,North Dakota,Confirmed,6.0
+03-24-2020,United States of America,Ohio,Confirmed,124.0
+03-24-2020,United States of America,Ohio,Deaths,2.0
+03-24-2020,United States of America,Pennsylvania,Confirmed,248.0
+03-24-2020,United States of America,Pennsylvania,Deaths,2.0
+03-24-2020,United States of America,Washington,Confirmed,107.0
+03-24-2020,United States of America,Washington,Deaths,7.0
+03-24-2020,United States of America,Wisconsin,Confirmed,56.0
+03-24-2020,United States of America,Vermont,Confirmed,20.0
+03-24-2020,United States of America,Vermont,Deaths,2.0
+03-24-2020,United States of America,Minnesota,Confirmed,27.0
+03-24-2020,United States of America,Florida,Confirmed,185.0
+03-24-2020,United States of America,North Carolina,Confirmed,142.0
+03-24-2020,United States of America,California,Confirmed,430.0
+03-24-2020,United States of America,California,Deaths,11.0
+03-24-2020,United States of America,New York,Confirmed,4797.0
+03-24-2020,United States of America,New York,Deaths,52.0
+03-24-2020,United States of America,Wyoming,Confirmed,3.0
+03-24-2020,United States of America,Michigan,Confirmed,464.0
+03-24-2020,United States of America,Michigan,Deaths,9.0
+03-24-2020,United States of America,Alaska,Confirmed,4.0
+03-24-2020,United States of America,Maryland,Confirmed,59.0
+03-24-2020,United States of America,Maryland,Deaths,1.0
+03-24-2020,United States of America,Kansas,Confirmed,16.0
+03-24-2020,United States of America,Tennessee,Confirmed,158.0
+03-24-2020,United States of America,Texas,Confirmed,197.0
+03-24-2020,United States of America,Texas,Deaths,3.0
+03-24-2020,United States of America,Maine,Confirmed,11.0
+03-24-2020,United States of America,Arizona,Confirmed,91.0
+03-24-2020,United States of America,Arizona,Deaths,3.0
+03-24-2020,United States of America,Georgia,Confirmed,254.0
+03-24-2020,United States of America,Georgia,Deaths,7.0
+03-24-2020,United States of America,Arkansas,Confirmed,27.0
+03-24-2020,United States of America,Arkansas,Deaths,2.0
+03-24-2020,United States of America,New Jersey,Confirmed,831.0
+03-24-2020,United States of America,New Jersey,Deaths,17.0
+03-24-2020,United States of America,South Dakota,Confirmed,2.0
+03-24-2020,United States of America,Alabama,Confirmed,46.0
+03-24-2020,United States of America,Oregon,Confirmed,19.0
+03-24-2020,United States of America,Oregon,Deaths,3.0
+03-24-2020,United States of America,West Virginia,Confirmed,6.0
+03-24-2020,United States of America,Massachusetts,Confirmed,382.0
+03-24-2020,United States of America,Massachusetts,Deaths,2.0
+03-24-2020,United States of America,Utah,Confirmed,41.0
+03-24-2020,United States of America,Montana,Confirmed,17.0
+03-24-2020,United States of America,New Mexico,Confirmed,17.0
+03-24-2020,United States of America,Rhode Island,Confirmed,18.0
+03-24-2020,United States of America,Nevada,Confirmed,33.0
+03-24-2020,United States of America,District of Columbia,Confirmed,21.0
+03-24-2020,United States of America,Connecticut,Confirmed,203.0
+03-24-2020,United States of America,Connecticut,Deaths,2.0
+03-24-2020,United States of America,Hawaii,Confirmed,34.0
+03-24-2020,United States of America,Hawaii,Deaths,1.0
+03-24-2020,United States of America,Delaware,Confirmed,36.0
+03-24-2020,Canada,Alberta,Confirmed,58.0
+03-24-2020,Netherlands,Aruba,Confirmed,3.0
+03-24-2020,Australia,Australian Capital Territory,Confirmed,7.0
+03-24-2020,China,Beijing,Confirmed,21.0
+03-24-2020,Canada,British Columbia,Confirmed,145.0
+03-24-2020,United Kingdom,Cayman Islands,Confirmed,1.0
+03-24-2020,China,Chongqing,Confirmed,1.0
+03-24-2020,Netherlands,Curacao,Confirmed,2.0
+03-24-2020,Denmark,Faroe Islands,Confirmed,4.0
+03-24-2020,Denmark,Faroe Islands,Recovered,10.0
+03-24-2020,France,French Guiana,Confirmed,3.0
+03-24-2020,China,Fujian,Confirmed,5.0
+03-24-2020,China,Gansu,Recovered,5.0
+03-24-2020,Denmark,Greenland,Confirmed,1.0
+03-24-2020,Denmark,Greenland,Recovered,2.0
+03-24-2020,United States of America,Guam,Confirmed,3.0
+03-24-2020,China,Guangdong,Confirmed,13.0
+03-24-2020,China,Guangdong,Recovered,1.0
+03-24-2020,China,Hainan,Recovered,7.0
+03-24-2020,China,Heilongjiang,Recovered,3.0
+03-24-2020,China,Hong Kong,Confirmed,30.0
+03-24-2020,China,Hong Kong,Recovered,1.0
+03-24-2020,China,Hubei,Confirmed,1.0
+03-24-2020,China,Hubei,Deaths,7.0
+03-24-2020,China,Hubei,Recovered,442.0
+03-24-2020,United Kingdom,Isle of Man,Confirmed,10.0
+03-24-2020,China,Jiangsu,Confirmed,3.0
+03-24-2020,China,Macau,Confirmed,1.0
+03-24-2020,Canada,Manitoba,Confirmed,1.0
+03-24-2020,France,Martinique,Confirmed,4.0
+03-24-2020,France,Mayotte,Confirmed,12.0
+03-24-2020,Canada,New Brunswick,Confirmed,1.0
+03-24-2020,France,New Caledonia,Confirmed,2.0
+03-24-2020,Australia,New South Wales,Confirmed,149.0
+03-24-2020,Australia,New South Wales,Deaths,1.0
+03-24-2020,Canada,Newfoundland and Labrador,Confirmed,11.0
+03-24-2020,Australia,Northern Territory,Confirmed,1.0
+03-24-2020,Canada,Nova Scotia,Confirmed,10.0
+03-24-2020,Canada,Ontario,Confirmed,85.0
+03-24-2020,Canada,Ontario,Deaths,1.0
+03-24-2020,United States of America,Puerto Rico,Confirmed,8.0
+03-24-2020,Canada,Quebec,Confirmed,385.0
+03-24-2020,Australia,Queensland,Confirmed,78.0
+03-24-2020,Canada,Recovered,Recovered,110.0
+03-24-2020,United States of America,Recovered,Recovered,348.0
+03-24-2020,France,Reunion,Confirmed,23.0
+03-24-2020,Canada,Saskatchewan,Confirmed,6.0
+03-24-2020,China,Shaanxi,Confirmed,1.0
+03-24-2020,China,Shaanxi,Recovered,1.0
+03-24-2020,China,Shanghai,Confirmed,10.0
+03-24-2020,China,Shanghai,Recovered,1.0
+03-24-2020,China,Shanxi,Confirmed,1.0
+03-24-2020,China,Sichuan,Confirmed,2.0
+03-24-2020,Australia,South Australia,Confirmed,36.0
+03-24-2020,China,Tianjin,Confirmed,4.0
+03-24-2020,Australia,Victoria,Confirmed,56.0
+03-24-2020,United States of America,Virgin Islands,Confirmed,10.0
+03-24-2020,Australia,Western Australia,Confirmed,35.0
+03-24-2020,China,Zhejiang,Confirmed,2.0
+03-24-2020,Afghanistan,_,Confirmed,34.0
+03-24-2020,Albania,_,Confirmed,19.0
+03-24-2020,Albania,_,Deaths,1.0
+03-24-2020,Albania,_,Recovered,8.0
+03-24-2020,Algeria,_,Confirmed,34.0
+03-24-2020,Algeria,_,Deaths,2.0
+03-24-2020,Andorra,_,Confirmed,31.0
+03-24-2020,Argentina,_,Confirmed,121.0
+03-24-2020,Argentina,_,Deaths,2.0
+03-24-2020,Argentina,_,Recovered,25.0
+03-24-2020,Armenia,_,Confirmed,14.0
+03-24-2020,Armenia,_,Recovered,12.0
+03-24-2020,Austria,_,Confirmed,809.0
+03-24-2020,Austria,_,Deaths,7.0
+03-24-2020,Azerbaijan,_,Confirmed,15.0
+03-24-2020,Bahamas,_,Confirmed,1.0
+03-24-2020,Bahamas,_,Recovered,1.0
+03-24-2020,Bahrain,_,Confirmed,15.0
+03-24-2020,Bahrain,_,Deaths,1.0
+03-24-2020,Bahrain,_,Recovered,13.0
+03-24-2020,Bangladesh,_,Confirmed,6.0
+03-24-2020,Bangladesh,_,Deaths,1.0
+03-24-2020,Barbados,_,Confirmed,1.0
+03-24-2020,Belgium,_,Confirmed,526.0
+03-24-2020,Belgium,_,Deaths,34.0
+03-24-2020,Belgium,_,Recovered,60.0
+03-24-2020,Benin,_,Confirmed,1.0
+03-24-2020,Bolivia,_,Confirmed,2.0
+03-24-2020,Bosnia and Herzegovina,_,Confirmed,34.0
+03-24-2020,Bosnia and Herzegovina,_,Deaths,2.0
+03-24-2020,Brazil,_,Confirmed,323.0
+03-24-2020,Brazil,_,Deaths,12.0
+03-24-2020,Brunei,_,Confirmed,13.0
+03-24-2020,Bulgaria,_,Confirmed,17.0
+03-24-2020,Burkina Faso,_,Confirmed,15.0
+03-24-2020,Burkina Faso,_,Recovered,2.0
+03-24-2020,Cabo Verde,_,Deaths,1.0
+03-24-2020,Cambodia,_,Confirmed,4.0
+03-24-2020,Cambodia,_,Recovered,2.0
+03-24-2020,Cameroon,_,Confirmed,10.0
+03-24-2020,Chad,_,Confirmed,2.0
+03-24-2020,Chile,_,Confirmed,176.0
+03-24-2020,Chile,_,Recovered,6.0
+03-24-2020,Colombia,_,Confirmed,101.0
+03-24-2020,Colombia,_,Recovered,3.0
+03-24-2020,Congo (Kinshasa),_,Confirmed,9.0
+03-24-2020,Congo (Kinshasa),_,Deaths,1.0
+03-24-2020,Costa Rica,_,Confirmed,19.0
+03-24-2020,Cote d'Ivoire,_,Confirmed,48.0
+03-24-2020,Croatia,_,Confirmed,67.0
+03-24-2020,Cuba,_,Confirmed,8.0
+03-24-2020,Cuba,_,Recovered,1.0
+03-24-2020,Cyprus,_,Confirmed,8.0
+03-24-2020,Cyprus,_,Deaths,2.0
+03-24-2020,Czechia,_,Confirmed,158.0
+03-24-2020,Czechia,_,Deaths,2.0
+03-24-2020,Czechia,_,Recovered,3.0
+03-24-2020,Denmark,_,Confirmed,141.0
+03-24-2020,Denmark,_,Deaths,8.0
+03-24-2020,Dominican Republic,_,Confirmed,67.0
+03-24-2020,Dominican Republic,_,Deaths,3.0
+03-24-2020,Ecuador,_,Confirmed,101.0
+03-24-2020,Ecuador,_,Deaths,9.0
+03-24-2020,Egypt,_,Confirmed,36.0
+03-24-2020,Egypt,_,Deaths,1.0
+03-24-2020,Egypt,_,Recovered,12.0
+03-24-2020,El Salvador,_,Confirmed,2.0
+03-24-2020,Estonia,_,Confirmed,17.0
+03-24-2020,Estonia,_,Recovered,3.0
+03-24-2020,Ethiopia,_,Confirmed,1.0
+03-24-2020,Fiji,_,Confirmed,1.0
+03-24-2020,Finland,_,Confirmed,92.0
+03-24-2020,France,_,Confirmed,6286.0
+03-24-2020,France,_,Deaths,426.0
+03-24-2020,France,_,Recovered,1081.0
+03-24-2020,Gabon,_,Confirmed,1.0
+03-24-2020,Gambia,_,Confirmed,1.0
+03-24-2020,Georgia,_,Confirmed,9.0
+03-24-2020,Georgia,_,Recovered,1.0
+03-24-2020,Germany,_,Confirmed,3930.0
+03-24-2020,Germany,_,Deaths,34.0
+03-24-2020,Germany,_,Recovered,2790.0
+03-24-2020,Ghana,_,Confirmed,26.0
+03-24-2020,Greece,_,Confirmed,48.0
+03-24-2020,Greece,_,Deaths,3.0
+03-24-2020,Guatemala,_,Confirmed,1.0
+03-24-2020,Haiti,_,Confirmed,1.0
+03-24-2020,Holy See,_,Confirmed,3.0
+03-24-2020,Honduras,_,Confirmed,3.0
+03-24-2020,Hungary,_,Confirmed,20.0
+03-24-2020,Hungary,_,Deaths,2.0
+03-24-2020,Hungary,_,Recovered,5.0
+03-24-2020,Iceland,_,Confirmed,60.0
+03-24-2020,Iceland,_,Deaths,1.0
+03-24-2020,India,_,Confirmed,37.0
+03-24-2020,India,_,Recovered,6.0
+03-24-2020,Indonesia,_,Confirmed,107.0
+03-24-2020,Indonesia,_,Deaths,6.0
+03-24-2020,Iran,_,Confirmed,1762.0
+03-24-2020,Iran,_,Deaths,122.0
+03-24-2020,Iran,_,Recovered,537.0
+03-24-2020,Iraq,_,Confirmed,50.0
+03-24-2020,Iraq,_,Deaths,4.0
+03-24-2020,Iraq,_,Recovered,13.0
+03-24-2020,Ireland,_,Confirmed,204.0
+03-24-2020,Ireland,_,Deaths,1.0
+03-24-2020,Israel,_,Confirmed,488.0
+03-24-2020,Israel,_,Deaths,2.0
+03-24-2020,Israel,_,Recovered,12.0
+03-24-2020,Italy,_,Confirmed,5249.0
+03-24-2020,Italy,_,Deaths,743.0
+03-24-2020,Italy,_,Recovered,894.0
+03-24-2020,Jamaica,_,Confirmed,2.0
+03-24-2020,Japan,_,Confirmed,65.0
+03-24-2020,Japan,_,Deaths,1.0
+03-24-2020,Japan,_,Recovered,50.0
+03-24-2020,Jordan,_,Confirmed,27.0
+03-24-2020,Kazakhstan,_,Confirmed,10.0
+03-24-2020,Kenya,_,Confirmed,9.0
+03-24-2020,"Korea, South",_,Confirmed,76.0
+03-24-2020,"Korea, South",_,Deaths,9.0
+03-24-2020,"Korea, South",_,Recovered,341.0
+03-24-2020,Kuwait,_,Confirmed,2.0
+03-24-2020,Kuwait,_,Recovered,9.0
+03-24-2020,Kyrgyzstan,_,Confirmed,26.0
+03-24-2020,Laos,_,Confirmed,2.0
+03-24-2020,Latvia,_,Confirmed,17.0
+03-24-2020,Lebanon,_,Confirmed,51.0
+03-24-2020,Libya,_,Confirmed,1.0
+03-24-2020,Lithuania,_,Confirmed,30.0
+03-24-2020,Lithuania,_,Deaths,1.0
+03-24-2020,Luxembourg,_,Confirmed,224.0
+03-24-2020,Madagascar,_,Confirmed,5.0
+03-24-2020,Malaysia,_,Confirmed,106.0
+03-24-2020,Malaysia,_,Deaths,2.0
+03-24-2020,Malaysia,_,Recovered,24.0
+03-24-2020,Malta,_,Confirmed,3.0
+03-24-2020,Mauritius,_,Confirmed,6.0
+03-24-2020,Mexico,_,Confirmed,51.0
+03-24-2020,Mexico,_,Deaths,1.0
+03-24-2020,Moldova,_,Confirmed,16.0
+03-24-2020,Montenegro,_,Confirmed,20.0
+03-24-2020,Morocco,_,Confirmed,27.0
+03-24-2020,Morocco,_,Deaths,1.0
+03-24-2020,Morocco,_,Recovered,1.0
+03-24-2020,Mozambique,_,Confirmed,2.0
+03-24-2020,Namibia,_,Confirmed,3.0
+03-24-2020,Namibia,_,Recovered,2.0
+03-24-2020,Netherlands,_,Confirmed,811.0
+03-24-2020,Netherlands,_,Deaths,63.0
+03-24-2020,New Zealand,_,Confirmed,53.0
+03-24-2020,New Zealand,_,Recovered,12.0
+03-24-2020,Nigeria,_,Confirmed,4.0
+03-24-2020,North Macedonia,_,Confirmed,12.0
+03-24-2020,Norway,_,Confirmed,242.0
+03-24-2020,Norway,_,Deaths,2.0
+03-24-2020,Oman,_,Confirmed,18.0
+03-24-2020,Pakistan,_,Confirmed,97.0
+03-24-2020,Pakistan,_,Deaths,1.0
+03-24-2020,Pakistan,_,Recovered,5.0
+03-24-2020,Panama,_,Confirmed,32.0
+03-24-2020,Panama,_,Deaths,3.0
+03-24-2020,Paraguay,_,Confirmed,5.0
+03-24-2020,Paraguay,_,Deaths,1.0
+03-24-2020,Peru,_,Confirmed,21.0
+03-24-2020,Peru,_,Deaths,2.0
+03-24-2020,Philippines,_,Confirmed,90.0
+03-24-2020,Philippines,_,Deaths,2.0
+03-24-2020,Philippines,_,Recovered,2.0
+03-24-2020,Poland,_,Confirmed,152.0
+03-24-2020,Poland,_,Deaths,2.0
+03-24-2020,Portugal,_,Confirmed,302.0
+03-24-2020,Portugal,_,Deaths,10.0
+03-24-2020,Portugal,_,Recovered,8.0
+03-24-2020,Qatar,_,Confirmed,25.0
+03-24-2020,Qatar,_,Recovered,8.0
+03-24-2020,Romania,_,Confirmed,218.0
+03-24-2020,Romania,_,Deaths,4.0
+03-24-2020,Romania,_,Recovered,6.0
+03-24-2020,Russia,_,Confirmed,57.0
+03-24-2020,Russia,_,Recovered,5.0
+03-24-2020,Rwanda,_,Confirmed,4.0
+03-24-2020,San Marino,_,Deaths,1.0
+03-24-2020,Saudi Arabia,_,Confirmed,205.0
+03-24-2020,Saudi Arabia,_,Deaths,1.0
+03-24-2020,Saudi Arabia,_,Recovered,9.0
+03-24-2020,Senegal,_,Confirmed,7.0
+03-24-2020,Serbia,_,Confirmed,54.0
+03-24-2020,Serbia,_,Recovered,12.0
+03-24-2020,Singapore,_,Confirmed,49.0
+03-24-2020,Singapore,_,Recovered,4.0
+03-24-2020,Slovakia,_,Confirmed,18.0
+03-24-2020,Slovenia,_,Confirmed,38.0
+03-24-2020,Slovenia,_,Deaths,1.0
+03-24-2020,Slovenia,_,Recovered,3.0
+03-24-2020,South Africa,_,Confirmed,152.0
+03-24-2020,Spain,_,Confirmed,4749.0
+03-24-2020,Spain,_,Deaths,497.0
+03-24-2020,Spain,_,Recovered,439.0
+03-24-2020,Sri Lanka,_,Confirmed,5.0
+03-24-2020,Sudan,_,Confirmed,1.0
+03-24-2020,Suriname,_,Confirmed,2.0
+03-24-2020,Sweden,_,Confirmed,240.0
+03-24-2020,Sweden,_,Deaths,11.0
+03-24-2020,Switzerland,_,Confirmed,1082.0
+03-24-2020,Switzerland,_,Deaths,2.0
+03-24-2020,Taiwan*,_,Confirmed,20.0
+03-24-2020,Taiwan*,_,Recovered,1.0
+03-24-2020,Thailand,_,Confirmed,106.0
+03-24-2020,Thailand,_,Deaths,3.0
+03-24-2020,Togo,_,Confirmed,2.0
+03-24-2020,Togo,_,Recovered,1.0
+03-24-2020,Trinidad and Tobago,_,Confirmed,6.0
+03-24-2020,Tunisia,_,Confirmed,25.0
+03-24-2020,Tunisia,_,Deaths,1.0
+03-24-2020,Turkey,_,Confirmed,343.0
+03-24-2020,Turkey,_,Deaths,7.0
+03-24-2020,Ukraine,_,Confirmed,24.0
+03-24-2020,United Arab Emirates,_,Confirmed,50.0
+03-24-2020,United Arab Emirates,_,Recovered,4.0
+03-24-2020,United Kingdom,_,Confirmed,1427.0
+03-24-2020,United Kingdom,_,Deaths,87.0
+03-24-2020,Uruguay,_,Confirmed,4.0
+03-24-2020,Uzbekistan,_,Confirmed,4.0
+03-24-2020,Venezuela,_,Confirmed,7.0
+03-24-2020,Vietnam,_,Confirmed,11.0
+03-25-2020,United States of America,South Carolina,Confirmed,82.0
+03-25-2020,United States of America,South Carolina,Deaths,2.0
+03-25-2020,United States of America,Louisiana,Confirmed,407.0
+03-25-2020,United States of America,Louisiana,Deaths,19.0
+03-25-2020,United States of America,Virginia,Confirmed,103.0
+03-25-2020,United States of America,Idaho,Confirmed,10.0
+03-25-2020,United States of America,Iowa,Confirmed,22.0
+03-25-2020,United States of America,Iowa,Deaths,1.0
+03-25-2020,United States of America,Kentucky,Confirmed,35.0
+03-25-2020,United States of America,Kentucky,Deaths,1.0
+03-25-2020,United States of America,Missouri,Confirmed,97.0
+03-25-2020,United States of America,Missouri,Deaths,1.0
+03-25-2020,United States of America,Oklahoma,Confirmed,58.0
+03-25-2020,United States of America,Oklahoma,Deaths,2.0
+03-25-2020,United States of America,Colorado,Confirmed,298.0
+03-25-2020,United States of America,Colorado,Deaths,8.0
+03-25-2020,United States of America,Illinois,Confirmed,328.0
+03-25-2020,United States of America,Illinois,Deaths,3.0
+03-25-2020,United States of America,Indiana,Confirmed,109.0
+03-25-2020,United States of America,Indiana,Deaths,2.0
+03-25-2020,United States of America,Mississippi,Confirmed,57.0
+03-25-2020,United States of America,Mississippi,Deaths,2.0
+03-25-2020,United States of America,Nebraska,Confirmed,5.0
+03-25-2020,United States of America,North Dakota,Confirmed,9.0
+03-25-2020,United States of America,Ohio,Confirmed,137.0
+03-25-2020,United States of America,Ohio,Deaths,3.0
+03-25-2020,United States of America,Pennsylvania,Confirmed,314.0
+03-25-2020,United States of America,Pennsylvania,Deaths,7.0
+03-25-2020,United States of America,Washington,Confirmed,263.0
+03-25-2020,United States of America,Washington,Deaths,17.0
+03-25-2020,United States of America,Wisconsin,Confirmed,140.0
+03-25-2020,United States of America,Wisconsin,Deaths,2.0
+03-25-2020,United States of America,Vermont,Confirmed,30.0
+03-25-2020,United States of America,Vermont,Deaths,1.0
+03-25-2020,United States of America,Minnesota,Confirmed,25.0
+03-25-2020,United States of America,Florida,Confirmed,270.0
+03-25-2020,United States of America,Florida,Deaths,5.0
+03-25-2020,United States of America,North Carolina,Confirmed,95.0
+03-25-2020,United States of America,North Carolina,Deaths,2.0
+03-25-2020,United States of America,California,Confirmed,460.0
+03-25-2020,United States of America,California,Deaths,15.0
+03-25-2020,United States of America,New York,Confirmed,5160.0
+03-25-2020,United States of America,New York,Deaths,75.0
+03-25-2020,United States of America,Wyoming,Confirmed,15.0
+03-25-2020,United States of America,Michigan,Confirmed,503.0
+03-25-2020,United States of America,Michigan,Deaths,19.0
+03-25-2020,United States of America,Alaska,Confirmed,7.0
+03-25-2020,United States of America,Alaska,Deaths,1.0
+03-25-2020,United States of America,Maryland,Confirmed,76.0
+03-25-2020,United States of America,Kansas,Confirmed,34.0
+03-25-2020,United States of America,Kansas,Deaths,1.0
+03-25-2020,United States of America,Tennessee,Confirmed,144.0
+03-25-2020,United States of America,Tennessee,Deaths,1.0
+03-25-2020,United States of America,Texas,Confirmed,274.0
+03-25-2020,United States of America,Texas,Deaths,3.0
+03-25-2020,United States of America,Maine,Confirmed,24.0
+03-25-2020,United States of America,Arizona,Confirmed,75.0
+03-25-2020,United States of America,Arizona,Deaths,1.0
+03-25-2020,United States of America,Georgia,Confirmed,221.0
+03-25-2020,United States of America,Georgia,Deaths,8.0
+03-25-2020,United States of America,Arkansas,Confirmed,61.0
+03-25-2020,United States of America,New Jersey,Confirmed,727.0
+03-25-2020,United States of America,New Jersey,Deaths,18.0
+03-25-2020,United States of America,South Dakota,Confirmed,11.0
+03-25-2020,United States of America,Alabama,Confirmed,139.0
+03-25-2020,United States of America,Alabama,Deaths,1.0
+03-25-2020,United States of America,Oregon,Confirmed,56.0
+03-25-2020,United States of America,Oregon,Deaths,2.0
+03-25-2020,United States of America,West Virginia,Confirmed,17.0
+03-25-2020,United States of America,Massachusetts,Confirmed,679.0
+03-25-2020,United States of America,Massachusetts,Deaths,4.0
+03-25-2020,United States of America,Utah,Confirmed,42.0
+03-25-2020,United States of America,Montana,Confirmed,14.0
+03-25-2020,United States of America,New Hampshire,Confirmed,7.0
+03-25-2020,United States of America,New Mexico,Confirmed,13.0
+03-25-2020,United States of America,New Mexico,Deaths,1.0
+03-25-2020,United States of America,Rhode Island,Confirmed,8.0
+03-25-2020,United States of America,Nevada,Confirmed,45.0
+03-25-2020,United States of America,Nevada,Deaths,2.0
+03-25-2020,United States of America,District of Columbia,Confirmed,46.0
+03-25-2020,United States of America,Connecticut,Confirmed,257.0
+03-25-2020,United States of America,Connecticut,Deaths,7.0
+03-25-2020,United States of America,Hawaii,Confirmed,1.0
+03-25-2020,United States of America,Delaware,Confirmed,15.0
+03-25-2020,Canada,Alberta,Deaths,1.0
+03-25-2020,Netherlands,Aruba,Confirmed,5.0
+03-25-2020,China,Beijing,Confirmed,3.0
+03-25-2020,China,Beijing,Recovered,2.0
+03-25-2020,United Kingdom,Bermuda,Confirmed,1.0
+03-25-2020,United Kingdom,Cayman Islands,Confirmed,2.0
+03-25-2020,United Kingdom,Channel Islands,Confirmed,10.0
+03-25-2020,Denmark,Faroe Islands,Confirmed,10.0
+03-25-2020,Denmark,Faroe Islands,Recovered,5.0
+03-25-2020,France,French Guiana,Confirmed,5.0
+03-25-2020,China,Fujian,Confirmed,4.0
+03-25-2020,United Kingdom,Gibraltar,Confirmed,11.0
+03-25-2020,Denmark,Greenland,Confirmed,1.0
+03-25-2020,France,Guadeloupe,Confirmed,11.0
+03-25-2020,United States of America,Guam,Confirmed,5.0
+03-25-2020,China,Guangdong,Confirmed,5.0
+03-25-2020,China,Guangdong,Recovered,3.0
+03-25-2020,China,Hong Kong,Confirmed,24.0
+03-25-2020,China,Hong Kong,Recovered,1.0
+03-25-2020,China,Hubei,Deaths,3.0
+03-25-2020,China,Hubei,Recovered,487.0
+03-25-2020,China,Inner Mongolia,Confirmed,2.0
+03-25-2020,China,Jiangsu,Confirmed,2.0
+03-25-2020,China,Jilin,Confirmed,1.0
+03-25-2020,China,Macau,Confirmed,5.0
+03-25-2020,Canada,Manitoba,Confirmed,14.0
+03-25-2020,France,Martinique,Confirmed,9.0
+03-25-2020,France,New Caledonia,Confirmed,4.0
+03-25-2020,Australia,New South Wales,Confirmed,211.0
+03-25-2020,Canada,Nova Scotia,Confirmed,17.0
+03-25-2020,Canada,Ontario,Confirmed,100.0
+03-25-2020,Canada,Ontario,Deaths,1.0
+03-25-2020,Canada,Prince Edward Island,Confirmed,2.0
+03-25-2020,United States of America,Puerto Rico,Confirmed,12.0
+03-25-2020,Canada,Quebec,Confirmed,329.0
+03-25-2020,Canada,Quebec,Deaths,2.0
+03-25-2020,Australia,Queensland,Confirmed,46.0
+03-25-2020,Canada,Recovered,Recovered,73.0
+03-25-2020,United States of America,Recovered,Recovered,13.0
+03-25-2020,France,Reunion,Confirmed,17.0
+03-25-2020,China,Shaanxi,Confirmed,1.0
+03-25-2020,China,Shandong,Confirmed,1.0
+03-25-2020,China,Shanghai,Confirmed,19.0
+03-25-2020,China,Shanghai,Deaths,1.0
+03-25-2020,China,Sichuan,Confirmed,2.0
+03-25-2020,Netherlands,Sint Maarten,Confirmed,1.0
+03-25-2020,France,St Martin,Confirmed,3.0
+03-25-2020,Australia,Tasmania,Confirmed,8.0
+03-25-2020,Australia,Victoria,Confirmed,55.0
+03-25-2020,China,Zhejiang,Confirmed,1.0
+03-25-2020,Afghanistan,_,Confirmed,10.0
+03-25-2020,Afghanistan,_,Deaths,1.0
+03-25-2020,Afghanistan,_,Recovered,1.0
+03-25-2020,Albania,_,Confirmed,23.0
+03-25-2020,Albania,_,Recovered,7.0
+03-25-2020,Algeria,_,Confirmed,38.0
+03-25-2020,Algeria,_,Deaths,2.0
+03-25-2020,Algeria,_,Recovered,41.0
+03-25-2020,Andorra,_,Confirmed,24.0
+03-25-2020,Argentina,_,Deaths,2.0
+03-25-2020,Armenia,_,Confirmed,16.0
+03-25-2020,Armenia,_,Recovered,2.0
+03-25-2020,Austria,_,Confirmed,305.0
+03-25-2020,Austria,_,Deaths,2.0
+03-25-2020,Azerbaijan,_,Confirmed,6.0
+03-25-2020,Azerbaijan,_,Deaths,1.0
+03-25-2020,Bahrain,_,Confirmed,27.0
+03-25-2020,Bahrain,_,Deaths,1.0
+03-25-2020,Bangladesh,_,Deaths,1.0
+03-25-2020,Bangladesh,_,Recovered,2.0
+03-25-2020,Belarus,_,Confirmed,5.0
+03-25-2020,Belarus,_,Recovered,7.0
+03-25-2020,Belgium,_,Confirmed,668.0
+03-25-2020,Belgium,_,Deaths,56.0
+03-25-2020,Belgium,_,Recovered,86.0
+03-25-2020,Belize,_,Confirmed,1.0
+03-25-2020,Bolivia,_,Confirmed,3.0
+03-25-2020,Bosnia and Herzegovina,_,Confirmed,10.0
+03-25-2020,Brazil,_,Confirmed,307.0
+03-25-2020,Brazil,_,Deaths,13.0
+03-25-2020,Brunei,_,Confirmed,5.0
+03-25-2020,Bulgaria,_,Confirmed,24.0
+03-25-2020,Bulgaria,_,Recovered,1.0
+03-25-2020,Burkina Faso,_,Confirmed,32.0
+03-25-2020,Burkina Faso,_,Recovered,3.0
+03-25-2020,Cabo Verde,_,Confirmed,1.0
+03-25-2020,Cambodia,_,Confirmed,5.0
+03-25-2020,Cambodia,_,Recovered,6.0
+03-25-2020,Cameroon,_,Confirmed,9.0
+03-25-2020,Cameroon,_,Deaths,1.0
+03-25-2020,Chile,_,Confirmed,220.0
+03-25-2020,Chile,_,Deaths,1.0
+03-25-2020,Chile,_,Recovered,5.0
+03-25-2020,Colombia,_,Confirmed,92.0
+03-25-2020,Colombia,_,Deaths,1.0
+03-25-2020,Colombia,_,Recovered,2.0
+03-25-2020,Congo (Kinshasa),_,Confirmed,3.0
+03-25-2020,Costa Rica,_,Confirmed,24.0
+03-25-2020,Cote d'Ivoire,_,Confirmed,7.0
+03-25-2020,Cote d'Ivoire,_,Recovered,1.0
+03-25-2020,Croatia,_,Confirmed,60.0
+03-25-2020,Croatia,_,Recovered,17.0
+03-25-2020,Cuba,_,Confirmed,9.0
+03-25-2020,Cyprus,_,Confirmed,8.0
+03-25-2020,Czechia,_,Confirmed,260.0
+03-25-2020,Czechia,_,Deaths,3.0
+03-25-2020,Denmark,_,Confirmed,133.0
+03-25-2020,Denmark,_,Deaths,2.0
+03-25-2020,Diamond Princess,_,Confirmed,712.0
+03-25-2020,Diamond Princess,_,Deaths,10.0
+03-25-2020,Diamond Princess,_,Recovered,587.0
+03-25-2020,Djibouti,_,Confirmed,8.0
+03-25-2020,Dominica,_,Confirmed,5.0
+03-25-2020,Dominican Republic,_,Confirmed,80.0
+03-25-2020,Dominican Republic,_,Deaths,4.0
+03-25-2020,Ecuador,_,Confirmed,91.0
+03-25-2020,Ecuador,_,Deaths,1.0
+03-25-2020,Egypt,_,Confirmed,54.0
+03-25-2020,Egypt,_,Deaths,1.0
+03-25-2020,Egypt,_,Recovered,15.0
+03-25-2020,El Salvador,_,Confirmed,4.0
+03-25-2020,Eritrea,_,Confirmed,3.0
+03-25-2020,Estonia,_,Confirmed,35.0
+03-25-2020,Estonia,_,Deaths,1.0
+03-25-2020,Estonia,_,Recovered,1.0
+03-25-2020,Fiji,_,Confirmed,1.0
+03-25-2020,Finland,_,Confirmed,88.0
+03-25-2020,Finland,_,Deaths,2.0
+03-25-2020,France,_,Confirmed,2929.0
+03-25-2020,France,_,Deaths,231.0
+03-25-2020,France,_,Recovered,619.0
+03-25-2020,Georgia,_,Confirmed,5.0
+03-25-2020,Georgia,_,Recovered,1.0
+03-25-2020,Germany,_,Confirmed,4337.0
+03-25-2020,Germany,_,Deaths,49.0
+03-25-2020,Germany,_,Recovered,304.0
+03-25-2020,Ghana,_,Confirmed,40.0
+03-25-2020,Ghana,_,Deaths,2.0
+03-25-2020,Greece,_,Confirmed,78.0
+03-25-2020,Greece,_,Deaths,2.0
+03-25-2020,Greece,_,Recovered,7.0
+03-25-2020,Guatemala,_,Confirmed,3.0
+03-25-2020,Guatemala,_,Recovered,4.0
+03-25-2020,Guinea-Bissau,_,Confirmed,2.0
+03-25-2020,Haiti,_,Confirmed,1.0
+03-25-2020,Honduras,_,Confirmed,6.0
+03-25-2020,Hungary,_,Confirmed,39.0
+03-25-2020,Hungary,_,Deaths,1.0
+03-25-2020,Iceland,_,Confirmed,89.0
+03-25-2020,Iceland,_,Recovered,5.0
+03-25-2020,India,_,Confirmed,121.0
+03-25-2020,India,_,Deaths,2.0
+03-25-2020,India,_,Recovered,3.0
+03-25-2020,Indonesia,_,Confirmed,104.0
+03-25-2020,Indonesia,_,Deaths,3.0
+03-25-2020,Indonesia,_,Recovered,1.0
+03-25-2020,Iran,_,Confirmed,2206.0
+03-25-2020,Iran,_,Deaths,143.0
+03-25-2020,Iran,_,Recovered,712.0
+03-25-2020,Iraq,_,Confirmed,30.0
+03-25-2020,Iraq,_,Deaths,2.0
+03-25-2020,Iraq,_,Recovered,28.0
+03-25-2020,Ireland,_,Confirmed,235.0
+03-25-2020,Ireland,_,Deaths,2.0
+03-25-2020,Israel,_,Confirmed,439.0
+03-25-2020,Israel,_,Deaths,2.0
+03-25-2020,Israel,_,Recovered,5.0
+03-25-2020,Italy,_,Confirmed,5210.0
+03-25-2020,Italy,_,Deaths,683.0
+03-25-2020,Italy,_,Recovered,1036.0
+03-25-2020,Jamaica,_,Confirmed,5.0
+03-25-2020,Japan,_,Confirmed,114.0
+03-25-2020,Japan,_,Deaths,2.0
+03-25-2020,Japan,_,Recovered,25.0
+03-25-2020,Jordan,_,Confirmed,18.0
+03-25-2020,Kazakhstan,_,Confirmed,9.0
+03-25-2020,Kenya,_,Confirmed,3.0
+03-25-2020,Kenya,_,Recovered,1.0
+03-25-2020,"Korea, South",_,Confirmed,100.0
+03-25-2020,"Korea, South",_,Deaths,6.0
+03-25-2020,"Korea, South",_,Recovered,223.0
+03-25-2020,Kuwait,_,Confirmed,4.0
+03-25-2020,Kuwait,_,Recovered,4.0
+03-25-2020,Kyrgyzstan,_,Confirmed,2.0
+03-25-2020,Laos,_,Confirmed,1.0
+03-25-2020,Latvia,_,Confirmed,24.0
+03-25-2020,Lebanon,_,Confirmed,15.0
+03-25-2020,Lebanon,_,Deaths,2.0
+03-25-2020,Lebanon,_,Recovered,12.0
+03-25-2020,Lithuania,_,Confirmed,65.0
+03-25-2020,Lithuania,_,Deaths,2.0
+03-25-2020,Luxembourg,_,Confirmed,234.0
+03-25-2020,Madagascar,_,Confirmed,2.0
+03-25-2020,Malaysia,_,Confirmed,172.0
+03-25-2020,Malaysia,_,Deaths,4.0
+03-25-2020,Malaysia,_,Recovered,16.0
+03-25-2020,Maldives,_,Recovered,3.0
+03-25-2020,Mali,_,Confirmed,2.0
+03-25-2020,Malta,_,Confirmed,19.0
+03-25-2020,Mauritius,_,Confirmed,6.0
+03-25-2020,Mexico,_,Confirmed,38.0
+03-25-2020,Mexico,_,Deaths,1.0
+03-25-2020,Moldova,_,Confirmed,24.0
+03-25-2020,Monaco,_,Confirmed,8.0
+03-25-2020,Montenegro,_,Confirmed,5.0
+03-25-2020,Morocco,_,Confirmed,55.0
+03-25-2020,Morocco,_,Deaths,1.0
+03-25-2020,Morocco,_,Recovered,1.0
+03-25-2020,Mozambique,_,Confirmed,2.0
+03-25-2020,Nepal,_,Confirmed,1.0
+03-25-2020,Netherlands,_,Confirmed,852.0
+03-25-2020,Netherlands,_,Deaths,80.0
+03-25-2020,Netherlands,_,Recovered,1.0
+03-25-2020,New Zealand,_,Confirmed,50.0
+03-25-2020,New Zealand,_,Recovered,10.0
+03-25-2020,Niger,_,Confirmed,4.0
+03-25-2020,Niger,_,Deaths,1.0
+03-25-2020,Nigeria,_,Confirmed,7.0
+03-25-2020,North Macedonia,_,Confirmed,29.0
+03-25-2020,North Macedonia,_,Deaths,1.0
+03-25-2020,Norway,_,Confirmed,221.0
+03-25-2020,Norway,_,Deaths,2.0
+03-25-2020,Oman,_,Confirmed,15.0
+03-25-2020,Pakistan,_,Confirmed,91.0
+03-25-2020,Pakistan,_,Deaths,1.0
+03-25-2020,Pakistan,_,Recovered,3.0
+03-25-2020,Panama,_,Confirmed,98.0
+03-25-2020,Panama,_,Deaths,2.0
+03-25-2020,Paraguay,_,Confirmed,10.0
+03-25-2020,Paraguay,_,Deaths,1.0
+03-25-2020,Peru,_,Confirmed,64.0
+03-25-2020,Peru,_,Deaths,2.0
+03-25-2020,Philippines,_,Confirmed,84.0
+03-25-2020,Philippines,_,Deaths,3.0
+03-25-2020,Philippines,_,Recovered,6.0
+03-25-2020,Poland,_,Confirmed,150.0
+03-25-2020,Poland,_,Deaths,4.0
+03-25-2020,Poland,_,Recovered,6.0
+03-25-2020,Portugal,_,Confirmed,633.0
+03-25-2020,Portugal,_,Deaths,10.0
+03-25-2020,Qatar,_,Confirmed,11.0
+03-25-2020,Romania,_,Confirmed,112.0
+03-25-2020,Romania,_,Deaths,6.0
+03-25-2020,Romania,_,Recovered,7.0
+03-25-2020,Russia,_,Confirmed,163.0
+03-25-2020,Russia,_,Deaths,2.0
+03-25-2020,Russia,_,Recovered,7.0
+03-25-2020,Rwanda,_,Confirmed,1.0
+03-25-2020,Saint Kitts and Nevis,_,Confirmed,2.0
+03-25-2020,San Marino,_,Confirmed,21.0
+03-25-2020,Saudi Arabia,_,Confirmed,133.0
+03-25-2020,Saudi Arabia,_,Deaths,1.0
+03-25-2020,Saudi Arabia,_,Recovered,1.0
+03-25-2020,Senegal,_,Confirmed,13.0
+03-25-2020,Senegal,_,Recovered,1.0
+03-25-2020,Serbia,_,Confirmed,81.0
+03-25-2020,Serbia,_,Deaths,1.0
+03-25-2020,Singapore,_,Confirmed,73.0
+03-25-2020,Singapore,_,Recovered,4.0
+03-25-2020,Slovakia,_,Confirmed,12.0
+03-25-2020,Slovenia,_,Confirmed,48.0
+03-25-2020,Slovenia,_,Deaths,1.0
+03-25-2020,Slovenia,_,Recovered,7.0
+03-25-2020,South Africa,_,Confirmed,155.0
+03-25-2020,South Africa,_,Recovered,8.0
+03-25-2020,Spain,_,Confirmed,9630.0
+03-25-2020,Spain,_,Deaths,839.0
+03-25-2020,Spain,_,Recovered,1573.0
+03-25-2020,Sri Lanka,_,Recovered,1.0
+03-25-2020,Suriname,_,Confirmed,1.0
+03-25-2020,Sweden,_,Confirmed,240.0
+03-25-2020,Sweden,_,Deaths,26.0
+03-25-2020,Switzerland,_,Confirmed,1020.0
+03-25-2020,Switzerland,_,Deaths,31.0
+03-25-2020,Syria,_,Confirmed,4.0
+03-25-2020,Taiwan*,_,Confirmed,20.0
+03-25-2020,Thailand,_,Confirmed,107.0
+03-25-2020,Thailand,_,Recovered,18.0
+03-25-2020,Togo,_,Confirmed,3.0
+03-25-2020,Trinidad and Tobago,_,Confirmed,3.0
+03-25-2020,Trinidad and Tobago,_,Deaths,1.0
+03-25-2020,Tunisia,_,Confirmed,59.0
+03-25-2020,Tunisia,_,Deaths,1.0
+03-25-2020,Tunisia,_,Recovered,1.0
+03-25-2020,Turkey,_,Confirmed,561.0
+03-25-2020,Turkey,_,Deaths,15.0
+03-25-2020,Turkey,_,Recovered,26.0
+03-25-2020,Uganda,_,Confirmed,5.0
+03-25-2020,Ukraine,_,Confirmed,48.0
+03-25-2020,Ukraine,_,Deaths,2.0
+03-25-2020,United Arab Emirates,_,Confirmed,85.0
+03-25-2020,United Arab Emirates,_,Recovered,7.0
+03-25-2020,United Kingdom,_,Confirmed,1452.0
+03-25-2020,United Kingdom,_,Deaths,43.0
+03-25-2020,Uruguay,_,Confirmed,27.0
+03-25-2020,Uzbekistan,_,Confirmed,10.0
+03-25-2020,Venezuela,_,Confirmed,7.0
+03-25-2020,Vietnam,_,Confirmed,7.0
+03-25-2020,Zambia,_,Confirmed,9.0
+03-26-2020,United States of America,South Carolina,Deaths,2.0
+03-26-2020,United States of America,Louisiana,Confirmed,509.0
+03-26-2020,United States of America,Louisiana,Deaths,18.0
+03-26-2020,United States of America,Virginia,Confirmed,70.0
+03-26-2020,United States of America,Virginia,Deaths,1.0
+03-26-2020,United States of America,Idaho,Confirmed,55.0
+03-26-2020,United States of America,Idaho,Deaths,3.0
+03-26-2020,United States of America,Iowa,Confirmed,33.0
+03-26-2020,United States of America,Kentucky,Confirmed,50.0
+03-26-2020,United States of America,Missouri,Confirmed,166.0
+03-26-2020,United States of America,Missouri,Deaths,1.0
+03-26-2020,United States of America,Oklahoma,Confirmed,84.0
+03-26-2020,United States of America,Oklahoma,Deaths,2.0
+03-26-2020,United States of America,Colorado,Confirmed,409.0
+03-26-2020,United States of America,Colorado,Deaths,3.0
+03-26-2020,United States of America,Illinois,Confirmed,673.0
+03-26-2020,United States of America,Illinois,Deaths,7.0
+03-26-2020,United States of America,Indiana,Confirmed,168.0
+03-26-2020,United States of America,Indiana,Deaths,3.0
+03-26-2020,United States of America,Mississippi,Confirmed,108.0
+03-26-2020,United States of America,Mississippi,Deaths,3.0
+03-26-2020,United States of America,Nebraska,Confirmed,3.0
+03-26-2020,United States of America,North Dakota,Confirmed,6.0
+03-26-2020,United States of America,Ohio,Confirmed,164.0
+03-26-2020,United States of America,Ohio,Deaths,4.0
+03-26-2020,United States of America,Pennsylvania,Confirmed,535.0
+03-26-2020,United States of America,Pennsylvania,Deaths,3.0
+03-26-2020,United States of America,Washington,Confirmed,616.0
+03-26-2020,United States of America,Washington,Deaths,17.0
+03-26-2020,United States of America,Wisconsin,Confirmed,107.0
+03-26-2020,United States of America,Wisconsin,Deaths,3.0
+03-26-2020,United States of America,Vermont,Confirmed,33.0
+03-26-2020,United States of America,Vermont,Deaths,1.0
+03-26-2020,United States of America,Minnesota,Confirmed,58.0
+03-26-2020,United States of America,Minnesota,Deaths,1.0
+03-26-2020,United States of America,Florida,Confirmed,675.0
+03-26-2020,United States of America,Florida,Deaths,6.0
+03-26-2020,United States of America,North Carolina,Confirmed,148.0
+03-26-2020,United States of America,North Carolina,Deaths,1.0
+03-26-2020,United States of America,California,Confirmed,901.0
+03-26-2020,United States of America,California,Deaths,16.0
+03-26-2020,United States of America,New York,Confirmed,7036.0
+03-26-2020,United States of America,New York,Deaths,100.0
+03-26-2020,United States of America,Wyoming,Confirmed,9.0
+03-26-2020,United States of America,Michigan,Confirmed,549.0
+03-26-2020,United States of America,Michigan,Deaths,18.0
+03-26-2020,United States of America,Alaska,Confirmed,15.0
+03-26-2020,United States of America,Maryland,Confirmed,158.0
+03-26-2020,United States of America,Kansas,Confirmed,38.0
+03-26-2020,United States of America,Tennessee,Confirmed,181.0
+03-26-2020,United States of America,Texas,Confirmed,334.0
+03-26-2020,United States of America,Texas,Deaths,6.0
+03-26-2020,United States of America,Maine,Confirmed,13.0
+03-26-2020,United States of America,Arizona,Confirmed,107.0
+03-26-2020,United States of America,Arizona,Deaths,2.0
+03-26-2020,United States of America,Georgia,Confirmed,278.0
+03-26-2020,United States of America,Georgia,Deaths,8.0
+03-26-2020,United States of America,Arkansas,Confirmed,55.0
+03-26-2020,United States of America,New Jersey,Confirmed,2474.0
+03-26-2020,United States of America,New Jersey,Deaths,19.0
+03-26-2020,United States of America,South Dakota,Confirmed,5.0
+03-26-2020,United States of America,Alabama,Confirmed,136.0
+03-26-2020,United States of America,Oregon,Confirmed,50.0
+03-26-2020,United States of America,Oregon,Deaths,1.0
+03-26-2020,United States of America,West Virginia,Confirmed,13.0
+03-26-2020,United States of America,Massachusetts,Confirmed,579.0
+03-26-2020,United States of America,Massachusetts,Deaths,10.0
+03-26-2020,United States of America,Utah,Confirmed,56.0
+03-26-2020,United States of America,Montana,Confirmed,25.0
+03-26-2020,United States of America,New Hampshire,Confirmed,29.0
+03-26-2020,United States of America,Rhode Island,Confirmed,33.0
+03-26-2020,United States of America,Nevada,Confirmed,97.0
+03-26-2020,United States of America,Nevada,Deaths,4.0
+03-26-2020,United States of America,District of Columbia,Confirmed,44.0
+03-26-2020,United States of America,District of Columbia,Deaths,1.0
+03-26-2020,United States of America,Connecticut,Confirmed,137.0
+03-26-2020,United States of America,Connecticut,Deaths,2.0
+03-26-2020,United States of America,Hawaii,Confirmed,4.0
+03-26-2020,United States of America,Delaware,Confirmed,11.0
+03-26-2020,United States of America,Delaware,Deaths,1.0
+03-26-2020,Canada,Alberta,Confirmed,128.0
+03-26-2020,Netherlands,Aruba,Confirmed,11.0
+03-26-2020,Australia,Australian Capital Territory,Confirmed,14.0
+03-26-2020,Australia,Australian Capital Territory,Recovered,1.0
+03-26-2020,China,Beijing,Confirmed,5.0
+03-26-2020,China,Beijing,Recovered,3.0
+03-26-2020,United Kingdom,Bermuda,Confirmed,8.0
+03-26-2020,United Kingdom,Bermuda,Recovered,2.0
+03-26-2020,Canada,British Columbia,Confirmed,108.0
+03-26-2020,Canada,British Columbia,Deaths,1.0
+03-26-2020,United Kingdom,Channel Islands,Confirmed,20.0
+03-26-2020,United Kingdom,Channel Islands,Deaths,1.0
+03-26-2020,Netherlands,Curacao,Recovered,2.0
+03-26-2020,Denmark,Faroe Islands,Confirmed,8.0
+03-26-2020,Denmark,Faroe Islands,Recovered,9.0
+03-26-2020,France,French Polynesia,Confirmed,5.0
+03-26-2020,China,Fujian,Confirmed,6.0
+03-26-2020,China,Gansu,Recovered,2.0
+03-26-2020,United Kingdom,Gibraltar,Confirmed,9.0
+03-26-2020,United Kingdom,Gibraltar,Recovered,8.0
+03-26-2020,United States of America,Guam,Confirmed,8.0
+03-26-2020,China,Guangdong,Confirmed,15.0
+03-26-2020,China,Heilongjiang,Recovered,1.0
+03-26-2020,China,Henan,Confirmed,1.0
+03-26-2020,China,Hong Kong,Confirmed,43.0
+03-26-2020,China,Hong Kong,Recovered,8.0
+03-26-2020,China,Hubei,Deaths,6.0
+03-26-2020,China,Hubei,Recovered,390.0
+03-26-2020,China,Inner Mongolia,Confirmed,12.0
+03-26-2020,United Kingdom,Isle of Man,Confirmed,2.0
+03-26-2020,China,Jiangsu,Confirmed,2.0
+03-26-2020,China,Jilin,Confirmed,1.0
+03-26-2020,China,Liaoning,Confirmed,1.0
+03-26-2020,China,Macau,Confirmed,1.0
+03-26-2020,Canada,Manitoba,Confirmed,1.0
+03-26-2020,United Kingdom,Montserrat,Confirmed,4.0
+03-26-2020,Canada,New Brunswick,Confirmed,15.0
+03-26-2020,Australia,New South Wales,Confirmed,190.0
+03-26-2020,Canada,Newfoundland and Labrador,Confirmed,47.0
+03-26-2020,Australia,Northern Territory,Confirmed,6.0
+03-26-2020,Canada,Nova Scotia,Confirmed,5.0
+03-26-2020,Canada,Ontario,Confirmed,170.0
+03-26-2020,Canada,Ontario,Deaths,5.0
+03-26-2020,United States of America,Puerto Rico,Confirmed,13.0
+03-26-2020,Canada,Quebec,Confirmed,290.0
+03-26-2020,Canada,Quebec,Deaths,2.0
+03-26-2020,Australia,Queensland,Confirmed,50.0
+03-26-2020,Australia,Queensland,Deaths,1.0
+03-26-2020,Canada,Recovered,Recovered,1.0
+03-26-2020,United States of America,Recovered,Recovered,320.0
+03-26-2020,France,Reunion,Confirmed,24.0
+03-26-2020,Canada,Saskatchewan,Confirmed,23.0
+03-26-2020,China,Shaanxi,Confirmed,3.0
+03-26-2020,China,Shaanxi,Recovered,2.0
+03-26-2020,China,Shandong,Confirmed,2.0
+03-26-2020,China,Shanghai,Confirmed,18.0
+03-26-2020,China,Shanghai,Recovered,1.0
+03-26-2020,China,Shanxi,Confirmed,1.0
+03-26-2020,Australia,South Australia,Confirmed,65.0
+03-26-2020,Australia,Tasmania,Confirmed,11.0
+03-26-2020,China,Tianjin,Confirmed,6.0
+03-26-2020,Australia,Victoria,Confirmed,54.0
+03-26-2020,Australia,Victoria,Deaths,3.0
+03-26-2020,Australia,Victoria,Recovered,52.0
+03-26-2020,Australia,Western Australia,Confirmed,56.0
+03-26-2020,Australia,Western Australia,Deaths,1.0
+03-26-2020,Canada,Yukon,Confirmed,3.0
+03-26-2020,China,Yunnan,Confirmed,2.0
+03-26-2020,China,Zhejiang,Confirmed,2.0
+03-26-2020,China,Zhejiang,Recovered,1.0
+03-26-2020,Afghanistan,_,Confirmed,10.0
+03-26-2020,Afghanistan,_,Deaths,2.0
+03-26-2020,Albania,_,Confirmed,28.0
+03-26-2020,Albania,_,Deaths,1.0
+03-26-2020,Algeria,_,Confirmed,65.0
+03-26-2020,Algeria,_,Deaths,4.0
+03-26-2020,Andorra,_,Confirmed,36.0
+03-26-2020,Andorra,_,Deaths,2.0
+03-26-2020,Angola,_,Confirmed,1.0
+03-26-2020,Antigua and Barbuda,_,Confirmed,4.0
+03-26-2020,Argentina,_,Confirmed,115.0
+03-26-2020,Argentina,_,Deaths,1.0
+03-26-2020,Argentina,_,Recovered,11.0
+03-26-2020,Armenia,_,Confirmed,25.0
+03-26-2020,Armenia,_,Deaths,1.0
+03-26-2020,Armenia,_,Recovered,2.0
+03-26-2020,Austria,_,Confirmed,1321.0
+03-26-2020,Austria,_,Deaths,19.0
+03-26-2020,Austria,_,Recovered,103.0
+03-26-2020,Azerbaijan,_,Confirmed,29.0
+03-26-2020,Azerbaijan,_,Deaths,1.0
+03-26-2020,Azerbaijan,_,Recovered,5.0
+03-26-2020,Bahamas,_,Confirmed,4.0
+03-26-2020,Bahrain,_,Confirmed,39.0
+03-26-2020,Bahrain,_,Recovered,27.0
+03-26-2020,Bangladesh,_,Confirmed,5.0
+03-26-2020,Bangladesh,_,Recovered,4.0
+03-26-2020,Belgium,_,Confirmed,1298.0
+03-26-2020,Belgium,_,Deaths,42.0
+03-26-2020,Belgium,_,Recovered,128.0
+03-26-2020,Bolivia,_,Confirmed,11.0
+03-26-2020,Bosnia and Herzegovina,_,Confirmed,15.0
+03-26-2020,Brazil,_,Confirmed,431.0
+03-26-2020,Brazil,_,Deaths,18.0
+03-26-2020,Brazil,_,Recovered,4.0
+03-26-2020,Brunei,_,Confirmed,5.0
+03-26-2020,Brunei,_,Recovered,3.0
+03-26-2020,Bulgaria,_,Confirmed,22.0
+03-26-2020,Bulgaria,_,Recovered,4.0
+03-26-2020,Burkina Faso,_,Confirmed,6.0
+03-26-2020,Burkina Faso,_,Deaths,3.0
+03-26-2020,Chile,_,Confirmed,164.0
+03-26-2020,Chile,_,Deaths,1.0
+03-26-2020,Colombia,_,Confirmed,21.0
+03-26-2020,Colombia,_,Deaths,2.0
+03-26-2020,Congo (Kinshasa),_,Confirmed,3.0
+03-26-2020,Congo (Kinshasa),_,Deaths,1.0
+03-26-2020,Costa Rica,_,Confirmed,30.0
+03-26-2020,Cote d'Ivoire,_,Confirmed,16.0
+03-26-2020,Croatia,_,Confirmed,53.0
+03-26-2020,Croatia,_,Deaths,2.0
+03-26-2020,Cuba,_,Confirmed,10.0
+03-26-2020,Cuba,_,Deaths,1.0
+03-26-2020,Cyprus,_,Confirmed,14.0
+03-26-2020,Cyprus,_,Recovered,1.0
+03-26-2020,Czechia,_,Confirmed,271.0
+03-26-2020,Czechia,_,Deaths,3.0
+03-26-2020,Denmark,_,Confirmed,153.0
+03-26-2020,Denmark,_,Deaths,7.0
+03-26-2020,Diamond Princess,_,Recovered,10.0
+03-26-2020,Dominica,_,Confirmed,4.0
+03-26-2020,Dominican Republic,_,Confirmed,96.0
+03-26-2020,Ecuador,_,Confirmed,230.0
+03-26-2020,Ecuador,_,Deaths,6.0
+03-26-2020,Egypt,_,Confirmed,39.0
+03-26-2020,Egypt,_,Deaths,3.0
+03-26-2020,Egypt,_,Recovered,7.0
+03-26-2020,El Salvador,_,Confirmed,4.0
+03-26-2020,Equatorial Guinea,_,Confirmed,3.0
+03-26-2020,Eritrea,_,Confirmed,2.0
+03-26-2020,Estonia,_,Confirmed,134.0
+03-26-2020,Eswatini,_,Confirmed,2.0
+03-26-2020,Finland,_,Confirmed,78.0
+03-26-2020,Finland,_,Deaths,2.0
+03-26-2020,France,_,Confirmed,3922.0
+03-26-2020,France,_,Deaths,365.0
+03-26-2020,France,_,Recovered,1048.0
+03-26-2020,Gabon,_,Confirmed,1.0
+03-26-2020,Georgia,_,Confirmed,4.0
+03-26-2020,Georgia,_,Recovered,1.0
+03-26-2020,Germany,_,Confirmed,6615.0
+03-26-2020,Germany,_,Deaths,61.0
+03-26-2020,Germany,_,Recovered,2126.0
+03-26-2020,Ghana,_,Confirmed,39.0
+03-26-2020,Ghana,_,Recovered,1.0
+03-26-2020,Greece,_,Confirmed,71.0
+03-26-2020,Greece,_,Deaths,4.0
+03-26-2020,Grenada,_,Confirmed,6.0
+03-26-2020,Guatemala,_,Confirmed,1.0
+03-26-2020,Honduras,_,Confirmed,16.0
+03-26-2020,Honduras,_,Deaths,1.0
+03-26-2020,Hungary,_,Confirmed,35.0
+03-26-2020,Hungary,_,Recovered,7.0
+03-26-2020,Iceland,_,Confirmed,65.0
+03-26-2020,Iceland,_,Recovered,26.0
+03-26-2020,India,_,Confirmed,70.0
+03-26-2020,India,_,Deaths,8.0
+03-26-2020,India,_,Recovered,2.0
+03-26-2020,Indonesia,_,Confirmed,103.0
+03-26-2020,Indonesia,_,Deaths,20.0
+03-26-2020,Indonesia,_,Recovered,4.0
+03-26-2020,Iran,_,Confirmed,2389.0
+03-26-2020,Iran,_,Deaths,157.0
+03-26-2020,Iran,_,Recovered,832.0
+03-26-2020,Iraq,_,Confirmed,36.0
+03-26-2020,Iraq,_,Deaths,7.0
+03-26-2020,Iraq,_,Recovered,2.0
+03-26-2020,Ireland,_,Confirmed,255.0
+03-26-2020,Ireland,_,Deaths,10.0
+03-26-2020,Israel,_,Confirmed,324.0
+03-26-2020,Israel,_,Deaths,3.0
+03-26-2020,Israel,_,Recovered,10.0
+03-26-2020,Italy,_,Confirmed,6203.0
+03-26-2020,Italy,_,Deaths,712.0
+03-26-2020,Italy,_,Recovered,999.0
+03-26-2020,Japan,_,Confirmed,80.0
+03-26-2020,Japan,_,Deaths,2.0
+03-26-2020,Japan,_,Recovered,49.0
+03-26-2020,Jordan,_,Confirmed,40.0
+03-26-2020,Kazakhstan,_,Confirmed,30.0
+03-26-2020,Kazakhstan,_,Deaths,1.0
+03-26-2020,Kazakhstan,_,Recovered,2.0
+03-26-2020,Kenya,_,Confirmed,3.0
+03-26-2020,Kenya,_,Deaths,1.0
+03-26-2020,"Korea, South",_,Confirmed,104.0
+03-26-2020,"Korea, South",_,Deaths,5.0
+03-26-2020,"Korea, South",_,Recovered,414.0
+03-26-2020,Kosovo,_,Confirmed,69.0
+03-26-2020,Kosovo,_,Deaths,1.0
+03-26-2020,Kuwait,_,Confirmed,13.0
+03-26-2020,Kuwait,_,Recovered,6.0
+03-26-2020,Laos,_,Confirmed,3.0
+03-26-2020,Latvia,_,Confirmed,23.0
+03-26-2020,Lebanon,_,Confirmed,35.0
+03-26-2020,Lebanon,_,Recovered,3.0
+03-26-2020,Liechtenstein,_,Confirmed,5.0
+03-26-2020,Lithuania,_,Confirmed,25.0
+03-26-2020,Luxembourg,_,Confirmed,120.0
+03-26-2020,Luxembourg,_,Deaths,1.0
+03-26-2020,Madagascar,_,Confirmed,4.0
+03-26-2020,Malaysia,_,Confirmed,235.0
+03-26-2020,Malaysia,_,Deaths,3.0
+03-26-2020,Malaysia,_,Recovered,16.0
+03-26-2020,Mali,_,Confirmed,2.0
+03-26-2020,Malta,_,Confirmed,5.0
+03-26-2020,Mauritania,_,Confirmed,1.0
+03-26-2020,Mauritius,_,Confirmed,33.0
+03-26-2020,Mexico,_,Confirmed,70.0
+03-26-2020,Mexico,_,Deaths,1.0
+03-26-2020,Moldova,_,Confirmed,28.0
+03-26-2020,Monaco,_,Confirmed,2.0
+03-26-2020,Mongolia,_,Confirmed,1.0
+03-26-2020,Montenegro,_,Confirmed,17.0
+03-26-2020,Morocco,_,Confirmed,50.0
+03-26-2020,Morocco,_,Deaths,5.0
+03-26-2020,Morocco,_,Recovered,1.0
+03-26-2020,Mozambique,_,Confirmed,2.0
+03-26-2020,Namibia,_,Confirmed,1.0
+03-26-2020,Netherlands,_,Confirmed,1019.0
+03-26-2020,Netherlands,_,Deaths,78.0
+03-26-2020,New Zealand,_,Confirmed,78.0
+03-26-2020,New Zealand,_,Recovered,5.0
+03-26-2020,Niger,_,Confirmed,3.0
+03-26-2020,Nigeria,_,Confirmed,14.0
+03-26-2020,North Macedonia,_,Confirmed,24.0
+03-26-2020,North Macedonia,_,Recovered,2.0
+03-26-2020,Norway,_,Confirmed,285.0
+03-26-2020,Oman,_,Confirmed,10.0
+03-26-2020,Oman,_,Recovered,6.0
+03-26-2020,Pakistan,_,Confirmed,138.0
+03-26-2020,Pakistan,_,Deaths,1.0
+03-26-2020,Panama,_,Confirmed,115.0
+03-26-2020,Panama,_,Recovered,1.0
+03-26-2020,Paraguay,_,Confirmed,4.0
+03-26-2020,Peru,_,Confirmed,100.0
+03-26-2020,Peru,_,Recovered,13.0
+03-26-2020,Philippines,_,Confirmed,71.0
+03-26-2020,Philippines,_,Deaths,7.0
+03-26-2020,Philippines,_,Recovered,2.0
+03-26-2020,Poland,_,Confirmed,170.0
+03-26-2020,Poland,_,Deaths,2.0
+03-26-2020,Portugal,_,Confirmed,549.0
+03-26-2020,Portugal,_,Deaths,17.0
+03-26-2020,Portugal,_,Recovered,21.0
+03-26-2020,Qatar,_,Confirmed,12.0
+03-26-2020,Qatar,_,Recovered,2.0
+03-26-2020,Romania,_,Confirmed,123.0
+03-26-2020,Romania,_,Deaths,6.0
+03-26-2020,Romania,_,Recovered,8.0
+03-26-2020,Russia,_,Confirmed,182.0
+03-26-2020,Russia,_,Recovered,9.0
+03-26-2020,Rwanda,_,Confirmed,9.0
+03-26-2020,Saudi Arabia,_,Confirmed,112.0
+03-26-2020,Saudi Arabia,_,Deaths,1.0
+03-26-2020,Saudi Arabia,_,Recovered,4.0
+03-26-2020,Senegal,_,Confirmed,6.0
+03-26-2020,Singapore,_,Confirmed,52.0
+03-26-2020,Singapore,_,Recovered,12.0
+03-26-2020,Slovakia,_,Confirmed,10.0
+03-26-2020,Slovenia,_,Confirmed,34.0
+03-26-2020,Slovenia,_,Deaths,1.0
+03-26-2020,Somalia,_,Confirmed,1.0
+03-26-2020,South Africa,_,Confirmed,218.0
+03-26-2020,Spain,_,Confirmed,8271.0
+03-26-2020,Spain,_,Deaths,718.0
+03-26-2020,Spain,_,Recovered,1648.0
+03-26-2020,Sri Lanka,_,Confirmed,4.0
+03-26-2020,Sri Lanka,_,Recovered,4.0
+03-26-2020,Sweden,_,Confirmed,314.0
+03-26-2020,Sweden,_,Deaths,15.0
+03-26-2020,Switzerland,_,Confirmed,914.0
+03-26-2020,Switzerland,_,Deaths,38.0
+03-26-2020,Taiwan*,_,Confirmed,17.0
+03-26-2020,Tanzania,_,Confirmed,1.0
+03-26-2020,Thailand,_,Confirmed,111.0
+03-26-2020,Thailand,_,Recovered,18.0
+03-26-2020,Trinidad and Tobago,_,Confirmed,5.0
+03-26-2020,Tunisia,_,Confirmed,24.0
+03-26-2020,Tunisia,_,Deaths,1.0
+03-26-2020,Turkey,_,Confirmed,1196.0
+03-26-2020,Turkey,_,Deaths,16.0
+03-26-2020,Ukraine,_,Confirmed,51.0
+03-26-2020,United Kingdom,_,Confirmed,2129.0
+03-26-2020,United Kingdom,_,Deaths,113.0
+03-26-2020,Uruguay,_,Confirmed,28.0
+03-26-2020,Uzbekistan,_,Confirmed,15.0
+03-26-2020,Venezuela,_,Confirmed,16.0
+03-26-2020,Vietnam,_,Confirmed,12.0
+03-26-2020,Vietnam,_,Recovered,3.0
+03-26-2020,West Bank and Gaza,_,Confirmed,84.0
+03-26-2020,West Bank and Gaza,_,Deaths,1.0
+03-26-2020,West Bank and Gaza,_,Recovered,17.0
+03-26-2020,Zambia,_,Confirmed,4.0
+03-27-2020,United States of America,South Carolina,Confirmed,118.0
+03-27-2020,United States of America,South Carolina,Deaths,4.0
+03-27-2020,United States of America,Louisiana,Confirmed,440.0
+03-27-2020,United States of America,Louisiana,Deaths,36.0
+03-27-2020,United States of America,Virginia,Confirmed,141.0
+03-27-2020,United States of America,Idaho,Confirmed,59.0
+03-27-2020,United States of America,Iowa,Confirmed,56.0
+03-27-2020,United States of America,Iowa,Deaths,2.0
+03-27-2020,United States of America,Kentucky,Confirmed,54.0
+03-27-2020,United States of America,Kentucky,Deaths,2.0
+03-27-2020,United States of America,Missouri,Confirmed,146.0
+03-27-2020,United States of America,Oklahoma,Confirmed,74.0
+03-27-2020,United States of America,Oklahoma,Deaths,1.0
+03-27-2020,United States of America,Colorado,Confirmed,3.0
+03-27-2020,United States of America,Colorado,Deaths,8.0
+03-27-2020,United States of America,Illinois,Confirmed,486.0
+03-27-2020,United States of America,Illinois,Deaths,8.0
+03-27-2020,United States of America,Indiana,Confirmed,334.0
+03-27-2020,United States of America,Indiana,Deaths,8.0
+03-27-2020,United States of America,Mississippi,Confirmed,94.0
+03-27-2020,United States of America,Mississippi,Deaths,2.0
+03-27-2020,United States of America,Nebraska,Confirmed,8.0
+03-27-2020,United States of America,North Dakota,Confirmed,17.0
+03-27-2020,United States of America,North Dakota,Deaths,1.0
+03-27-2020,United States of America,Ohio,Confirmed,269.0
+03-27-2020,United States of America,Ohio,Deaths,4.0
+03-27-2020,United States of America,Pennsylvania,Confirmed,550.0
+03-27-2020,United States of America,Pennsylvania,Deaths,4.0
+03-27-2020,United States of America,Washington,Confirmed,270.0
+03-27-2020,United States of America,Washington,Deaths,7.0
+03-27-2020,United States of America,Wisconsin,Confirmed,198.0
+03-27-2020,United States of America,Wisconsin,Deaths,4.0
+03-27-2020,United States of America,Vermont,Confirmed,26.0
+03-27-2020,United States of America,Vermont,Deaths,1.0
+03-27-2020,United States of America,Minnesota,Confirmed,52.0
+03-27-2020,United States of America,Minnesota,Deaths,2.0
+03-27-2020,United States of America,Florida,Confirmed,543.0
+03-27-2020,United States of America,Florida,Deaths,6.0
+03-27-2020,United States of America,North Carolina,Confirmed,149.0
+03-27-2020,United States of America,North Carolina,Deaths,1.0
+03-27-2020,United States of America,California,Confirmed,758.0
+03-27-2020,United States of America,California,Deaths,13.0
+03-27-2020,United States of America,New York,Confirmed,6999.0
+03-27-2020,United States of America,New York,Deaths,142.0
+03-27-2020,United States of America,Wyoming,Confirmed,17.0
+03-27-2020,United States of America,Michigan,Confirmed,789.0
+03-27-2020,United States of America,Michigan,Deaths,31.0
+03-27-2020,United States of America,Alaska,Confirmed,2.0
+03-27-2020,United States of America,Maryland,Confirmed,192.0
+03-27-2020,United States of America,Maryland,Deaths,1.0
+03-27-2020,United States of America,Kansas,Confirmed,34.0
+03-27-2020,United States of America,Kansas,Deaths,1.0
+03-27-2020,United States of America,Tennessee,Confirmed,221.0
+03-27-2020,United States of America,Tennessee,Deaths,3.0
+03-27-2020,United States of America,Texas,Confirmed,374.0
+03-27-2020,United States of America,Texas,Deaths,5.0
+03-27-2020,United States of America,Maine,Confirmed,13.0
+03-27-2020,United States of America,Maine,Deaths,1.0
+03-27-2020,United States of America,Arizona,Confirmed,157.0
+03-27-2020,United States of America,Arizona,Deaths,5.0
+03-27-2020,United States of America,Georgia,Confirmed,475.0
+03-27-2020,United States of America,Georgia,Deaths,16.0
+03-27-2020,United States of America,Arkansas,Confirmed,46.0
+03-27-2020,United States of America,Arkansas,Deaths,1.0
+03-27-2020,United States of America,New Jersey,Confirmed,1949.0
+03-27-2020,United States of America,New Jersey,Deaths,27.0
+03-27-2020,United States of America,South Dakota,Confirmed,12.0
+03-27-2020,United States of America,Alabama,Confirmed,70.0
+03-27-2020,United States of America,Alabama,Deaths,3.0
+03-27-2020,United States of America,Oregon,Confirmed,100.0
+03-27-2020,United States of America,Oregon,Deaths,1.0
+03-27-2020,United States of America,West Virginia,Confirmed,24.0
+03-27-2020,United States of America,Massachusetts,Confirmed,823.0
+03-27-2020,United States of America,Massachusetts,Deaths,10.0
+03-27-2020,United States of America,Utah,Confirmed,76.0
+03-27-2020,United States of America,Montana,Confirmed,19.0
+03-27-2020,United States of America,Montana,Deaths,1.0
+03-27-2020,United States of America,New Hampshire,Confirmed,21.0
+03-27-2020,United States of America,New Mexico,Confirmed,23.0
+03-27-2020,United States of America,Rhode Island,Confirmed,38.0
+03-27-2020,United States of America,Nevada,Confirmed,116.0
+03-27-2020,United States of America,District of Columbia,Confirmed,40.0
+03-27-2020,United States of America,Connecticut,Confirmed,279.0
+03-27-2020,United States of America,Connecticut,Deaths,6.0
+03-27-2020,United States of America,Hawaii,Confirmed,11.0
+03-27-2020,United States of America,Delaware,Confirmed,33.0
+03-27-2020,United States of America,Delaware,Deaths,1.0
+03-27-2020,Canada,Alberta,Confirmed,56.0
+03-27-2020,Netherlands,Aruba,Confirmed,5.0
+03-27-2020,Australia,Australian Capital Territory,Confirmed,9.0
+03-27-2020,China,Beijing,Confirmed,3.0
+03-27-2020,China,Beijing,Recovered,2.0
+03-27-2020,United Kingdom,Bermuda,Confirmed,2.0
+03-27-2020,United Kingdom,Channel Islands,Confirmed,22.0
+03-27-2020,Netherlands,Curacao,Confirmed,2.0
+03-27-2020,Denmark,Faroe Islands,Confirmed,4.0
+03-27-2020,Denmark,Faroe Islands,Recovered,7.0
+03-27-2020,China,Fujian,Confirmed,3.0
+03-27-2020,China,Gansu,Recovered,2.0
+03-27-2020,United Kingdom,Gibraltar,Confirmed,20.0
+03-27-2020,United Kingdom,Gibraltar,Recovered,1.0
+03-27-2020,United States of America,Grand Princess,Deaths,2.0
+03-27-2020,Denmark,Greenland,Confirmed,4.0
+03-27-2020,United States of America,Guam,Confirmed,6.0
+03-27-2020,China,Guangdong,Confirmed,8.0
+03-27-2020,China,Guangdong,Recovered,1.0
+03-27-2020,China,Hong Kong,Confirmed,66.0
+03-27-2020,China,Hubei,Deaths,5.0
+03-27-2020,China,Hubei,Recovered,531.0
+03-27-2020,China,Inner Mongolia,Confirmed,3.0
+03-27-2020,United Kingdom,Isle of Man,Confirmed,4.0
+03-27-2020,China,Jiangsu,Confirmed,1.0
+03-27-2020,China,Macau,Confirmed,2.0
+03-27-2020,Canada,Manitoba,Confirmed,3.0
+03-27-2020,Canada,Manitoba,Deaths,1.0
+03-27-2020,France,Martinique,Confirmed,15.0
+03-27-2020,France,Mayotte,Confirmed,14.0
+03-27-2020,Canada,New Brunswick,Confirmed,12.0
+03-27-2020,France,New Caledonia,Confirmed,1.0
+03-27-2020,Australia,New South Wales,Confirmed,186.0
+03-27-2020,Canada,Newfoundland and Labrador,Confirmed,20.0
+03-27-2020,Canada,Nova Scotia,Confirmed,17.0
+03-27-2020,Canada,Ontario,Confirmed,136.0
+03-27-2020,Canada,Ontario,Deaths,5.0
+03-27-2020,Canada,Prince Edward Island,Confirmed,4.0
+03-27-2020,United States of America,Puerto Rico,Confirmed,15.0
+03-27-2020,United States of America,Puerto Rico,Deaths,1.0
+03-27-2020,Canada,Quebec,Confirmed,392.0
+03-27-2020,Canada,Quebec,Deaths,10.0
+03-27-2020,Australia,Queensland,Confirmed,62.0
+03-27-2020,Canada,Recovered,Recovered,72.0
+03-27-2020,United States of America,Recovered,Recovered,188.0
+03-27-2020,France,Reunion,Confirmed,10.0
+03-27-2020,France,Saint Barthelemy,Confirmed,2.0
+03-27-2020,China,Shandong,Confirmed,1.0
+03-27-2020,China,Shanghai,Confirmed,17.0
+03-27-2020,China,Shanghai,Recovered,3.0
+03-27-2020,China,Sichuan,Confirmed,1.0
+03-27-2020,Australia,South Australia,Confirmed,22.0
+03-27-2020,China,Tianjin,Confirmed,4.0
+03-27-2020,Australia,Victoria,Confirmed,54.0
+03-27-2020,Australia,Victoria,Recovered,22.0
+03-27-2020,United States of America,Virgin Islands,Confirmed,2.0
+03-27-2020,China,Yunnan,Confirmed,2.0
+03-27-2020,China,Zhejiang,Confirmed,4.0
+03-27-2020,Afghanistan,_,Confirmed,16.0
+03-27-2020,Albania,_,Confirmed,12.0
+03-27-2020,Albania,_,Deaths,2.0
+03-27-2020,Albania,_,Recovered,14.0
+03-27-2020,Algeria,_,Confirmed,42.0
+03-27-2020,Algeria,_,Deaths,1.0
+03-27-2020,Andorra,_,Confirmed,43.0
+03-27-2020,Argentina,_,Confirmed,87.0
+03-27-2020,Argentina,_,Deaths,4.0
+03-27-2020,Argentina,_,Recovered,9.0
+03-27-2020,Armenia,_,Confirmed,39.0
+03-27-2020,Armenia,_,Recovered,10.0
+03-27-2020,Austria,_,Confirmed,748.0
+03-27-2020,Austria,_,Deaths,9.0
+03-27-2020,Austria,_,Recovered,113.0
+03-27-2020,Azerbaijan,_,Confirmed,43.0
+03-27-2020,Bahamas,_,Confirmed,1.0
+03-27-2020,Bahrain,_,Confirmed,8.0
+03-27-2020,Bahrain,_,Recovered,23.0
+03-27-2020,Bangladesh,_,Confirmed,4.0
+03-27-2020,Barbados,_,Confirmed,6.0
+03-27-2020,Belarus,_,Confirmed,8.0
+03-27-2020,Belarus,_,Recovered,3.0
+03-27-2020,Belgium,_,Confirmed,1049.0
+03-27-2020,Belgium,_,Deaths,69.0
+03-27-2020,Belgium,_,Recovered,183.0
+03-27-2020,Bhutan,_,Confirmed,1.0
+03-27-2020,Bolivia,_,Confirmed,18.0
+03-27-2020,Bosnia and Herzegovina,_,Confirmed,46.0
+03-27-2020,Bosnia and Herzegovina,_,Deaths,1.0
+03-27-2020,Bosnia and Herzegovina,_,Recovered,3.0
+03-27-2020,Brazil,_,Confirmed,432.0
+03-27-2020,Brazil,_,Deaths,15.0
+03-27-2020,Brunei,_,Confirmed,1.0
+03-27-2020,Brunei,_,Recovered,6.0
+03-27-2020,Bulgaria,_,Confirmed,29.0
+03-27-2020,Bulgaria,_,Recovered,1.0
+03-27-2020,Burkina Faso,_,Confirmed,28.0
+03-27-2020,Burkina Faso,_,Deaths,2.0
+03-27-2020,Burkina Faso,_,Recovered,2.0
+03-27-2020,Burma,_,Confirmed,8.0
+03-27-2020,Cabo Verde,_,Confirmed,1.0
+03-27-2020,Cambodia,_,Confirmed,3.0
+03-27-2020,Cambodia,_,Recovered,1.0
+03-27-2020,Cameroon,_,Confirmed,16.0
+03-27-2020,Cameroon,_,Deaths,1.0
+03-27-2020,Chile,_,Confirmed,304.0
+03-27-2020,Chile,_,Deaths,1.0
+03-27-2020,Chile,_,Recovered,21.0
+03-27-2020,Colombia,_,Confirmed,48.0
+03-27-2020,Colombia,_,Recovered,2.0
+03-27-2020,Congo (Kinshasa),_,Recovered,2.0
+03-27-2020,Costa Rica,_,Confirmed,32.0
+03-27-2020,Costa Rica,_,Recovered,1.0
+03-27-2020,Cote d'Ivoire,_,Confirmed,5.0
+03-27-2020,Croatia,_,Confirmed,91.0
+03-27-2020,Croatia,_,Recovered,15.0
+03-27-2020,Cuba,_,Confirmed,13.0
+03-27-2020,Cuba,_,Recovered,3.0
+03-27-2020,Cyprus,_,Confirmed,16.0
+03-27-2020,Cyprus,_,Deaths,2.0
+03-27-2020,Cyprus,_,Recovered,11.0
+03-27-2020,Czechia,_,Confirmed,354.0
+03-27-2020,Czechia,_,Recovered,1.0
+03-27-2020,Denmark,_,Confirmed,169.0
+03-27-2020,Denmark,_,Deaths,11.0
+03-27-2020,Djibouti,_,Confirmed,1.0
+03-27-2020,Dominican Republic,_,Confirmed,93.0
+03-27-2020,Dominican Republic,_,Deaths,10.0
+03-27-2020,Ecuador,_,Confirmed,192.0
+03-27-2020,Ecuador,_,Deaths,2.0
+03-27-2020,Egypt,_,Confirmed,41.0
+03-27-2020,Egypt,_,Deaths,6.0
+03-27-2020,Egypt,_,Recovered,14.0
+03-27-2020,Estonia,_,Confirmed,37.0
+03-27-2020,Estonia,_,Recovered,3.0
+03-27-2020,Eswatini,_,Confirmed,3.0
+03-27-2020,Ethiopia,_,Confirmed,4.0
+03-27-2020,Finland,_,Confirmed,83.0
+03-27-2020,Finland,_,Deaths,2.0
+03-27-2020,France,_,Confirmed,3809.0
+03-27-2020,France,_,Deaths,299.0
+03-27-2020,France,_,Recovered,752.0
+03-27-2020,Georgia,_,Confirmed,4.0
+03-27-2020,Georgia,_,Recovered,3.0
+03-27-2020,Germany,_,Confirmed,6933.0
+03-27-2020,Germany,_,Deaths,75.0
+03-27-2020,Germany,_,Recovered,985.0
+03-27-2020,Ghana,_,Confirmed,5.0
+03-27-2020,Ghana,_,Recovered,1.0
+03-27-2020,Greece,_,Confirmed,74.0
+03-27-2020,Greece,_,Deaths,2.0
+03-27-2020,Greece,_,Recovered,16.0
+03-27-2020,Guatemala,_,Confirmed,3.0
+03-27-2020,Guinea,_,Confirmed,4.0
+03-27-2020,Honduras,_,Confirmed,16.0
+03-27-2020,Hungary,_,Confirmed,39.0
+03-27-2020,Hungary,_,Recovered,6.0
+03-27-2020,Iceland,_,Confirmed,88.0
+03-27-2020,Iceland,_,Recovered,15.0
+03-27-2020,India,_,Confirmed,160.0
+03-27-2020,India,_,Recovered,28.0
+03-27-2020,Indonesia,_,Confirmed,153.0
+03-27-2020,Indonesia,_,Deaths,9.0
+03-27-2020,Indonesia,_,Recovered,11.0
+03-27-2020,Iran,_,Confirmed,2926.0
+03-27-2020,Iran,_,Deaths,144.0
+03-27-2020,Iran,_,Recovered,676.0
+03-27-2020,Iraq,_,Confirmed,76.0
+03-27-2020,Iraq,_,Deaths,4.0
+03-27-2020,Iraq,_,Recovered,17.0
+03-27-2020,Ireland,_,Confirmed,302.0
+03-27-2020,Ireland,_,Deaths,3.0
+03-27-2020,Israel,_,Confirmed,342.0
+03-27-2020,Israel,_,Deaths,4.0
+03-27-2020,Israel,_,Recovered,11.0
+03-27-2020,Italy,_,Confirmed,5909.0
+03-27-2020,Italy,_,Deaths,919.0
+03-27-2020,Italy,_,Recovered,589.0
+03-27-2020,Japan,_,Confirmed,81.0
+03-27-2020,Japan,_,Deaths,2.0
+03-27-2020,Japan,_,Recovered,13.0
+03-27-2020,Jordan,_,Confirmed,23.0
+03-27-2020,Jordan,_,Deaths,1.0
+03-27-2020,Jordan,_,Recovered,17.0
+03-27-2020,Kazakhstan,_,Confirmed,39.0
+03-27-2020,Kazakhstan,_,Recovered,1.0
+03-27-2020,"Korea, South",_,Confirmed,91.0
+03-27-2020,"Korea, South",_,Deaths,8.0
+03-27-2020,"Korea, South",_,Recovered,384.0
+03-27-2020,Kosovo,_,Confirmed,15.0
+03-27-2020,Kosovo,_,Recovered,1.0
+03-27-2020,Kuwait,_,Confirmed,17.0
+03-27-2020,Kuwait,_,Recovered,8.0
+03-27-2020,Kyrgyzstan,_,Confirmed,14.0
+03-27-2020,Latvia,_,Confirmed,36.0
+03-27-2020,Lebanon,_,Confirmed,23.0
+03-27-2020,Lebanon,_,Deaths,2.0
+03-27-2020,Lebanon,_,Recovered,4.0
+03-27-2020,Lithuania,_,Confirmed,59.0
+03-27-2020,Lithuania,_,Deaths,1.0
+03-27-2020,Luxembourg,_,Confirmed,152.0
+03-27-2020,Luxembourg,_,Deaths,6.0
+03-27-2020,Luxembourg,_,Recovered,34.0
+03-27-2020,Madagascar,_,Confirmed,3.0
+03-27-2020,Malaysia,_,Confirmed,130.0
+03-27-2020,Malaysia,_,Deaths,3.0
+03-27-2020,Malaysia,_,Recovered,44.0
+03-27-2020,Maldives,_,Confirmed,3.0
+03-27-2020,Maldives,_,Recovered,1.0
+03-27-2020,Mali,_,Confirmed,7.0
+03-27-2020,Malta,_,Confirmed,5.0
+03-27-2020,Mauritius,_,Confirmed,13.0
+03-27-2020,Mexico,_,Confirmed,110.0
+03-27-2020,Mexico,_,Deaths,2.0
+03-27-2020,Moldova,_,Confirmed,22.0
+03-27-2020,Moldova,_,Deaths,1.0
+03-27-2020,Monaco,_,Confirmed,9.0
+03-27-2020,Montenegro,_,Confirmed,13.0
+03-27-2020,Morocco,_,Confirmed,70.0
+03-27-2020,Morocco,_,Deaths,12.0
+03-27-2020,Morocco,_,Recovered,3.0
+03-27-2020,Nepal,_,Confirmed,1.0
+03-27-2020,Netherlands,_,Confirmed,1172.0
+03-27-2020,Netherlands,_,Deaths,112.0
+03-27-2020,New Zealand,_,Confirmed,85.0
+03-27-2020,New Zealand,_,Recovered,10.0
+03-27-2020,Nicaragua,_,Deaths,1.0
+03-27-2020,Nigeria,_,Confirmed,5.0
+03-27-2020,Nigeria,_,Recovered,1.0
+03-27-2020,North Macedonia,_,Confirmed,18.0
+03-27-2020,Norway,_,Confirmed,386.0
+03-27-2020,Norway,_,Deaths,5.0
+03-27-2020,Oman,_,Confirmed,22.0
+03-27-2020,Pakistan,_,Confirmed,172.0
+03-27-2020,Pakistan,_,Deaths,2.0
+03-27-2020,Pakistan,_,Recovered,2.0
+03-27-2020,Panama,_,Confirmed,116.0
+03-27-2020,Panama,_,Deaths,1.0
+03-27-2020,Paraguay,_,Confirmed,11.0
+03-27-2020,Paraguay,_,Recovered,1.0
+03-27-2020,Peru,_,Confirmed,55.0
+03-27-2020,Peru,_,Deaths,2.0
+03-27-2020,Peru,_,Recovered,2.0
+03-27-2020,Philippines,_,Confirmed,96.0
+03-27-2020,Philippines,_,Deaths,9.0
+03-27-2020,Philippines,_,Recovered,3.0
+03-27-2020,Poland,_,Confirmed,168.0
+03-27-2020,Portugal,_,Confirmed,724.0
+03-27-2020,Portugal,_,Deaths,16.0
+03-27-2020,Qatar,_,Confirmed,13.0
+03-27-2020,Romania,_,Confirmed,263.0
+03-27-2020,Romania,_,Deaths,3.0
+03-27-2020,Romania,_,Recovered,21.0
+03-27-2020,Russia,_,Confirmed,196.0
+03-27-2020,Russia,_,Deaths,1.0
+03-27-2020,Russia,_,Recovered,7.0
+03-27-2020,Rwanda,_,Confirmed,4.0
+03-27-2020,Saint Lucia,_,Recovered,1.0
+03-27-2020,San Marino,_,Confirmed,15.0
+03-27-2020,Saudi Arabia,_,Confirmed,92.0
+03-27-2020,Saudi Arabia,_,Recovered,2.0
+03-27-2020,Senegal,_,Confirmed,14.0
+03-27-2020,Senegal,_,Recovered,2.0
+03-27-2020,Serbia,_,Confirmed,73.0
+03-27-2020,Singapore,_,Confirmed,49.0
+03-27-2020,Singapore,_,Recovered,11.0
+03-27-2020,Slovakia,_,Confirmed,43.0
+03-27-2020,Slovenia,_,Confirmed,70.0
+03-27-2020,Slovenia,_,Deaths,3.0
+03-27-2020,Somalia,_,Confirmed,1.0
+03-27-2020,South Africa,_,Confirmed,243.0
+03-27-2020,South Africa,_,Deaths,1.0
+03-27-2020,South Africa,_,Recovered,19.0
+03-27-2020,Spain,_,Confirmed,7933.0
+03-27-2020,Spain,_,Deaths,773.0
+03-27-2020,Spain,_,Recovered,2342.0
+03-27-2020,Sweden,_,Confirmed,229.0
+03-27-2020,Sweden,_,Deaths,28.0
+03-27-2020,Switzerland,_,Confirmed,1117.0
+03-27-2020,Switzerland,_,Deaths,40.0
+03-27-2020,Switzerland,_,Recovered,1399.0
+03-27-2020,Taiwan*,_,Confirmed,15.0
+03-27-2020,Tanzania,_,Recovered,1.0
+03-27-2020,Thailand,_,Confirmed,91.0
+03-27-2020,Thailand,_,Deaths,1.0
+03-27-2020,Thailand,_,Recovered,9.0
+03-27-2020,Togo,_,Confirmed,2.0
+03-27-2020,Togo,_,Deaths,1.0
+03-27-2020,Trinidad and Tobago,_,Confirmed,1.0
+03-27-2020,Trinidad and Tobago,_,Deaths,1.0
+03-27-2020,Trinidad and Tobago,_,Recovered,1.0
+03-27-2020,Tunisia,_,Confirmed,30.0
+03-27-2020,Turkey,_,Confirmed,2069.0
+03-27-2020,Turkey,_,Deaths,17.0
+03-27-2020,Turkey,_,Recovered,16.0
+03-27-2020,Uganda,_,Confirmed,9.0
+03-27-2020,Ukraine,_,Confirmed,114.0
+03-27-2020,Ukraine,_,Recovered,4.0
+03-27-2020,United Arab Emirates,_,Confirmed,72.0
+03-27-2020,United Kingdom,_,Confirmed,2885.0
+03-27-2020,United Kingdom,_,Deaths,181.0
+03-27-2020,Uruguay,_,Confirmed,21.0
+03-27-2020,Uzbekistan,_,Confirmed,13.0
+03-27-2020,Uzbekistan,_,Deaths,1.0
+03-27-2020,Uzbekistan,_,Recovered,5.0
+03-27-2020,Venezuela,_,Deaths,1.0
+03-27-2020,Venezuela,_,Recovered,16.0
+03-27-2020,Vietnam,_,Confirmed,10.0
+03-27-2020,West Bank and Gaza,_,Confirmed,7.0
+03-27-2020,Zambia,_,Confirmed,6.0
+03-27-2020,Zimbabwe,_,Confirmed,2.0
+03-28-2020,United States of America,South Carolina,Confirmed,118.0
+03-28-2020,United States of America,South Carolina,Deaths,2.0
+03-28-2020,United States of America,Louisiana,Confirmed,571.0
+03-28-2020,United States of America,Louisiana,Deaths,18.0
+03-28-2020,United States of America,Virginia,Confirmed,133.0
+03-28-2020,United States of America,Virginia,Deaths,3.0
+03-28-2020,United States of America,Idaho,Confirmed,29.0
+03-28-2020,United States of America,Idaho,Deaths,1.0
+03-28-2020,United States of America,Iowa,Confirmed,63.0
+03-28-2020,United States of America,Kentucky,Confirmed,92.0
+03-28-2020,United States of America,Kentucky,Deaths,2.0
+03-28-2020,United States of America,Missouri,Confirmed,170.0
+03-28-2020,United States of America,Missouri,Deaths,1.0
+03-28-2020,United States of America,Oklahoma,Confirmed,55.0
+03-28-2020,United States of America,Oklahoma,Deaths,7.0
+03-28-2020,United States of America,Colorado,Confirmed,307.0
+03-28-2020,United States of America,Colorado,Deaths,4.0
+03-28-2020,United States of America,Illinois,Confirmed,467.0
+03-28-2020,United States of America,Illinois,Deaths,13.0
+03-28-2020,United States of America,Indiana,Confirmed,254.0
+03-28-2020,United States of America,Indiana,Deaths,6.0
+03-28-2020,United States of America,Mississippi,Confirmed,84.0
+03-28-2020,United States of America,Mississippi,Deaths,5.0
+03-28-2020,United States of America,Nebraska,Confirmed,14.0
+03-28-2020,United States of America,Nebraska,Deaths,2.0
+03-28-2020,United States of America,North Dakota,Confirmed,26.0
+03-28-2020,United States of America,Ohio,Confirmed,269.0
+03-28-2020,United States of America,Ohio,Deaths,6.0
+03-28-2020,United States of America,Pennsylvania,Confirmed,500.0
+03-28-2020,United States of America,Pennsylvania,Deaths,12.0
+03-28-2020,United States of America,Washington,Confirmed,553.0
+03-28-2020,United States of America,Washington,Deaths,31.0
+03-28-2020,United States of America,Wisconsin,Confirmed,129.0
+03-28-2020,United States of America,Wisconsin,Deaths,3.0
+03-28-2020,United States of America,Vermont,Confirmed,27.0
+03-28-2020,United States of America,Vermont,Deaths,2.0
+03-28-2020,United States of America,Minnesota,Confirmed,45.0
+03-28-2020,United States of America,Minnesota,Deaths,1.0
+03-28-2020,United States of America,Florida,Confirmed,863.0
+03-28-2020,United States of America,Florida,Deaths,19.0
+03-28-2020,United States of America,North Carolina,Confirmed,133.0
+03-28-2020,United States of America,North Carolina,Deaths,1.0
+03-28-2020,United States of America,California,Confirmed,438.0
+03-28-2020,United States of America,California,Deaths,16.0
+03-28-2020,United States of America,New York,Confirmed,7534.0
+03-28-2020,United States of America,New York,Deaths,201.0
+03-28-2020,United States of America,Wyoming,Confirmed,12.0
+03-28-2020,United States of America,Michigan,Confirmed,1016.0
+03-28-2020,United States of America,Michigan,Deaths,19.0
+03-28-2020,United States of America,Alaska,Confirmed,27.0
+03-28-2020,United States of America,Alaska,Deaths,1.0
+03-28-2020,United States of America,Maryland,Confirmed,220.0
+03-28-2020,United States of America,Kansas,Confirmed,60.0
+03-28-2020,United States of America,Tennessee,Confirmed,193.0
+03-28-2020,United States of America,Tennessee,Deaths,1.0
+03-28-2020,United States of America,Texas,Confirmed,518.0
+03-28-2020,United States of America,Texas,Deaths,4.0
+03-28-2020,United States of America,Maine,Confirmed,43.0
+03-28-2020,United States of America,Arizona,Confirmed,108.0
+03-28-2020,United States of America,Arizona,Deaths,2.0
+03-28-2020,United States of America,Georgia,Confirmed,366.0
+03-28-2020,United States of America,Georgia,Deaths,5.0
+03-28-2020,United States of America,Arkansas,Confirmed,28.0
+03-28-2020,United States of America,Arkansas,Deaths,2.0
+03-28-2020,United States of America,New Jersey,Confirmed,2299.0
+03-28-2020,United States of America,New Jersey,Deaths,32.0
+03-28-2020,United States of America,South Dakota,Confirmed,10.0
+03-28-2020,United States of America,Alabama,Confirmed,107.0
+03-28-2020,United States of America,Oregon,Confirmed,63.0
+03-28-2020,United States of America,Oregon,Deaths,1.0
+03-28-2020,United States of America,West Virginia,Confirmed,20.0
+03-28-2020,United States of America,Massachusetts,Confirmed,1017.0
+03-28-2020,United States of America,Massachusetts,Deaths,9.0
+03-28-2020,United States of America,Utah,Confirmed,130.0
+03-28-2020,United States of America,Montana,Confirmed,20.0
+03-28-2020,United States of America,New Hampshire,Confirmed,29.0
+03-28-2020,United States of America,New Hampshire,Deaths,1.0
+03-28-2020,United States of America,New Mexico,Confirmed,72.0
+03-28-2020,United States of America,Rhode Island,Confirmed,36.0
+03-28-2020,United States of America,Rhode Island,Deaths,2.0
+03-28-2020,United States of America,Nevada,Confirmed,90.0
+03-28-2020,United States of America,District of Columbia,Confirmed,33.0
+03-28-2020,United States of America,District of Columbia,Deaths,1.0
+03-28-2020,United States of America,Connecticut,Confirmed,233.0
+03-28-2020,United States of America,Connecticut,Deaths,6.0
+03-28-2020,United States of America,Hawaii,Confirmed,43.0
+03-28-2020,United States of America,Delaware,Confirmed,51.0
+03-28-2020,United States of America,Delaware,Deaths,3.0
+03-28-2020,United Kingdom,Anguilla,Confirmed,2.0
+03-28-2020,Netherlands,Aruba,Confirmed,13.0
+03-28-2020,Australia,Australian Capital Territory,Confirmed,9.0
+03-28-2020,Australia,Australian Capital Territory,Recovered,1.0
+03-28-2020,China,Beijing,Confirmed,4.0
+03-28-2020,China,Beijing,Recovered,2.0
+03-28-2020,Canada,British Columbia,Confirmed,159.0
+03-28-2020,Canada,British Columbia,Deaths,3.0
+03-28-2020,United Kingdom,British Virgin Islands,Confirmed,2.0
+03-28-2020,United Kingdom,Channel Islands,Confirmed,9.0
+03-28-2020,Denmark,Faroe Islands,Confirmed,11.0
+03-28-2020,China,Fujian,Confirmed,6.0
+03-28-2020,China,Gansu,Recovered,2.0
+03-28-2020,United Kingdom,Gibraltar,Confirmed,1.0
+03-28-2020,United States of America,Grand Princess,Confirmed,75.0
+03-28-2020,France,Guadeloupe,Confirmed,29.0
+03-28-2020,France,Guadeloupe,Deaths,1.0
+03-28-2020,France,Guadeloupe,Recovered,17.0
+03-28-2020,United States of America,Guam,Confirmed,4.0
+03-28-2020,China,Guangdong,Confirmed,11.0
+03-28-2020,China,Guangdong,Recovered,4.0
+03-28-2020,China,Henan,Recovered,1.0
+03-28-2020,China,Hong Kong,Confirmed,42.0
+03-28-2020,China,Hong Kong,Recovered,2.0
+03-28-2020,China,Hubei,Deaths,3.0
+03-28-2020,China,Hubei,Recovered,366.0
+03-28-2020,China,Inner Mongolia,Confirmed,2.0
+03-28-2020,United Kingdom,Isle of Man,Confirmed,3.0
+03-28-2020,China,Jilin,Confirmed,2.0
+03-28-2020,China,Liaoning,Confirmed,4.0
+03-28-2020,China,Macau,Confirmed,4.0
+03-28-2020,Canada,Manitoba,Confirmed,25.0
+03-28-2020,France,Martinique,Confirmed,12.0
+03-28-2020,France,Mayotte,Confirmed,13.0
+03-28-2020,Canada,New Brunswick,Confirmed,6.0
+03-28-2020,Australia,New South Wales,Confirmed,212.0
+03-28-2020,Australia,New South Wales,Deaths,1.0
+03-28-2020,Canada,Newfoundland and Labrador,Confirmed,18.0
+03-28-2020,Australia,Northern Territory,Confirmed,3.0
+03-28-2020,Canada,Nova Scotia,Confirmed,20.0
+03-28-2020,Canada,Ontario,Confirmed,150.0
+03-28-2020,Canada,Prince Edward Island,Confirmed,2.0
+03-28-2020,United States of America,Puerto Rico,Confirmed,21.0
+03-28-2020,Canada,Quebec,Confirmed,474.0
+03-28-2020,Canada,Quebec,Deaths,4.0
+03-28-2020,Australia,Queensland,Confirmed,70.0
+03-28-2020,Canada,Recovered,Recovered,210.0
+03-28-2020,United States of America,Recovered,Recovered,203.0
+03-28-2020,France,Reunion,Confirmed,38.0
+03-28-2020,Canada,Saskatchewan,Confirmed,39.0
+03-28-2020,China,Shanghai,Confirmed,17.0
+03-28-2020,Australia,South Australia,Confirmed,30.0
+03-28-2020,Australia,Tasmania,Confirmed,15.0
+03-28-2020,Australia,Tasmania,Recovered,2.0
+03-28-2020,China,Tianjin,Confirmed,6.0
+03-28-2020,United Kingdom,Turks and Caicos Islands,Confirmed,4.0
+03-28-2020,Australia,Victoria,Confirmed,111.0
+03-28-2020,Australia,Victoria,Recovered,20.0
+03-28-2020,United States of America,Virgin Islands,Confirmed,3.0
+03-28-2020,Australia,Western Australia,Confirmed,47.0
+03-28-2020,Australia,Western Australia,Recovered,27.0
+03-28-2020,Canada,Yukon,Confirmed,1.0
+03-28-2020,China,Zhejiang,Confirmed,4.0
+03-28-2020,China,Zhejiang,Recovered,3.0
+03-28-2020,Albania,_,Confirmed,11.0
+03-28-2020,Albania,_,Deaths,2.0
+03-28-2020,Algeria,_,Confirmed,45.0
+03-28-2020,Algeria,_,Deaths,3.0
+03-28-2020,Algeria,_,Recovered,2.0
+03-28-2020,Andorra,_,Confirmed,41.0
+03-28-2020,Angola,_,Confirmed,1.0
+03-28-2020,Argentina,_,Confirmed,101.0
+03-28-2020,Argentina,_,Deaths,5.0
+03-28-2020,Armenia,_,Confirmed,78.0
+03-28-2020,Armenia,_,Recovered,2.0
+03-28-2020,Austria,_,Confirmed,614.0
+03-28-2020,Austria,_,Deaths,10.0
+03-28-2020,Azerbaijan,_,Confirmed,17.0
+03-28-2020,Azerbaijan,_,Deaths,1.0
+03-28-2020,Bahrain,_,Confirmed,10.0
+03-28-2020,Bahrain,_,Recovered,38.0
+03-28-2020,Bangladesh,_,Recovered,4.0
+03-28-2020,Barbados,_,Confirmed,2.0
+03-28-2020,Belgium,_,Confirmed,1850.0
+03-28-2020,Belgium,_,Deaths,64.0
+03-28-2020,Belgium,_,Recovered,205.0
+03-28-2020,Bolivia,_,Confirmed,13.0
+03-28-2020,Bosnia and Herzegovina,_,Confirmed,21.0
+03-28-2020,Bosnia and Herzegovina,_,Deaths,1.0
+03-28-2020,Brazil,_,Confirmed,487.0
+03-28-2020,Brazil,_,Deaths,19.0
+03-28-2020,Brunei,_,Confirmed,5.0
+03-28-2020,Brunei,_,Deaths,1.0
+03-28-2020,Brunei,_,Recovered,14.0
+03-28-2020,Bulgaria,_,Confirmed,38.0
+03-28-2020,Bulgaria,_,Deaths,4.0
+03-28-2020,Bulgaria,_,Recovered,2.0
+03-28-2020,Burkina Faso,_,Confirmed,27.0
+03-28-2020,Burkina Faso,_,Deaths,2.0
+03-28-2020,Burkina Faso,_,Recovered,9.0
+03-28-2020,Cambodia,_,Recovered,2.0
+03-28-2020,Chile,_,Confirmed,299.0
+03-28-2020,Chile,_,Deaths,1.0
+03-28-2020,Chile,_,Recovered,18.0
+03-28-2020,Colombia,_,Confirmed,69.0
+03-28-2020,Congo (Kinshasa),_,Confirmed,14.0
+03-28-2020,Congo (Kinshasa),_,Deaths,3.0
+03-28-2020,Costa Rica,_,Confirmed,32.0
+03-28-2020,Croatia,_,Confirmed,71.0
+03-28-2020,Croatia,_,Deaths,2.0
+03-28-2020,Croatia,_,Recovered,8.0
+03-28-2020,Cuba,_,Confirmed,39.0
+03-28-2020,Cuba,_,Deaths,1.0
+03-28-2020,Cyprus,_,Confirmed,17.0
+03-28-2020,Czechia,_,Confirmed,352.0
+03-28-2020,Czechia,_,Deaths,2.0
+03-28-2020,Denmark,_,Confirmed,155.0
+03-28-2020,Denmark,_,Deaths,13.0
+03-28-2020,Djibouti,_,Confirmed,2.0
+03-28-2020,Dominican Republic,_,Confirmed,138.0
+03-28-2020,Dominican Republic,_,Deaths,8.0
+03-28-2020,Ecuador,_,Confirmed,228.0
+03-28-2020,Ecuador,_,Deaths,12.0
+03-28-2020,Egypt,_,Confirmed,40.0
+03-28-2020,Egypt,_,Deaths,6.0
+03-28-2020,Egypt,_,Recovered,5.0
+03-28-2020,El Salvador,_,Confirmed,6.0
+03-28-2020,Estonia,_,Confirmed,70.0
+03-28-2020,Estonia,_,Recovered,9.0
+03-28-2020,Ethiopia,_,Recovered,1.0
+03-28-2020,Finland,_,Confirmed,126.0
+03-28-2020,Finland,_,Deaths,2.0
+03-28-2020,France,_,Confirmed,4611.0
+03-28-2020,France,_,Deaths,319.0
+03-28-2020,Georgia,_,Confirmed,7.0
+03-28-2020,Germany,_,Confirmed,6824.0
+03-28-2020,Germany,_,Deaths,91.0
+03-28-2020,Germany,_,Recovered,1823.0
+03-28-2020,Ghana,_,Confirmed,4.0
+03-28-2020,Ghana,_,Deaths,1.0
+03-28-2020,Greece,_,Confirmed,95.0
+03-28-2020,Greece,_,Deaths,4.0
+03-28-2020,Guatemala,_,Confirmed,6.0
+03-28-2020,Guatemala,_,Recovered,6.0
+03-28-2020,Guyana,_,Confirmed,3.0
+03-28-2020,Holy See,_,Confirmed,2.0
+03-28-2020,Honduras,_,Confirmed,27.0
+03-28-2020,Honduras,_,Recovered,3.0
+03-28-2020,Hungary,_,Confirmed,43.0
+03-28-2020,Hungary,_,Deaths,1.0
+03-28-2020,Iceland,_,Confirmed,73.0
+03-28-2020,Iceland,_,Recovered,17.0
+03-28-2020,India,_,Confirmed,100.0
+03-28-2020,India,_,Deaths,4.0
+03-28-2020,India,_,Recovered,11.0
+03-28-2020,Indonesia,_,Confirmed,109.0
+03-28-2020,Indonesia,_,Deaths,15.0
+03-28-2020,Indonesia,_,Recovered,13.0
+03-28-2020,Iran,_,Confirmed,3076.0
+03-28-2020,Iran,_,Deaths,139.0
+03-28-2020,Iran,_,Recovered,546.0
+03-28-2020,Iraq,_,Confirmed,48.0
+03-28-2020,Iraq,_,Deaths,2.0
+03-28-2020,Iraq,_,Recovered,9.0
+03-28-2020,Ireland,_,Confirmed,294.0
+03-28-2020,Ireland,_,Deaths,14.0
+03-28-2020,Israel,_,Confirmed,584.0
+03-28-2020,Israel,_,Recovered,10.0
+03-28-2020,Italy,_,Confirmed,5974.0
+03-28-2020,Italy,_,Deaths,889.0
+03-28-2020,Italy,_,Recovered,1434.0
+03-28-2020,Jamaica,_,Confirmed,4.0
+03-28-2020,Japan,_,Confirmed,225.0
+03-28-2020,Japan,_,Deaths,3.0
+03-28-2020,Japan,_,Recovered,32.0
+03-28-2020,Jordan,_,Confirmed,11.0
+03-28-2020,Kazakhstan,_,Confirmed,78.0
+03-28-2020,Kazakhstan,_,Recovered,13.0
+03-28-2020,Kenya,_,Confirmed,7.0
+03-28-2020,"Korea, South",_,Confirmed,146.0
+03-28-2020,"Korea, South",_,Deaths,5.0
+03-28-2020,"Korea, South",_,Recovered,283.0
+03-28-2020,Kosovo,_,Confirmed,5.0
+03-28-2020,Kuwait,_,Confirmed,10.0
+03-28-2020,Kuwait,_,Recovered,7.0
+03-28-2020,Laos,_,Confirmed,2.0
+03-28-2020,Latvia,_,Confirmed,25.0
+03-28-2020,Lebanon,_,Confirmed,21.0
+03-28-2020,Lebanon,_,Recovered,3.0
+03-28-2020,Libya,_,Confirmed,2.0
+03-28-2020,Lithuania,_,Confirmed,36.0
+03-28-2020,Lithuania,_,Deaths,2.0
+03-28-2020,Luxembourg,_,Confirmed,226.0
+03-28-2020,Luxembourg,_,Deaths,3.0
+03-28-2020,MS Zaandam,_,Confirmed,2.0
+03-28-2020,Malaysia,_,Confirmed,159.0
+03-28-2020,Malaysia,_,Deaths,1.0
+03-28-2020,Malaysia,_,Recovered,61.0
+03-28-2020,Mali,_,Confirmed,7.0
+03-28-2020,Malta,_,Confirmed,10.0
+03-28-2020,Mauritania,_,Confirmed,2.0
+03-28-2020,Mauritius,_,Confirmed,8.0
+03-28-2020,Mexico,_,Confirmed,132.0
+03-28-2020,Mexico,_,Deaths,4.0
+03-28-2020,Moldova,_,Confirmed,32.0
+03-28-2020,Mongolia,_,Confirmed,1.0
+03-28-2020,Montenegro,_,Confirmed,2.0
+03-28-2020,Morocco,_,Confirmed,57.0
+03-28-2020,Morocco,_,Deaths,2.0
+03-28-2020,Mozambique,_,Confirmed,1.0
+03-28-2020,Nepal,_,Confirmed,1.0
+03-28-2020,Netherlands,_,Confirmed,1159.0
+03-28-2020,Netherlands,_,Deaths,93.0
+03-28-2020,New Zealand,_,Confirmed,83.0
+03-28-2020,New Zealand,_,Recovered,13.0
+03-28-2020,Nicaragua,_,Confirmed,2.0
+03-28-2020,Nigeria,_,Confirmed,19.0
+03-28-2020,North Macedonia,_,Confirmed,22.0
+03-28-2020,North Macedonia,_,Deaths,1.0
+03-28-2020,Norway,_,Confirmed,260.0
+03-28-2020,Norway,_,Deaths,4.0
+03-28-2020,Norway,_,Recovered,1.0
+03-28-2020,Oman,_,Confirmed,21.0
+03-28-2020,Pakistan,_,Confirmed,122.0
+03-28-2020,Pakistan,_,Deaths,1.0
+03-28-2020,Pakistan,_,Recovered,6.0
+03-28-2020,Panama,_,Confirmed,112.0
+03-28-2020,Panama,_,Deaths,5.0
+03-28-2020,Paraguay,_,Confirmed,4.0
+03-28-2020,Peru,_,Confirmed,36.0
+03-28-2020,Peru,_,Deaths,5.0
+03-28-2020,Philippines,_,Confirmed,272.0
+03-28-2020,Philippines,_,Deaths,14.0
+03-28-2020,Philippines,_,Recovered,4.0
+03-28-2020,Poland,_,Confirmed,249.0
+03-28-2020,Poland,_,Deaths,2.0
+03-28-2020,Portugal,_,Confirmed,902.0
+03-28-2020,Portugal,_,Deaths,24.0
+03-28-2020,Qatar,_,Confirmed,28.0
+03-28-2020,Qatar,_,Deaths,1.0
+03-28-2020,Qatar,_,Recovered,2.0
+03-28-2020,Romania,_,Confirmed,160.0
+03-28-2020,Romania,_,Deaths,11.0
+03-28-2020,Romania,_,Recovered,24.0
+03-28-2020,Russia,_,Confirmed,228.0
+03-28-2020,Russia,_,Recovered,4.0
+03-28-2020,Rwanda,_,Confirmed,6.0
+03-28-2020,Saint Vincent and the Grenadines,_,Recovered,1.0
+03-28-2020,San Marino,_,Confirmed,1.0
+03-28-2020,San Marino,_,Deaths,1.0
+03-28-2020,San Marino,_,Recovered,2.0
+03-28-2020,Saudi Arabia,_,Confirmed,99.0
+03-28-2020,Saudi Arabia,_,Deaths,1.0
+03-28-2020,Saudi Arabia,_,Recovered,2.0
+03-28-2020,Senegal,_,Confirmed,11.0
+03-28-2020,Senegal,_,Recovered,7.0
+03-28-2020,Serbia,_,Confirmed,202.0
+03-28-2020,Serbia,_,Deaths,9.0
+03-28-2020,Seychelles,_,Confirmed,1.0
+03-28-2020,Singapore,_,Confirmed,70.0
+03-28-2020,Singapore,_,Recovered,15.0
+03-28-2020,Slovakia,_,Confirmed,23.0
+03-28-2020,Slovenia,_,Confirmed,52.0
+03-28-2020,South Africa,_,Confirmed,17.0
+03-28-2020,Spain,_,Confirmed,7516.0
+03-28-2020,Spain,_,Deaths,844.0
+03-28-2020,Spain,_,Recovered,2928.0
+03-28-2020,Sri Lanka,_,Confirmed,7.0
+03-28-2020,Sri Lanka,_,Deaths,1.0
+03-28-2020,Sri Lanka,_,Recovered,2.0
+03-28-2020,Sudan,_,Confirmed,2.0
+03-28-2020,Sweden,_,Confirmed,378.0
+03-28-2020,Switzerland,_,Confirmed,1148.0
+03-28-2020,Switzerland,_,Deaths,33.0
+03-28-2020,Taiwan*,_,Confirmed,16.0
+03-28-2020,Taiwan*,_,Recovered,1.0
+03-28-2020,Tanzania,_,Confirmed,1.0
+03-28-2020,Thailand,_,Confirmed,109.0
+03-28-2020,Thailand,_,Deaths,1.0
+03-28-2020,Trinidad and Tobago,_,Confirmed,8.0
+03-28-2020,Trinidad and Tobago,_,Deaths,1.0
+03-28-2020,Tunisia,_,Confirmed,51.0
+03-28-2020,Tunisia,_,Deaths,2.0
+03-28-2020,Turkey,_,Confirmed,1704.0
+03-28-2020,Turkey,_,Deaths,16.0
+03-28-2020,Turkey,_,Recovered,28.0
+03-28-2020,Uganda,_,Confirmed,7.0
+03-28-2020,Ukraine,_,Confirmed,46.0
+03-28-2020,Ukraine,_,Deaths,4.0
+03-28-2020,United Arab Emirates,_,Confirmed,63.0
+03-28-2020,United Kingdom,_,Confirmed,2546.0
+03-28-2020,United Kingdom,_,Deaths,260.0
+03-28-2020,Uruguay,_,Confirmed,36.0
+03-28-2020,Uzbekistan,_,Confirmed,16.0
+03-28-2020,Uzbekistan,_,Deaths,1.0
+03-28-2020,Venezuela,_,Confirmed,12.0
+03-28-2020,Venezuela,_,Deaths,1.0
+03-28-2020,Venezuela,_,Recovered,8.0
+03-28-2020,Vietnam,_,Confirmed,11.0
+03-28-2020,Vietnam,_,Recovered,1.0
+03-28-2020,West Bank and Gaza,_,Confirmed,7.0
+03-28-2020,West Bank and Gaza,_,Recovered,1.0
+03-28-2020,Zambia,_,Confirmed,6.0
+03-28-2020,Zimbabwe,_,Confirmed,2.0
+03-29-2020,United States of America,South Carolina,Confirmed,114.0
+03-29-2020,United States of America,South Carolina,Deaths,1.0
+03-29-2020,United States of America,Louisiana,Confirmed,225.0
+03-29-2020,United States of America,Louisiana,Deaths,14.0
+03-29-2020,United States of America,Virginia,Confirmed,150.0
+03-29-2020,United States of America,Virginia,Deaths,7.0
+03-29-2020,United States of America,Idaho,Confirmed,47.0
+03-29-2020,United States of America,Idaho,Deaths,1.0
+03-29-2020,United States of America,Iowa,Confirmed,38.0
+03-29-2020,United States of America,Iowa,Deaths,1.0
+03-29-2020,United States of America,Kentucky,Confirmed,45.0
+03-29-2020,United States of America,Missouri,Confirmed,79.0
+03-29-2020,United States of America,Missouri,Deaths,3.0
+03-29-2020,United States of America,Oklahoma,Confirmed,52.0
+03-29-2020,United States of America,Oklahoma,Deaths,1.0
+03-29-2020,United States of America,Colorado,Confirmed,567.0
+03-29-2020,United States of America,Colorado,Deaths,16.0
+03-29-2020,United States of America,Illinois,Confirmed,1105.0
+03-29-2020,United States of America,Illinois,Deaths,19.0
+03-29-2020,United States of America,Indiana,Confirmed,280.0
+03-29-2020,United States of America,Indiana,Deaths,1.0
+03-29-2020,United States of America,Mississippi,Confirmed,96.0
+03-29-2020,United States of America,Mississippi,Deaths,1.0
+03-29-2020,United States of America,Nebraska,Confirmed,12.0
+03-29-2020,United States of America,North Dakota,Confirmed,4.0
+03-29-2020,United States of America,Ohio,Confirmed,247.0
+03-29-2020,United States of America,Ohio,Deaths,4.0
+03-29-2020,United States of America,Pennsylvania,Confirmed,587.0
+03-29-2020,United States of America,Pennsylvania,Deaths,7.0
+03-29-2020,United States of America,Washington,Confirmed,435.0
+03-29-2020,United States of America,Washington,Deaths,10.0
+03-29-2020,United States of America,Wisconsin,Confirmed,109.0
+03-29-2020,United States of America,Wisconsin,Deaths,1.0
+03-29-2020,United States of America,Vermont,Confirmed,24.0
+03-29-2020,United States of America,Minnesota,Confirmed,62.0
+03-29-2020,United States of America,Minnesota,Deaths,4.0
+03-29-2020,United States of America,Florida,Confirmed,483.0
+03-29-2020,United States of America,Florida,Deaths,2.0
+03-29-2020,United States of America,North Carolina,Confirmed,171.0
+03-29-2020,United States of America,North Carolina,Deaths,2.0
+03-29-2020,United States of America,California,Confirmed,757.0
+03-29-2020,United States of America,California,Deaths,14.0
+03-29-2020,United States of America,New York,Confirmed,7238.0
+03-29-2020,United States of America,New York,Deaths,237.0
+03-29-2020,United States of America,Wyoming,Confirmed,4.0
+03-29-2020,United States of America,Michigan,Confirmed,838.0
+03-29-2020,United States of America,Michigan,Deaths,21.0
+03-29-2020,United States of America,Alaska,Confirmed,17.0
+03-29-2020,United States of America,Maryland,Confirmed,244.0
+03-29-2020,United States of America,Maryland,Deaths,5.0
+03-29-2020,United States of America,Kansas,Confirmed,64.0
+03-29-2020,United States of America,Kansas,Deaths,3.0
+03-29-2020,United States of America,Tennessee,Confirmed,209.0
+03-29-2020,United States of America,Tennessee,Deaths,1.0
+03-29-2020,United States of America,Texas,Confirmed,337.0
+03-29-2020,United States of America,Texas,Deaths,7.0
+03-29-2020,United States of America,Maine,Confirmed,42.0
+03-29-2020,United States of America,Maine,Deaths,2.0
+03-29-2020,United States of America,Arizona,Confirmed,146.0
+03-29-2020,United States of America,Arizona,Deaths,2.0
+03-29-2020,United States of America,Georgia,Confirmed,285.0
+03-29-2020,United States of America,Georgia,Deaths,11.0
+03-29-2020,United States of America,Arkansas,Confirmed,17.0
+03-29-2020,United States of America,Arkansas,Deaths,1.0
+03-29-2020,United States of America,New Jersey,Confirmed,2262.0
+03-29-2020,United States of America,New Jersey,Deaths,21.0
+03-29-2020,United States of America,South Dakota,Confirmed,22.0
+03-29-2020,United States of America,Alabama,Confirmed,131.0
+03-29-2020,United States of America,Alabama,Deaths,6.0
+03-29-2020,United States of America,Oregon,Confirmed,69.0
+03-29-2020,United States of America,West Virginia,Confirmed,17.0
+03-29-2020,United States of America,Massachusetts,Confirmed,698.0
+03-29-2020,United States of America,Massachusetts,Deaths,4.0
+03-29-2020,United States of America,Utah,Confirmed,118.0
+03-29-2020,United States of America,Utah,Deaths,1.0
+03-29-2020,United States of America,Montana,Confirmed,25.0
+03-29-2020,United States of America,New Hampshire,Confirmed,27.0
+03-29-2020,United States of America,New Mexico,Confirmed,29.0
+03-29-2020,United States of America,New Mexico,Deaths,1.0
+03-29-2020,United States of America,Rhode Island,Confirmed,55.0
+03-29-2020,United States of America,Rhode Island,Deaths,1.0
+03-29-2020,United States of America,Nevada,Confirmed,294.0
+03-29-2020,United States of America,Nevada,Deaths,5.0
+03-29-2020,United States of America,District of Columbia,Confirmed,38.0
+03-29-2020,United States of America,District of Columbia,Deaths,1.0
+03-29-2020,United States of America,Connecticut,Confirmed,469.0
+03-29-2020,United States of America,Connecticut,Deaths,1.0
+03-29-2020,United States of America,Delaware,Confirmed,18.0
+03-29-2020,United States of America,Delaware,Deaths,1.0
+03-29-2020,Canada,Alberta,Confirmed,79.0
+03-29-2020,Netherlands,Aruba,Confirmed,4.0
+03-29-2020,Australia,Australian Capital Territory,Confirmed,6.0
+03-29-2020,China,Beijing,Confirmed,4.0
+03-29-2020,China,Beijing,Recovered,2.0
+03-29-2020,United Kingdom,Bermuda,Confirmed,5.0
+03-29-2020,United Kingdom,Channel Islands,Confirmed,11.0
+03-29-2020,United Kingdom,Channel Islands,Deaths,1.0
+03-29-2020,China,Chongqing,Confirmed,1.0
+03-29-2020,Denmark,Faroe Islands,Confirmed,4.0
+03-29-2020,Denmark,Faroe Islands,Recovered,16.0
+03-29-2020,China,Fujian,Confirmed,1.0
+03-29-2020,China,Gansu,Confirmed,2.0
+03-29-2020,United Kingdom,Gibraltar,Confirmed,9.0
+03-29-2020,France,Guadeloupe,Confirmed,4.0
+03-29-2020,France,Guadeloupe,Deaths,2.0
+03-29-2020,United States of America,Guam,Confirmed,1.0
+03-29-2020,China,Guangdong,Confirmed,8.0
+03-29-2020,China,Guangdong,Recovered,8.0
+03-29-2020,China,Henan,Confirmed,1.0
+03-29-2020,China,Hong Kong,Confirmed,80.0
+03-29-2020,China,Hubei,Deaths,5.0
+03-29-2020,China,Hubei,Recovered,472.0
+03-29-2020,China,Inner Mongolia,Confirmed,1.0
+03-29-2020,United Kingdom,Isle of Man,Confirmed,10.0
+03-29-2020,China,Jiangsu,Confirmed,3.0
+03-29-2020,China,Jiangxi,Confirmed,1.0
+03-29-2020,China,Jilin,Confirmed,1.0
+03-29-2020,China,Liaoning,Confirmed,2.0
+03-29-2020,Canada,Manitoba,Confirmed,8.0
+03-29-2020,Canada,New Brunswick,Confirmed,15.0
+03-29-2020,Australia,New South Wales,Confirmed,174.0
+03-29-2020,Canada,Newfoundland and Labrador,Confirmed,15.0
+03-29-2020,Canada,Nova Scotia,Confirmed,12.0
+03-29-2020,Canada,Ontario,Confirmed,211.0
+03-29-2020,Canada,Ontario,Deaths,3.0
+03-29-2020,United States of America,Puerto Rico,Confirmed,27.0
+03-29-2020,Canada,Quebec,Confirmed,342.0
+03-29-2020,Australia,Queensland,Confirmed,31.0
+03-29-2020,Australia,Queensland,Deaths,1.0
+03-29-2020,United States of America,Recovered,Recovered,1593.0
+03-29-2020,Canada,Saskatchewan,Confirmed,22.0
+03-29-2020,China,Shanghai,Confirmed,7.0
+03-29-2020,China,Shanxi,Confirmed,1.0
+03-29-2020,China,Sichuan,Confirmed,2.0
+03-29-2020,Netherlands,Sint Maarten,Confirmed,3.0
+03-29-2020,Australia,South Australia,Confirmed,12.0
+03-29-2020,Australia,Tasmania,Confirmed,4.0
+03-29-2020,China,Tianjin,Confirmed,5.0
+03-29-2020,Australia,Victoria,Confirmed,84.0
+03-29-2020,Australia,Victoria,Deaths,1.0
+03-29-2020,Australia,Western Australia,Confirmed,33.0
+03-29-2020,China,Zhejiang,Confirmed,3.0
+03-29-2020,Afghanistan,_,Confirmed,10.0
+03-29-2020,Albania,_,Confirmed,15.0
+03-29-2020,Albania,_,Recovered,2.0
+03-29-2020,Algeria,_,Confirmed,57.0
+03-29-2020,Algeria,_,Deaths,2.0
+03-29-2020,Andorra,_,Confirmed,26.0
+03-29-2020,Andorra,_,Deaths,3.0
+03-29-2020,Angola,_,Confirmed,2.0
+03-29-2020,Angola,_,Deaths,2.0
+03-29-2020,Argentina,_,Confirmed,55.0
+03-29-2020,Argentina,_,Deaths,1.0
+03-29-2020,Armenia,_,Confirmed,17.0
+03-29-2020,Armenia,_,Deaths,2.0
+03-29-2020,Austria,_,Confirmed,517.0
+03-29-2020,Austria,_,Deaths,18.0
+03-29-2020,Austria,_,Recovered,254.0
+03-29-2020,Azerbaijan,_,Confirmed,27.0
+03-29-2020,Bahamas,_,Confirmed,1.0
+03-29-2020,Bahrain,_,Confirmed,23.0
+03-29-2020,Bahrain,_,Recovered,7.0
+03-29-2020,Barbados,_,Confirmed,7.0
+03-29-2020,Belgium,_,Confirmed,1702.0
+03-29-2020,Belgium,_,Deaths,78.0
+03-29-2020,Belgium,_,Recovered,296.0
+03-29-2020,Bhutan,_,Confirmed,1.0
+03-29-2020,Bolivia,_,Confirmed,7.0
+03-29-2020,Bolivia,_,Deaths,1.0
+03-29-2020,Bosnia and Herzegovina,_,Confirmed,65.0
+03-29-2020,Bosnia and Herzegovina,_,Deaths,1.0
+03-29-2020,Bosnia and Herzegovina,_,Recovered,3.0
+03-29-2020,Brazil,_,Confirmed,352.0
+03-29-2020,Brazil,_,Deaths,25.0
+03-29-2020,Brunei,_,Confirmed,6.0
+03-29-2020,Brunei,_,Recovered,9.0
+03-29-2020,Bulgaria,_,Confirmed,15.0
+03-29-2020,Bulgaria,_,Deaths,1.0
+03-29-2020,Bulgaria,_,Recovered,3.0
+03-29-2020,Burkina Faso,_,Confirmed,15.0
+03-29-2020,Burkina Faso,_,Deaths,1.0
+03-29-2020,Burkina Faso,_,Recovered,2.0
+03-29-2020,Burma,_,Confirmed,2.0
+03-29-2020,Cabo Verde,_,Confirmed,1.0
+03-29-2020,Cambodia,_,Confirmed,4.0
+03-29-2020,Cambodia,_,Recovered,8.0
+03-29-2020,Cameroon,_,Confirmed,48.0
+03-29-2020,Cameroon,_,Deaths,4.0
+03-29-2020,Cameroon,_,Recovered,3.0
+03-29-2020,Chile,_,Confirmed,230.0
+03-29-2020,Chile,_,Deaths,1.0
+03-29-2020,Chile,_,Recovered,14.0
+03-29-2020,Colombia,_,Confirmed,94.0
+03-29-2020,Colombia,_,Deaths,4.0
+03-29-2020,Congo (Brazzaville),_,Confirmed,15.0
+03-29-2020,Costa Rica,_,Confirmed,19.0
+03-29-2020,Cote d'Ivoire,_,Confirmed,64.0
+03-29-2020,Cote d'Ivoire,_,Deaths,1.0
+03-29-2020,Cote d'Ivoire,_,Recovered,1.0
+03-29-2020,Croatia,_,Confirmed,56.0
+03-29-2020,Croatia,_,Deaths,1.0
+03-29-2020,Croatia,_,Recovered,7.0
+03-29-2020,Cuba,_,Confirmed,20.0
+03-29-2020,Cyprus,_,Confirmed,35.0
+03-29-2020,Czechia,_,Confirmed,186.0
+03-29-2020,Czechia,_,Deaths,5.0
+03-29-2020,Denmark,_,Confirmed,194.0
+03-29-2020,Denmark,_,Deaths,7.0
+03-29-2020,Diamond Princess,_,Recovered,6.0
+03-29-2020,Djibouti,_,Confirmed,4.0
+03-29-2020,Dominican Republic,_,Confirmed,140.0
+03-29-2020,Dominican Republic,_,Deaths,11.0
+03-29-2020,Ecuador,_,Confirmed,101.0
+03-29-2020,Ecuador,_,Deaths,10.0
+03-29-2020,Egypt,_,Confirmed,33.0
+03-29-2020,Egypt,_,Deaths,4.0
+03-29-2020,Egypt,_,Recovered,11.0
+03-29-2020,El Salvador,_,Confirmed,5.0
+03-29-2020,Eritrea,_,Confirmed,6.0
+03-29-2020,Estonia,_,Confirmed,34.0
+03-29-2020,Estonia,_,Deaths,2.0
+03-29-2020,Ethiopia,_,Confirmed,5.0
+03-29-2020,Finland,_,Confirmed,73.0
+03-29-2020,Finland,_,Deaths,2.0
+03-29-2020,France,_,Confirmed,2599.0
+03-29-2020,France,_,Deaths,292.0
+03-29-2020,France,_,Recovered,1502.0
+03-29-2020,Gambia,_,Confirmed,1.0
+03-29-2020,Georgia,_,Confirmed,1.0
+03-29-2020,Georgia,_,Recovered,4.0
+03-29-2020,Germany,_,Confirmed,4400.0
+03-29-2020,Germany,_,Deaths,100.0
+03-29-2020,Germany,_,Recovered,730.0
+03-29-2020,Ghana,_,Confirmed,11.0
+03-29-2020,Greece,_,Confirmed,95.0
+03-29-2020,Greece,_,Deaths,6.0
+03-29-2020,Grenada,_,Confirmed,2.0
+03-29-2020,Guinea,_,Confirmed,8.0
+03-29-2020,Haiti,_,Confirmed,7.0
+03-29-2020,Haiti,_,Recovered,1.0
+03-29-2020,Honduras,_,Confirmed,15.0
+03-29-2020,Honduras,_,Deaths,2.0
+03-29-2020,Hungary,_,Confirmed,65.0
+03-29-2020,Hungary,_,Deaths,2.0
+03-29-2020,Iceland,_,Confirmed,57.0
+03-29-2020,Iceland,_,Recovered,21.0
+03-29-2020,India,_,Confirmed,37.0
+03-29-2020,India,_,Deaths,3.0
+03-29-2020,India,_,Recovered,11.0
+03-29-2020,Indonesia,_,Confirmed,130.0
+03-29-2020,Indonesia,_,Deaths,12.0
+03-29-2020,Indonesia,_,Recovered,5.0
+03-29-2020,Iran,_,Confirmed,2901.0
+03-29-2020,Iran,_,Deaths,123.0
+03-29-2020,Iran,_,Recovered,712.0
+03-29-2020,Iraq,_,Confirmed,41.0
+03-29-2020,Iraq,_,Recovered,12.0
+03-29-2020,Ireland,_,Confirmed,200.0
+03-29-2020,Ireland,_,Deaths,10.0
+03-29-2020,Israel,_,Confirmed,628.0
+03-29-2020,Israel,_,Deaths,3.0
+03-29-2020,Israel,_,Recovered,43.0
+03-29-2020,Italy,_,Confirmed,5217.0
+03-29-2020,Italy,_,Deaths,756.0
+03-29-2020,Italy,_,Recovered,646.0
+03-29-2020,Jamaica,_,Confirmed,2.0
+03-29-2020,Japan,_,Confirmed,173.0
+03-29-2020,Japan,_,Deaths,2.0
+03-29-2020,Japan,_,Recovered,20.0
+03-29-2020,Jordan,_,Confirmed,13.0
+03-29-2020,Jordan,_,Deaths,2.0
+03-29-2020,Kazakhstan,_,Confirmed,56.0
+03-29-2020,Kazakhstan,_,Recovered,4.0
+03-29-2020,Kenya,_,Confirmed,4.0
+03-29-2020,"Korea, South",_,Confirmed,105.0
+03-29-2020,"Korea, South",_,Deaths,8.0
+03-29-2020,"Korea, South",_,Recovered,222.0
+03-29-2020,Kosovo,_,Confirmed,3.0
+03-29-2020,Kuwait,_,Confirmed,20.0
+03-29-2020,Kuwait,_,Recovered,3.0
+03-29-2020,Kyrgyzstan,_,Confirmed,26.0
+03-29-2020,Latvia,_,Confirmed,42.0
+03-29-2020,Lebanon,_,Confirmed,26.0
+03-29-2020,Lebanon,_,Deaths,2.0
+03-29-2020,Libya,_,Confirmed,5.0
+03-29-2020,Lithuania,_,Confirmed,66.0
+03-29-2020,Luxembourg,_,Confirmed,119.0
+03-29-2020,Luxembourg,_,Deaths,3.0
+03-29-2020,Madagascar,_,Confirmed,13.0
+03-29-2020,Malaysia,_,Confirmed,150.0
+03-29-2020,Malaysia,_,Deaths,8.0
+03-29-2020,Malaysia,_,Recovered,68.0
+03-29-2020,Maldives,_,Confirmed,1.0
+03-29-2020,Maldives,_,Recovered,4.0
+03-29-2020,Mali,_,Deaths,1.0
+03-29-2020,Malta,_,Confirmed,2.0
+03-29-2020,Mauritania,_,Recovered,2.0
+03-29-2020,Mauritius,_,Confirmed,5.0
+03-29-2020,Mauritius,_,Deaths,1.0
+03-29-2020,Mexico,_,Confirmed,131.0
+03-29-2020,Mexico,_,Deaths,4.0
+03-29-2020,Moldova,_,Confirmed,32.0
+03-29-2020,Monaco,_,Confirmed,4.0
+03-29-2020,Monaco,_,Deaths,1.0
+03-29-2020,Montenegro,_,Confirmed,1.0
+03-29-2020,Morocco,_,Confirmed,77.0
+03-29-2020,Morocco,_,Deaths,1.0
+03-29-2020,Morocco,_,Recovered,2.0
+03-29-2020,Namibia,_,Confirmed,3.0
+03-29-2020,Netherlands,_,Confirmed,1104.0
+03-29-2020,Netherlands,_,Deaths,132.0
+03-29-2020,Netherlands,_,Recovered,247.0
+03-29-2020,New Zealand,_,Confirmed,63.0
+03-29-2020,New Zealand,_,Deaths,1.0
+03-29-2020,New Zealand,_,Recovered,6.0
+03-29-2020,Niger,_,Confirmed,8.0
+03-29-2020,Nigeria,_,Confirmed,22.0
+03-29-2020,North Macedonia,_,Confirmed,18.0
+03-29-2020,North Macedonia,_,Deaths,2.0
+03-29-2020,Norway,_,Confirmed,269.0
+03-29-2020,Norway,_,Deaths,2.0
+03-29-2020,Oman,_,Confirmed,15.0
+03-29-2020,Pakistan,_,Confirmed,102.0
+03-29-2020,Pakistan,_,Deaths,2.0
+03-29-2020,Panama,_,Confirmed,115.0
+03-29-2020,Panama,_,Deaths,3.0
+03-29-2020,Panama,_,Recovered,2.0
+03-29-2020,Paraguay,_,Confirmed,3.0
+03-29-2020,Peru,_,Confirmed,181.0
+03-29-2020,Peru,_,Deaths,2.0
+03-29-2020,Philippines,_,Confirmed,343.0
+03-29-2020,Philippines,_,Deaths,3.0
+03-29-2020,Philippines,_,Recovered,7.0
+03-29-2020,Poland,_,Confirmed,224.0
+03-29-2020,Poland,_,Deaths,4.0
+03-29-2020,Portugal,_,Confirmed,792.0
+03-29-2020,Portugal,_,Deaths,19.0
+03-29-2020,Qatar,_,Confirmed,44.0
+03-29-2020,Qatar,_,Recovered,3.0
+03-29-2020,Romania,_,Confirmed,363.0
+03-29-2020,Romania,_,Deaths,6.0
+03-29-2020,Romania,_,Recovered,67.0
+03-29-2020,Russia,_,Confirmed,270.0
+03-29-2020,Russia,_,Deaths,4.0
+03-29-2020,Russia,_,Recovered,15.0
+03-29-2020,Rwanda,_,Confirmed,10.0
+03-29-2020,Saint Lucia,_,Confirmed,6.0
+03-29-2020,Saudi Arabia,_,Confirmed,96.0
+03-29-2020,Saudi Arabia,_,Deaths,4.0
+03-29-2020,Saudi Arabia,_,Recovered,29.0
+03-29-2020,Senegal,_,Confirmed,12.0
+03-29-2020,Senegal,_,Recovered,9.0
+03-29-2020,Serbia,_,Confirmed,82.0
+03-29-2020,Serbia,_,Deaths,3.0
+03-29-2020,Singapore,_,Confirmed,42.0
+03-29-2020,Singapore,_,Deaths,1.0
+03-29-2020,Singapore,_,Recovered,14.0
+03-29-2020,Slovakia,_,Confirmed,22.0
+03-29-2020,Slovenia,_,Confirmed,46.0
+03-29-2020,Slovenia,_,Deaths,2.0
+03-29-2020,South Africa,_,Confirmed,93.0
+03-29-2020,South Africa,_,Deaths,1.0
+03-29-2020,Spain,_,Confirmed,6875.0
+03-29-2020,Spain,_,Deaths,821.0
+03-29-2020,Spain,_,Recovered,2424.0
+03-29-2020,Sri Lanka,_,Confirmed,4.0
+03-29-2020,Sri Lanka,_,Recovered,2.0
+03-29-2020,Sudan,_,Confirmed,1.0
+03-29-2020,Sweden,_,Confirmed,253.0
+03-29-2020,Sweden,_,Deaths,5.0
+03-29-2020,Switzerland,_,Confirmed,753.0
+03-29-2020,Switzerland,_,Deaths,36.0
+03-29-2020,Switzerland,_,Recovered,65.0
+03-29-2020,Syria,_,Confirmed,4.0
+03-29-2020,Syria,_,Deaths,1.0
+03-29-2020,Taiwan*,_,Confirmed,15.0
+03-29-2020,Thailand,_,Confirmed,143.0
+03-29-2020,Thailand,_,Deaths,1.0
+03-29-2020,Trinidad and Tobago,_,Confirmed,4.0
+03-29-2020,Tunisia,_,Confirmed,34.0
+03-29-2020,Turkey,_,Confirmed,1815.0
+03-29-2020,Turkey,_,Deaths,23.0
+03-29-2020,Turkey,_,Recovered,35.0
+03-29-2020,Uganda,_,Confirmed,3.0
+03-29-2020,Ukraine,_,Confirmed,119.0
+03-29-2020,Ukraine,_,Deaths,1.0
+03-29-2020,Ukraine,_,Recovered,1.0
+03-29-2020,United Arab Emirates,_,Confirmed,102.0
+03-29-2020,United Arab Emirates,_,Deaths,1.0
+03-29-2020,United Arab Emirates,_,Recovered,6.0
+03-29-2020,United Kingdom,_,Confirmed,2433.0
+03-29-2020,United Kingdom,_,Deaths,209.0
+03-29-2020,Uruguay,_,Confirmed,30.0
+03-29-2020,Uruguay,_,Deaths,1.0
+03-29-2020,Uzbekistan,_,Confirmed,40.0
+03-29-2020,Uzbekistan,_,Recovered,2.0
+03-29-2020,Vietnam,_,Confirmed,14.0
+03-29-2020,Vietnam,_,Recovered,4.0
+03-29-2020,West Bank and Gaza,_,Confirmed,11.0
+03-29-2020,Zambia,_,Confirmed,1.0
+03-30-2020,United States of America,South Carolina,Confirmed,151.0
+03-30-2020,United States of America,South Carolina,Deaths,2.0
+03-30-2020,United States of America,Louisiana,Confirmed,485.0
+03-30-2020,United States of America,Louisiana,Deaths,34.0
+03-30-2020,United States of America,Virginia,Confirmed,130.0
+03-30-2020,United States of America,Idaho,Confirmed,59.0
+03-30-2020,United States of America,Idaho,Deaths,1.0
+03-30-2020,United States of America,Iowa,Confirmed,88.0
+03-30-2020,United States of America,Iowa,Deaths,2.0
+03-30-2020,United States of America,Kentucky,Confirmed,41.0
+03-30-2020,United States of America,Kentucky,Deaths,2.0
+03-30-2020,United States of America,Missouri,Confirmed,136.0
+03-30-2020,United States of America,Oklahoma,Confirmed,52.0
+03-30-2020,United States of America,Colorado,Confirmed,4.0
+03-30-2020,United States of America,Illinois,Confirmed,460.0
+03-30-2020,United States of America,Illinois,Deaths,7.0
+03-30-2020,United States of America,Indiana,Confirmed,273.0
+03-30-2020,United States of America,Indiana,Deaths,3.0
+03-30-2020,United States of America,Mississippi,Confirmed,88.0
+03-30-2020,United States of America,Mississippi,Deaths,2.0
+03-30-2020,United States of America,Nebraska,Confirmed,37.0
+03-30-2020,United States of America,North Dakota,Confirmed,11.0
+03-30-2020,United States of America,North Dakota,Deaths,1.0
+03-30-2020,United States of America,Ohio,Confirmed,280.0
+03-30-2020,United States of America,Ohio,Deaths,11.0
+03-30-2020,United States of America,Pennsylvania,Confirmed,723.0
+03-30-2020,United States of America,Pennsylvania,Deaths,9.0
+03-30-2020,United States of America,Washington,Confirmed,458.0
+03-30-2020,United States of America,Washington,Deaths,7.0
+03-30-2020,United States of America,Wisconsin,Confirmed,66.0
+03-30-2020,United States of America,Wisconsin,Deaths,2.0
+03-30-2020,United States of America,Vermont,Confirmed,21.0
+03-30-2020,United States of America,Minnesota,Confirmed,73.0
+03-30-2020,United States of America,Minnesota,Deaths,1.0
+03-30-2020,United States of America,Florida,Confirmed,1227.0
+03-30-2020,United States of America,Florida,Deaths,7.0
+03-30-2020,United States of America,North Carolina,Confirmed,122.0
+03-30-2020,United States of America,California,Confirmed,1286.0
+03-30-2020,United States of America,California,Deaths,22.0
+03-30-2020,United States of America,New York,Confirmed,7015.0
+03-30-2020,United States of America,New York,Deaths,253.0
+03-30-2020,United States of America,Wyoming,Confirmed,8.0
+03-30-2020,United States of America,Michigan,Confirmed,1010.0
+03-30-2020,United States of America,Michigan,Deaths,52.0
+03-30-2020,United States of America,Alaska,Confirmed,12.0
+03-30-2020,United States of America,Alaska,Deaths,1.0
+03-30-2020,United States of America,Maryland,Confirmed,174.0
+03-30-2020,United States of America,Maryland,Deaths,5.0
+03-30-2020,United States of America,Kansas,Confirmed,42.0
+03-30-2020,United States of America,Kansas,Deaths,1.0
+03-30-2020,United States of America,Tennessee,Confirmed,197.0
+03-30-2020,United States of America,Tennessee,Deaths,6.0
+03-30-2020,United States of America,Texas,Confirmed,355.0
+03-30-2020,United States of America,Texas,Deaths,8.0
+03-30-2020,United States of America,Maine,Confirmed,22.0
+03-30-2020,United States of America,Arizona,Confirmed,238.0
+03-30-2020,United States of America,Arizona,Deaths,3.0
+03-30-2020,United States of America,Georgia,Confirmed,157.0
+03-30-2020,United States of America,Georgia,Deaths,7.0
+03-30-2020,United States of America,Arkansas,Confirmed,47.0
+03-30-2020,United States of America,Arkansas,Deaths,1.0
+03-30-2020,United States of America,New Jersey,Confirmed,3250.0
+03-30-2020,United States of America,New Jersey,Deaths,37.0
+03-30-2020,United States of America,South Dakota,Confirmed,11.0
+03-30-2020,United States of America,Alabama,Confirmed,74.0
+03-30-2020,United States of America,Oregon,Confirmed,58.0
+03-30-2020,United States of America,Oregon,Deaths,3.0
+03-30-2020,United States of America,West Virginia,Confirmed,32.0
+03-30-2020,United States of America,West Virginia,Deaths,1.0
+03-30-2020,United States of America,Massachusetts,Confirmed,797.0
+03-30-2020,United States of America,Massachusetts,Deaths,8.0
+03-30-2020,United States of America,Utah,Confirmed,84.0
+03-30-2020,United States of America,Utah,Deaths,2.0
+03-30-2020,United States of America,Montana,Confirmed,17.0
+03-30-2020,United States of America,Montana,Deaths,4.0
+03-30-2020,United States of America,New Hampshire,Confirmed,100.0
+03-30-2020,United States of America,New Hampshire,Deaths,1.0
+03-30-2020,United States of America,Rhode Island,Confirmed,114.0
+03-30-2020,United States of America,Rhode Island,Deaths,1.0
+03-30-2020,United States of America,Nevada,Confirmed,92.0
+03-30-2020,United States of America,District of Columbia,Confirmed,59.0
+03-30-2020,United States of America,District of Columbia,Deaths,4.0
+03-30-2020,United States of America,Connecticut,Confirmed,578.0
+03-30-2020,United States of America,Connecticut,Deaths,2.0
+03-30-2020,United States of America,Hawaii,Confirmed,26.0
+03-30-2020,United States of America,Delaware,Confirmed,32.0
+03-30-2020,Canada,Alberta,Confirmed,40.0
+03-30-2020,Canada,Alberta,Deaths,1.0
+03-30-2020,Australia,Australian Capital Territory,Confirmed,1.0
+03-30-2020,Australia,Australian Capital Territory,Deaths,1.0
+03-30-2020,China,Beijing,Recovered,3.0
+03-30-2020,United Kingdom,Bermuda,Confirmed,5.0
+03-30-2020,Canada,British Columbia,Confirmed,86.0
+03-30-2020,Canada,British Columbia,Deaths,2.0
+03-30-2020,United Kingdom,Cayman Islands,Confirmed,4.0
+03-30-2020,United Kingdom,Channel Islands,Confirmed,33.0
+03-30-2020,Netherlands,Curacao,Confirmed,3.0
+03-30-2020,Denmark,Faroe Islands,Confirmed,9.0
+03-30-2020,France,French Guiana,Confirmed,15.0
+03-30-2020,France,French Polynesia,Confirmed,6.0
+03-30-2020,China,Fujian,Confirmed,2.0
+03-30-2020,United Kingdom,Gibraltar,Confirmed,4.0
+03-30-2020,United Kingdom,Gibraltar,Recovered,20.0
+03-30-2020,United States of America,Guam,Confirmed,2.0
+03-30-2020,China,Guangdong,Confirmed,9.0
+03-30-2020,China,Guangdong,Recovered,2.0
+03-30-2020,China,Hebei,Confirmed,2.0
+03-30-2020,China,Hong Kong,Confirmed,41.0
+03-30-2020,China,Hong Kong,Recovered,11.0
+03-30-2020,China,Hubei,Deaths,4.0
+03-30-2020,China,Hubei,Recovered,319.0
+03-30-2020,China,Inner Mongolia,Confirmed,2.0
+03-30-2020,United Kingdom,Isle of Man,Confirmed,7.0
+03-30-2020,China,Jiangsu,Confirmed,1.0
+03-30-2020,China,Jiangxi,Recovered,1.0
+03-30-2020,China,Liaoning,Confirmed,2.0
+03-30-2020,China,Macau,Confirmed,1.0
+03-30-2020,Canada,Manitoba,Confirmed,24.0
+03-30-2020,France,Mayotte,Confirmed,19.0
+03-30-2020,France,Mayotte,Recovered,10.0
+03-30-2020,Canada,New Brunswick,Confirmed,2.0
+03-30-2020,Australia,New South Wales,Confirmed,241.0
+03-30-2020,Canada,Newfoundland and Labrador,Confirmed,13.0
+03-30-2020,Canada,Newfoundland and Labrador,Deaths,1.0
+03-30-2020,Canada,Nova Scotia,Confirmed,5.0
+03-30-2020,Canada,Ontario,Confirmed,351.0
+03-30-2020,Canada,Ontario,Deaths,10.0
+03-30-2020,Canada,Prince Edward Island,Confirmed,7.0
+03-30-2020,United States of America,Puerto Rico,Confirmed,47.0
+03-30-2020,United States of America,Puerto Rico,Deaths,3.0
+03-30-2020,Canada,Quebec,Confirmed,590.0
+03-30-2020,Australia,Queensland,Confirmed,33.0
+03-30-2020,United States of America,Recovered,Recovered,2979.0
+03-30-2020,France,Reunion,Confirmed,41.0
+03-30-2020,France,Saint Barthelemy,Confirmed,1.0
+03-30-2020,France,Saint Barthelemy,Recovered,1.0
+03-30-2020,Canada,Saskatchewan,Deaths,2.0
+03-30-2020,China,Shandong,Confirmed,1.0
+03-30-2020,China,Shandong,Recovered,1.0
+03-30-2020,China,Shanghai,Confirmed,6.0
+03-30-2020,China,Shanghai,Recovered,4.0
+03-30-2020,Australia,South Australia,Confirmed,6.0
+03-30-2020,France,St Martin,Confirmed,4.0
+03-30-2020,France,St Martin,Deaths,1.0
+03-30-2020,France,St Martin,Recovered,2.0
+03-30-2020,China,Tianjin,Confirmed,8.0
+03-30-2020,United Kingdom,Turks and Caicos Islands,Confirmed,1.0
+03-30-2020,Australia,Victoria,Confirmed,52.0
+03-30-2020,Australia,Western Australia,Confirmed,44.0
+03-30-2020,Australia,Western Australia,Recovered,13.0
+03-30-2020,China,Zhejiang,Confirmed,1.0
+03-30-2020,Afghanistan,_,Confirmed,50.0
+03-30-2020,Albania,_,Confirmed,11.0
+03-30-2020,Albania,_,Deaths,1.0
+03-30-2020,Albania,_,Recovered,11.0
+03-30-2020,Algeria,_,Confirmed,73.0
+03-30-2020,Algeria,_,Deaths,4.0
+03-30-2020,Algeria,_,Recovered,6.0
+03-30-2020,Andorra,_,Confirmed,36.0
+03-30-2020,Andorra,_,Deaths,2.0
+03-30-2020,Andorra,_,Recovered,9.0
+03-30-2020,Argentina,_,Confirmed,75.0
+03-30-2020,Argentina,_,Deaths,4.0
+03-30-2020,Argentina,_,Recovered,156.0
+03-30-2020,Armenia,_,Confirmed,58.0
+03-30-2020,Austria,_,Confirmed,830.0
+03-30-2020,Austria,_,Deaths,22.0
+03-30-2020,Austria,_,Recovered,157.0
+03-30-2020,Azerbaijan,_,Confirmed,64.0
+03-30-2020,Azerbaijan,_,Recovered,11.0
+03-30-2020,Bahamas,_,Confirmed,3.0
+03-30-2020,Bahrain,_,Confirmed,16.0
+03-30-2020,Bahrain,_,Recovered,7.0
+03-30-2020,Bangladesh,_,Confirmed,1.0
+03-30-2020,Bangladesh,_,Recovered,4.0
+03-30-2020,Belarus,_,Confirmed,58.0
+03-30-2020,Belgium,_,Confirmed,1063.0
+03-30-2020,Belgium,_,Deaths,82.0
+03-30-2020,Belgium,_,Recovered,168.0
+03-30-2020,Belize,_,Confirmed,1.0
+03-30-2020,Bolivia,_,Confirmed,16.0
+03-30-2020,Bolivia,_,Deaths,3.0
+03-30-2020,Bosnia and Herzegovina,_,Confirmed,45.0
+03-30-2020,Bosnia and Herzegovina,_,Deaths,4.0
+03-30-2020,Bosnia and Herzegovina,_,Recovered,9.0
+03-30-2020,Botswana,_,Confirmed,3.0
+03-30-2020,Brazil,_,Confirmed,323.0
+03-30-2020,Brazil,_,Deaths,23.0
+03-30-2020,Brazil,_,Recovered,114.0
+03-30-2020,Brunei,_,Confirmed,1.0
+03-30-2020,Brunei,_,Recovered,4.0
+03-30-2020,Bulgaria,_,Confirmed,13.0
+03-30-2020,Bulgaria,_,Recovered,3.0
+03-30-2020,Burkina Faso,_,Confirmed,24.0
+03-30-2020,Burkina Faso,_,Recovered,8.0
+03-30-2020,Burma,_,Confirmed,4.0
+03-30-2020,Cambodia,_,Confirmed,4.0
+03-30-2020,Chad,_,Confirmed,2.0
+03-30-2020,Chile,_,Confirmed,310.0
+03-30-2020,Chile,_,Deaths,1.0
+03-30-2020,Chile,_,Recovered,81.0
+03-30-2020,Colombia,_,Confirmed,96.0
+03-30-2020,Colombia,_,Deaths,2.0
+03-30-2020,Colombia,_,Recovered,5.0
+03-30-2020,Congo (Kinshasa),_,Confirmed,16.0
+03-30-2020,Congo (Kinshasa),_,Deaths,2.0
+03-30-2020,Costa Rica,_,Confirmed,16.0
+03-30-2020,Costa Rica,_,Recovered,1.0
+03-30-2020,Cote d'Ivoire,_,Confirmed,3.0
+03-30-2020,Cote d'Ivoire,_,Recovered,2.0
+03-30-2020,Croatia,_,Confirmed,77.0
+03-30-2020,Croatia,_,Recovered,15.0
+03-30-2020,Cuba,_,Confirmed,31.0
+03-30-2020,Cuba,_,Deaths,1.0
+03-30-2020,Cyprus,_,Confirmed,16.0
+03-30-2020,Cyprus,_,Deaths,2.0
+03-30-2020,Cyprus,_,Recovered,7.0
+03-30-2020,Czechia,_,Confirmed,184.0
+03-30-2020,Czechia,_,Deaths,7.0
+03-30-2020,Czechia,_,Recovered,14.0
+03-30-2020,Denmark,_,Confirmed,182.0
+03-30-2020,Denmark,_,Deaths,5.0
+03-30-2020,Dominican Republic,_,Confirmed,42.0
+03-30-2020,Dominican Republic,_,Deaths,3.0
+03-30-2020,Dominican Republic,_,Recovered,1.0
+03-30-2020,Ecuador,_,Confirmed,38.0
+03-30-2020,Ecuador,_,Deaths,2.0
+03-30-2020,Egypt,_,Confirmed,47.0
+03-30-2020,Egypt,_,Deaths,1.0
+03-30-2020,Egypt,_,Recovered,18.0
+03-30-2020,El Salvador,_,Confirmed,6.0
+03-30-2020,Estonia,_,Confirmed,36.0
+03-30-2020,Ethiopia,_,Confirmed,2.0
+03-30-2020,Ethiopia,_,Recovered,3.0
+03-30-2020,Finland,_,Confirmed,112.0
+03-30-2020,Finland,_,Deaths,2.0
+03-30-2020,France,_,Confirmed,4376.0
+03-30-2020,France,_,Deaths,418.0
+03-30-2020,France,_,Recovered,725.0
+03-30-2020,Georgia,_,Confirmed,12.0
+03-30-2020,Georgia,_,Recovered,2.0
+03-30-2020,Germany,_,Confirmed,4790.0
+03-30-2020,Germany,_,Deaths,112.0
+03-30-2020,Germany,_,Recovered,4289.0
+03-30-2020,Greece,_,Confirmed,56.0
+03-30-2020,Greece,_,Deaths,5.0
+03-30-2020,Guatemala,_,Confirmed,2.0
+03-30-2020,Guinea,_,Confirmed,6.0
+03-30-2020,Guinea-Bissau,_,Confirmed,6.0
+03-30-2020,Honduras,_,Confirmed,29.0
+03-30-2020,Honduras,_,Deaths,4.0
+03-30-2020,Hungary,_,Confirmed,39.0
+03-30-2020,Hungary,_,Deaths,2.0
+03-30-2020,Iceland,_,Confirmed,66.0
+03-30-2020,Iceland,_,Recovered,22.0
+03-30-2020,India,_,Confirmed,227.0
+03-30-2020,India,_,Deaths,5.0
+03-30-2020,India,_,Recovered,7.0
+03-30-2020,Indonesia,_,Confirmed,129.0
+03-30-2020,Indonesia,_,Deaths,8.0
+03-30-2020,Indonesia,_,Recovered,11.0
+03-30-2020,Iran,_,Confirmed,3186.0
+03-30-2020,Iran,_,Deaths,117.0
+03-30-2020,Iran,_,Recovered,1520.0
+03-30-2020,Iraq,_,Confirmed,83.0
+03-30-2020,Iraq,_,Deaths,4.0
+03-30-2020,Iraq,_,Recovered,9.0
+03-30-2020,Ireland,_,Confirmed,295.0
+03-30-2020,Ireland,_,Deaths,8.0
+03-30-2020,Israel,_,Confirmed,448.0
+03-30-2020,Israel,_,Deaths,1.0
+03-30-2020,Israel,_,Recovered,29.0
+03-30-2020,Italy,_,Confirmed,4050.0
+03-30-2020,Italy,_,Deaths,812.0
+03-30-2020,Italy,_,Recovered,1590.0
+03-30-2020,Jamaica,_,Confirmed,4.0
+03-30-2020,Jordan,_,Confirmed,9.0
+03-30-2020,Jordan,_,Deaths,2.0
+03-30-2020,Jordan,_,Recovered,8.0
+03-30-2020,Kazakhstan,_,Confirmed,18.0
+03-30-2020,Kazakhstan,_,Recovered,1.0
+03-30-2020,Kenya,_,Confirmed,8.0
+03-30-2020,"Korea, South",_,Confirmed,78.0
+03-30-2020,"Korea, South",_,Deaths,6.0
+03-30-2020,"Korea, South",_,Recovered,195.0
+03-30-2020,Kuwait,_,Confirmed,11.0
+03-30-2020,Kuwait,_,Recovered,5.0
+03-30-2020,Kyrgyzstan,_,Confirmed,10.0
+03-30-2020,Kyrgyzstan,_,Recovered,3.0
+03-30-2020,Latvia,_,Confirmed,29.0
+03-30-2020,Lebanon,_,Confirmed,8.0
+03-30-2020,Lebanon,_,Deaths,1.0
+03-30-2020,Lebanon,_,Recovered,5.0
+03-30-2020,Liechtenstein,_,Confirmed,6.0
+03-30-2020,Lithuania,_,Confirmed,31.0
+03-30-2020,Lithuania,_,Recovered,6.0
+03-30-2020,Luxembourg,_,Confirmed,38.0
+03-30-2020,Luxembourg,_,Deaths,1.0
+03-30-2020,Madagascar,_,Confirmed,4.0
+03-30-2020,Malaysia,_,Confirmed,156.0
+03-30-2020,Malaysia,_,Deaths,2.0
+03-30-2020,Malaysia,_,Recovered,91.0
+03-30-2020,Mali,_,Confirmed,7.0
+03-30-2020,Mali,_,Deaths,1.0
+03-30-2020,Malta,_,Confirmed,5.0
+03-30-2020,Mauritania,_,Deaths,1.0
+03-30-2020,Mauritius,_,Confirmed,21.0
+03-30-2020,Mexico,_,Confirmed,145.0
+03-30-2020,Mexico,_,Deaths,4.0
+03-30-2020,Mexico,_,Recovered,31.0
+03-30-2020,Moldova,_,Confirmed,35.0
+03-30-2020,Moldova,_,Recovered,13.0
+03-30-2020,Monaco,_,Confirmed,3.0
+03-30-2020,Mongolia,_,Recovered,2.0
+03-30-2020,Montenegro,_,Confirmed,6.0
+03-30-2020,Morocco,_,Confirmed,77.0
+03-30-2020,Morocco,_,Deaths,7.0
+03-30-2020,Morocco,_,Recovered,2.0
+03-30-2020,Netherlands,_,Confirmed,884.0
+03-30-2020,Netherlands,_,Deaths,93.0
+03-30-2020,New Zealand,_,Confirmed,75.0
+03-30-2020,New Zealand,_,Recovered,7.0
+03-30-2020,Niger,_,Confirmed,9.0
+03-30-2020,Niger,_,Deaths,2.0
+03-30-2020,Nigeria,_,Confirmed,20.0
+03-30-2020,Nigeria,_,Deaths,1.0
+03-30-2020,Nigeria,_,Recovered,5.0
+03-30-2020,North Macedonia,_,Confirmed,26.0
+03-30-2020,North Macedonia,_,Deaths,1.0
+03-30-2020,North Macedonia,_,Recovered,9.0
+03-30-2020,Norway,_,Confirmed,161.0
+03-30-2020,Norway,_,Deaths,7.0
+03-30-2020,Norway,_,Recovered,5.0
+03-30-2020,Oman,_,Confirmed,12.0
+03-30-2020,Oman,_,Recovered,6.0
+03-30-2020,Pakistan,_,Confirmed,120.0
+03-30-2020,Pakistan,_,Deaths,7.0
+03-30-2020,Pakistan,_,Recovered,47.0
+03-30-2020,Panama,_,Confirmed,88.0
+03-30-2020,Panama,_,Deaths,7.0
+03-30-2020,Paraguay,_,Confirmed,5.0
+03-30-2020,Peru,_,Confirmed,98.0
+03-30-2020,Peru,_,Deaths,6.0
+03-30-2020,Peru,_,Recovered,37.0
+03-30-2020,Philippines,_,Confirmed,128.0
+03-30-2020,Philippines,_,Deaths,7.0
+03-30-2020,Poland,_,Confirmed,193.0
+03-30-2020,Poland,_,Deaths,9.0
+03-30-2020,Portugal,_,Confirmed,446.0
+03-30-2020,Portugal,_,Deaths,21.0
+03-30-2020,Qatar,_,Confirmed,59.0
+03-30-2020,Qatar,_,Recovered,3.0
+03-30-2020,Romania,_,Confirmed,294.0
+03-30-2020,Romania,_,Deaths,22.0
+03-30-2020,Romania,_,Recovered,3.0
+03-30-2020,Russia,_,Confirmed,302.0
+03-30-2020,Russia,_,Deaths,1.0
+03-30-2020,Russia,_,Recovered,2.0
+03-30-2020,Saint Kitts and Nevis,_,Confirmed,5.0
+03-30-2020,San Marino,_,Confirmed,6.0
+03-30-2020,San Marino,_,Deaths,3.0
+03-30-2020,San Marino,_,Recovered,7.0
+03-30-2020,Saudi Arabia,_,Confirmed,154.0
+03-30-2020,Saudi Arabia,_,Recovered,49.0
+03-30-2020,Senegal,_,Confirmed,20.0
+03-30-2020,Serbia,_,Confirmed,44.0
+03-30-2020,Serbia,_,Deaths,3.0
+03-30-2020,Singapore,_,Confirmed,35.0
+03-30-2020,Singapore,_,Recovered,16.0
+03-30-2020,Slovakia,_,Confirmed,22.0
+03-30-2020,Slovakia,_,Recovered,5.0
+03-30-2020,Slovenia,_,Confirmed,26.0
+03-30-2020,South Africa,_,Confirmed,46.0
+03-30-2020,South Africa,_,Deaths,1.0
+03-30-2020,Spain,_,Confirmed,7846.0
+03-30-2020,Spain,_,Deaths,913.0
+03-30-2020,Spain,_,Recovered,2071.0
+03-30-2020,Sri Lanka,_,Confirmed,5.0
+03-30-2020,Sri Lanka,_,Deaths,1.0
+03-30-2020,Sri Lanka,_,Recovered,4.0
+03-30-2020,Sudan,_,Deaths,1.0
+03-30-2020,Sweden,_,Confirmed,328.0
+03-30-2020,Sweden,_,Deaths,36.0
+03-30-2020,Switzerland,_,Confirmed,1093.0
+03-30-2020,Switzerland,_,Deaths,59.0
+03-30-2020,Switzerland,_,Recovered,228.0
+03-30-2020,Syria,_,Confirmed,1.0
+03-30-2020,Syria,_,Deaths,1.0
+03-30-2020,Taiwan*,_,Confirmed,8.0
+03-30-2020,Taiwan*,_,Deaths,3.0
+03-30-2020,Taiwan*,_,Recovered,9.0
+03-30-2020,Tanzania,_,Confirmed,5.0
+03-30-2020,Thailand,_,Confirmed,136.0
+03-30-2020,Thailand,_,Deaths,2.0
+03-30-2020,Thailand,_,Recovered,132.0
+03-30-2020,Togo,_,Confirmed,5.0
+03-30-2020,Trinidad and Tobago,_,Confirmed,4.0
+03-30-2020,Tunisia,_,Recovered,1.0
+03-30-2020,Turkey,_,Confirmed,1610.0
+03-30-2020,Turkey,_,Deaths,37.0
+03-30-2020,Turkey,_,Recovered,57.0
+03-30-2020,Ukraine,_,Confirmed,73.0
+03-30-2020,Ukraine,_,Deaths,3.0
+03-30-2020,Ukraine,_,Recovered,2.0
+03-30-2020,United Arab Emirates,_,Confirmed,41.0
+03-30-2020,United Arab Emirates,_,Deaths,2.0
+03-30-2020,United Arab Emirates,_,Recovered,3.0
+03-30-2020,United Kingdom,_,Confirmed,2619.0
+03-30-2020,United Kingdom,_,Deaths,180.0
+03-30-2020,Uruguay,_,Confirmed,6.0
+03-30-2020,Uzbekistan,_,Confirmed,5.0
+03-30-2020,Venezuela,_,Confirmed,16.0
+03-30-2020,Venezuela,_,Deaths,1.0
+03-30-2020,Vietnam,_,Confirmed,15.0
+03-30-2020,Vietnam,_,Recovered,30.0
+03-30-2020,West Bank and Gaza,_,Confirmed,7.0
+03-30-2020,Zambia,_,Confirmed,6.0

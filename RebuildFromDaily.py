@@ -76,7 +76,14 @@ while True:
 
     # process and rollup the rows
     for _, row in csv.iterrows():
-        state_maybe_with_city = value_or_default(row, 'Province/State', '_').split(',')
+        if cur_date >= datetime.date(2020, 3, 22):
+            province_state_key = 'Province_State'
+            country_key = 'Country_Region'
+        else:
+            province_state_key = 'Province/State'
+            country_key = 'Country/Region'
+
+        state_maybe_with_city = value_or_default(row, province_state_key, '_').split(',')
 
         # parse out the city
         state = ''
@@ -88,7 +95,7 @@ while True:
             state = state_maybe_with_city[0]
 
         # normalize values across daily updates and for mapping
-        [country, state] = normalize_country_and_state(row['Country/Region'], state)
+        [country, state] = normalize_country_and_state(row[country_key], state)
 
         # rollup to state
         row_metrics = dict()
